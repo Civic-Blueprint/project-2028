@@ -17,19 +17,21 @@ A healthy society recognizes dignity as inherent, not earned through economic ou
 
 ---
 
-## 2. Essential needs should not be hostage to artificial scarcity
+## 2. Essential needs should not be held hostage to avoidable scarcity
 
-Housing, healthcare, education, energy, and other essentials should not be needlessly constrained by systems that reward extraction over access.
+Housing, healthcare, education, energy, and other essentials should not be made needlessly difficult to access in a society with the capacity to provide them.
 
-A society with the capacity to provide should not be organized around avoidable deprivation.
+When basic stability becomes persistently unattainable, it is often a sign of system design failure, not inevitability.
 
 ---
 
-## 3. AI must expand human agency, not replace democratic control
+## 3. AI must augment human agency, not replace democratic control
 
 Artificial intelligence should help people think, build, coordinate, and solve problems.
 
-It must not become a mechanism for concentrating power, obscuring accountability, or displacing human judgment from decisions that require legitimacy and moral responsibility.
+It must not become a substitute for human judgment in domains that require legitimacy, accountability, or moral responsibility.
+
+A society that outsources too much decision-making risks becoming more efficient while less free.
 
 ---
 
@@ -41,11 +43,11 @@ Power should not be hidden inside bureaucracy, technical systems, or private int
 
 ---
 
-## 5. Civilization-scale systems require public-interest governance
+## 5. Critical systems require public-interest governance
 
-The systems that shape daily life — including infrastructure, health, information, computation, and institutional coordination — are too important to be governed solely by short-term profit or private dominance.
+The systems that shape daily life — including infrastructure, health, information, and computation — are too important to be governed solely by short-term incentives or narrow interests.
 
-The larger the system, the greater the obligation to govern it in the public interest.
+The larger and more foundational the system, the greater the responsibility to ensure it operates in the public interest.
 
 ---
 
@@ -57,37 +59,37 @@ A more advanced society should leave fewer people behind, not more.
 
 ---
 
-## 7. Freedom requires both liberty and material security
+## 7. Freedom requires both liberty and material stability
 
-Formal rights matter, but they are not enough on their own.
+Formal rights matter, but they are not sufficient on their own.
 
-People are not meaningfully free when survival is precarious, institutions are inaccessible, and basic stability is constantly under threat.
+People are not meaningfully free when their lives are defined by constant instability, inaccessible systems, or avoidable uncertainty.
 
-A free society should make it easier for people to breathe, build, and participate.
+A free society should make it easier for people to participate, build, and plan for the future.
 
 ---
 
-## 8. No class of people should become permanently disposable
+## 8. No class of people should become structurally excluded
 
-A society should not be organized in a way that leaves large numbers of people structurally unnecessary, excluded, or abandoned.
+A society should not evolve in a way that leaves large numbers of people permanently disconnected from opportunity, contribution, or relevance.
 
 Every person should have a place in the future.
 
 ---
 
-## 9. Institutions should be designed for competence, not theater
+## 9. Institutions should be designed for competence and trust, not theater
 
-Public trust is not restored through slogans, spectacle, or symbolic politics.
+Public trust is built when institutions are capable, responsive, and honest about tradeoffs.
 
-It is restored when institutions are capable, responsive, honest about tradeoffs, and visibly useful in people's lives.
+It is sustained when systems deliver real value in people's lives, not just symbolic reassurance.
 
 ---
 
-## 10. The future should be built in public
+## 10. The future should be built in the open
 
-The design of the future should not be left to closed networks of political operatives, private monopolies, or unaccountable elites.
+The design of the future should not be left to closed networks of political, corporate, or technical elites.
 
-A better society must be designed transparently, argued openly, and built with public participation.
+Important systems should be developed transparently, debated openly, and shaped by public participation.
 
 ---
 
@@ -95,4 +97,4 @@ A better society must be designed transparently, argued openly, and built with p
 
 Civic Blueprint is not built on the assumption that perfection is possible.
 
-It is built on the belief that better systems are possible — and that building them is a moral and civic responsibility.
+It is built on the belief that better systems are possible — and that building them is a shared civic responsibility.
