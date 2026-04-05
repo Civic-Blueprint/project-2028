@@ -57,7 +57,7 @@ Key systems — including energy, transportation, water, and digital infrastruct
 
 Modern societies are heavily shaped by how money is created, where credit flows, and who has access to capital. Yet these systems are often treated as neutral background infrastructure rather than as one of the deepest steering mechanisms in public life.
 
-**Root causes:** Money creation through bank lending is governed by incentives that favor asset inflation, incumbency, and short-term returns over long-term public benefit. Central bank independence, while valuable for monetary stability, insulates consequential distributional decisions from democratic accountability. Financial regulation is subject to persistent capture by the industry it regulates.
+**Root causes:** Money creation through bank lending is governed by incentives that favor asset inflation, incumbency, and short-term returns over long-term public benefit. Central bank independence, while valuable for monetary stability, insulates consequential distributional decisions from democratic accountability. Financial regulation is subject to persistent capture by the industry it regulates — through lobbying, revolving-door hiring, and in some cases outright corruption in enforcement and oversight.
 
 **Why it persists:** Financial literacy is low, the system is genuinely complex, and incumbent financial institutions invest heavily in preserving the architecture from which they profit. The pattern repeats: when financial systems fail, losses are socialized; when they succeed, gains are captured privately.
 
@@ -85,7 +85,7 @@ Public understanding is shaped by systems that reward engagement over accuracy, 
 
 Too many public systems are slow, difficult to navigate, difficult to trust, and too weak to execute at the level modern societies require.
 
-**Root causes:** Outdated processes layered on legacy systems. Procurement designed for compliance rather than competence. Political dysfunction and fragmented authority. Compensation gaps that drive talent into the private sector. Deliberate strategies of institutional sabotage — defunding public systems to manufacture the failure that justifies privatization.
+**Root causes:** Outdated processes layered on legacy systems. Procurement designed for compliance rather than competence — and vulnerable to corruption, favoritism, and insider dealing where oversight is weak. Political dysfunction and fragmented authority. Compensation gaps that drive talent into the private sector. Deliberate strategies of institutional sabotage — defunding public systems to manufacture the failure that justifies privatization. In many contexts, corruption degrades institutions from within: public roles are treated as extraction points rather than service positions, and the systems nominally designed to prevent this often lack the independence or capacity to do so.
 
 **Why it persists:** The people who design and govern public systems increasingly do not depend on those systems themselves. This breaks the feedback loop between performance and accountability. Incumbent contractors and consultants profit from complexity. Reform threatens both bureaucratic inertia and political arrangements.
 
@@ -147,7 +147,7 @@ Education and credentialing systems are increasingly disconnected from how peopl
 
 Modern food systems depend on complex supply chains, concentrated production, and logistical coordination that can be disrupted by environmental shocks, geopolitical instability, and market concentration.
 
-**Root causes:** Optimization for short-term cost efficiency at the expense of resilience. Concentration of processing and distribution in a small number of companies. Dependence on synthetic fertilizers, monoculture agriculture, and just-in-time logistics. Agricultural policy captured by incumbent interests that direct subsidies toward production models reinforcing fragility.
+**Root causes:** Optimization for short-term cost efficiency at the expense of resilience. Concentration of processing and distribution in a small number of companies. Dependence on synthetic fertilizers, monoculture agriculture, and just-in-time logistics. Agricultural policy captured by incumbent interests that direct subsidies toward production models reinforcing fragility — a form of institutional corruption in which the legislative process itself has been bent to serve the industries it is supposed to regulate.
 
 **Why it persists:** The system produces genuine abundance under normal conditions, which makes fragility invisible until a shock occurs. There is no political constituency for resilience spending until after a crisis. Food security is not a solved problem globally — hundreds of millions of people are food insecure now — but in wealthy nations, the appearance of stability masks underlying vulnerability.
 
@@ -223,7 +223,7 @@ These are not problems to be solved once — they are the conditions that determ
 
 Across public, private, and civic life, trust in institutions has eroded — and the erosion is often rational.
 
-**Root causes:** A persistent gap between what institutions claim to do and what people actually experience. Repeated visible failures without meaningful correction. Elite exit from public systems (private schools, private healthcare, gated communities) that breaks the feedback loop between those who govern and those who are governed. The deliberate manufacture of distrust as a political strategy.
+**Root causes:** A persistent gap between what institutions claim to do and what people actually experience. Repeated visible failures without meaningful correction. Corruption — both illegal and legalized — that diverts public systems toward private benefit, giving people rational grounds for concluding that the system is not working for them. Elite exit from public systems (private schools, private healthcare, gated communities) that breaks the feedback loop between those who govern and those who are governed. The deliberate manufacture of distrust as a political strategy.
 
 **Why it persists:** Distrust is both a symptom and a tool. Some actors experience it honestly; others manufacture it deliberately. Transparency initiatives have made failure more visible without making systems more competent. Trust is restored only by sustained, visible performance — not by any communication strategy — and few institutions are structured to deliver that.
 
@@ -264,6 +264,23 @@ In both public and private domains, decision-making authority is concentrated wi
 
 ### Self-reinforcing loops
 Many of these dynamics compound over time. Wealth concentration funds political influence that preserves wealth concentration. Institutional distrust reduces public investment that reduces institutional performance that deepens distrust. These feedback loops are a central challenge of this project, because they mean that problems do not stabilize — they accelerate.
+
+### Corruption, capture, and private extraction
+Across every layer of this map, public-purpose systems are diverted toward private advantage. This is corruption — not only in the narrow sense of bribery and embezzlement, but in the broader and often more consequential sense of systematic extraction operating within legal boundaries.
+
+Corruption takes several forms, and the most damaging are often the most normalized:
+
+- **Institutional corruption.** Lobbying structures that shape regulation to favor incumbents. Campaign finance dependencies that give concentrated wealth disproportionate influence over rule-setting. The revolving door between public office and private enrichment, which ensures that the people writing the rules have a financial stake in what the rules permit.
+- **Administrative corruption.** Bribery, patronage networks, procurement fraud, and enforcement discretion exercised for private benefit. These are most visible in lower-capacity states, but they exist in every system where oversight is weak and stakes are high.
+- **Kleptocratic governance.** State capture at scale — where the machinery of government is not merely influenced by private interests but effectively operated by them. This is not confined to authoritarian regimes; it exists wherever institutional accountability has degraded sufficiently.
+
+Corruption persists because it creates beneficiaries with the power and incentive to resist change. It turns dysfunction into a revenue stream: every inefficiency that routes public money toward private actors generates a constituency for preserving that inefficiency. In low-trust or low-capacity environments, corruption is often locally rational — informal systems (bribes, relationships, favoritism) become faster and more reliable than formal ones — even when the cumulative effect is globally destructive.
+
+This makes corruption not just a failure mode but a **stability mechanism**. Systems do not simply fail — corruption often helps them persist in their broken form by aligning insider incentives around the dysfunction itself. This is one of the clearest expressions of the project's central observation: systems that appear to be failing are often working exactly as intended for the people who control them.
+
+Corruption is also one of the fastest routes to **legitimacy collapse**. When people see public systems being operated for private benefit — legally or otherwise — trust erodes, willingness to comply decreases, and the social contract frays. This connects directly to the institutional distrust described in Section 13: much of that distrust is not irrational. It is an accurate perception that the system is not working for them because it is working for someone else.
+
+A society's capacity to resist corruption is itself a system — one that requires investigative independence, enforcement capacity, transparency mechanisms, whistleblower protections, and legal pathways for accountability. Where that capacity is strong, corruption is contained. Where it is weak or has itself been captured, corruption compounds without limit. This is, in effect, society's immune system against internal decay — and in many contexts, it is the immune system that is failing.
 
 ---
 
@@ -333,6 +350,7 @@ This problem map is not complete. Domains that require development include:
 - **Digital identity, privacy, and surveillance** — a first-order governance question in the age of AI
 - **Democratic process and electoral systems** — the meta-system that determines whether any of these domains can be reformed through democratic means
 - **Meaning, purpose, and social cohesion** — the existential substrate on which institutional legitimacy depends
+- **Anti-corruption institutional design** — corruption is now addressed as a cross-cutting dynamic, but the design of systems that resist it — investigative independence, enforcement capacity, transparency infrastructure, accountability pathways — requires deeper treatment, especially drawing on non-Western contexts where corruption is the primary obstacle to institutional function
 
 These gaps are acknowledged as invitations for contribution, not deferred because they are less important.
 

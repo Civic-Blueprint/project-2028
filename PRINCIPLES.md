@@ -91,7 +91,7 @@ It is sustained when systems deliver real value in people's lives, not just symb
 
 The design of the systems that shape civilization should not be left to closed networks of political, corporate, or technical elites.
 
-Important systems should be developed transparently, debated openly, and shaped by genuine public participation. Openness also requires that expertise be respected, that processes resist capture by narrow interests, and that participation be meaningful rather than performative.
+Important systems should be developed transparently, debated openly, and shaped by genuine public participation. Openness also requires that expertise be respected, that processes resist capture by narrow interests — including the legalized forms of corruption through which concentrated wealth shapes rule-making — and that participation be meaningful rather than performative.
 
 ---
 
