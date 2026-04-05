@@ -1,5 +1,3 @@
-
-
 # Systems Framework
 
 This is not a campaign platform where someone can run for public office.
@@ -20,16 +18,20 @@ That is the point.
 
 ## How to use this document
 
-Each section is organized around a few core questions:
+Each section is organized around a set of core questions:
 
 - **What is breaking?**
 - **What is the real bottleneck?**
+- **Who benefits from the status quo?**
+- **What has been tried, and why hasn't it worked?**
 - **What must be protected?**
 - **What must be built?**
 - **What must be prevented?**
 
 These are not rhetorical questions.
 They are prompts for real design work.
+
+The first four questions are diagnostic. They exist to ensure that every section is grounded in an honest account of *why* problems persist — including who benefits from their persistence and what prior reform efforts have already revealed. Without that grounding, design work becomes disconnected from the political and institutional reality it must navigate.
 
 If you want to contribute to Civic Blueprint, this is one of the best places to start.
 
@@ -42,6 +44,12 @@ In too many places, housing is scarce, expensive, slow to build, and structurall
 
 ### What is the real bottleneck?
 Land use rules, permitting friction, fragmented governance, financing constraints, infrastructure gaps, and political incentives that reward blocking more than building.
+
+### Who benefits from the status quo?
+Incumbent homeowners whose property values depend on constrained supply. Local governments whose tax bases are structured around rising assessments. Real estate interests that profit from scarcity-driven pricing. Political actors who gain from blocking development on behalf of organized constituencies that already have housing. The financialization of housing — treating shelter as an investment vehicle — aligns powerful interests against abundance.
+
+### What has been tried, and why hasn't it worked?
+Zoning reform has been attempted in many jurisdictions (Oregon's HB 2001, California's ADU laws, Minneapolis 2040). Results have been real but limited, because local implementation often preserves the blocking power that state-level reform was designed to override. Subsidized housing programs address symptoms but not the supply constraint itself. Rent control stabilizes existing tenants but can reduce new construction when not paired with supply expansion. The deepest lesson: housing reform consistently stalls because the people who benefit from scarcity vote in local elections, and the people who would benefit from abundance often do not yet live in the jurisdiction.
 
 ### What must be protected?
 The ability for ordinary people and families to live near work, opportunity, community, and stability.
@@ -68,6 +76,12 @@ Healthcare is too often expensive, opaque, administratively exhausting, and unev
 ### What is the real bottleneck?
 Institutional complexity, misaligned incentives, fragmented systems, pricing opacity, labor shortages, and access that is too often routed through employment or geography.
 
+### Who benefits from the status quo?
+Insurance intermediaries whose revenue depends on administrative complexity and opaque pricing. Hospital systems that benefit from consolidation and negotiating leverage. Pharmaceutical companies whose pricing power is protected by patent regimes and lobbying. Pharmacy benefit managers who profit from spread pricing. Employer-based insurance, a historical accident of wartime wage controls, persists in part because large employers use benefits packages as retention tools and because the insurance industry has built its business model around it. Administrative complexity is not a bug — for many actors in the system, it is a revenue stream.
+
+### What has been tried, and why hasn't it worked?
+Single-payer proposals have been introduced repeatedly in the US and defeated by industry opposition and public fear of disruption. The Affordable Care Act expanded coverage significantly but preserved the underlying complexity and cost structure. Public option proposals have been blocked at the federal level. Other nations have demonstrated that universal systems with better outcomes at lower cost are achievable (France, Australia, Taiwan), but the political economy of transition — disrupting an industry that represents nearly 20% of GDP — has so far prevented structural reform. The lesson is not that better designs are unavailable. It is that incumbent interests are powerful enough to prevent their adoption.
+
 ### What must be protected?
 People's ability to get care before crisis, recover with dignity, and navigate illness without financial or logistical collapse.
 
@@ -92,6 +106,12 @@ Education and credentialing systems are increasingly disconnected from how peopl
 
 ### What is the real bottleneck?
 Credential inflation, institutional inertia, uneven access, outdated pathways, and weak bridges between learning and meaningful participation.
+
+### Who benefits from the status quo?
+Credentialed professionals whose market position depends on gatekeeping. Universities that have become real estate and endowment operations as much as educational institutions. The student lending industry, which profits from the assumption that expensive credentials are the only legitimate path to opportunity. Employers who use degree requirements as a low-cost screening mechanism, externalizing training costs to individuals and families. The signaling value of credentials creates an equilibrium that is individually rational (get the degree or be excluded) and collectively wasteful (most of what the degree signals could be demonstrated more efficiently).
+
+### What has been tried, and why hasn't it worked?
+MOOCs promised to democratize education but struggled with completion rates and employer recognition. Coding bootcamps created faster pathways for a narrow set of skills but have not scaled to broader credentialing. Competency-based education exists but lacks the institutional trust and employer adoption to replace traditional degrees. Apprenticeship models work well in countries that invest in them (Germany, Switzerland) but have not been seriously attempted at scale in most other contexts. The fundamental challenge: alternative credentials must overcome the coordination problem — they only become valuable when enough employers trust them, and employers only trust them when enough candidates have them.
 
 ### What must be protected?
 The ability for people to develop capability, find direction, and move into meaningful contribution without wasting years inside broken pipelines.
@@ -118,6 +138,12 @@ Too many public systems are slow, difficult to navigate, difficult to trust, and
 ### What is the real bottleneck?
 Outdated processes, fragmented authority, procurement drag, political dysfunction, administrative overload, and weak operational capacity.
 
+### Who benefits from the status quo?
+Contractors and vendors who profit from complex procurement systems designed for compliance rather than competence. Political actors who benefit from institutional weakness — either because dysfunction justifies privatization or because functional government threatens ideological narratives about public-sector failure. Incumbents within bureaucracies whose positions are protected by the very complexity that makes the systems they manage difficult to reform. Lobbyists and consultants who serve as intermediaries between citizens and opaque institutions. When the people who design and govern public systems do not depend on those systems themselves — because they use private schools, private healthcare, and private security — the feedback loop between performance and accountability breaks.
+
+### What has been tried, and why hasn't it worked?
+Digital government initiatives (USDS, 18F, UK Government Digital Service, Estonia's digital governance) have demonstrated that public-sector technology can be dramatically improved, but these efforts remain islands of competence in a sea of institutional inertia. Procurement reform is perpetually proposed and rarely enacted because incumbent contractors lobby against it. Civil service reform faces resistance from public-sector unions that protect workers but also protect dysfunction. The "reinventing government" movement of the 1990s produced real improvements in some jurisdictions but failed to create lasting structural change because reforms were layered on top of legacy systems rather than replacing them.
+
 ### What must be protected?
 The public's ability to rely on institutions that can actually do things well, fairly, and at scale.
 
@@ -142,6 +168,12 @@ Economic life is increasingly shaped by who owns the systems, not just who parti
 
 ### What is the real bottleneck?
 Concentrated ownership of platforms, capital, intellectual property, land, and the infrastructure through which value is created and captured.
+
+### Who benefits from the status quo?
+The owners of the concentrating assets: platform companies that extract rents through network effects and data monopolies; large capital holders who benefit from the structural tendency of returns on capital to exceed returns on labor; intellectual property holders who use patent and copyright regimes to create durable monopolies; landowners in constrained markets whose asset values depend on scarcity. The political system itself benefits from concentration, because concentrated wealth funds campaigns, lobbying, and the revolving door between public office and private enrichment. Concentration is not a market failure in the traditional sense — it is the market working exactly as the rules allow, and the rules are written by the people who benefit from the outcome.
+
+### What has been tried, and why hasn't it worked?
+Antitrust enforcement was a powerful tool for much of the 20th century but was weakened by the adoption of the consumer welfare standard, which defined harm almost exclusively as higher prices to consumers — a framework that struggles to address platform monopolies that offer free products. Progressive taxation has been eroded over decades through lobbying, offshore structures, and preferential treatment of capital gains. Worker ownership models (cooperatives, ESOPs) exist and sometimes thrive but have not achieved sufficient scale or policy support to shift the overall dynamic. The fundamental obstacle: concentration generates the political power needed to preserve the rules that enable further concentration. This is a self-reinforcing loop that incremental reform has so far been unable to break.
 
 ### What must be protected?
 A society where participation, contribution, and economic life are not structurally subordinated to a small number of control points.
@@ -173,6 +205,12 @@ Money creation, lending, liquidity, and capital allocation are governed through 
 This affects far more than "finance."
 It influences what gets built, who gets priced out, which risks are socialized, and which futures become economically possible.
 
+### Who benefits from the status quo?
+Large financial institutions that profit from the current system of money creation through lending, where credit flows disproportionately toward asset-backed instruments that inflate prices for the already-wealthy. Central banks whose institutional independence, while valuable for monetary stability, also insulates consequential distributional decisions from democratic accountability. Asset owners who benefit from quantitative easing and other liquidity interventions that inflate financial markets while real wages stagnate. The financial services industry broadly, which extracts fees from complexity that could be simplified. The pattern repeats: when financial systems fail, losses are socialized through bailouts and austerity; when they succeed, gains are captured by those closest to the point of money creation.
+
+### What has been tried, and why hasn't it worked?
+The 2008 financial crisis produced Dodd-Frank, which added regulatory complexity but did not alter the fundamental structure of credit creation or capital allocation. Public banking exists in limited forms (Bank of North Dakota, German Sparkassen, postal savings systems in Japan and elsewhere) and demonstrates that alternative models can work, but has not achieved political traction against the lobbying power of private banking. Community Development Financial Institutions serve underserved populations but remain marginal. Modern Monetary Theory has reframed academic debate about fiscal capacity but has not translated into institutional change. The deepest barrier: financial system reform requires understanding how money actually works, and most public discourse operates on misconceptions that serve incumbent interests.
+
 ### What must be protected?
 A society's ability to direct capital toward housing, infrastructure, innovation, resilience, and broad-based human flourishing rather than toward repeated cycles of concentration and fragility.
 
@@ -201,6 +239,12 @@ AI capability is accelerating much faster than society's ability to govern its d
 ### What is the real bottleneck?
 Concentrated compute, model access, technical opacity, weak governance, regulatory lag, and a lack of democratic control over increasingly powerful systems.
 
+### Who benefits from the status quo?
+A small number of frontier AI companies whose competitive position depends on maintaining capability advantages and resisting governance that would slow deployment or require transparency. Cloud infrastructure providers who control the compute layer and profit from the increasing dependency of the entire economy on their services. Venture capital and growth investors whose returns depend on rapid scaling with minimal regulatory friction. Governments that see AI as a vector for geopolitical advantage and therefore resist multilateral governance. The dynamic is a race: companies race against each other for capability, nations race against each other for strategic advantage, and both race against governance. Everyone involved has incentives to go faster and govern later.
+
+### What has been tried, and why hasn't it worked?
+The EU AI Act represents the most ambitious regulatory attempt to date, but its risk-based framework was designed before the current generation of foundation models and may not be adequate for general-purpose systems. Voluntary commitments from AI companies have been largely performative. The US executive order on AI established frameworks but lacked enforcement mechanisms and may not survive changes in administration. Open-source AI (Meta's LLaMA, Mistral) has created some counterweight to concentration but cannot address the compute gap, since training frontier models costs hundreds of millions of dollars. AI safety research exists but is systematically underfunded relative to capabilities research, and safety teams within major labs have been repeatedly overruled or disbanded when they conflicted with product timelines. The fundamental problem: governance is operating on legislative timescales while capability is operating on engineering timescales.
+
 ### What must be protected?
 Human agency, democratic legitimacy, and the public's ability to understand and challenge systems that increasingly shape reality.
 
@@ -225,6 +269,12 @@ Many of the systems that make modern life possible are too constrained, too frag
 
 ### What is the real bottleneck?
 Underinvestment, permitting friction, aging systems, fragmented planning, local veto points, and insufficient coordination across long-term infrastructure needs.
+
+### Who benefits from the status quo?
+Communities and interest groups that use environmental review, permitting processes, and local veto power to block projects — sometimes for legitimate reasons, sometimes to protect property values or prevent change. Incumbent energy producers whose business models depend on constrained supply and legacy infrastructure. Contractors and consultants who profit from lengthy approval processes. Political actors who benefit from the ability to block projects without having to propose alternatives. The broader dynamic: the costs of infrastructure underinvestment are diffuse and long-term (everyone pays a little, over decades), while the costs of building are concentrated and immediate (specific communities bear disruption now). This asymmetry systematically favors inaction.
+
+### What has been tried, and why hasn't it worked?
+Massive infrastructure bills have been passed (the US Infrastructure Investment and Jobs Act, for example) but funding alone does not solve the problem when permitting timelines can exceed a decade. NEPA reform has been debated for years but faces opposition from environmental groups who view it as a critical accountability mechanism. Other nations have demonstrated that large-scale infrastructure can be built rapidly (China's high-speed rail, Denmark's energy transition, Singapore's public housing) — but these examples involve institutional structures and decision-making processes that are difficult to replicate in fragmented democracies. Permitting reform is one of the highest-leverage interventions available, but it requires resolving the genuine tension between democratic input and the ability to build at speed and scale.
 
 ### What must be protected?
 Society's physical ability to build, power, move, connect, and endure.
@@ -251,6 +301,12 @@ Underneath that stability is a fragile web of logistics, concentration, environm
 ### What is the real bottleneck?
 Concentrated production, brittle logistics, environmental instability, input dependencies, and weak resilience planning.
 
+### Who benefits from the status quo?
+A small number of agribusiness conglomerates that control processing, distribution, and commodity trading — and whose market power depends on scale, consolidation, and optimizing for efficiency over resilience. Input suppliers (seed, fertilizer, chemicals) whose business models depend on the continued dominance of industrial monoculture. Large retailers whose pricing power depends on centralized supply chains that minimize redundancy. Policymakers who benefit from the appearance of cheap food prices, even when those prices externalize costs to soil health, water systems, public health, and long-term resilience. The farm bill, one of the largest pieces of legislation in the US, is largely captured by incumbent agricultural interests and directs subsidies toward production models that reinforce fragility.
+
+### What has been tried, and why hasn't it worked?
+Local food movements have built alternative supply chains but remain marginal in terms of total food production. Organic farming standards have improved some practices but have also become a premium market segment rather than a systemic shift. Strategic grain reserves exist in some countries but have been reduced in others under pressure to cut costs. Urban agriculture and vertical farming have promise but currently produce a tiny fraction of total food supply. The fundamental challenge: the global food system is optimized for short-term cost efficiency in a way that produces genuine abundance under normal conditions, which makes the fragility invisible until a shock occurs. There is no political constituency for resilience spending until after a crisis.
+
 ### What must be protected?
 Society's ability to feed itself reliably, even under stress.
 
@@ -276,6 +332,12 @@ Public understanding is increasingly shaped by systems that reward attention cap
 ### What is the real bottleneck?
 Business models, platform incentives, low-trust information environments, algorithmic amplification, and weak social defenses against manipulation.
 
+### Who benefits from the status quo?
+Platform companies whose advertising revenue depends on engagement, which is maximized by content that provokes outrage, fear, and conflict. Political actors who benefit from fragmented information environments where targeted messaging can reach audiences without broad scrutiny. State and non-state actors who use information manipulation as a tool of influence — and who benefit from a media ecosystem that has no immune system against coordinated deception. Influencers, pundits, and media figures whose audiences are built on polarization rather than accuracy. AI-generated content is accelerating this dynamic: the cost of producing persuasive falsehoods is approaching zero while the cost of verification remains high. This asymmetry benefits anyone whose power depends on confusion.
+
+### What has been tried, and why hasn't it worked?
+Content moderation at platform scale has proven insufficient — too slow for the volume, too blunt for nuance, and too subject to political pressure from all directions. Media literacy education has been promoted widely but has not demonstrably reduced susceptibility to manipulation at population scale. Fact-checking organizations exist but cannot keep pace and often reach audiences that least need them. Section 230 reform has been proposed but the debate is dominated by partisans who want moderation of the other side's content. Public media models (BBC, PBS, CBC) provide alternatives but face persistent funding pressure and political attacks. The local news collapse has removed the layer of journalism most directly tied to community accountability, and no viable replacement model has emerged.
+
 ### What must be protected?
 A functioning relationship to truth, legitimacy, and shared reality.
 
@@ -299,6 +361,12 @@ Modern societies depend on caregiving while structurally undermining the people 
 
 ### What is the real bottleneck?
 Cost, time scarcity, housing pressure, work structures, childcare shortages, eldercare burdens, and systems that treat care as a private inconvenience rather than social infrastructure.
+
+### Who benefits from the status quo?
+Employers who externalize the cost of workforce reproduction by treating care as a private responsibility. Industries that profit from the anxiety and desperation of caregivers — from predatory childcare pricing to inadequate eldercare facilities. An economic model that measures productivity by hours of paid labor and treats unpaid care work (estimated at 10-39% of GDP depending on country) as invisible. Political actors who valorize family in rhetoric while opposing the public investment required to make family life viable. The gendered dimension is inescapable: women perform the vast majority of unpaid care work globally, and the current system depends on that labor while systematically undervaluing it.
+
+### What has been tried, and why hasn't it worked?
+Paid family leave exists in most developed nations except the United States, where it has been repeatedly proposed and defeated at the federal level. Universal pre-K has been piloted in some states and cities with promising results but has not been scaled nationally. Nordic countries demonstrate that comprehensive family support systems (parental leave, subsidized childcare, flexible work) can sustain both high workforce participation and healthy fertility rates, but these models require levels of public investment and social trust that are difficult to replicate in contexts where neither exists. Tax credits for childcare help at the margins but do not address the structural shortage of care providers. The fundamental barrier: care infrastructure requires public investment, and the political system consistently underinvests in things whose benefits are long-term, diffuse, and disproportionately affect women.
 
 ### What must be protected?
 The ability to raise children, care for aging family, sustain households, and maintain intergenerational continuity without collapse.
@@ -335,6 +403,12 @@ Over time, this creates a compounding effect: people stop expecting institutions
 
 Trust is not primarily lost through disagreement. It is lost when systems consistently fail to demonstrate competence, honesty, and responsiveness in practice.
 
+### Who benefits from the status quo?
+Political movements that use institutional distrust as a strategy — deliberately undermining public institutions to justify privatization, deregulation, or authoritarian alternatives. Elites who have exited public systems (private schools, private healthcare, gated communities, private security) and therefore bear no personal cost when those systems degrade. Media ecosystems that profit from amplifying institutional failure while ignoring institutional competence. Consultants and intermediaries who thrive in the gap between dysfunctional institutions and the public they are supposed to serve. The compounding dynamic: institutional distrust is both a symptom and a tool. Some actors experience it honestly; others manufacture it deliberately. Both dynamics are real, and conflating them prevents effective response.
+
+### What has been tried, and why hasn't it worked?
+Transparency initiatives (open data, FOIA, public dashboards) have improved access to information but have not rebuilt trust, because transparency without competence just makes failure more visible. Communications and branding efforts ("rebuilding trust through messaging") have largely failed because people can tell the difference between a system that works and one that claims to work. Performance-based reforms have improved specific agencies (the turnaround of the VA under certain administrators, for example) but remain isolated. The fundamental lesson: trust is restored by sustained, visible competence — not by any communication strategy. Institutions that consistently deliver (the National Weather Service, parts of the military, some local services) maintain trust despite operating in the same low-trust environment. The variable is performance, not perception.
+
 ### What must be protected?
 The ability for institutions to remain credible enough to coordinate collective life.
 
@@ -358,6 +432,12 @@ Many capable people who could help build, govern, repair, or steward critical sy
 
 ### What is the real bottleneck?
 Weak pipelines into public-interest work, poor incentives, bureaucratic drag, low institutional trust, and a culture that often routes ambitious talent toward extraction rather than stewardship.
+
+### Who benefits from the status quo?
+Private-sector employers who benefit from a talent market where the most capable people are steered away from public service by compensation gaps of 2-10x for equivalent roles. Political appointee systems that replace experienced civil servants with loyalists at every change of administration, rewarding political access over operational competence. Incumbent bureaucrats whose positions are protected by the same complexity that makes reform difficult. A culture that treats private-sector success as ambitious and public-sector work as either idealistic or second-rate. The talent deficit in public-interest systems is not primarily a pipeline problem — it is an environment problem. Capable people leave because the systems are designed to frustrate competence.
+
+### What has been tried, and why hasn't it worked?
+Fellowship programs (Presidential Innovation Fellows, Code for America, Teach for America) have demonstrated that talented people will do public-interest work when given meaningful roles, but these programs are time-limited and often fail to create lasting institutional change because fellows leave and institutions revert. Singapore's model of competitive public-sector compensation and prestige has produced one of the highest-performing civil services in the world but requires a level of political commitment to public-sector investment that most democracies have not mustered. The US Digital Service brought significant tech talent into government but remains small and dependent on political support. The fundamental barrier: public-sector compensation reform is politically difficult because it looks like "paying bureaucrats more," which is unpopular even when it is the most cost-effective investment a government can make.
 
 ### What must be protected?
 A future where high-capacity, ethical, mission-aligned people still have a path into meaningful public contribution.
@@ -385,6 +465,13 @@ Across all of these domains, a few deeper questions keep reappearing:
 - Where is society becoming more capable, but less free?
 - Which bottlenecks are technical, and which are moral, political, or institutional?
 - What would it mean to build systems that ordinary people can actually live inside without constant exhaustion?
+- Where does reform fail because of genuine complexity, and where does it fail because powerful actors prevent it?
+- Which problems have known solutions that are blocked by political economy, and which genuinely require new thinking?
+
+A sixth cross-cutting pattern deserves explicit attention:
+
+### Temporal mismatch
+The problems described in this framework are long-term and structural. The decision-making systems that govern them are short-term: election cycles, quarterly earnings, annual budgets, news cycles. This mismatch is arguably the deepest structural failure underlying all the others. A society that cannot make decisions on the timescale of its problems will consistently produce policies that are too little, too late, and too easily reversed.
 
 These questions should not just be answered once.
 They should remain active as the project evolves.
