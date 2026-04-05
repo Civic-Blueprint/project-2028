@@ -13,15 +13,21 @@ It is organized in layers, because not all problems are equal. Some are foundati
 
 ## How to read this document
 
-**Layer 1** describes the foundational substrates: the systems that everything else depends on. If these are broken, nothing downstream can be fixed.
+**Layer 1** describes the foundational substrates: the systems that everything else depends on operationally. If these are broken, nothing downstream can function.
 
 **Layer 2** describes essential systems: the services and structures that directly touch people's lives.
 
-**Layer 3** describes structural dynamics: the forces that shape how every other system functions and evolves.
+**Layer 3** describes structural dynamics: the forces that shape how every other system operates and evolves.
 
 **Layer 4** describes meta-conditions: the prerequisites for whether reform itself is possible.
 
-Dependencies between domains are noted throughout. A reform that ignores the layer beneath it will fail at implementation.
+Two distinct types of relationships are noted throughout:
+
+- **Operational dependencies** flow downward through the layers. These describe what a system needs to function: housing needs infrastructure, healthcare needs capital allocation, food systems need ecological stability. These are steady-state relationships — they exist whether or not anyone is trying to change anything.
+
+- **Reform dependencies** often flow in the opposite direction. These describe what is required to *change* a system: fixing infrastructure requires institutional capacity, fixing capital allocation requires institutional legitimacy, fixing information ecosystems requires democratic process. These are about the politics and mechanics of transition.
+
+This distinction matters. The layers describe the architecture of how systems operate. The reform dependencies describe the challenge of how to change them. These are different questions, and conflating them obscures the real difficulty: the systems that need to be fixed are often the same systems that the fixing depends on. That is not a flaw in the analysis — it is an honest description of why civilizational reform is hard.
 
 For deeper design-level analysis of each domain, see the [Systems Framework](SYSTEMS_FRAMEWORK.md). For the commitments that guide all of this work, see [Principles](PRINCIPLES.md).
 
@@ -41,9 +47,9 @@ Key systems — including energy, transportation, water, and digital infrastruct
 
 **Why it persists:** The costs of underinvestment are diffuse and long-term. The costs of building are concentrated and immediate. This asymmetry systematically favors inaction over construction.
 
-**Depends on:** Institutional capacity (Layer 4) for permitting reform. Capital allocation systems (Layer 3) for financing.
+**Operational impact (downstream):** Housing, healthcare, AI, food systems, and economic opportunity all depend on physical infrastructure. A society that cannot build cannot solve anything else on this list.
 
-**Downstream impact:** Housing, healthcare, AI, food systems, and economic opportunity all depend on physical infrastructure. A society that cannot build cannot solve anything else on this list.
+**Reform requires:** Institutional capacity (Layer 4) for permitting reform. Functioning capital allocation (this layer) for financing. Political conditions that overcome the concentrated opposition of those who benefit from constrained supply.
 
 ---
 
@@ -55,9 +61,9 @@ Modern societies are heavily shaped by how money is created, where credit flows,
 
 **Why it persists:** Financial literacy is low, the system is genuinely complex, and incumbent financial institutions invest heavily in preserving the architecture from which they profit. The pattern repeats: when financial systems fail, losses are socialized; when they succeed, gains are captured privately.
 
-**Depends on:** Institutional legitimacy (Layer 4) for democratic oversight of financial systems. Information integrity (Layer 4) for public understanding.
+**Operational impact (downstream):** Capital allocation determines what gets built, who gets priced out, and which futures become economically possible. Housing, infrastructure, energy, and innovation are all downstream of this system.
 
-**Downstream impact:** Capital allocation determines what gets built, who gets priced out, and which futures become economically possible. Housing, infrastructure, energy, and innovation are all downstream of this system.
+**Reform requires:** Institutional legitimacy (Layer 4) for democratic oversight of financial systems. Information integrity (this layer) for public understanding of how money and credit actually work. Political will sufficient to overcome the lobbying power of the financial industry.
 
 ---
 
@@ -69,9 +75,9 @@ Public understanding is shaped by systems that reward engagement over accuracy, 
 
 **Why it persists:** Platforms profit from the status quo. Political actors benefit from fragmented information environments. No viable replacement model for local journalism has emerged. Media literacy efforts have not demonstrably reduced susceptibility to manipulation at population scale.
 
-**Depends on:** Democratic processes (Layer 4) for regulatory reform. Institutional legitimacy (Layer 4) for trusted public media alternatives.
+**Operational impact (downstream):** Every other problem on this map is harder to solve when society cannot coordinate around shared facts. Information integrity is a prerequisite for informed democratic governance, which is a prerequisite for competent reform in any domain.
 
-**Downstream impact:** Every other problem on this map is harder to solve when society cannot coordinate around shared facts. Information integrity is a prerequisite for democratic governance, which is a prerequisite for reform.
+**Reform requires:** Democratic processes (Layer 4) with sufficient independence from platform lobbying to enact regulatory change. Institutional legitimacy (Layer 4) sufficient to sustain trusted public media alternatives. New business models for journalism that do not depend on the attention economy.
 
 ---
 
@@ -83,9 +89,9 @@ Too many public systems are slow, difficult to navigate, difficult to trust, and
 
 **Why it persists:** The people who design and govern public systems increasingly do not depend on those systems themselves. This breaks the feedback loop between performance and accountability. Incumbent contractors and consultants profit from complexity. Reform threatens both bureaucratic inertia and political arrangements.
 
-**Depends on:** Talent (Layer 4) for staffing reform. Institutional legitimacy (Layer 4) for public support of investment in state capacity.
+**Operational impact (downstream):** Every reform in every other domain depends on institutions capable of implementing it. State capacity is the execution layer for the entire project.
 
-**Downstream impact:** Every reform in every other domain depends on institutions capable of implementing it. State capacity is the execution layer for the entire project.
+**Reform requires:** Public-interest talent (Layer 4) to staff reformed institutions. Institutional legitimacy (Layer 4) to sustain public support for investment in state capacity. Political leadership willing to confront both bureaucratic inertia and the private interests that profit from institutional dysfunction.
 
 ---
 
@@ -103,7 +109,9 @@ In many regions, housing is persistently scarce, expensive, and difficult to bui
 
 **Why it persists:** Homeowners who benefit from scarcity vote in local elections. Would-be residents who would benefit from abundance do not yet live in the jurisdiction. This creates a structural democratic bias toward blocking new housing.
 
-**Depends on:** Energy and infrastructure (Layer 1) for physical capacity. Capital allocation (Layer 1) for financing. Institutional capacity (Layer 1) for permitting reform.
+**Operational dependencies:** Energy and infrastructure (Layer 1) for physical capacity to build. Capital allocation (Layer 1) for financing construction.
+
+**Reform requires:** Institutional capacity (Layer 1) for permitting reform. State or national-level political coalitions willing to override local blocking power. Shifting the cultural assumption that housing is primarily an investment vehicle rather than shelter.
 
 ---
 
@@ -115,7 +123,9 @@ Healthcare systems are frequently difficult to navigate, unpredictable in cost, 
 
 **Why it persists:** The healthcare industry represents nearly 20% of GDP in the US. Every dollar of "waste" is someone's revenue. The political economy of transition — disrupting an industry of this scale — has defeated every structural reform attempt. Other nations demonstrate that better designs exist, but incumbent interests are powerful enough to prevent adoption domestically.
 
-**Depends on:** Capital allocation (Layer 1) for financing reform. Institutional capacity (Layer 1) for implementation. Information integrity (Layer 1) for informed public debate.
+**Operational dependencies:** Capital allocation (Layer 1) for financing healthcare delivery. Energy and infrastructure (Layer 1) for facilities, logistics, and digital health systems.
+
+**Reform requires:** Institutional capacity (Layer 1) for implementation of structural changes. Information integrity (Layer 1) for informed public debate that can withstand industry-funded opposition. Political coalitions strong enough to overcome lobbying from insurance, pharmaceutical, and hospital industries.
 
 ---
 
@@ -127,7 +137,9 @@ Education and credentialing systems are increasingly disconnected from how peopl
 
 **Why it persists:** Every actor in the current system — universities, lenders, employers, credentialed professionals — has financial incentives to maintain it. Alternative credentials face a coordination problem: they only become valuable when enough employers trust them, and employers only trust them when enough candidates have them.
 
-**Depends on:** Information integrity (Layer 1) for public understanding of alternatives. Institutional capacity (Layer 1) for regulatory reform of accreditation.
+**Operational dependencies:** Information integrity (Layer 1) for learners and employers to evaluate alternatives honestly. Capital allocation (Layer 1) for funding pathways that are not dependent on student debt.
+
+**Reform requires:** Institutional capacity (Layer 1) for regulatory reform of accreditation. Employers willing to adopt alternative credentialing — likely driven by labor market pressure or demonstrated quality. Breaking the signaling equilibrium, which may require coordinated action from major employers or public-sector hiring reform.
 
 ---
 
@@ -139,7 +151,9 @@ Modern food systems depend on complex supply chains, concentrated production, an
 
 **Why it persists:** The system produces genuine abundance under normal conditions, which makes fragility invisible until a shock occurs. There is no political constituency for resilience spending until after a crisis. Food security is not a solved problem globally — hundreds of millions of people are food insecure now — but in wealthy nations, the appearance of stability masks underlying vulnerability.
 
-**Depends on:** Energy and infrastructure (Layer 1) for logistics and cold chains. Ecological health (see Layer 3) for soil, water, and climate stability.
+**Operational dependencies:** Energy and infrastructure (Layer 1) for logistics, cold chains, and processing. Ecological stability (Layer 3) for soil, water, and climate conditions that agriculture depends on.
+
+**Reform requires:** Agricultural policy reform that redirects subsidies toward resilience rather than incumbent production models — against the lobbying power of agribusiness. Public investment in regional food capacity and strategic reserves. Consumer and political awareness of fragility that currently only materializes after a crisis.
 
 ---
 
@@ -151,7 +165,9 @@ Modern societies depend on caregiving while structurally undermining the people 
 
 **Why it persists:** Care infrastructure requires sustained public investment, and the political system consistently underinvests in things whose benefits are long-term, diffuse, and disproportionately affect women. The demographic consequences — declining fertility in most developed nations — are real but slow enough that political systems treat them as someone else's problem.
 
-**Depends on:** Housing (Layer 2) for affordable family formation. Healthcare (Layer 2) for accessible care. Capital allocation (Layer 1) for public investment.
+**Operational dependencies:** Housing (Layer 2) for affordable family formation. Healthcare (Layer 2) for accessible care. Capital allocation (Layer 1) for sustained public investment in care infrastructure.
+
+**Reform requires:** Political coalitions that center care as economic infrastructure rather than private responsibility. Addressing the gendered distribution of unpaid labor as a structural issue, not a cultural preference. Housing and healthcare reform (Layer 2) as prerequisites — family support systems cannot be fixed in isolation when the cost of shelter and health are themselves crushing.
 
 ---
 
@@ -169,7 +185,7 @@ Economic life is increasingly shaped by who owns the systems, not just who parti
 
 **Why it persists:** Concentration generates the political power needed to preserve the rules that enable further concentration. This is a self-reinforcing loop that incremental reform has so far been unable to break. Antitrust enforcement was weakened by adoption of the consumer welfare standard, which struggles to address modern forms of market power.
 
-**Reinforces:** Every problem in Layers 1 and 2. Concentration shapes who gets housed, who gets care, what gets built, and whose interests institutions serve.
+**Structural effect (all layers):** Wealth concentration is both an operational force and a reform obstacle. Operationally, it shapes who gets housed, who gets care, what gets built, and whose interests institutions serve. As a reform obstacle, it generates the political power needed to block changes that would redistribute power — making it a self-reinforcing constraint on every other domain.
 
 ---
 
@@ -181,7 +197,7 @@ AI capability is accelerating much faster than society's ability to govern its d
 
 **Why it persists:** Companies racing against each other for capability, nations racing against each other for strategic advantage, and both racing against governance. Voluntary commitments have been largely performative. Regulation operates on legislative timescales while capability operates on engineering timescales.
 
-**Reinforces:** Wealth concentration (through automation and platform dominance). Information ecosystem dysfunction (through synthetic content at scale). Institutional capacity challenges (through the displacement of human decision-making). Labor market disruption across every domain.
+**Structural effect (all layers):** AI concentration is an accelerant that reshapes other dynamics in real time. It reinforces wealth concentration (through automation and platform dominance), degrades information integrity (through synthetic content at scale), and challenges institutional capacity (through the displacement of human decision-making). It also disrupts labor markets across every domain, creating reform urgency while simultaneously making reform harder by outpacing governance.
 
 ---
 
@@ -193,7 +209,7 @@ Climate change, biodiversity loss, soil degradation, water scarcity, and resourc
 
 **Why it persists:** The costs of ecological degradation are distributed globally and temporally (future generations bear the worst of it), while the benefits of the activities causing degradation are concentrated and immediate. Fossil fuel industries invest heavily in preserving the status quo. International coordination is difficult when the costs and benefits of action are distributed unevenly across nations.
 
-**Constrains:** Every system in Layers 1 and 2. Energy, food, infrastructure, housing, and human health all operate within ecological limits that are tightening. A civilizational blueprint that ignores the biosphere is designing for a civilization that cannot persist.
+**Operational constraint (all layers):** Unlike the other dynamics in this layer, ecological stress is a hard physical constraint, not just a structural force. Energy, food, infrastructure, housing, and human health all operate within ecological limits that are tightening. This is the one domain where the constraint is not primarily political or institutional — it is biophysical. A civilizational blueprint that ignores the biosphere is designing for a civilization that cannot persist.
 
 ---
 
@@ -211,7 +227,7 @@ Across public, private, and civic life, trust in institutions has eroded — and
 
 **Why it persists:** Distrust is both a symptom and a tool. Some actors experience it honestly; others manufacture it deliberately. Transparency initiatives have made failure more visible without making systems more competent. Trust is restored only by sustained, visible performance — not by any communication strategy — and few institutions are structured to deliver that.
 
-**Constrains:** Every reform in every other domain requires some degree of institutional trust to implement. When trust is gone, even good policy is perceived as illegitimate.
+**Reform constraint on all other layers:** Every reform in every other domain requires some degree of institutional trust to implement. When trust is gone, even good policy is perceived as illegitimate. This is not an operational dependency — systems can function without trust, badly. It is a reform dependency — systems cannot be *improved* without it.
 
 ---
 
@@ -223,7 +239,7 @@ Many capable people who could help build, govern, or steward critical systems ar
 
 **Why it persists:** Public-sector compensation reform is politically toxic ("paying bureaucrats more"). Institutions designed to prevent corruption also prevent agility. The talent that does enter public service often leaves when it encounters the gap between mission and operational reality.
 
-**Constrains:** Institutional capacity (Layer 1) directly. Every other domain indirectly — systems cannot be reformed by institutions that cannot attract and retain the people needed to redesign them.
+**Reform constraint on all other layers:** Institutional capacity (Layer 1) cannot be rebuilt without people capable of rebuilding it. Every other domain is constrained indirectly — systems cannot be reformed by institutions that cannot attract and retain the talent needed to redesign them.
 
 ---
 
@@ -253,33 +269,57 @@ Many of these dynamics compound over time. Wealth concentration funds political 
 
 ## Dependency map
 
-Understanding which problems cause or constrain other problems reveals where intervention has cascading effects:
+There are two maps here, not one. Conflating them is one of the reasons civilizational reform is so difficult to reason about clearly.
+
+### Operational dependencies: what systems need to function
+
+These flow downward through the layers. They describe the architecture of how things work:
 
 ```
-Layer 1 (Foundational):
-  Energy/Infrastructure ──────────┐
-  Capital Allocation ─────────────┤
-  Information Integrity ──────────┤──▶ All of Layer 2
-  Institutional Capacity ─────────┘
+Layer 1 (Foundational) ──────────────────▶ Layer 2 (Essential)
 
-Layer 2 (Essential):
-  Housing ◀── Infrastructure + Capital + Institutions
-  Healthcare ◀── Capital + Institutions + Information
-  Education ◀── Information + Institutions
-  Food ◀── Infrastructure + Ecology
-  Family/Care ◀── Housing + Healthcare + Capital
+  Energy/Infrastructure ──────────────────▶ Housing, Food, Healthcare
+  Capital Allocation ─────────────────────▶ Housing, Healthcare, Education, Family/Care
+  Information Integrity ──────────────────▶ Healthcare, Education, all democratic processes
+  Institutional Capacity ─────────────────▶ All of Layer 2 (execution layer)
 
-Layer 3 (Structural):
-  Wealth Concentration ──────────┐
-  AI Concentration ──────────────┤──▶ Reinforces dysfunction in all layers
-  Ecological Stress ─────────────┘
+Layer 2 internal:
+  Housing + Healthcare ───────────────────▶ Family/Care
 
-Layer 4 (Meta):
-  Institutional Trust ───────────┐
-  Public-Interest Talent ────────┤──▶ Determines whether reform is possible
+Layer 3 (Structural) ────────────────────▶ Constrains/reinforces all layers
+  Ecological Stress ──────────────────────▶ Food, Energy, Infrastructure, Health
+  Wealth Concentration ───────────────────▶ Shapes incentives across all domains
+  AI Concentration ───────────────────────▶ Reshaping labor, information, institutional capacity
 ```
 
-The critical path: institutional capacity and institutional trust are the binding constraints. Without capable, trusted institutions, no reform in any other domain can be implemented and sustained. Energy and infrastructure are the physical binding constraint — without the capacity to build, no design can become reality.
+### Reform dependencies: what changing these systems requires
+
+These often flow in the opposite direction — and that is the central difficulty:
+
+```
+Reforming Layer 1 requires ◀──────────── Layer 4 (Meta-conditions)
+
+  Fixing infrastructure ◀──────────────── Institutional capacity + political will
+  Fixing capital allocation ◀──────────── Institutional legitimacy + public understanding
+  Fixing information systems ◀─────────── Democratic process + institutional trust
+  Fixing institutional capacity ◀──────── Talent + legitimacy
+
+Reforming Layer 2 requires ◀──────────── Layers 1 + 4
+
+  Fixing housing ◀─────────────────────── Infrastructure + capital + institutional capacity
+  Fixing healthcare ◀──────────────────── Capital + institutions + information integrity
+  Fixing education ◀───────────────────── Information + institutions + employer coordination
+  Fixing food systems ◀───────────────── Agricultural policy reform + ecological stability
+  Fixing family/care ◀────────────────── Housing + healthcare reform + political coalitions
+```
+
+### Why this matters
+
+The operational dependencies tell you what to build. The reform dependencies tell you what you are up against.
+
+The hard truth these maps reveal: **the systems that most need reform are often the same systems that reform depends on.** Fixing institutional capacity requires institutional capacity. Restoring trust requires trustworthy institutions. Improving information integrity requires democratic processes that are themselves degraded by poor information.
+
+This is not a flaw in the analysis. It is an honest description of civilizational lock-in — and it is the reason that reform requires finding entry points where small, credible improvements can create virtuous cycles rather than waiting for all preconditions to be met simultaneously. The question for each domain is: *where is the smallest intervention that could begin to reverse the self-reinforcing loop?*
 
 ---
 
