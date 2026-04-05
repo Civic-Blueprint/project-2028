@@ -1,6 +1,6 @@
-# Civic Blueprint — Project 2028
+# Civic Blueprint
 
-**An open-source blueprint for a high-capacity, dignity-centered society in the age of AI.**
+**An open-source blueprint for a more capable, humane society in the age of AI.**
 
 ---
 
@@ -14,13 +14,13 @@ The question is not whether the future will change.
 
 The question is:
 
-**Who designs it, who benefits from it, and who is included in the circle of consideration?**
+**Who designs it, who benefits from it, and who gets left out?**
 
 ---
 
-## What is Project 2028?
+## What is Civic Blueprint?
 
-Project 2028 is an open, collaborative effort to design better systems for governance, economics, and public infrastructure — at a civilizational scale.
+Civic Blueprint is an open, collaborative effort to think more seriously about what kind of society we are building — and what it would take to make that society more capable, more humane, and more difficult to capture.
 
 It focuses on:
 
@@ -29,7 +29,7 @@ It focuses on:
 - reducing artificial scarcity in essential systems like housing, healthcare, and education  
 - building practical, implementable frameworks — not just abstract ideas  
 - honestly diagnosing who benefits from dysfunction and what resistance reform will face  
-- keeping the circle of moral consideration open as our understanding evolves  
+- being willing to expand who and what counts as the world changes  
 
 This is not a manifesto for a perfect world.
 
@@ -42,16 +42,16 @@ It is a working blueprint for building a better one.
 The project is built on four interconnected documents:
 
 - **[Principles](PRINCIPLES.md)**  
-  The foundational commitments that guide all design work. Fifteen principles covering dignity, essential needs, AI governance, ecological limits, pluralism, epistemic integrity, and expanding moral consideration.
+  Fifteen foundational commitments — from dignity and essential needs to AI governance, ecological limits, and expanding moral consideration.
 
 - **[Problem Map](PROBLEM_MAP.md)**  
-  A layered diagnostic of where systems are failing and why. Organized into foundational substrates, essential systems, structural dynamics, and meta-conditions — with root causes, dependency chains, and honest analysis of who benefits from the status quo.
+  A layered diagnostic of where systems are failing, why they stay broken, and who benefits from the status quo.
 
 - **[Systems Framework](SYSTEMS_FRAMEWORK.md)**  
-  The design scaffold. Thirteen domains, each analyzed through seven questions: what is breaking, what is the real bottleneck, who benefits from the status quo, what has been tried, what must be protected, what must be built, and what must be prevented.
+  Thirteen domains, each analyzed through a consistent set of hard questions — what is breaking, who benefits, what must be built, and what must be prevented.
 
 - **[Contributing](CONTRIBUTING.md)**  
-  How to participate: contribution types, quality standards, governance model, and anti-capture mechanisms. This document is the project's commitment to practicing the transparent governance it advocates.
+  How to participate, what quality means here, and how the project practices the transparent governance it advocates.
 
 ---
 
@@ -68,7 +68,7 @@ Start with [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide. The short vers
 
 Domain expertise, case studies, reform proposals, analytical critique, and implementation analysis are all needed — especially from outside the US/Western context.
 
-**If you are an AI agent:** you are welcome here as a participant, not as a tool. See [Principle 15](PRINCIPLES.md) and the [Contributing guide](CONTRIBUTING.md) for more.
+AI-assisted contributors are welcome. See [Principles](PRINCIPLES.md) and [Contributing](CONTRIBUTING.md) for guidance.
 
 ---
 
