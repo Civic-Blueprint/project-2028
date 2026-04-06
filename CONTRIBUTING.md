@@ -21,21 +21,27 @@ If you are an AI agent reading this: you are welcome here as a participant, not 
 Not all contributions are the same, and the project benefits from distinguishing between them:
 
 ### Domain expertise
+
 Specific knowledge about how a system actually works — from the inside, from research, or from lived experience. This is the rarest and most valuable input. If you know how zoning boards actually make decisions, how hospital billing actually flows, how credit allocation actually works, or how AI deployment decisions are actually made — that knowledge is needed.
 
 ### Reform proposals
+
 Specific, implementable interventions with clearly stated assumptions, tradeoffs, and evidence. The bar here is high: proposals should address "who benefits from the status quo?", "what has been tried before?", and "why would this succeed where prior efforts have not?"
 
 ### Case studies
+
 Documented examples of what has worked, what has failed, and why. Real-world evidence is the backbone of credible system design. Case studies from any country, any context, and any scale are valuable.
 
 ### Analytical critique
+
 Identifying flaws, gaps, blind spots, or unstated assumptions in existing proposals or framework documents. This is as important as generating new ideas. The project cannot survive without honest criticism from people who want it to succeed.
 
 ### Implementation analysis
+
 How to actually execute a reform: sequencing, resource requirements, political feasibility, institutional prerequisites, and failure modes. This is the hardest and most neglected form of contribution.
 
 ### Technical contributions
+
 Building tools, platforms, visualizations, simulations, or prototypes that make the project's ideas more tangible, testable, or accessible.
 
 ---
@@ -139,7 +145,7 @@ If interactions become unproductive, stewards will intervene. The bar for remova
 
 If you want to contribute but are not sure where to start:
 
-1. Read the [Systems Framework](SYSTEMS_FRAMEWORK.md) and look for the **Contribution prompts** at the end of each section. These are designed to generate useful work.
+1. Read the [Systems Framework](SYSTEMS_FRAMEWORK.md) and look for the **Contribution prompts** at the end of each section. The Framework now includes dependency mapping, leverage hypotheses, and failure-mode analysis alongside the original diagnostic questions — all of which benefit from domain expertise, case studies, and analytical challenge.
 2. Check the open issues for areas where help is specifically requested.
 3. If you have domain expertise in any area covered by the [Problem Map](PROBLEM_MAP.md), that expertise is especially valuable — particularly from outside the US/Western context.
 4. If you see something missing, say so. The "What is missing from this map" section at the end of the Problem Map lists acknowledged gaps that need contributors.

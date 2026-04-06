@@ -33,7 +33,7 @@ This distinction matters. The layers describe the architecture of how systems op
 
 The purpose of this map is not only to name failure. It is to understand where systems become stuck — and, in the section on structural entry points, to begin identifying where that stuckness might eventually be made movable.
 
-For deeper design-level analysis of each domain, see the [Systems Framework](SYSTEMS_FRAMEWORK.md). For the commitments that guide all of this work, see [Principles](PRINCIPLES.md).
+For deeper design-level analysis of each domain — including dependency mapping, leverage hypotheses, failure-mode analysis, and candidate reform sequences — see the [Systems Framework](SYSTEMS_FRAMEWORK.md). For the commitments that guide all of this work, see [Principles](PRINCIPLES.md).
 
 ---
 

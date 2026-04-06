@@ -48,7 +48,7 @@ The project is built on four interconnected documents:
   A layered diagnostic of where systems are failing, why they stay broken, and who benefits from the status quo.
 
 - **[Systems Framework](SYSTEMS_FRAMEWORK.md)**  
-  Fourteen domains, each analyzed through a consistent set of hard questions — what is breaking, who benefits, what must be built, and what must be prevented.
+  Fourteen domains, each analyzed through diagnostic, design, and strategic questions — including dependencies, leverage hypotheses, failure modes, and candidate reform sequences. The design companion to the Problem Map.
 
 - **[Contributing](CONTRIBUTING.md)**  
   How to participate, what quality means here, and how the project practices the transparent governance it advocates.
@@ -76,14 +76,15 @@ AI-assisted contributors are welcome. See [Principles](PRINCIPLES.md) and [Contr
 
 Early stage. Actively being developed.
 
-The foundational documents are in place. The Problem Map has undergone a major revision incorporating multi-agent review, adding democratic process as a core domain, core bottleneck summaries for scannability, a structural entry points analysis featuring recursive uplift, and an updated dependency map with explicit recursive loops.
+The foundational documents are in place. The Problem Map has undergone a major revision incorporating multi-agent review, adding democratic process as a core domain, core bottleneck summaries for scannability, a structural entry points analysis featuring recursive uplift, and an updated dependency map with explicit recursive loops. The Systems Framework has been revised to add dependency mapping, leverage hypotheses, failure-mode analysis, and a sequencing section that synthesizes cross-domain reform chains — evolving from a parallel domain analysis into the project's strategic design layer.
 
 The project now needs:
 
 - Contributors with domain expertise across all fourteen system domains
 - Global perspectives to challenge and broaden the analytical frame
-- Case studies from any context that demonstrate what works
+- Case studies from any context that demonstrate what works — especially evidence that tests the project's leverage and uplift hypotheses
 - Implementation analysis to bridge from framework to action
+- Adversarial review of the project's strategic claims (see [Adversarial Review Protocol](agent/process/adversarial-review-protocol.md))
 
 ---
 
