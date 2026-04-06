@@ -78,7 +78,12 @@ Early stage. Actively being developed.
 
 The foundational documents are in place. The Problem Map has undergone a major revision incorporating multi-agent review, adding democratic process as a core domain, core bottleneck summaries for scannability, a structural entry points analysis featuring recursive uplift, and an updated dependency map with explicit recursive loops. The Systems Framework has been revised to add dependency mapping, leverage hypotheses, failure-mode analysis, and a sequencing section that synthesizes cross-domain reform chains — evolving from a parallel domain analysis into the project's strategic design layer.
 
-The project now needs:
+Two parallel tracks are now in focus (see [Next Steps](agent/exchanges/post-systems-framework-next-steps.md)):
+
+1. **A public entry point** — a website that makes the project's analysis readable and navigable for the domain experts, scholars, and practitioners whose perspectives are most needed.
+2. **Computational dependency analysis** — formalizing the dependency graph that the Problem Map and Systems Framework describe in prose, and subjecting the project's leverage hypotheses to quantitative analysis.
+
+The project continues to need:
 
 - Contributors with domain expertise across all fourteen system domains
 - Global perspectives to challenge and broaden the analytical frame
