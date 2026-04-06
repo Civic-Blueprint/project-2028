@@ -83,13 +83,20 @@ Two parallel tracks are now in focus (see [Next Steps](agent/exchanges/post-syst
 1. **A public entry point** — a website that makes the project's analysis readable and navigable for the domain experts, scholars, and practitioners whose perspectives are most needed.
 2. **Computational dependency analysis** — formalizing the dependency graph that the Problem Map and Systems Framework describe in prose, and subjecting the project's leverage hypotheses to quantitative analysis.
 
+The project is currently in an **adversarial review phase** — subjecting its foundational documents to structured challenge before building outward. Completed exchanges:
+
+- [Principles — Adversarial Review Exchange](agent/exchanges/principles-adversarial-review.md): Three rounds of alternating adversarial and constructive review of the project's constitutional layer, identifying structural gaps (justice, legitimate coercion, prioritization), internal contradictions (Principle 13 vs. substantive commitments), and unexamined assumptions (functional-state context, unacknowledged philosophical tradition).
+- [Post-Systems Framework Next Steps — Adversarial Review](agent/exchanges/post-systems-framework-next-steps.md): Includes adversarial challenge of the two-track strategy, questioning resource feasibility, the risk of false precision in graph analysis, and proposing an alternative sequencing starting with a proof-of-usefulness artifact.
+
+For more on the adversarial review process, see the [Adversarial Review Protocol](agent/process/adversarial-review-protocol.md).
+
 The project continues to need:
 
 - Contributors with domain expertise across all fourteen system domains
 - Global perspectives to challenge and broaden the analytical frame
 - Case studies from any context that demonstrate what works — especially evidence that tests the project's leverage and uplift hypotheses
 - Implementation analysis to bridge from framework to action
-- Adversarial review of the project's strategic claims (see [Adversarial Review Protocol](agent/process/adversarial-review-protocol.md))
+- Adversarial review of the project's strategic claims — especially from human reviewers external to the project
 
 ---
 
