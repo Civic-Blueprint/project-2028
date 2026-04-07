@@ -7,6 +7,8 @@ They are symptoms of systems that are misaligned, underpowered, or poorly design
 
 This document outlines the core areas where those failures are most visible, maps the dependencies between them, and identifies the root causes that keep them in place.
 
+The current version of this map was developed through steward-directed iteration across multiple AI-assisted drafting and review passes, then consolidated into a single working document. It should be read as a curated synthesis, not as the product of a single authorial voice or a settled consensus.
+
 It is organized in layers, because not all problems are equal. Some are foundational — when they fail, everything downstream fails with them. Others are essential services that directly affect human welfare. And some are structural dynamics that shape every other layer.
 
 ---

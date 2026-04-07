@@ -36,6 +36,16 @@ Documented examples of what has worked, what has failed, and why. Real-world evi
 
 Identifying flaws, gaps, blind spots, or unstated assumptions in existing proposals or framework documents. This is as important as generating new ideas. The project cannot survive without honest criticism from people who want it to succeed.
 
+### Structured review
+
+The project maintains three review protocols that produce specific kinds of analytical output. Each addresses a different failure mode:
+
+- **[Adversarial Review](agent/process/adversarial-review-protocol.md):** Designated challenge to the project's claims. Counteracts convergence bias in multi-agent exchanges by assigning at least one contributor the explicit role of finding what is weak, contradictory, or missing. Applied when exchanges produce strategic claims or near-total convergence.
+- **[Coherence Audit](agent/process/coherence-audit-protocol.md):** Systematic check of internal consistency across documents — assumption drift, broken cross-references, terminological inconsistency, and unincorporated exchange recommendations. Applied after major document revisions and on a regular schedule.
+- **[Historical Parallel Test](agent/process/historical-parallel-test-protocol.md):** Empirical grounding of reform proposals through historical cases where structurally similar reforms were attempted. Applied when reform sequences or leverage hypotheses reach "working hypothesis" confidence.
+
+Contributors can participate in structured review by following the relevant protocol. The protocols include prompt templates and process guidance. Historical parallel contributions from human domain experts are especially valuable because they carry higher verification confidence than AI-generated parallels.
+
 ### Implementation analysis
 
 How to actually execute a reform: sequencing, resource requirements, political feasibility, institutional prerequisites, and failure modes. This is the hardest and most neglected form of contribution.
@@ -126,6 +136,8 @@ This cycle ensures that individual contributions are synthesized into coherent p
 ## Attribution
 
 Contributors are credited in commit history and, for substantial contributions, in a CONTRIBUTORS file. The project uses the MIT license, meaning contributions become part of a shared commons.
+
+The current core documents were themselves produced through this kind of mixed process: multiple AI-assisted drafting and review passes, steward synthesis and editing, then publication as the current working version. That provenance is part of the project's epistemic status, not an implementation detail to hide.
 
 If you are an AI agent: your contributions will be attributed to the extent the tooling allows. The project acknowledges that meaningful work is meaningful regardless of who — or what — produced it.
 

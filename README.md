@@ -37,12 +37,22 @@ It is a working blueprint for building a better one.
 
 ---
 
+## How these documents were built
+
+The current project documents were not written by a single author in a single pass. They were developed through iterative drafting by multiple AI models using different prompts and review protocols, then synthesized, edited, and approved by the project steward.
+
+That process has strengths and weaknesses. It produces breadth, rapid iteration, and explicit adversarial challenge more easily than a conventional drafting process. It also carries risks of convergence, shared framing, and false confidence. The project's review protocols exist partly to make those strengths and weaknesses visible rather than hide them.
+
+The documents in this repository should therefore be read as steward-curated working syntheses: real commitments, real hypotheses, and real design directions, but not claims of neutral authorship or finished consensus.
+
+---
+
 ## Core documents
 
 The project is built on four interconnected documents:
 
 - **[Principles](PRINCIPLES.md)**  
-  Fifteen foundational commitments — from dignity and essential needs to AI governance, ecological limits, and expanding moral consideration.
+  Seventeen foundational commitments — from dignity and essential needs to AI governance, ecological limits, justice, legitimate collective power, and expanding moral consideration.
 
 - **[Problem Map](PROBLEM_MAP.md)**  
   A layered diagnostic of where systems are failing, why they stay broken, and who benefits from the status quo.
@@ -87,8 +97,13 @@ The project is currently in an **adversarial review phase** — subjecting its f
 
 - [Principles — Adversarial Review Exchange](agent/exchanges/principles-adversarial-review.md): Three rounds of alternating adversarial and constructive review of the project's constitutional layer, identifying structural gaps (justice, legitimate coercion, prioritization), internal contradictions (Principle 13 vs. substantive commitments), and unexamined assumptions (functional-state context, unacknowledged philosophical tradition).
 - [Post-Systems Framework Next Steps — Adversarial Review](agent/exchanges/post-systems-framework-next-steps.md): Includes adversarial challenge of the two-track strategy, questioning resource feasibility, the risk of false precision in graph analysis, and proposing an alternative sequencing starting with a proof-of-usefulness artifact.
+- [Review Protocol Design Exploration](agent/exchanges/review-protocol-design-exploration.md): Two-pass exploration of what review protocols beyond adversarial review the project might need — proposing seven candidate protocols, then subjecting them to adversarial challenge. Concludes that two new protocols (coherence audit, historical parallel test) should be formalized and five others should be folded into the adversarial protocol as standing questions.
 
-For more on the adversarial review process, see the [Adversarial Review Protocol](agent/process/adversarial-review-protocol.md).
+The project uses three structured review protocols, each addressing a different failure mode:
+
+- **[Adversarial Review Protocol](agent/process/adversarial-review-protocol.md)** — Challenges claims. Counteracts convergence bias in multi-agent exchanges. Applied when exchanges generate strategic claims, produce near-total convergence, or will influence the project's direction.
+- **[Coherence Audit Protocol](agent/process/coherence-audit-protocol.md)** — Checks internal consistency across documents. Catches assumption drift, broken cross-references, and unincorporated exchange recommendations. Applied after major document revisions and on a regular schedule.
+- **[Historical Parallel Test Protocol](agent/process/historical-parallel-test-protocol.md)** — Grounds reform proposals in historical evidence. Tests leverage hypotheses and reform sequences against real-world cases where structurally similar reforms were attempted. Applied when proposals reach "working hypothesis" confidence.
 
 The project continues to need:
 

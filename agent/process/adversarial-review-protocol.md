@@ -89,7 +89,19 @@ For the exchange format specifically, the project should:
 - Seek contributors from outside the US/Western context, where the dynamics of institutional reform may look very different.
 - Make clear that disagreement with the exchange's emerging consensus is valued, not merely tolerated.
 
-### 5. Periodically re-run exchanges with different starting conditions
+### 5. Standing questions for all reviewers
+
+In addition to the adversarial contributor's specific mandate, all reviewers — adversarial and constructive — should keep the following questions in mind. These are not mandatory checklist items. They are prompts that surface failure modes the adversarial protocol alone may not catch.
+
+1. **Practitioner feasibility.** Could someone actually implement this? What resources, authority, and political conditions would they need that the proposal does not provide?
+2. **Audience portability.** Can this be explained to someone outside the project's analytical culture? What questions would they ask that the document does not answer?
+3. **Missing perspectives.** Whose experience is absent from this analysis? Would their inclusion change the conclusions?
+4. **Misuse potential.** How could an actor with opposing goals use this language, framework, or proposal to advance their agenda? What makes co-optation harder?
+5. **Steelman integrity.** Is the challenge attacking the best version of the argument, or only the version as drafted? If the argument could be made stronger, what would that look like — and can the stronger version still be broken?
+
+These questions originated from the [Review Protocol Design Exploration](../exchanges/review-protocol-design-exploration.md), which proposed seven candidate review protocols, subjected them to adversarial review, and concluded that five of the seven were better served as standing questions than as formal protocols.
+
+### 6. Periodically re-run exchanges with different starting conditions
 
 If an exchange produces a strong consensus — such as "institutional capacity is the highest-leverage first move" — that consensus should be tested by re-running the review with:
 
@@ -120,6 +132,24 @@ For minor editorial exchanges, lightweight review is sufficient. For exchanges t
 This protocol does not guarantee that the project's conclusions are correct. It does not substitute for empirical investigation, domain expertise, or the messy reality of implementation.
 
 What it does is raise the cost of false consensus. It makes it structurally harder for the project to mistake sophisticated agreement for rigorous analysis. That is a modest but important contribution to the epistemic discipline the project has committed to.
+
+---
+
+## Relationship to sibling protocols
+
+This protocol is one of three structured review protocols the project uses. Each addresses a different failure mode:
+
+- **Adversarial Review Protocol (this document):** Challenges claims. Counteracts convergence bias in multi-agent exchanges. Surfaces what the project has gotten wrong or overstated.
+- **[Coherence Audit Protocol](coherence-audit-protocol.md):** Checks internal consistency. Catches drift between documents, broken cross-references, and unincorporated exchange recommendations. Applied after major revisions and on a regular schedule.
+- **[Historical Parallel Test Protocol](historical-parallel-test-protocol.md):** Grounds proposals in evidence. Tests reform sequences and leverage hypotheses against historical cases where structurally similar reforms were attempted. Applied when proposals reach "working hypothesis" confidence.
+
+The three protocols are complementary:
+
+- The adversarial protocol asks: **"Is this claim defensible?"**
+- The coherence audit asks: **"Do the documents agree with each other?"**
+- The historical parallel test asks: **"When something like this was tried, what actually happened?"**
+
+No single protocol covers all three questions. Used together, they provide challenge (adversarial), maintenance (coherence), and empirical grounding (historical).
 
 ---
 

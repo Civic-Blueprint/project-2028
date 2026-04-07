@@ -4,6 +4,8 @@ This is not a campaign platform. It is not a declaration of solutions.
 
 It is a working framework for thinking clearly about civilizational bottlenecks, leverage points, and design choices — and for asking, honestly, where movement might actually be possible.
 
+The current version was developed through steward-directed iteration across multiple AI-assisted drafting, critique, and adversarial review passes. It should be read as a working synthesis shaped by different model outputs and review protocols, not as a finished document from a single authorial perspective.
+
 The [Problem Map](PROBLEM_MAP.md) asks: _where is the system stuck, and why?_
 
 This document asks a harder question: _what would it take to make the system movable — and in what order?_
