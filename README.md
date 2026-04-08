@@ -93,6 +93,12 @@ Two parallel tracks are now in focus (see [Next Steps](agent/exchanges/post-syst
 1. **A public entry point** — a website that makes the project's analysis readable and navigable for the domain experts, scholars, and practitioners whose perspectives are most needed.
 2. **Computational dependency analysis** — formalizing the dependency graph that the Problem Map and Systems Framework describe in prose, and subjecting the project's leverage hypotheses to quantitative analysis.
 
+Progress on Track 1 now lives in the companion website repository at `../civicblueprint.org/`:
+
+- `docs/WEBSITE_PHASE_1_BRIEF.md` — Phase 1 scope, audience, and launch plan
+- `docs/HOMEPAGE_COPY_DRAFT.md` — current homepage draft
+- `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — the first comparative proof-of-usefulness memo (housing permitting + AI governance)
+
 The project is currently in an **adversarial review phase** — subjecting its foundational documents to structured challenge before building outward. Completed exchanges:
 
 - [Principles — Adversarial Review Exchange](agent/exchanges/principles-adversarial-review.md): Three rounds of alternating adversarial and constructive review of the project's constitutional layer, identifying structural gaps (justice, legitimate coercion, prioritization), internal contradictions (Principle 13 vs. substantive commitments), and unexamined assumptions (functional-state context, unacknowledged philosophical tradition).
