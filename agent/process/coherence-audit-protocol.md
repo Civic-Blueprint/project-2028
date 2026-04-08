@@ -34,11 +34,13 @@ A coherence audit should be performed:
 
 - **After an exchange produces specific recommendations for document changes.** The audit tracks whether those recommendations have been incorporated or explicitly deferred.
 
+- **After a new exchange is created or an exchange's status changes.** The [Exchange Index](../exchanges/_EXCHANGE_INDEX.md) should be verified against the actual exchange files. (The `civic-blueprint-exchange` Cursor skill handles index registration at creation time; the audit catches anything the skill missed or that drifted afterward.)
+
 - **On a regular schedule.** Even without a triggering revision, a coherence check should be performed approximately every 3-5 exchanges or at any significant project milestone. Documents can drift even when no single revision causes the drift.
 
 ### 2. Scope
 
-Each audit covers two categories:
+Each audit covers three categories:
 
 **Cross-document consistency:**
 
@@ -52,6 +54,14 @@ Each audit covers two categories:
 - Which have been incorporated into the relevant documents?
 - Which have been explicitly deferred (with reasoning)?
 - Which have not been addressed?
+
+**Exchange index integrity:**
+
+- Does the [Exchange Index](../exchanges/_EXCHANGE_INDEX.md) include an entry for every exchange file in `agent/exchanges/`?
+- Are the status fields in the index consistent with the status blocks at the top of each exchange file?
+- Are dependency links accurate — does each exchange's "Depends on" field reflect the actual context it assumes?
+- Is the dependency graph current?
+- Are cross-repo artifact references still valid (do the linked files in `civicblueprint.org` still exist at those paths)?
 
 ### 3. Process
 
@@ -94,6 +104,8 @@ The checklist is not a narrative document. It is a maintenance artifact. It shou
 | 1 | Drift | Principles §13 | Systems Framework §14.3 | Principles exchange proposed constraining self-determination within substantive commitments; SF still references self-determination as unconstrained | Revise SF §14.3 to align with the proposed Principle 13 revision, or note that the revision has not yet been adopted |
 | 2 | Broken reference | README, Status section | agent/exchanges/ | README references "Post-Systems Framework Next Steps" but the exchange file was renamed | Update the README link |
 | 3 | Unincorporated | Principles exchange, rec #3 | Principles | Exchange recommended adding a principle on justice; Principles document has not been revised | Decide whether to adopt, defer, or decline; document the decision |
+| 4 | Broken reference | Exchange Index, entry #6 | civicblueprint.org | Cross-repo artifact link points to a memo that was renamed | Update the Exchange Index cross-repo table |
+| 5 | Drift | Exchange Index, entry #3 | post-systems-framework-next-steps.md | Index says "Active discussion" but the exchange status block was updated to reflect Track 1 progress | Sync the index status with the exchange status block |
 
 ### 5. Resolution
 
@@ -137,6 +149,7 @@ Its value is preventive: it catches the slow accumulation of inconsistencies tha
 
 - **Adversarial Review Protocol:** The adversarial protocol challenges what the documents say. The coherence audit checks whether the documents agree with each other. They are complementary, not overlapping.
 - **Historical Parallel Test Protocol:** The historical parallel test adds new content to the Systems Framework. Each addition is a potential source of coherence drift and should trigger a lightweight coherence check against the relevant Principles and Problem Map sections.
+- **Exchange Index and Cursor skill:** The `civic-blueprint-exchange` Cursor skill registers new exchanges in the [Exchange Index](../exchanges/_EXCHANGE_INDEX.md) at creation time, reducing the coherence audit's burden for index maintenance. The audit still verifies index accuracy as a catch for anything the skill missed or that drifted after initial registration.
 
 ---
 

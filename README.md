@@ -99,7 +99,7 @@ Progress on Track 1 now lives in the companion website repository at `../civicbl
 - `docs/HOMEPAGE_COPY_DRAFT.md` — current homepage draft
 - `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — the first comparative proof-of-usefulness memo (housing permitting + AI governance)
 
-The project is currently in an **adversarial review phase** — subjecting its foundational documents to structured challenge before building outward. Completed exchanges:
+The project is currently in an **adversarial review phase** — subjecting its foundational documents to structured challenge before building outward. A full navigational index of all exchanges — including dependency links, status, and a visual dependency graph — is available at [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md). Completed exchanges:
 
 - [Principles — Adversarial Review Exchange](agent/exchanges/principles-adversarial-review.md): Three rounds of alternating adversarial and constructive review of the project's constitutional layer, identifying structural gaps (justice, legitimate coercion, prioritization), internal contradictions (Principle 13 vs. substantive commitments), and unexamined assumptions (functional-state context, unacknowledged philosophical tradition).
 - [Post-Systems Framework Next Steps — Adversarial Review](agent/exchanges/post-systems-framework-next-steps.md): Includes adversarial challenge of the two-track strategy, questioning resource feasibility, the risk of false precision in graph analysis, and proposing an alternative sequencing starting with a proof-of-usefulness artifact.
