@@ -63,6 +63,9 @@ The project is built on four interconnected documents:
 - **[Contributing](CONTRIBUTING.md)**  
   How to participate, what quality means here, and how the project practices the transparent governance it advocates.
 
+- **[Roadmap](ROADMAP.md)**  
+  Recommended next steps drawn from exchange findings. Tracks what has been completed, what is in progress, and what comes next — including the structured practitioner critique, fast-feedback validation case design, and recursive uplift theory revision.
+
 ---
 
 ## How to contribute
