@@ -8,7 +8,7 @@ on:
       - "*.md"
       - "agent/**/*.md"
       - "memos/**/*.md"
-      - "notify-website.yml"
+      - ".github/workflows/notify-website.yml"
 
 permissions:
   contents: read
