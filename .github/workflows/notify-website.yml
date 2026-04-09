@@ -17,8 +17,18 @@ jobs:
   dispatch:
     runs-on: ubuntu-latest
     steps:
-      - uses: peter-evans/repository-dispatch@v3
+      # Uses a GitHub App installation token so dispatch auth is not tied to any personal PAT.
+      - name: Generate GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v3
         with:
-          token: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
+          app-id: ${{ vars.DISPATCH_APP_ID }}
+          private-key: ${{ secrets.DISPATCH_APP_PRIVATE_KEY }}
+          owner: Civic-Blueprint
+          repositories: civicblueprint.org
+      - name: Dispatch content-updated event
+        uses: peter-evans/repository-dispatch@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
           repository: Civic-Blueprint/civicblueprint.org
           event-type: content-updated
