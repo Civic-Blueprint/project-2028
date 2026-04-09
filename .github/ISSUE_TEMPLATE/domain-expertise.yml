@@ -1,0 +1,51 @@
+name: Share domain expertise
+description: Contribute expert or practitioner knowledge from a specific domain.
+title: "Domain expertise: "
+labels:
+  - domain-expertise
+  - website-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to share domain knowledge that can improve the framework.
+  - type: input
+    id: domain
+    attributes:
+      label: Domain or system area
+      description: Name the system you know directly.
+      placeholder: e.g. local housing permitting, hospital operations, utility regulation
+    validations:
+      required: true
+  - type: textarea
+    id: lived-context
+    attributes:
+      label: Your context
+      description: Briefly describe your role, perspective, or experience.
+      placeholder: I work on...
+    validations:
+      required: true
+  - type: textarea
+    id: framework-fit
+    attributes:
+      label: What the framework gets right or wrong
+      description: Identify specific strengths and weaknesses in the current analysis.
+      placeholder: The framework correctly identifies..., but misses...
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence, examples, or references
+      description: Share concrete examples, data, or links.
+      placeholder: Evidence and references...
+    validations:
+      required: false
+  - type: textarea
+    id: actionable-revision
+    attributes:
+      label: Suggested revision
+      description: Suggest a concrete update to a document or section.
+      placeholder: Consider adding...
+    validations:
+      required: false

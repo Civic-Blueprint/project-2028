@@ -1,0 +1,50 @@
+name: Challenge a directional claim
+description: Challenge or pressure-test a central claim in the framework.
+title: "Challenge: "
+labels:
+  - challenge
+  - website-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to challenge a directional claim in Civic Blueprint. Be specific about what claim you are challenging and why.
+  - type: input
+    id: claim-location
+    attributes:
+      label: Which claim are you challenging?
+      description: Link to the page, section, or sentence if possible.
+      placeholder: e.g. SYSTEMS_FRAMEWORK.md -> Institutional Capacity section
+    validations:
+      required: true
+  - type: textarea
+    id: challenge
+    attributes:
+      label: What is wrong, overstated, or incomplete?
+      description: Explain your disagreement directly and precisely.
+      placeholder: I think this claim overstates...
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or reasoning
+      description: Include data, case examples, citations, or concrete reasoning.
+      placeholder: Supporting evidence goes here...
+    validations:
+      required: true
+  - type: textarea
+    id: alternative
+    attributes:
+      label: Better framing or alternative claim
+      description: If possible, propose a stronger way to frame the claim.
+      placeholder: A better claim would be...
+    validations:
+      required: false
+  - type: checkboxes
+    id: quality-check
+    attributes:
+      label: Submission check
+      options:
+        - label: I have explained a specific claim and provided concrete support for my challenge.
+          required: true

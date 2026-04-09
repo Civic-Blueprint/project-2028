@@ -1,0 +1,43 @@
+name: Suggest a missing perspective
+description: Identify a missing stakeholder, context, or framing in the analysis.
+title: "Missing perspective: "
+labels:
+  - missing-perspective
+  - website-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to identify a perspective that Civic Blueprint is not yet capturing.
+  - type: input
+    id: missing-perspective
+    attributes:
+      label: What perspective is missing?
+      description: Name the missing perspective, community, region, or stakeholder.
+      placeholder: e.g. municipal implementers in small cities
+    validations:
+      required: true
+  - type: textarea
+    id: why-missing
+    attributes:
+      label: Why this omission matters
+      description: Explain what blind spot this creates.
+      placeholder: Without this perspective, the framework risks...
+    validations:
+      required: true
+  - type: textarea
+    id: implications
+    attributes:
+      label: How this should change the framework
+      description: Suggest a concrete update to claims, dependencies, or priorities.
+      placeholder: This should change...
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Supporting context or references
+      description: Include examples, sources, or experience-based detail.
+      placeholder: Supporting detail...
+    validations:
+      required: false

@@ -1,0 +1,43 @@
+name: Point to a historical case
+description: Add a historical parallel that supports or challenges current claims.
+title: "Historical case: "
+labels:
+  - historical-case
+  - website-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to add a historical case that helps test Civic Blueprint claims.
+  - type: input
+    id: case-name
+    attributes:
+      label: Historical case
+      description: Name the case and, if useful, include years and location.
+      placeholder: e.g. Singapore housing reforms (1960s-1980s)
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Why this case is relevant
+      description: Explain how the case maps to a framework claim or dependency.
+      placeholder: This case is relevant because...
+    validations:
+      required: true
+  - type: textarea
+    id: takeaway
+    attributes:
+      label: What this case suggests
+      description: Describe what the case confirms, complicates, or contradicts.
+      placeholder: This case suggests...
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Share references for verification.
+      placeholder: Book, paper, archival source, report, or link...
+    validations:
+      required: false

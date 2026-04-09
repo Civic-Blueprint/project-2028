@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Website response form
+    url: https://civicblueprint.org/respond
+    about: Use this if you prefer to submit without a GitHub account.
