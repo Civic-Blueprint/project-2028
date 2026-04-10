@@ -44,6 +44,20 @@ Design and launch a structured review process targeting domain practitioners.
 
 **Relationship to organic feedback:** Friends, colleagues, and issue submissions via the website form provide early signal on whether the memo lands. The structured practitioner critique is a different thing: it tests whether the framework survives expert scrutiny from people with relevant operational experience.
 
+**Operational boundary (intake rule):**
+
+- Any issue labeled `website-submission` is treated as **organic feedback** by default.
+- Structured practitioner critique includes only invited or intentionally recruited reviewers using the Recommendation 2 prompt in the defined collection window.
+- Unsolicited public issues do not become structured-critique evidence unless they are explicitly incorporated into that separate process.
+
+**Current organic feedback triage (April 2026):**
+
+- [#8 Historical case](https://github.com/Civic-Blueprint/project-2028/issues/8): initial disposition `accepted-for-review-later` (candidate for debt/fiscal-capture or legitimacy/commonwealth synthesis).
+- [#9 Missing perspective](https://github.com/Civic-Blueprint/project-2028/issues/9): initial disposition `needs-steward-discussion` (housing financialization as an upstream-capture mechanism).
+- [#10 Missing perspective](https://github.com/Civic-Blueprint/project-2028/issues/10): initial disposition `needs-steward-discussion` (AI commonwealth framing alongside AI governance framing).
+
+These are organic submissions. They are inputs to steward synthesis and roadmap refinement, not substitutes for structured practitioner critique.
+
 ---
 
 ### Recommendation 3: Formally separate the three kinds of "first"
@@ -52,11 +66,11 @@ Design and launch a structured review process targeting domain practitioners.
 
 The project has been conflating three different questions. This roadmap now makes the separation explicit:
 
-| Question | Current answer | Status |
-|---|---|---|
-| What is the first public orientation artifact? | Comparative Memo 01 (housing + AI) | **Decided. Shipped.** |
-| What is the first fast-feedback learning mechanism? | Structured practitioner critique of Memo 01 | **Decided. Not yet launched.** (See Recommendation 2) |
-| What is the first empirical validation case? | To be designed. Criteria established, domain not yet selected. | **Open.** (See Recommendation 4) |
+| Question                                            | Current answer                                                 | Status                                                |
+| --------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
+| What is the first public orientation artifact?      | Comparative Memo 01 (housing + AI)                             | **Decided. Shipped.**                                 |
+| What is the first fast-feedback learning mechanism? | Structured practitioner critique of Memo 01                    | **Decided. Not yet launched.** (See Recommendation 2) |
+| What is the first empirical validation case?        | To be designed. Criteria established, domain not yet selected. | **Open.** (See Recommendation 4)                      |
 
 ---
 
@@ -111,11 +125,11 @@ The exchange's most important finding is that recursive uplift, as currently for
 
 **The three-layer decomposition:**
 
-| Layer | Claim | Testable on short timelines? |
-|---|---|---|
-| **Execution** | Institutions can deliver visibly better outcomes in a bounded domain | Yes |
-| **Trust** | Visible performance shifts behavioral trust indicators (uptake, re-engagement, compliance, participation) | Partially — behavioral proxies are observable but attribution is contested |
-| **Sequence** | Trust and legitimacy gains make subsequent reforms more feasible | No — inherently long-cycle, politically mediated |
+| Layer         | Claim                                                                                                     | Testable on short timelines?                                               |
+| ------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Execution** | Institutions can deliver visibly better outcomes in a bounded domain                                      | Yes                                                                        |
+| **Trust**     | Visible performance shifts behavioral trust indicators (uptake, re-engagement, compliance, participation) | Partially — behavioral proxies are observable but attribution is contested |
+| **Sequence**  | Trust and legitimacy gains make subsequent reforms more feasible                                          | No — inherently long-cycle, politically mediated                           |
 
 **The hardest finding:** The visible-competence-to-trust cascade is the framework's most distinctive claim, and it has no direct empirical support. That is not a weakness to hide. It is a gap to name publicly and then work to close.
 

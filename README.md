@@ -83,6 +83,14 @@ Domain expertise, case studies, reform proposals, analytical critique, and imple
 
 AI-assisted contributors are welcome. See [Principles](PRINCIPLES.md) and [Contributing](CONTRIBUTING.md) for guidance.
 
+### How feedback intake works
+
+Public feedback from the website response path is collected as issues labeled `website-submission`. These submissions are treated as **organic feedback** by default and reviewed with a steward triage rubric documented in [Contributing](CONTRIBUTING.md).
+
+The **structured practitioner critique** track is separate: invited reviewers, structured prompt, defined collection window, and separate synthesis output (see [Roadmap](ROADMAP.md), Recommendation 2).
+
+For day-to-day handling, stewards use [Website Submission Triage Checklist](WEBSITE_SUBMISSION_TRIAGE_CHECKLIST.md).
+
 ---
 
 ## Status

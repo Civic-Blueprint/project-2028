@@ -76,6 +76,25 @@ Follow the standard fork-and-PR workflow. Technical contributions should include
 
 Open an issue or participate in existing discussions. Critique is valued, but it must be constructive — identifying a problem is useful; proposing a better alternative is more useful.
 
+### For website submissions
+
+The `website-submission` label identifies feedback submitted through the public response path.
+
+- **Default classification:** Every `website-submission` issue is treated as **organic feedback**.
+- **Not structured critique:** Unsolicited submissions are not part of the structured practitioner critique track by default.
+- **Structured practitioner critique only includes responses that are**:
+  - invited or intentionally recruited by stewards
+  - collected using the structured prompt in [Roadmap](ROADMAP.md)
+  - collected during the defined review window
+  - tracked separately from unsolicited issue flow
+
+Stewards should acknowledge each new `website-submission` issue within a defined internal window and include:
+
+1. confirmation of receipt
+2. submission type restatement
+3. next review step
+4. initial review bucket
+
 ---
 
 ## Quality standards
@@ -130,6 +149,38 @@ The project operates on a regular synthesis cycle:
 5. **A changelog documents** what changed and why.
 
 This cycle ensures that individual contributions are synthesized into coherent progress rather than accumulating as disconnected fragments.
+
+### Website-submission triage rubric
+
+Use the one-page template in [Website Submission Triage Checklist](WEBSITE_SUBMISSION_TRIAGE_CHECKLIST.md).
+
+Scoring dimensions (each `0-2`): `Relevance`, `Specificity`, `Evidence`, `Novelty`, `Actionability`, `Steward priority`.
+
+Routing bands:
+
+- `0-4`: acknowledge and hold unless elevated by steward judgment
+- `5-8`: include in next synthesis cycle
+- `9-12`: steward review soon (tracking issue, synthesis note, or follow-up discussion)
+
+### Website-submission disposition states
+
+Each `website-submission` issue should end with one explicit disposition:
+
+- `accepted-for-integration`
+- `accepted-for-review-later`
+- `needs-steward-discussion`
+- `duplicate-or-overlapping`
+- `declined-with-reason`
+
+When an issue is closed, link to the absorbing artifact (PR, roadmap note, memo revision, synthesis note, or follow-up issue).
+
+### Website-submission synthesis cadence
+
+To avoid ad hoc handling:
+
+1. review new `website-submission` issues weekly or biweekly
+2. group related items by memo/framework section
+3. publish one synthesis note or tracking issue summarizing what changed, what did not, and why
 
 ---
 
