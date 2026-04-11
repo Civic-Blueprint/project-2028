@@ -356,54 +356,50 @@ A visual rendering of this dependency network — showing all 15 nodes, their op
 
 ### Operational dependencies: what systems need to function
 
-These flow generally downward through the layers. They describe the architecture of how things work:
+These flow generally downward through the layers. As a quick reference, the operational map is easiest to read as an index:
 
-```
-Layer 1 (Foundational) ──────────────────▶ Layer 2 (Essential)
+```text
+Operational dependency index
 
-  Energy/Infrastructure ──────────────────▶ Housing, Food, Healthcare
-  Capital Allocation ─────────────────────▶ Housing, Healthcare, Education, Family/Care
-  Information Integrity ──────────────────▶ Healthcare, Education, all democratic processes
-  Institutional Capacity ─────────────────▶ All of Layer 2 (execution layer)
-
-Layer 2 internal:
-  Housing + Healthcare ───────────────────▶ Family/Care
-
-Layer 3 (Structural) ────────────────────▶ Constrains/reinforces all layers
-  Ecological Stress ──────────────────────▶ Food, Energy, Infrastructure, Health
-  Wealth Concentration ───────────────────▶ Shapes incentives across all domains
-  AI Concentration ───────────────────────▶ Reshaping labor, information, institutional capacity
-
-Layer 4 (Meta-conditions) ───────────────▶ Produces outputs all layers depend on
-  Democratic Process ──────────────────────▶ Laws, budgets, appointments, regulatory frameworks
-  Democratic Process ──────────────────────▶ Information integrity governance, institutional oversight
+1  Energy/Infrastructure -> 5 Housing, 6 Healthcare, 8 Food
+2  Capital Allocation -> 1 Energy/Infrastructure, 5 Housing, 6 Healthcare, 7 Education, 9 Family/Care
+3  Information Integrity -> 6 Healthcare, 7 Education, 13 Institutional Legitimacy, 15 Democratic Process
+4  Institutional Capacity -> 5 Housing, 6 Healthcare, 7 Education, 8 Food, 9 Family/Care, 13 Institutional Legitimacy, 15 Democratic Process
+5  Housing -> 9 Family/Care
+6  Healthcare -> 9 Family/Care
+7  Education -> 4 Institutional Capacity, 14 Talent Pipeline
+8  Food -> 13 Institutional Legitimacy
+9  Family/Care -> 13 Institutional Legitimacy, 14 Talent Pipeline
+10 Wealth Concentration -> 2 Capital Allocation, 4 Institutional Capacity, 5 Housing, 6 Healthcare, 13 Institutional Legitimacy, 15 Democratic Process
+11 AI Concentration -> 3 Information Integrity, 4 Institutional Capacity, 7 Education, 10 Wealth Concentration, 15 Democratic Process
+12 Ecological Stress -> 1 Energy/Infrastructure, 5 Housing, 6 Healthcare, 8 Food
+13 Institutional Legitimacy -> 2 Capital Allocation, 3 Information Integrity, 4 Institutional Capacity, 15 Democratic Process
+14 Talent Pipeline -> 4 Institutional Capacity
+15 Democratic Process -> 1 Energy/Infrastructure, 2 Capital Allocation, 3 Information Integrity, 4 Institutional Capacity, 5 Housing, 6 Healthcare, 7 Education, 8 Food, 9 Family/Care, 13 Institutional Legitimacy
 ```
 
 ### Reform dependencies: what changing these systems requires
 
-These often flow in the opposite direction — and that is the central difficulty:
+These often flow in the opposite direction — and that is the central difficulty. Read each line as "reforming this domain requires improvement in":
 
-```
-Reforming Layer 1 requires ◀──────────── Layer 4 (Meta-conditions)
+```text
+Reform dependency index
 
-  Fixing infrastructure ◀──────────────── Institutional capacity + political will
-  Fixing capital allocation ◀──────────── Institutional legitimacy + public understanding
-  Fixing information systems ◀─────────── Democratic process + institutional trust
-  Fixing institutional capacity ◀──────── Talent + legitimacy + democratic process
-
-Reforming Layer 2 requires ◀──────────── Layers 1 + 4
-
-  Fixing housing ◀─────────────────────── Infrastructure + capital + institutional capacity
-  Fixing healthcare ◀──────────────────── Capital + institutions + information integrity
-  Fixing education ◀───────────────────── Information + institutions + employer coordination
-  Fixing food systems ◀───────────────── Agricultural policy reform + ecological stability
-  Fixing family/care ◀────────────────── Housing + healthcare reform + political coalitions
-
-Reforming Layer 4 requires ◀──────────── Layer 4 (recursive)
-
-  Fixing democratic process ◀──────────── Democratic process + institutional trust + information integrity
-  Fixing institutional trust ◀─────────── Institutional capacity + democratic legitimacy
-  Fixing talent pipelines ◀────────────── Institutional capacity + public investment via democratic process
+1  Energy/Infrastructure <- 2 Capital Allocation, 4 Institutional Capacity, 15 Democratic Process
+2  Capital Allocation <- 3 Information Integrity, 13 Institutional Legitimacy, 15 Democratic Process
+3  Information Integrity <- 4 Institutional Capacity, 13 Institutional Legitimacy, 15 Democratic Process
+4  Institutional Capacity <- 13 Institutional Legitimacy, 14 Talent Pipeline, 15 Democratic Process
+5  Housing <- 1 Energy/Infrastructure, 2 Capital Allocation, 4 Institutional Capacity, 15 Democratic Process
+6  Healthcare <- 2 Capital Allocation, 3 Information Integrity, 4 Institutional Capacity, 15 Democratic Process
+7  Education <- 2 Capital Allocation, 3 Information Integrity, 4 Institutional Capacity, 15 Democratic Process
+8  Food <- 1 Energy/Infrastructure, 4 Institutional Capacity, 12 Ecological Stress, 15 Democratic Process
+9  Family/Care <- 2 Capital Allocation, 5 Housing, 6 Healthcare, 15 Democratic Process
+10 Wealth Concentration <- 3 Information Integrity, 13 Institutional Legitimacy, 15 Democratic Process
+11 AI Concentration <- 4 Institutional Capacity, 13 Institutional Legitimacy, 15 Democratic Process
+12 Ecological Stress <- 4 Institutional Capacity, 13 Institutional Legitimacy, 15 Democratic Process
+13 Institutional Legitimacy <- 4 Institutional Capacity, 15 Democratic Process
+14 Talent Pipeline <- 4 Institutional Capacity, 13 Institutional Legitimacy, 15 Democratic Process
+15 Democratic Process <- 3 Information Integrity, 13 Institutional Legitimacy, 15 Democratic Process
 ```
 
 ### Recursive loops

@@ -8,9 +8,11 @@
 #   layer           1 = Foundational, 2 = Essential, 3 = Structural, 4 = Meta-conditions
 #   operational_out IDs this node operationally feeds (steady-state, generally downward)
 #   reform_requires IDs whose improvement is needed to reform this node (generally upward)
-#   recursive_binds Loop IDs this node participates in
+#   recursive_binds Loop IDs this node participates in (only the 4 loops explicitly named
+#                   in the PROBLEM_MAP.md "Recursive loops" section)
 #
-# Loops are circular dependency chains. Path lists walk the loop by node ID.
+# Loops are circular dependency chains explicitly identified in the Problem Map.
+# Path lists walk the loop by node ID.
 
 graph:
   nodes:
@@ -20,7 +22,7 @@ graph:
       layer: 1
       operational_out: [5, 6, 8]
       reform_requires: [4, 2, 15]
-      recursive_binds: [build_chain]
+      recursive_binds: []
 
     - id: 2
       name: Money, credit, and capital allocation
@@ -28,7 +30,7 @@ graph:
       layer: 1
       operational_out: [5, 6, 7, 9, 1]
       reform_requires: [13, 3, 15]
-      recursive_binds: [wealth_political_capture]
+      recursive_binds: []
 
     - id: 3
       name: Information ecosystems
@@ -44,7 +46,7 @@ graph:
       layer: 1
       operational_out: [5, 6, 7, 8, 9, 13, 15]
       reform_requires: [14, 13, 15]
-      recursive_binds: [build_chain, institutional_distrust]
+      recursive_binds: [institutional_distrust]
 
     - id: 5
       name: Housing
@@ -52,7 +54,7 @@ graph:
       layer: 2
       operational_out: [9]
       reform_requires: [1, 2, 4, 15]
-      recursive_binds: [housing_capacity_legitimacy]
+      recursive_binds: []
 
     - id: 6
       name: Healthcare
@@ -60,7 +62,7 @@ graph:
       layer: 2
       operational_out: [9]
       reform_requires: [2, 4, 3, 15]
-      recursive_binds: [care_capacity_talent]
+      recursive_binds: []
 
     - id: 7
       name: Education and opportunity pathways
@@ -68,7 +70,7 @@ graph:
       layer: 2
       operational_out: [14, 4]
       reform_requires: [3, 2, 4, 15]
-      recursive_binds: [talent_capacity_loop]
+      recursive_binds: []
 
     - id: 8
       name: Food systems
@@ -76,7 +78,7 @@ graph:
       layer: 2
       operational_out: [13]
       reform_requires: [1, 12, 4, 15]
-      recursive_binds: [ecology_food_stability]
+      recursive_binds: []
 
     - id: 9
       name: Family support systems
@@ -84,7 +86,7 @@ graph:
       layer: 2
       operational_out: [13, 14]
       reform_requires: [5, 6, 2, 15]
-      recursive_binds: [care_capacity_talent]
+      recursive_binds: []
 
     - id: 10
       name: Wealth and power concentration
@@ -100,7 +102,7 @@ graph:
       layer: 3
       operational_out: [10, 3, 4, 7, 15]
       reform_requires: [15, 4, 13]
-      recursive_binds: [ai_concentration_ratchet]
+      recursive_binds: []
 
     - id: 12
       name: Ecological systems stress
@@ -108,7 +110,7 @@ graph:
       layer: 3
       operational_out: [1, 8, 6, 5]
       reform_requires: [15, 4, 13]
-      recursive_binds: [ecology_food_stability]
+      recursive_binds: []
 
     - id: 13
       name: Institutional trust and legitimacy
@@ -116,7 +118,7 @@ graph:
       layer: 4
       operational_out: [4, 15, 2, 3]
       reform_requires: [4, 15]
-      recursive_binds: [institutional_distrust, information_democracy]
+      recursive_binds: [institutional_distrust]
 
     - id: 14
       name: Public-interest talent pipeline
@@ -124,7 +126,7 @@ graph:
       layer: 4
       operational_out: [4]
       reform_requires: [4, 13, 15]
-      recursive_binds: [talent_capacity_loop]
+      recursive_binds: []
 
     - id: 15
       name: Democratic process
@@ -132,7 +134,7 @@ graph:
       layer: 4
       operational_out: [13, 4, 1, 2, 3, 5, 6, 7, 8, 9]
       reform_requires: [15, 13, 3]
-      recursive_binds: [democratic_process_reform, information_democracy]
+      recursive_binds: [democratic_process_reform, information_democracy, wealth_political_capture]
 
   loops:
     - id: institutional_distrust
@@ -162,50 +164,3 @@ graph:
       description: >
         Fixing democratic process requires democratic process; degraded process
         blocks its own reform; degradation compounds.
-
-    - id: build_chain
-      name: Build chain
-      path: [4, 1, 5, 13, 4]
-      description: >
-        Institutional capacity enables infrastructure; infrastructure enables
-        housing; housing stability rebuilds legitimacy; legitimacy sustains
-        institutional capacity.
-
-    - id: talent_capacity_loop
-      name: Talent-capacity loop
-      path: [14, 4, 13, 14]
-      description: >
-        Talent feeds institutional capacity; capacity builds legitimacy;
-        legitimacy attracts talent.
-
-    - id: housing_capacity_legitimacy
-      name: Housing-capacity-legitimacy cascade
-      path: [5, 9, 13, 4, 5]
-      description: >
-        Housing reform stabilises families; family stability supports
-        institutional legitimacy; legitimacy sustains capacity to reform
-        housing.
-
-    - id: care_capacity_talent
-      name: Care-talent trap
-      path: [9, 14, 4, 6, 9]
-      description: >
-        Weak care systems burn out public-interest talent; talent loss
-        degrades institutional capacity; weakened capacity cannot reform
-        healthcare; healthcare failure worsens care systems.
-
-    - id: ecology_food_stability
-      name: Ecology-food-stability chain
-      path: [12, 8, 13, 4, 12]
-      description: >
-        Ecological stress degrades food systems; food insecurity erodes
-        legitimacy; legitimacy loss weakens institutional capacity to
-        pursue ecological reform.
-
-    - id: ai_concentration_ratchet
-      name: AI concentration ratchet
-      path: [11, 10, 15, 11]
-      description: >
-        AI concentration accelerates wealth concentration; wealth
-        concentration captures democratic process; captured process
-        cannot govern AI deployment.
