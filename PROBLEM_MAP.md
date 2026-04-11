@@ -352,6 +352,8 @@ There are two maps here, not one. Conflating them is one of the reasons civiliza
 
 Although these dependencies are presented as flowing "downward" and "upward" through the layers, the real structure is a network — not a stack. Dependencies run sideways within layers, upward across them, and in circles. The layers are a reading aid; the web of relationships below is the deeper truth. As this project evolves, the dependency map is likely to become more central to the document's architecture than the layer model itself.
 
+A visual rendering of this dependency network — showing all 15 nodes, their operational and reform connections, and the recursive loops — is available on the [Civic Blueprint website](https://civicblueprint.org/docs/problem-map#dependency-map). The machine-readable graph definition is maintained in [`assets/dependency-graph.yaml`](assets/dependency-graph.yaml).
+
 ### Operational dependencies: what systems need to function
 
 These flow generally downward through the layers. They describe the architecture of how things work:
