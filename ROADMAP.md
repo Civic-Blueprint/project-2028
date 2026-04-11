@@ -24,9 +24,15 @@ Ship the comparative proof-of-usefulness memo as the public-facing artifact. Add
 
 ### Recommendation 2: Launch structured practitioner critique
 
-**Status: Not yet started.**
+**Status: In progress.**
 
 Design and launch a structured review process targeting domain practitioners.
+
+**Current implementation state (April 2026):**
+
+- Outreach is underway; 8 practitioners have been contacted.
+- The 4-6 week response collection window is now open from initial outreach.
+- Responses are pending; synthesis work has not started yet.
 
 **What this means:**
 
@@ -66,17 +72,17 @@ These are organic submissions. They are inputs to steward synthesis and roadmap 
 
 The project has been conflating three different questions. This roadmap now makes the separation explicit:
 
-| Question                                            | Current answer                                                 | Status                                                |
-| --------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
-| What is the first public orientation artifact?      | Comparative Memo 01 (housing + AI)                             | **Decided. Shipped.**                                 |
-| What is the first fast-feedback learning mechanism? | Structured practitioner critique of Memo 01                    | **Decided. Not yet launched.** (See Recommendation 2) |
-| What is the first empirical validation case?        | To be designed. Criteria established, domain not yet selected. | **Open.** (See Recommendation 4)                      |
+| Question                                            | Current answer                                                 | Status                                        |
+| --------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------- |
+| What is the first public orientation artifact?      | Comparative Memo 01 (housing + AI)                             | **Decided. Shipped.**                         |
+| What is the first fast-feedback learning mechanism? | Structured practitioner critique of Memo 01                    | **Decided. Launched.** (See Recommendation 2) |
+| What is the first empirical validation case?        | To be designed. Criteria established, domain not yet selected. | **Open.** (See Recommendation 4)              |
 
 ---
 
 ### Recommendation 4: Design a fast-feedback validation case
 
-**Status: Not yet started. Depends on Recommendation 2 being underway first.**
+**Status: Not yet started. Dependency satisfied: Recommendation 2 is underway.**
 
 Design (but do not rush) a bounded reform case where the process is participatory and visible, the execution improvement is measurable, and behavioral trust proxies can be tracked alongside throughput metrics.
 
@@ -153,13 +159,13 @@ The exchange established several findings that should inform all future work:
 ```
 Recommendation 1 (Ship Memo 01) ✅ Complete
     │
-    ├─► Recommendation 2 (Practitioner critique) ← START HERE
+    ├─► Recommendation 2 (Practitioner critique) ← IN PROGRESS
     │     │
     │     └─► Recommendation 5 (Evidence integration note)
     │
     ├─► Recommendation 3 (Separate the three "firsts") ← This roadmap satisfies it
     │
-    ├─► Recommendation 4 (Fast-feedback validation case) ← After Rec 2 is underway
+    ├─► Recommendation 4 (Fast-feedback validation case) ← UNBLOCKED (Rec 2 underway)
     │
     └─► Recommendation 6 (Revise recursive uplift description) ← Can proceed in parallel
 ```

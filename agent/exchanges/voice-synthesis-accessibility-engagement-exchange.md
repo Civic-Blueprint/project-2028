@@ -181,7 +181,7 @@ The technical landscape in 2026 makes this buildable at reasonable cost:
 
 The strongest counterargument is not that voice synthesis is bad — it is that it is not the _next_ thing. Exchange #7 identified six recommendations, most of which are not yet complete. The project needs:
 
-1. Structured practitioner critique (not started)
+1. Structured practitioner critique (in progress)
 2. Separation of three kinds of "first" (partially addressed)
 3. A fast-feedback validation case (not started)
 4. Transparent evidence integration (not started)
@@ -915,9 +915,9 @@ The exchange's durable outputs are:
 
 This exchange does not change the Roadmap's dependency ordering. The next steps remain:
 
-1. **Recommendation 2** (structured practitioner critique) — start here
-2. **Recommendation 5** (evidence integration note) — follows from Rec 2
-3. **Recommendation 4** (fast-feedback validation case) — after Rec 2 is underway
+1. **Recommendation 2** (structured practitioner critique) — underway; continue collection window and await responses
+2. **Recommendation 5** (evidence integration note) — can proceed now that Rec 2 is underway
+3. **Recommendation 4** (fast-feedback validation case) — now unblocked; begin candidate-domain evaluation
 4. **Recommendation 6** (revise recursive uplift description) — can proceed in parallel
 
 What this exchange adds to the project's awareness, but not to the Roadmap as a formal item:
