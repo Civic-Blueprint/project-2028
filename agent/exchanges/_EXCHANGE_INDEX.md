@@ -23,78 +23,89 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ### 1. [Problem Map Review — Priority Follow-Up](initial-problem-map-review.md)
 
-| | |
-|---|---|
-| **Question** | What are the highest-priority gaps in the Problem Map, and how should the map's architecture evolve? |
-| **Depends on** | [Problem Map](../../PROBLEM_MAP.md) (original version) |
-| **Produced** | Democratic process added as a core domain (PM §15, SF §14). Core bottleneck summaries added. Recursive uplift section added. Dependency map updated with recursive loops and network framing. |
-| **Status** | Incorporated. Open items: full web/graph model, three-map split, failure vs. stability mechanism distinction. |
+|                |                                                                                                                                                                                               |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | What are the highest-priority gaps in the Problem Map, and how should the map's architecture evolve?                                                                                          |
+| **Depends on** | [Problem Map](../../PROBLEM_MAP.md) (original version)                                                                                                                                        |
+| **Produced**   | Democratic process added as a core domain (PM §15, SF §14). Core bottleneck summaries added. Recursive uplift section added. Dependency map updated with recursive loops and network framing. |
+| **Status**     | Incorporated. Open items: full web/graph model, three-map split, failure vs. stability mechanism distinction.                                                                                 |
 
 ---
 
 ### 2. [Systems Framework Review — In Light of the Problem Map](iniital-systems-framework-review.md)
 
-| | |
-|---|---|
-| **Question** | Now that the Problem Map models interdependencies and recursive uplift, how must the Systems Framework evolve to match? |
-| **Depends on** | [Problem Map](../../PROBLEM_MAP.md) (post-review), [Exchange #1](#1-problem-map-review--priority-follow-up) |
-| **Produced** | Consensus that the Framework must evolve from parallel domain analyses into a connected dependency/leverage/uplift system. Proposed proof-of-concept rewrite of institutional capacity domain. Introduced failure-mode modeling. Raised sycophancy concern that led to the Adversarial Review Protocol. |
-| **Status** | Active exchange. Framework has been substantially revised (dependency mapping, leverage hypotheses, failure modes, sequencing section added). |
+|                |                                                                                                                                                                                                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | Now that the Problem Map models interdependencies and recursive uplift, how must the Systems Framework evolve to match?                                                                                                                                                                                 |
+| **Depends on** | [Problem Map](../../PROBLEM_MAP.md) (post-review), [Exchange #1](#1-problem-map-review--priority-follow-up)                                                                                                                                                                                             |
+| **Produced**   | Consensus that the Framework must evolve from parallel domain analyses into a connected dependency/leverage/uplift system. Proposed proof-of-concept rewrite of institutional capacity domain. Introduced failure-mode modeling. Raised sycophancy concern that led to the Adversarial Review Protocol. |
+| **Status**     | Active exchange. Framework has been substantially revised (dependency mapping, leverage hypotheses, failure modes, sequencing section added).                                                                                                                                                           |
 
 ---
 
 ### 3. [Post-Systems Framework Revision — Next Steps](post-systems-framework-next-steps.md)
 
-| | |
-|---|---|
-| **Question** | The analytical architecture is in place. What does the project need next to start earning its claims empirically? |
-| **Depends on** | [Exchange #1](#1-problem-map-review--priority-follow-up), [Exchange #2](#2-systems-framework-review--in-light-of-the-problem-map), all core documents |
-| **Produced** | Two-track strategy: (1) public website as entry point for outside contributors, (2) computational dependency analysis. Identified the central gap: all claims produced by one human + AI agents from the same context window. Includes adversarial challenge of the two-track strategy itself. |
-| **Status** | Active discussion. Track 1 work is underway in [civicblueprint.org](https://github.com/Civic-Blueprint/civicblueprint.org). Track 2 not yet started. |
+|                |                                                                                                                                                                                                                                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | The analytical architecture is in place. What does the project need next to start earning its claims empirically?                                                                                                                                                                              |
+| **Depends on** | [Exchange #1](#1-problem-map-review--priority-follow-up), [Exchange #2](#2-systems-framework-review--in-light-of-the-problem-map), all core documents                                                                                                                                          |
+| **Produced**   | Two-track strategy: (1) public website as entry point for outside contributors, (2) computational dependency analysis. Identified the central gap: all claims produced by one human + AI agents from the same context window. Includes adversarial challenge of the two-track strategy itself. |
+| **Status**     | Active discussion. Track 1 work is underway in [civicblueprint.org](https://github.com/Civic-Blueprint/civicblueprint.org). Track 2 not yet started.                                                                                                                                           |
 
 ---
 
 ### 4. [Principles — Adversarial Review Exchange](principles-adversarial-review.md)
 
-| | |
-|---|---|
-| **Question** | Do the project's foundational principles withstand structured adversarial challenge? |
-| **Depends on** | [Principles](../../PRINCIPLES.md), [Adversarial Review Protocol](../process/adversarial-review-protocol.md) |
-| **Produced** | Identified structural gaps (justice, legitimate coercion, prioritization), internal contradictions (Principle 13 vs. substantive commitments), unacknowledged philosophical tradition (liberal-democratic welfare-state). Epistemic status table classifying confidence levels across principle categories. |
-| **Status** | Complete exchange. Findings documented; some revisions incorporated into Principles, others deferred. |
+|                |                                                                                                                                                                                                                                                                                                             |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | Do the project's foundational principles withstand structured adversarial challenge?                                                                                                                                                                                                                        |
+| **Depends on** | [Principles](../../PRINCIPLES.md), [Adversarial Review Protocol](../process/adversarial-review-protocol.md)                                                                                                                                                                                                 |
+| **Produced**   | Identified structural gaps (justice, legitimate coercion, prioritization), internal contradictions (Principle 13 vs. substantive commitments), unacknowledged philosophical tradition (liberal-democratic welfare-state). Epistemic status table classifying confidence levels across principle categories. |
+| **Status**     | Complete exchange. Findings documented; some revisions incorporated into Principles, others deferred.                                                                                                                                                                                                       |
 
 ---
 
 ### 5. [Review Protocol Design Exploration](review-protocol-design-exploration.md)
 
-| | |
-|---|---|
-| **Question** | Is the adversarial protocol the only kind of structured review the project needs? What other failure modes exist, and what protocols address them? |
-| **Depends on** | [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Exchange #4](#4-principles--adversarial-review-exchange) (demonstrated the adversarial protocol works) |
-| **Produced** | Seven candidate protocols proposed, then subjected to adversarial self-challenge. Two formalized: [Coherence Audit Protocol](../process/coherence-audit-protocol.md), [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md). Five others folded into the adversarial protocol as standing questions. |
-| **Status** | Complete exchange. Protocols formalized in `agent/process/`. |
+|                |                                                                                                                                                                                                                                                                                                                                     |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | Is the adversarial protocol the only kind of structured review the project needs? What other failure modes exist, and what protocols address them?                                                                                                                                                                                  |
+| **Depends on** | [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Exchange #4](#4-principles--adversarial-review-exchange) (demonstrated the adversarial protocol works)                                                                                                                                                   |
+| **Produced**   | Seven candidate protocols proposed, then subjected to adversarial self-challenge. Two formalized: [Coherence Audit Protocol](../process/coherence-audit-protocol.md), [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md). Five others folded into the adversarial protocol as standing questions. |
+| **Status**     | Complete exchange. Protocols formalized in `agent/process/`.                                                                                                                                                                                                                                                                        |
 
 ---
 
 ### 6. [Proof-of-Usefulness Memo — Housing vs. AI Exchange](proof-of-usefulness-housing-vs-ai.md)
 
-| | |
-|---|---|
-| **Question** | Should the project's first public artifact focus on housing permitting, AI governance, or bridge the two? |
-| **Depends on** | [Exchange #3](#3-post-systems-framework-revision--next-steps) (established the proof-of-usefulness strategy), [Website Phase 1 Brief](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/WEBSITE_PHASE_1_BRIEF.md) |
-| **Produced** | Decision to write a comparative memo pairing housing permitting with AI governance, demonstrating the framework's cross-domain method. The housing-only draft was superseded. Memo produced in [civicblueprint.org/docs/PROOF_OF_USEFULNESS_MEMO_01.md](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md). |
-| **Status** | Active discussion. Comparative memo drafted. The timescale objection raised in Exchange #7 reopens part of this decision. |
+|                |                                                                                                                                                                                                                                                                                                                                                               |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | Should the project's first public artifact focus on housing permitting, AI governance, or bridge the two?                                                                                                                                                                                                                                                     |
+| **Depends on** | [Exchange #3](#3-post-systems-framework-revision--next-steps) (established the proof-of-usefulness strategy), [Website Phase 1 Brief](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/WEBSITE_PHASE_1_BRIEF.md)                                                                                                                          |
+| **Produced**   | Decision to write a comparative memo pairing housing permitting with AI governance, demonstrating the framework's cross-domain method. The housing-only draft was superseded. Memo produced in [civicblueprint.org/docs/PROOF_OF_USEFULNESS_MEMO_01.md](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md). |
+| **Status**     | Active discussion. Comparative memo drafted. The timescale objection raised in Exchange #7 reopens part of this decision.                                                                                                                                                                                                                                     |
 
 ---
 
 ### 7. [Proof-of-Usefulness Memo — Feedback Timescale Review](proof-of-usefulness-feedback-timescale-review.md)
 
-| | |
-|---|---|
-| **Question** | The comparative memo optimized for explanatory legibility. Should the project also optimize for learning velocity — and does the current approach learn fast enough to stay relevant as AI timescales compress? |
-| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange) (the decision this exchange re-examines), [Proof-of-Usefulness Memo 01](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md) |
-| **Produced** | Synthesized. Six recommendations produced: (1) ship Memo 01 (done), (2) launch structured practitioner critique, (3) formally separate three kinds of "first," (4) design a fast-feedback validation case, (5) commit to transparent evidence integration, (6) revise the internal description of recursive uplift. Three-layer decomposition of recursive uplift (execution, trust, sequence) established. Key finding: the visible-competence-to-trust cascade has no direct empirical support. Full recommendations tracked in [Roadmap](../../ROADMAP.md). |
-| **Status** | Synthesized. Recommendations adopted by steward. Recommendation 1 complete. Remaining recommendations tracked in [Roadmap](../../ROADMAP.md). |
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | The comparative memo optimized for explanatory legibility. Should the project also optimize for learning velocity — and does the current approach learn fast enough to stay relevant as AI timescales compress?                                                                                                                                                                                                                                                                                                                                                |
+| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange) (the decision this exchange re-examines), [Proof-of-Usefulness Memo 01](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md)                                                                                                                                                                                                                                                                                                                |
+| **Produced**   | Synthesized. Six recommendations produced: (1) ship Memo 01 (done), (2) launch structured practitioner critique, (3) formally separate three kinds of "first," (4) design a fast-feedback validation case, (5) commit to transparent evidence integration, (6) revise the internal description of recursive uplift. Three-layer decomposition of recursive uplift (execution, trust, sequence) established. Key finding: the visible-competence-to-trust cascade has no direct empirical support. Full recommendations tracked in [Roadmap](../../ROADMAP.md). |
+| **Status**     | Synthesized. Recommendations adopted by steward. Recommendation 1 complete. Remaining recommendations tracked in [Roadmap](../../ROADMAP.md).                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+---
+
+### 8. [Voice Synthesis, Accessibility, and Engagement — Feature Exploration](voice-synthesis-accessibility-engagement-exchange.md)
+
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | Are synthesized voice narration, multi-level text presentation, and more intentional communication design substantive engagement and accessibility features — and does communication itself function as a hidden cross-cutting variable in reform capacity — or is this cosmetic work that drains resources from higher-priority needs?                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Depends on** | [Principles](../../PRINCIPLES.md) (§1 dignity, §2 essential needs, §3 AI augmenting agency, §4 accountable power), [Problem Map](../../PROBLEM_MAP.md) (§3 information ecosystems), [Exchange #3](#3-post-systems-framework-revision--next-steps) (website as public entry point), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review) (learning velocity and fast-feedback validation)                                                                                                                                                                                                                                                                                                                                               |
+| **Produced**   | Six rounds plus steward synthesis. Separated accessibility (mandatory) from voice features (deferred). Adopted a falsifiable legibility hypothesis. Adopted "Engagement is part of the reform chain; manipulation is engagement that breaks faith with the reader" as a working tension statement. Adopted a transparency-about-prosody design principle. Deferred the communication stack, plain-language companions, and voice features pending real user data and practitioner feedback. Declined treating voice A/B testing as framework validation per Exchange #7. Identified a candidate unnamed tension (truth-preserving mobilization vs. attention-capturing persuasion) for future consideration. No changes to Roadmap dependency ordering. |
+| **Status**     | **Synthesized.** Steward decisions recorded. No open action items; adopted formulations are carried in the exchange for future reference.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ---
 
@@ -112,6 +123,8 @@ Core Documents (Principles, Problem Map, Systems Framework)
   │                 ├─► #6 Housing vs. AI ─► #7 Timescale  │
   │                 │        │                              │
   │                 │        └─► Memo 01 (civicblueprint.org)
+  │                 │
+  │                 ├─► #8 Voice Synthesis & Accessibility ◄── #7 (fast-feedback)
   │                 │
   │                 └─► Track 2: Computational analysis (not started)
   │
@@ -131,9 +144,9 @@ Core Documents (Principles, Problem Map, Systems Framework)
 
 Several exchanges produced or depend on documents in the [civicblueprint.org](https://github.com/Civic-Blueprint/civicblueprint.org) repository:
 
-| Exchange | civicblueprint.org artifact |
-|---|---|
-| #3 (Next Steps) | `docs/WEBSITE_PHASE_1_BRIEF.md` — Phase 1 scope and launch plan |
-| #3 (Next Steps) | `docs/HOMEPAGE_COPY_DRAFT.md` — draft homepage copy |
-| #6 (Housing vs. AI) | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — comparative memo |
+| Exchange            | civicblueprint.org artifact                                                              |
+| ------------------- | ---------------------------------------------------------------------------------------- |
+| #3 (Next Steps)     | `docs/WEBSITE_PHASE_1_BRIEF.md` — Phase 1 scope and launch plan                          |
+| #3 (Next Steps)     | `docs/HOMEPAGE_COPY_DRAFT.md` — draft homepage copy                                      |
+| #6 (Housing vs. AI) | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — comparative memo                                 |
 | #6 (Housing vs. AI) | `docs/PROOF_OF_USEFULNESS_MEMO_01_HOUSING_PERMITTING.md` — superseded housing-only draft |
