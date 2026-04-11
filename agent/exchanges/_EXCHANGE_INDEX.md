@@ -109,6 +109,39 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 9. [Debt Legitimacy and Odious Debt — Exchange](debt-legitimacy-odious-debt-exchange.md)
+
+|                |                                                                                                                                                                                                                                                                 |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | Should the project's analysis explicitly name debt legitimacy and odious-debt doctrine as part of its account of institutional capture, and if so, where does that material belong?                                                                             |
+| **Depends on** | [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review) (created the website-feedback lane), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md) |
+| **Produced**   | Exchange opened. Initial classification questions captured: example vs. mechanism, domain placement, competence vs. repudiation, and scope discipline for sovereign-debt analysis.                                                                              |
+| **Status**     | Active discussion.                                                                                                                                                                                                                                              |
+
+---
+
+### 10. [Housing Financialization as Upstream Capture — Exchange](housing-financialization-upstream-capture-exchange.md)
+
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | Should the framework explicitly treat housing financialization as a distinct upstream-capture mechanism alongside housing permitting and zoning, or widen the existing housing analysis without a separately named frame?                                                                                                                                                                                                           |
+| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Proof-of-Usefulness Memo 01](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md) |
+| **Produced**   | Exchange opened. Initial questions captured around mechanism naming, balance between permitting and finance, metro vs. national claims, and whether the current public memo needs revision or a companion artifact.                                                                                                                                                                                                                 |
+| **Status**     | Active discussion.                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+---
+
+### 11. [AI Commonwealth vs. AI Governance — Exchange](ai-commonwealth-vs-governance-exchange.md)
+
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | Should the framework explicitly shift from an "AI governance" frame to an "AI commonwealth" frame centered on ownership, access, and public infrastructure, or preserve governance as the primary frame and incorporate these ideas more narrowly?                                                                                                                                                                                  |
+| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Proof-of-Usefulness Memo 01](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md) |
+| **Produced**   | Exchange opened. Initial questions captured around governance vs. commonwealth framing, timeline urgency, what counts as commonwealth infrastructure in AI, and whether existing public artifacts need reframing.                                                                                                                                                                                                                   |
+| **Status**     | Active discussion.                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -135,6 +168,11 @@ Core Documents (Principles, Problem Map, Systems Framework)
   │           ├─► Coherence Audit Protocol
   │           └─► Historical Parallel Test Protocol
   │
+  ├─► Roadmap / website-submission lane (via #7 recommendations)
+  │     ├─► #9 Debt Legitimacy & Odious Debt
+  │     ├─► #10 Housing Financialization ◄── #6 / Memo 01
+  │     └─► #11 AI Commonwealth vs. Governance ◄── #6 / Memo 01
+  │
   Adversarial Review Protocol ◄── (originated from #2, formalized before #4)
 ```
 
@@ -144,9 +182,11 @@ Core Documents (Principles, Problem Map, Systems Framework)
 
 Several exchanges produced or depend on documents in the [civicblueprint.org](https://github.com/Civic-Blueprint/civicblueprint.org) repository:
 
-| Exchange            | civicblueprint.org artifact                                                              |
-| ------------------- | ---------------------------------------------------------------------------------------- |
-| #3 (Next Steps)     | `docs/WEBSITE_PHASE_1_BRIEF.md` — Phase 1 scope and launch plan                          |
-| #3 (Next Steps)     | `docs/HOMEPAGE_COPY_DRAFT.md` — draft homepage copy                                      |
-| #6 (Housing vs. AI) | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — comparative memo                                 |
-| #6 (Housing vs. AI) | `docs/PROOF_OF_USEFULNESS_MEMO_01_HOUSING_PERMITTING.md` — superseded housing-only draft |
+| Exchange                             | civicblueprint.org artifact                                                                     |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| #3 (Next Steps)                      | `docs/WEBSITE_PHASE_1_BRIEF.md` — Phase 1 scope and launch plan                                 |
+| #3 (Next Steps)                      | `docs/HOMEPAGE_COPY_DRAFT.md` — draft homepage copy                                             |
+| #6 (Housing vs. AI)                  | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — comparative memo                                        |
+| #6 (Housing vs. AI)                  | `docs/PROOF_OF_USEFULNESS_MEMO_01_HOUSING_PERMITTING.md` — superseded housing-only draft        |
+| #10 (Housing Financialization)       | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — public memo whose housing framing this exchange reopens |
+| #11 (AI Commonwealth vs. Governance) | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — public memo whose AI framing this exchange sharpens     |

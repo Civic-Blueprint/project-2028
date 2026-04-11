@@ -58,9 +58,9 @@ Design and launch a structured review process targeting domain practitioners.
 
 **Current organic feedback triage (April 2026):**
 
-- [#8 Historical case](https://github.com/Civic-Blueprint/project-2028/issues/8): initial disposition `accepted-for-review-later` (candidate for debt/fiscal-capture or legitimacy/commonwealth synthesis).
-- [#9 Missing perspective](https://github.com/Civic-Blueprint/project-2028/issues/9): initial disposition `needs-steward-discussion` (housing financialization as an upstream-capture mechanism).
-- [#10 Missing perspective](https://github.com/Civic-Blueprint/project-2028/issues/10): initial disposition `needs-steward-discussion` (AI commonwealth framing alongside AI governance framing).
+- [#8 Historical case](https://github.com/Civic-Blueprint/project-2028/issues/8): initial disposition `needs-steward-discussion` (candidate for debt/fiscal-capture or legitimacy/commonwealth synthesis). Exchange opened: [Debt Legitimacy and Odious Debt](agent/exchanges/debt-legitimacy-odious-debt-exchange.md).
+- [#9 Missing perspective](https://github.com/Civic-Blueprint/project-2028/issues/9): initial disposition `needs-steward-discussion` (housing financialization as an upstream-capture mechanism). Exchange opened: [Housing Financialization as Upstream Capture](agent/exchanges/housing-financialization-upstream-capture-exchange.md).
+- [#10 Missing perspective](https://github.com/Civic-Blueprint/project-2028/issues/10): initial disposition `needs-steward-discussion` (AI commonwealth framing alongside AI governance framing). Exchange opened: [AI Commonwealth vs. AI Governance](agent/exchanges/ai-commonwealth-vs-governance-exchange.md).
 
 These are organic submissions. They are inputs to steward synthesis and roadmap refinement, not substitutes for structured practitioner critique.
 
