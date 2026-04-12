@@ -33,6 +33,18 @@ Use the website-submission-triage skill for issue #10 with steward scores [2, 2,
 Triage website submission issue #8 with steward scores [1, 2, 2, 2, 1, 1]. Post only the short acknowledgment publicly on GitHub. Keep the detailed score comparison in your reply to me.
 ```
 
+## Prompt with explicit bot posting
+
+```text
+Use the website-submission-triage skill to triage issue #9 with steward scores [1, 2, 0, 2, 1, 1]. post as: bot. Post the acknowledgment on GitHub and return the exact text you posted.
+```
+
+## Prompt with explicit steward posting
+
+```text
+Use the website-submission-triage skill to triage issue #9 with steward scores [1, 2, 0, 2, 1, 1]. post as: steward. Post the acknowledgment on GitHub using my identity and return the exact text you posted.
+```
+
 ## Score order reminder
 
 Always supply the array in this order:

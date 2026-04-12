@@ -17,6 +17,9 @@ Use this skill when the user asks to triage a `website-submission` issue in `pro
   - `Novelty`
   - `Actionability`
   - `Steward priority`
+- optional `post-as` value:
+  - `bot` (default)
+  - `steward` (or `me`)
 
 Example:
 
@@ -78,7 +81,23 @@ This agent score is a **recommendation**, not a replacement for the steward scor
 - `duplicate-or-overlapping`
 - `declined-with-reason`
 
-8. Post the acknowledgment comment on the issue with `gh issue comment`.
+8. Post the acknowledgment comment on the issue.
+
+Default behavior: post as the bot.
+
+Use this posting rule:
+
+- if `post-as` is `bot` or omitted, run:
+
+```bash
+scripts/post-as-bot.sh <id> "<comment_body>"
+```
+
+- if `post-as` is `steward` or `me`, run:
+
+```bash
+gh issue comment <id> --repo Civic-Blueprint/project-2028 --body "<comment_body>"
+```
 
 Use this template:
 
@@ -157,6 +176,8 @@ Acknowledgment posted:
 ## Notes
 
 - Use `gh` for GitHub operations.
+- Bot posting requires `.env` to include `CB_APP_ASSISTANT_APP_ID`, `CB_APP_ASSISTANT_INSTALLATION_ID`, and `CB_APP_ASSISTANT_PRIVATE_KEY_PATH`.
+- Bot posting also requires the private key file to exist at the configured `CB_APP_ASSISTANT_PRIVATE_KEY_PATH`.
 - Do not edit the checklist file unless the user explicitly asks.
 - If the issue is missing the `website-submission` label, mention that clearly in your response, but still continue the triage if the user asked for it.
 - For copy-paste steward prompts, see [examples.md](examples.md).
