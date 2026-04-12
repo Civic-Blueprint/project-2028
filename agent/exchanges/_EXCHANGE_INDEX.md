@@ -142,6 +142,17 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 12. [Memo 01 Housing Claims — Historical Parallel Test Exchange](memo-01-housing-parallel-test-exchange.md)
+
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | Does the published housing-domain practitioner and research literature confirm, challenge, or complicate Memo 01's core structural claims about institutional capacity, recursive uplift, infrastructure coordination, and reform-as-extraction trust failure?                                                                                                                                                                   |
+| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md), [Roadmap](../../ROADMAP.md), [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md)                                                                                          |
+| **Produced**   | First application of the Historical Parallel Test Protocol. Four structural claims from Memo 01 tested against published housing literature. Claim 2 (recursive uplift) identified as the project's most vulnerable housing claim — no published confirmation of the positive cascade. Claim 3 (infrastructure coordination) identified as the strongest. Sharpened practitioner prompt questions proposed for Recommendation 2. |
+| **Status**     | Active discussion.                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -166,12 +177,14 @@ Core Documents (Principles, Problem Map, Systems Framework)
   │     └─► #5 Review Protocol Design
   │           │
   │           ├─► Coherence Audit Protocol
-  │           └─► Historical Parallel Test Protocol
+  │           └─► Historical Parallel Test Protocol ─► #12
   │
   ├─► Roadmap / website-submission lane (via #7 recommendations)
   │     ├─► #9 Debt Legitimacy & Odious Debt
   │     ├─► #10 Housing Financialization ◄── #6 / Memo 01
   │     └─► #11 AI Commonwealth vs. Governance ◄── #6 / Memo 01
+  │
+  ├─► #12 Memo 01 Housing Parallel Test ◄── #6 / #7 / HPTP
   │
   Adversarial Review Protocol ◄── (originated from #2, formalized before #4)
 ```
@@ -190,3 +203,4 @@ Several exchanges produced or depend on documents in the [civicblueprint.org](ht
 | #6 (Housing vs. AI)                  | `docs/PROOF_OF_USEFULNESS_MEMO_01_HOUSING_PERMITTING.md` — superseded housing-only draft        |
 | #10 (Housing Financialization)       | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — public memo whose housing framing this exchange reopens |
 | #11 (AI Commonwealth vs. Governance) | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — public memo whose AI framing this exchange sharpens     |
+| #12 (Housing Parallel Test)          | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — public memo whose housing claims this exchange tests    |
