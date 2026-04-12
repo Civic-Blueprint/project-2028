@@ -1,3 +1,8 @@
+---
+title: Problem Map
+description: A layered diagnosis of civic system failures, upstream dependencies, and the structural conditions that keep reform stuck.
+---
+
 # Problem Map
 
 Civic Blueprint begins with a simple premise:

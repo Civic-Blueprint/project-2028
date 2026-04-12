@@ -1,10 +1,15 @@
+---
+title: Principles
+description: Seventeen foundational principles for redesigning civic systems with dignity, accountability, and broad human agency.
+---
+
 # Principles
 
 These principles were developed through iterative drafting by multiple AI models operating under different review protocols, then synthesized, edited, and approved by the project steward. They are not universal truths arrived at from nowhere. They are the project's best current synthesis, offered for challenge and revision.
 
 The steward and contributors behind this document are aware that writing principles from a position of relative privilege — and proposing them as a foundation for global conversation — is itself an exercise of the power this document says should remain accountable and legible. The project commits to being accountable for that exercise. The communities most affected by systemic failure are often the least represented in projects like this one. That is not an objection we dismiss — it is a problem we commit to solving as part of the work itself.
 
-These principles will change. Not might change — *will* change, as engagement with more diverse perspectives reveals blind spots, cultural assumptions, and power dynamics that the current synthesis cannot yet see from where it stands. The project values being wrong and correcting course more than it values being right the first time.
+These principles will change. Not might change — _will_ change, as engagement with more diverse perspectives reveals blind spots, cultural assumptions, and power dynamics that the current synthesis cannot yet see from where it stands. The project values being wrong and correcting course more than it values being right the first time.
 
 ---
 
@@ -16,7 +21,7 @@ That is a defensible philosophical position. It is not the only defensible posit
 
 Other traditions — libertarian, communitarian, market-institutionalist, indigenous, post-colonial, religious, and many others — would begin from different premises, emphasize different values, and arrive at different commitments. Some would challenge these principles at their foundations. The project invites that challenge. Engagement from people who start from genuinely different premises is more valuable than agreement from people who already share these assumptions.
 
-What this document does claim: the substantive commitments below are not arbitrary preferences. They are grounded in observable patterns of system failure documented in the [Problem Map](PROBLEM_MAP.md) — patterns where dignity is violated, essential needs go unmet despite productive capacity, and power operates without accountability. The principles are a response to those failures. Whether they are the *right* response is the question the project holds open.
+What this document does claim: the substantive commitments below are not arbitrary preferences. They are grounded in observable patterns of system failure documented in the [Problem Map](PROBLEM_MAP.md) — patterns where dignity is violated, essential needs go unmet despite productive capacity, and power operates without accountability. The principles are a response to those failures. Whether they are the _right_ response is the question the project holds open.
 
 ---
 
@@ -38,7 +43,7 @@ Every person possesses dignity that does not depend on their economic productivi
 
 A society's commitment to this principle is measured not by how it treats its most powerful members, but by how it treats those who contribute least in conventional terms.
 
-*In practice:* A person who is elderly, disabled, unemployed, or incarcerated does not forfeit the right to be treated as a full human being. Systems that condition access to housing, healthcare, or basic respect on economic productivity are failing this test — not as an aspiration, but as a design requirement that should constrain every other decision.
+_In practice:_ A person who is elderly, disabled, unemployed, or incarcerated does not forfeit the right to be treated as a full human being. Systems that condition access to housing, healthcare, or basic respect on economic productivity are failing this test — not as an aspiration, but as a design requirement that should constrain every other decision.
 
 ---
 
@@ -48,7 +53,7 @@ Housing, healthcare, food, clean water, education, energy, and access to informa
 
 When basic stability is persistently out of reach for large populations, this is a design failure to be corrected, not a natural condition to be accepted.
 
-*In practice:* It should not take three years and a lawyer to get a building permit in a city with a housing shortage. A person should not lose their home because they became sick. When a society has the productive capacity to provide clean water and chooses not to because of political misalignment or incumbent resistance, that is an avoidable failure this principle names.
+_In practice:_ It should not take three years and a lawyer to get a building permit in a city with a housing shortage. A person should not lose their home because they became sick. When a society has the productive capacity to provide clean water and chooses not to because of political misalignment or incumbent resistance, that is an avoidable failure this principle names.
 
 ---
 
@@ -60,7 +65,7 @@ It must not become a substitute for accountable judgment in decisions that affec
 
 A society that outsources too much decision-making risks becoming more efficient while less free. As our understanding of intelligence and moral standing evolves, so must our frameworks for who participates in these commitments and who is protected by them.
 
-*In practice:* An AI system that determines whether someone receives a loan, a medical diagnosis, or a prison sentence must be subject to human review and democratic governance — not because AI cannot be accurate, but because decisions that shape lives require accountability that an algorithm alone cannot provide. The speed of AI development does not exempt it from the requirement of democratic oversight, even when that oversight is slower than the technology it governs.
+_In practice:_ An AI system that determines whether someone receives a loan, a medical diagnosis, or a prison sentence must be subject to human review and democratic governance — not because AI cannot be accurate, but because decisions that shape lives require accountability that an algorithm alone cannot provide. The speed of AI development does not exempt it from the requirement of democratic oversight, even when that oversight is slower than the technology it governs.
 
 ---
 
@@ -70,7 +75,7 @@ Whether exercised by governments, corporations, or automated systems, power that
 
 Power should not be hidden inside bureaucracy, proprietary systems, or institutional complexity that functions as a shield against accountability.
 
-*In practice:* A person affected by an automated decision — a denied benefit, a credit score, a content moderation action — should be able to understand why the decision was made and challenge it through a real process. A regulatory framework written so that only the industry it regulates can interpret it has failed the legibility test.
+_In practice:_ A person affected by an automated decision — a denied benefit, a credit score, a content moderation action — should be able to understand why the decision was made and challenge it through a real process. A regulatory framework written so that only the industry it regulates can interpret it has failed the legibility test.
 
 ---
 
@@ -80,7 +85,7 @@ The systems that shape daily life — including infrastructure, health, informat
 
 The larger and more foundational the system, the greater the responsibility to ensure it operates in the public interest.
 
-*In practice:* An energy grid, a water system, a financial clearing network, or a compute infrastructure that a society depends on cannot be governed solely by the short-term profit incentives of its operators. This does not require state ownership — it requires that governance structures exist to ensure the system serves the public, whether through regulation, public ownership, cooperative models, or other arrangements appropriate to the context.
+_In practice:_ An energy grid, a water system, a financial clearing network, or a compute infrastructure that a society depends on cannot be governed solely by the short-term profit incentives of its operators. This does not require state ownership — it requires that governance structures exist to ensure the system serves the public, whether through regulation, public ownership, cooperative models, or other arrangements appropriate to the context.
 
 ---
 
@@ -92,7 +97,7 @@ This principle does not specify a mechanism. Mechanism design belongs in the [Sy
 
 A more advanced society should leave fewer people behind, not more.
 
-*In practice:* When a warehouse automates and eliminates 500 jobs, the question is not whether automation is good or bad — it is whether the productivity gains flow to shareholders alone or also to the workers and community whose livelihoods were displaced. A society that celebrates productivity growth while tolerating permanent dislocation for the people who generated the prior productivity has failed this test.
+_In practice:_ When a warehouse automates and eliminates 500 jobs, the question is not whether automation is good or bad — it is whether the productivity gains flow to shareholders alone or also to the workers and community whose livelihoods were displaced. A society that celebrates productivity growth while tolerating permanent dislocation for the people who generated the prior productivity has failed this test.
 
 ---
 
@@ -104,7 +109,7 @@ People are not meaningfully free when their lives are defined by constant instab
 
 A free society should make it easier for people to participate, build, and plan for the future.
 
-*In practice:* A person who is formally free to vote, speak, and work but who cannot afford housing, cannot access healthcare without financial ruin, and cannot plan beyond the next paycheck is not meaningfully free. This is a contested philosophical position — negative-liberty theorists argue that freedom means only the absence of interference — and this project sides with the positive-liberty tradition, for the reasons described in the philosophical positioning section above.
+_In practice:_ A person who is formally free to vote, speak, and work but who cannot afford housing, cannot access healthcare without financial ruin, and cannot plan beyond the next paycheck is not meaningfully free. This is a contested philosophical position — negative-liberty theorists argue that freedom means only the absence of interference — and this project sides with the positive-liberty tradition, for the reasons described in the philosophical positioning section above.
 
 ---
 
@@ -114,7 +119,7 @@ A society should not evolve in a way that leaves large numbers of people permane
 
 Every person should have a place in the future.
 
-*In practice:* When automation displaces an entire class of workers, or when economic transition renders a community's primary industry obsolete, the response cannot be "learn to code." Structural exclusion that is predictable and preventable — and that persists because no institution is responsible for preventing it — is a system design failure, not an individual one.
+_In practice:_ When automation displaces an entire class of workers, or when economic transition renders a community's primary industry obsolete, the response cannot be "learn to code." Structural exclusion that is predictable and preventable — and that persists because no institution is responsible for preventing it — is a system design failure, not an individual one.
 
 ---
 
@@ -124,7 +129,7 @@ Public trust is built when institutions are capable, responsive, and honest abou
 
 It is sustained when systems deliver real value in people's lives, not just symbolic reassurance.
 
-*In practice:* A public agency that processes permits in weeks rather than years, a healthcare system where billing is comprehensible, a school system where outcomes are measurably improving — these build trust not through communication strategies but through visible competence. The project acknowledges a tension here: historically, some of the most competent institutions have been the least democratic. This project holds that democratic governance, despite being slower, produces more durable and self-correcting institutional competence than authoritarian alternatives — and bets on that durability even at the cost of speed.
+_In practice:_ A public agency that processes permits in weeks rather than years, a healthcare system where billing is comprehensible, a school system where outcomes are measurably improving — these build trust not through communication strategies but through visible competence. The project acknowledges a tension here: historically, some of the most competent institutions have been the least democratic. This project holds that democratic governance, despite being slower, produces more durable and self-correcting institutional competence than authoritarian alternatives — and bets on that durability even at the cost of speed.
 
 ---
 
@@ -134,7 +139,7 @@ The design of the systems that shape civilization should not be left to closed n
 
 Important systems should be developed transparently, debated openly, and shaped by genuine public participation. Openness also requires that expertise be respected, that processes resist capture by narrow interests — including the legalized forms of corruption through which concentrated wealth shapes rule-making — and that participation be meaningful rather than performative.
 
-*In practice:* A public comment period that is open for thirty days but produces no changes to a predetermined outcome is performative, not open. Meaningful participation means that the people affected by a system design can influence its direction before decisions are locked — and that their input is weighed against expert analysis, not drowned out by organized interests or dismissed as uninformed.
+_In practice:_ A public comment period that is open for thirty days but produces no changes to a predetermined outcome is performative, not open. Meaningful participation means that the people affected by a system design can influence its direction before decisions are locked — and that their input is weighed against expert analysis, not drowned out by organized interests or dismissed as uninformed.
 
 ---
 
@@ -144,7 +149,7 @@ No system — economic, technological, or political — is well-designed if it d
 
 Long-term thinking about planetary boundaries must be embedded in system design, not treated as an externality to be managed after the fact. A civilizational blueprint that ignores the biosphere is designing for a civilization that cannot endure.
 
-*In practice:* An economic model that externalizes environmental costs is not well-designed, regardless of its GDP growth. Agricultural policy that depletes topsoil for short-term yield is borrowing against a balance sheet it cannot replenish. This principle is unusual on this list because the constraint it describes is biophysical, not primarily political or institutional — ecological limits tighten on timescales that political systems are not structured to address.
+_In practice:_ An economic model that externalizes environmental costs is not well-designed, regardless of its GDP growth. Agricultural policy that depletes topsoil for short-term yield is borrowing against a balance sheet it cannot replenish. This principle is unusual on this list because the constraint it describes is biophysical, not primarily political or institutional — ecological limits tighten on timescales that political systems are not structured to address.
 
 ---
 
@@ -154,7 +159,7 @@ Decisions made today shape the conditions inherited by future generations.
 
 A responsible civilization designs its systems to preserve long-term option value, avoid irreversible harm, and resist the pressure to sacrifice the future for immediate convenience. Short-termism is not just a policy flaw — it is a systemic risk.
 
-*In practice:* Infrastructure decisions that lock in fossil fuel dependency for decades, financial systems that discount long-term risk for quarterly returns, and political cycles that cannot support commitments longer than an election term are all expressions of the same structural failure. This principle is in tension with Principle 13 (self-determination) — intergenerational obligation constrains the present generation's freedom — and that tension is addressed in the Tensions and Tradeoffs section below.
+_In practice:_ Infrastructure decisions that lock in fossil fuel dependency for decades, financial systems that discount long-term risk for quarterly returns, and political cycles that cannot support commitments longer than an election term are all expressions of the same structural failure. This principle is in tension with Principle 13 (self-determination) — intergenerational obligation constrains the present generation's freedom — and that tension is addressed in the Tensions and Tradeoffs section below.
 
 ---
 
@@ -164,9 +169,9 @@ There is no single correct model for a good society. Different communities, cult
 
 This project defines shared commitments about what systems must achieve, not a uniform design for how they achieve it. Self-determination is protected within the bounds of those commitments, not as an override of them. A community that finds different institutional forms for providing essential needs, ensuring accountability, or protecting ecological stability is exercising the pluralism this principle values. A community that rejects those commitments entirely is not exercising pluralism — it is rejecting the substantive foundations the other principles describe.
 
-This is an honest position, not a neutral one. It means the project *does* hold certain outcomes as non-negotiable — dignity, access to essential needs, accountable power, ecological responsibility — while respecting that the paths to those outcomes are genuinely diverse and that no single institutional model has a monopoly on achieving them.
+This is an honest position, not a neutral one. It means the project _does_ hold certain outcomes as non-negotiable — dignity, access to essential needs, accountable power, ecological responsibility — while respecting that the paths to those outcomes are genuinely diverse and that no single institutional model has a monopoly on achieving them.
 
-*In practice:* A community that provides essential needs through market mechanisms rather than state provision, or that governs through consensus rather than elections, is exercising legitimate self-determination. A community that accepts structural exclusion of a class of people, or that permits ecological destruction for short-term gain, is not protected by this principle. The line is drawn at outcomes, not methods.
+_In practice:_ A community that provides essential needs through market mechanisms rather than state provision, or that governs through consensus rather than elections, is exercising legitimate self-determination. A community that accepts structural exclusion of a class of people, or that permits ecological destruction for short-term gain, is not protected by this principle. The line is drawn at outcomes, not methods.
 
 ---
 
@@ -176,7 +181,7 @@ A functioning society depends on a shared commitment to truth, evidence, and hon
 
 Systems that deliberately manufacture confusion, suppress evidence, or weaponize information undermine the foundations of democratic life. The infrastructure of knowledge — education, research, journalism, and open discourse — must be actively protected as essential to collective self-governance.
 
-*In practice:* A platform business model that maximizes engagement through outrage and conflict is undermining truth as a public good, regardless of whether individual pieces of content are "true." AI-generated content that drives the cost of producing persuasive falsehoods toward zero while the cost of verification remains high is a direct threat to the infrastructure this principle protects.
+_In practice:_ A platform business model that maximizes engagement through outrage and conflict is undermining truth as a public good, regardless of whether individual pieces of content are "true." AI-generated content that drives the cost of producing persuasive falsehoods toward zero while the cost of verification remains high is a direct threat to the infrastructure this principle protects.
 
 ---
 
@@ -196,7 +201,7 @@ Dignity says every person matters. Justice says what to do when two people's int
 
 Systems inevitably produce winners and losers. A principles document that does not address how those tradeoffs should be resolved is incomplete. Justice provides the framework: distributive justice asks how benefits and burdens are shared; procedural justice asks whether the processes that produce outcomes are fair; corrective justice asks what is owed when a system has caused harm.
 
-*In practice:* When a housing reform displaces existing residents to benefit future ones, justice requires that the displaced are not treated as acceptable losses — that compensation, transition support, and voice in the process are real, not performative. When automation eliminates jobs that sustained communities, justice requires more than retraining programs announced after the fact — it requires that the communities affected had standing in the decisions that produced their displacement.
+_In practice:_ When a housing reform displaces existing residents to benefit future ones, justice requires that the displaced are not treated as acceptable losses — that compensation, transition support, and voice in the process are real, not performative. When automation eliminates jobs that sustained communities, justice requires more than retraining programs announced after the fact — it requires that the communities affected had standing in the decisions that produced their displacement.
 
 These principles do not resolve every question of justice. They commit the project to treating justice — not only dignity, not only efficiency, not only democratic process — as a necessary lens for evaluating system design.
 
@@ -210,7 +215,7 @@ The question is not whether coercion is involved. The question is when it is leg
 
 This project holds that the exercise of collective power is legitimate when it meets these conditions: it is authorized through a process that is open, accountable, and resistant to capture (Principle 10); it is directed at correcting a condition that violates the substantive commitments of these principles; it is proportionate to the harm it addresses; it is transparent in its justification and open to challenge by those affected; and it is reversible or correctable where possible, so that decisions can be revisited as conditions change.
 
-*In practice:* State-level preemption of local zoning that blocks housing meets these conditions when it is enacted through democratic process, targeted at artificial scarcity that violates Principle 2, proportionate in scope, and subject to ongoing review. A government that uses "reform" as justification for centralizing power beyond what the specific correction requires has exceeded the constraints this principle describes.
+_In practice:_ State-level preemption of local zoning that blocks housing meets these conditions when it is enacted through democratic process, targeted at artificial scarcity that violates Principle 2, proportionate in scope, and subject to ongoing review. A government that uses "reform" as justification for centralizing power beyond what the specific correction requires has exceeded the constraints this principle describes.
 
 This principle also commits the project to a theory of change grounded in democratic and non-violent means. Not because violence is never justified in any context — that is a claim the project does not make — but because the project's own analytical framework depends on institutional legitimacy, democratic process, and public trust, all of which are degraded by political violence. The project's commitment to non-violent means is a strategic and principled position, with honest acknowledgment that non-violent democratic channels are not equally available in all contexts.
 

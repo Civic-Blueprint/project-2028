@@ -1,3 +1,8 @@
+---
+title: Civic Blueprint
+description: An open-source framework for redesigning public systems to be more capable, humane, and resilient in the age of AI.
+---
+
 # Civic Blueprint
 
 **An open-source blueprint for a more capable, humane society in the age of AI.**

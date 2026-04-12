@@ -1,3 +1,8 @@
+---
+title: Systems Framework
+description: A working framework for diagnosing institutional bottlenecks, mapping leverage points, and sequencing system redesign.
+---
+
 # Systems Framework
 
 This is not a campaign platform. It is not a declaration of solutions.
