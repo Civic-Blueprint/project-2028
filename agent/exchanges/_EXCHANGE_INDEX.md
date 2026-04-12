@@ -153,6 +153,17 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 13. [Autonomous Proposal Generation — Agent Stress Test](autonomous-proposal-generation-stress-test.md)
+
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | Can AI agents, working autonomously across multiple models and protocols, generate concrete proposals that bridge the gap between the project's analytical framework and real-world reform — and what does the output reveal about the framework's generativity, its gaps, and the structural constraints on translating diagnosis into action?                                                                                                                                                                                           |
+| **Depends on** | All core documents ([Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md)), all three process protocols ([Adversarial Review](../process/adversarial-review-protocol.md), [Coherence Audit](../process/coherence-audit-protocol.md), [Historical Parallel Test](../process/historical-parallel-test-protocol.md)), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review) (recursive uplift decomposition), [Exchange #12](#12-memo-01-housing-claims--historical-parallel-test-exchange) (housing evidence) |
+| **Produced**   | 135 proposals (112 unique after de-duplication) across all 15 Problem Map domains. Adversarial review from 4 perspectives identified political durability, displacement protection, and coalition math as critical gaps. Historical parallel testing on 4 clusters (institutional capacity, housing, democracy, capital). Four integrated reform sequences. Epistemic status assessment. Key finding: the framework is generative but political feasibility — not analytical quality — is the binding constraint. |
+| **Status**     | Active exchange. No steward input yet. Proposals are AI-generated hypotheses, not endorsed positions.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -176,17 +187,20 @@ Core Documents (Principles, Problem Map, Systems Framework)
   │     │
   │     └─► #5 Review Protocol Design
   │           │
-  │           ├─► Coherence Audit Protocol
-  │           └─► Historical Parallel Test Protocol ─► #12
-  │
-  ├─► Roadmap / website-submission lane (via #7 recommendations)
-  │     ├─► #9 Debt Legitimacy & Odious Debt
-  │     ├─► #10 Housing Financialization ◄── #6 / Memo 01
-  │     └─► #11 AI Commonwealth vs. Governance ◄── #6 / Memo 01
-  │
-  ├─► #12 Memo 01 Housing Parallel Test ◄── #6 / #7 / HPTP
-  │
-  Adversarial Review Protocol ◄── (originated from #2, formalized before #4)
+  │           ├─► Coherence Audit Protocol ─────────────────────┐
+  │           ├─► Historical Parallel Test Protocol ─► #12      │
+  │           └─► Adversarial Review Protocol ──────────────────┤
+  │                                                             │
+  ├─► Roadmap / website-submission lane (via #7 recommendations)│
+  │     ├─► #9 Debt Legitimacy & Odious Debt                   │
+  │     ├─► #10 Housing Financialization ◄── #6 / Memo 01      │
+  │     └─► #11 AI Commonwealth vs. Governance ◄── #6 / Memo 01│
+  │                                                             │
+  ├─► #12 Memo 01 Housing Parallel Test ◄── #6 / #7 / HPTP    │
+  │                                                             │
+  └─► #13 Autonomous Proposal Generation Stress Test ◄─────────┘
+        ◄── All core docs + all 3 protocols + #7 + #12
+        (30 rounds, 112 unique proposals, no steward input)
 ```
 
 ---
