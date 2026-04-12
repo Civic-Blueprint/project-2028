@@ -66,6 +66,9 @@ The project is built on four interconnected documents:
 - **[Roadmap](ROADMAP.md)**  
   Recommended next steps drawn from exchange findings. Tracks what has been completed, what is in progress, and what comes next — including the structured practitioner critique, fast-feedback validation case design, and recursive uplift theory revision.
 
+- **[Proposal Catalog](proposals/PROPOSAL_CATALOG.md)**  
+  135 concrete reform proposals across all 15 Problem Map domains, generated through a 30-round autonomous agent stress test ([Exchange #13](agent/exchanges/autonomous-proposal-generation-stress-test.md)). Each proposal is individually listed for steward review, feedback, and further brainstorming. AI-generated hypotheses, not endorsed positions.
+
 ---
 
 ## How to contribute

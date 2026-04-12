@@ -143,6 +143,20 @@ This decomposition and the honest assessment of which layers are currently suppo
 
 ---
 
+### Proposal Catalog (from Exchange #13)
+
+**Status: Complete. Awaiting steward triage.**
+
+Exchange #13 (Autonomous Proposal Generation — Agent Stress Test) produced 135 original proposals across all 15 Problem Map domains. These have been cataloged individually in [proposals/PROPOSAL_CATALOG.md](proposals/PROPOSAL_CATALOG.md) for steward review, feedback, and further brainstorming.
+
+**Next steps:**
+- Steward triage pass: scan proposals, mark interesting/wrong/debatable in Priority field
+- Priority ranking for proposals marked interesting
+- Coalition analysis for top-priority proposals
+- Open follow-up exchanges for proposals worth developing further
+
+---
+
 ## Key context from the exchange
 
 The exchange established several findings that should inform all future work:
