@@ -1,3 +1,7 @@
+---
+description: Recommended next steps drawn from exchange findings and steward decisions — the single source for what's next.
+---
+
 # Project 2028 — Roadmap
 
 > **Purpose:** This document tracks the project's recommended next steps, drawn from exchange findings and steward decisions. It is the single source of truth for "what's next" so that neither the steward nor agents lose track of outstanding work.

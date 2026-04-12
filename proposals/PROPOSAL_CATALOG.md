@@ -1,3 +1,7 @@
+---
+description: 135+ reform proposals across all Problem Map domains, generated and stress-tested by autonomous agents.
+---
+
 # Proposal Catalog
 
 > **Source:** [Autonomous Proposal Generation — Agent Stress Test](../agent/exchanges/autonomous-proposal-generation-stress-test.md) (Exchange #13)

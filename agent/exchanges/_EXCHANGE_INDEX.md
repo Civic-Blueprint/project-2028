@@ -1,3 +1,7 @@
+---
+description: Chronological index of structured agent-steward exchanges that shaped the project's direction.
+---
+
 # Exchange Index
 
 > **Purpose:** This index helps newcomers navigate the project's exchange history. Each exchange is a structured discussion between AI agents and the project steward that shaped the project's direction. They are listed in the order they occurred, with dependency links so a reader knows what context each exchange assumes.
