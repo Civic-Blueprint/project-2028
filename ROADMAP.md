@@ -82,7 +82,7 @@ The project has been conflating three different questions. This roadmap now make
 
 ### Recommendation 4: Design a fast-feedback validation case
 
-**Status: Not yet started. Dependency satisfied: Recommendation 2 is underway.**
+**Status: In progress. Dependency satisfied: Recommendation 2 is underway.**
 
 Design (but do not rush) a bounded reform case where the process is participatory and visible, the execution improvement is measurable, and behavioral trust proxies can be tracked alongside throughput metrics.
 
@@ -103,7 +103,13 @@ Design (but do not rush) a bounded reform case where the process is participator
 - Licensing, inspection, or code-enforcement workflows
 - Procurement or grant-disbursement processes
 
-**Next step:** Open a new exchange to evaluate 2-3 candidate domains against these criteria.
+**Current implementation state (April 2026):**
+
+- Initial proposal generation completed in [Exchange #13](agent/exchanges/autonomous-proposal-generation-stress-test.md).
+- A full catalog of proposals is now available at [Proposal Catalog](proposals/PROPOSAL_CATALOG.md).
+- A new focused exchange has been opened for the strongest initial candidate: [Permitting Stack Recursive Uplift — Exchange](agent/exchanges/permitting-stack-recursive-uplift-exchange.md), centered on `P-004` / `P-107`.
+
+**Next step:** Use the permitting-stack exchange to test whether this is the right bounded validation path or whether another candidate domain should be preferred.
 
 ---
 

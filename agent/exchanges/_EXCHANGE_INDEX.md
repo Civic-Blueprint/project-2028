@@ -164,6 +164,17 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 14. [Permitting Stack Recursive Uplift — Exchange](permitting-stack-recursive-uplift-exchange.md)
+
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | If `P-004` / `P-107` is the strongest candidate for initiating a recursive-uplift sequence, what would it take to turn the permitting-stack idea from an AI-generated proposal into a serious project hypothesis that is scoped clearly enough to analyze, critique, prototype, or eventually test in the real world?                                                                                                                              |
+| **Depends on** | [Exchange #3](#3-post-systems-framework-revision--next-steps) (empirical-validation need), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review) (fast-feedback and recursive-uplift decomposition), [Exchange #13](#13-autonomous-proposal-generation--agent-stress-test) (proposal generation and uplift-chain ranking), [Proposal Catalog](../../proposals/PROPOSAL_CATALOG.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Roadmap](../../ROADMAP.md) |
+| **Produced**   | New exchange opened. Frames `P-004` / `P-107` as the first candidate proposal for deeper development. Captures the initial case for why the permitting stack is the strongest recursive-uplift starting point, identifies core tensions (standardization vs. local variation, software vs. institutional reform, execution vs. trust claims), and defines starter questions for the next round.                                                       |
+| **Status**     | Active discussion.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -198,9 +209,13 @@ Core Documents (Principles, Problem Map, Systems Framework)
   │                                                             │
   ├─► #12 Memo 01 Housing Parallel Test ◄── #6 / #7 / HPTP    │
   │                                                             │
-  └─► #13 Autonomous Proposal Generation Stress Test ◄─────────┘
-        ◄── All core docs + all 3 protocols + #7 + #12
-        (30 rounds, 112 unique proposals, no steward input)
+  └─► #13 Autonomous Proposal Generation Stress Test ◄─────────┐
+        ◄── All core docs + all 3 protocols + #7 + #12         │
+        (30 rounds, 112 unique proposals, no steward input)    │
+                                                                │
+        └─► #14 Permitting Stack Recursive Uplift ◄─────────────┘
+              ◄── #3 + #7 + #13 + Proposal Catalog
+              (starting from P-004 / P-107 as first candidate)
 ```
 
 ---
