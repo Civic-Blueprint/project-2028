@@ -1,11 +1,14 @@
 ---
 title: Civic Blueprint
 description: An open-source blueprint for building a more capable, humane society in the age of AI.
+provenance: "[collaborative]"
 ---
 
 # Civic Blueprint
 
 **An open-source blueprint for a more capable, humane society in the age of AI.**
+
+> **Provenance:** `[collaborative]` — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
 
 ---
 
@@ -116,7 +119,7 @@ Progress on Track 1 now lives in the companion website repository at `../civicbl
 
 - `docs/WEBSITE_PHASE_1_BRIEF.md` — Phase 1 scope, audience, and launch plan
 - `docs/HOMEPAGE_COPY_DRAFT.md` — current homepage draft
-- `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — the first comparative proof-of-usefulness memo (housing permitting + AI governance)
+- `memos/proof-of-usefulness-memo-01.md` — the first comparative proof-of-usefulness memo (housing permitting + AI governance)
 
 The project is currently in an **adversarial review phase** — subjecting its foundational documents to structured challenge before building outward. A full navigational index of all exchanges — including dependency links, status, and a visual dependency graph — is available at [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md). Completed exchanges:
 

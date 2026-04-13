@@ -82,6 +82,8 @@ The project should test a four-level provenance vocabulary that can be applied c
 
 This exchange should test whether these labels are specific enough to be honest and simple enough to be usable.
 
+Canonical reference note: this table was the working draft used inside the exchange. The project-wide canonical policy is now [Content Provenance Standard](../../docs/CONTENT_PROVENANCE.md).
+
 ---
 
 ## Immediate implications

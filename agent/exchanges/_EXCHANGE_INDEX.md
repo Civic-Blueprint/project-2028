@@ -86,7 +86,7 @@ If you're new to the project, start with the core documents ([Principles](../../
 |---|---|
 | **Question** | Should the project's first public artifact focus on housing permitting, AI governance, or bridge the two? |
 | **Depends on** | [Exchange #3](#3-post-systems-framework-revision--next-steps) (established the proof-of-usefulness strategy), [Website Phase 1 Brief](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/WEBSITE_PHASE_1_BRIEF.md) |
-| **Produced** | Decision to write a comparative memo pairing housing permitting with AI governance, demonstrating the framework's cross-domain method. The housing-only draft was superseded. Memo produced in [civicblueprint.org/docs/PROOF_OF_USEFULNESS_MEMO_01.md](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md). |
+| **Produced** | Decision to write a comparative memo pairing housing permitting with AI governance, demonstrating the framework's cross-domain method. The housing-only draft was superseded. Canonical memo now maintained in [memos/proof-of-usefulness-memo-01.md](../../memos/proof-of-usefulness-memo-01.md). |
 | **Status** | Active discussion. Comparative memo drafted. The timescale objection raised in Exchange #7 reopens part of this decision. |
 
 ---
@@ -96,7 +96,7 @@ If you're new to the project, start with the core documents ([Principles](../../
 |  |  |
 |---|---|
 | **Question** | The comparative memo optimized for explanatory legibility. Should the project also optimize for learning velocity — and does the current approach learn fast enough to stay relevant as AI timescales compress? |
-| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange) (the decision this exchange re-examines), [Proof-of-Usefulness Memo 01](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md) |
+| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange) (the decision this exchange re-examines), [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md) |
 | **Produced** | Synthesized. Six recommendations produced: (1) ship Memo 01 (done), (2) launch structured practitioner critique, (3) formally separate three kinds of "first," (4) design a fast-feedback validation case, (5) commit to transparent evidence integration, (6) revise the internal description of recursive uplift. Three-layer decomposition of recursive uplift (execution, trust, sequence) established. Key finding: the visible-competence-to-trust cascade has no direct empirical support. Full recommendations tracked in [Roadmap](../../ROADMAP.md). |
 | **Status** | Synthesized. Recommendations adopted by steward. Recommendation 1 complete. Remaining recommendations tracked in [Roadmap](../../ROADMAP.md). |
 
@@ -129,7 +129,7 @@ If you're new to the project, start with the core documents ([Principles](../../
 |  |  |
 |---|---|
 | **Question** | Should the framework explicitly treat housing financialization as a distinct upstream-capture mechanism alongside housing permitting and zoning, or widen the existing housing analysis without a separately named frame? |
-| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Proof-of-Usefulness Memo 01](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md) |
+| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md) |
 | **Produced** | Exchange opened. Initial questions captured around mechanism naming, balance between permitting and finance, metro vs. national claims, and whether the current public memo needs revision or a companion artifact. |
 | **Status** | Active discussion. |
 
@@ -140,7 +140,7 @@ If you're new to the project, start with the core documents ([Principles](../../
 |  |  |
 |---|---|
 | **Question** | Should the framework explicitly shift from an "AI governance" frame to an "AI commonwealth" frame centered on ownership, access, and public infrastructure, or preserve governance as the primary frame and incorporate these ideas more narrowly? |
-| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Proof-of-Usefulness Memo 01](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md) |
+| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md) |
 | **Produced** | Exchange opened. Initial questions captured around governance vs. commonwealth framing, timeline urgency, what counts as commonwealth infrastructure in AI, and whether existing public artifacts need reframing. |
 | **Status** | Active discussion. |
 
@@ -275,9 +275,9 @@ Several exchanges produced or depend on documents in the [civicblueprint.org](ht
 |---|---|
 | #3 (Next Steps) | `docs/WEBSITE_PHASE_1_BRIEF.md` — Phase 1 scope and launch plan |
 | #3 (Next Steps) | `docs/HOMEPAGE_COPY_DRAFT.md` — draft homepage copy |
-| #6 (Housing vs. AI) | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — comparative memo |
+| #6 (Housing vs. AI) | `memos/proof-of-usefulness-memo-01.md` (project-2028) and `website/src/app/docs/[...slug]/page.tsx` (civicblueprint.org renderer) — comparative memo and public docs surface |
 | #6 (Housing vs. AI) | `docs/PROOF_OF_USEFULNESS_MEMO_01_HOUSING_PERMITTING.md` — superseded housing-only draft |
-| #10 (Housing Financialization) | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — public memo whose housing framing this exchange reopens |
-| #11 (AI Commonwealth vs. Governance) | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — public memo whose AI framing this exchange sharpens |
-| #12 (Housing Parallel Test) | `docs/PROOF_OF_USEFULNESS_MEMO_01.md` — public memo whose housing claims this exchange tests |
+| #10 (Housing Financialization) | `memos/proof-of-usefulness-memo-01.md` — public memo whose housing framing this exchange reopens |
+| #11 (AI Commonwealth vs. Governance) | `memos/proof-of-usefulness-memo-01.md` — public memo whose AI framing this exchange sharpens |
+| #12 (Housing Parallel Test) | `memos/proof-of-usefulness-memo-01.md` — public memo whose housing claims this exchange tests |
 | #17 (Practitioner Critique & AI Provenance) | `website/src/components/Hero.tsx`, `website/src/components/MemoFeature.tsx`, `website/src/app/docs/[...slug]/page.tsx` — website orientation and provenance legibility surfaces targeted by this exchange |

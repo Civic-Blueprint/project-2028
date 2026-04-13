@@ -347,7 +347,7 @@ Fund development of an open, federated social media protocol — like email but 
 | **Classification** | Pragmatic |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | Critical |
-| **Steward notes** | Super important hitting directly on principles 2, 5, and 14, with additional multiple hits in both the problem map and systems framework. Calling back to Logging - Automation - Accountability loop. How might we incorporate this policy into our project here as well? Is there a standard we need to start following? First Critical priority after my first reading of this. Is it just an emotional reaction or is this not as important as I am first thinking? |
+| **Steward notes** | Super important hitting directly on principles 2, 5, and 14, with additional multiple hits in both the problem map and systems framework. Calling back to Logging - Automation - Accountability loop. How might we incorporate this policy into our project here as well? Is there a standard we need to start following? First Critical priority after my first reading of this. Is it just an emotional reaction or is this not as important as I am first thinking? Early practitioner feedback on memo credibility illustrates this class of problem but should not be treated as validation of policy efficacy. |
 
 Require all AI-generated content to carry machine-readable provenance metadata (C2PA standard or equivalent). Platforms hosting content without provenance are liable for harms. Doesn't ban AI content — makes origin legible, shifting the verification asymmetry.
 

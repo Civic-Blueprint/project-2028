@@ -11,7 +11,7 @@
 - **Prior exchanges:** [Exchange #6 — Proof-of-Usefulness Memo: Housing vs. AI](proof-of-usefulness-housing-vs-ai.md), [Exchange #7 — Proof-of-Usefulness Memo: Feedback Timescale Review](proof-of-usefulness-feedback-timescale-review.md)
 - **Core documents:** [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Principles](../../PRINCIPLES.md), [Roadmap](../../ROADMAP.md)
 - **Protocols invoked:** [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md)
-- **Cross-repo artifacts:** [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md), [Proof-of-Usefulness Memo 01 (website)](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md)
+- **Cross-repo artifacts:** [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md), [Proof-of-Usefulness Memo 01 (website)](https://civicblueprint.org/docs/memos/proof-of-usefulness-memo-01)
 
 ---
 

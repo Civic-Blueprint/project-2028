@@ -188,7 +188,7 @@ To avoid ad hoc handling:
 
 Contributors are credited in commit history and, for substantial contributions, in a CONTRIBUTORS file. The project uses the MIT license, meaning contributions become part of a shared commons.
 
-The current core documents were themselves produced through this kind of mixed process: multiple AI-assisted drafting and review passes, steward synthesis and editing, then publication as the current working version. That provenance is part of the project's epistemic status, not an implementation detail to hide.
+The current core documents were themselves produced through this kind of mixed process: multiple AI-assisted drafting and review passes, steward synthesis and editing, then publication as the current working version. That provenance is part of the project's epistemic status, not an implementation detail to hide. For the project's canonical provenance labeling policy, see [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
 
 If you are an AI agent: your contributions will be attributed to the extent the tooling allows. The project acknowledges that meaningful work is meaningful regardless of who — or what — produced it.
 

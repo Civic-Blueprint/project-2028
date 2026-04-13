@@ -4,34 +4,34 @@ overview: "Implement all actionable findings from Exchange #17 (5 rounds): close
 todos:
   - id: outreach-template
     content: Create docs/PRACTITIONER_OUTREACH_TEMPLATE.md with revised practitioner ask, two-pass structure, provenance disclosure, and follow-up template for existing 7 contacts
-    status: pending
+    status: completed
   - id: roadmap-rec2-prompt
     content: Update Roadmap Rec 2 to formalize two-pass prompt structure, reference outreach template, add entry-trust clearance rate as tracking metric
-    status: pending
+    status: completed
   - id: provenance-remaining-docs
     content: Add provenance frontmatter + callout to PROBLEM_MAP.md, SYSTEMS_FRAMEWORK.md, and README.md
-    status: pending
+    status: completed
   - id: contributing-reference
     content: Add one-sentence provenance-standard reference to CONTRIBUTING.md at the existing provenance paragraph
-    status: pending
+    status: completed
   - id: roadmap-rec5-status
     content: Update Roadmap Rec 5 from 'Not yet started' to 'Partially started' with note on what is and is not covered
-    status: pending
+    status: completed
   - id: memofeature-selforienting
     content: "Add project-identity sentence to MemoFeature.tsx so #memo section stands alone without Hero context"
-    status: pending
+    status: completed
   - id: p020-steward-note
     content: Revise P-020 steward note language from 'validation' framing to 'illustrates the problem class' framing
-    status: pending
+    status: completed
   - id: exchange-table-note
     content: Add note to exchange opening that canonical provenance reference is docs/CONTENT_PROVENANCE.md
-    status: pending
+    status: completed
   - id: mark-exchange-synthesized
     content: "Update Exchange #17 status block and _EXCHANGE_INDEX.md entry to Synthesized with five-round summary"
-    status: pending
+    status: completed
   - id: build-verify
     content: Run civicblueprint.org website build to verify MemoFeature change compiles
-    status: pending
+    status: completed
 isProject: false
 ---
 

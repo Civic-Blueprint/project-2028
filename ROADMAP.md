@@ -43,14 +43,17 @@ Design and launch a structured review process targeting domain practitioners.
 
 - **Recruit 8-12 reviewers** across housing, AI governance, public administration, and community organizing.
 - **Specifically recruit** at least 2 practitioners who have run bounded administrative reforms and measured public response.
-- **Write a structured prompt** asking:
-  - **Preamble adjustment (new):** briefly state what the project is, how AI is used (generated + curated/synthesized), and what kind of critique is being requested.
-  - (a) Does this framework name bottlenecks you recognize from practice?
-  - (b) What does it miss or get wrong?
-  - (c) Where does the cross-domain comparison help and where does it feel forced?
-  - (d) Would you use or recommend this analysis?
+- **Use the structured outreach template:** [Practitioner Outreach Template](docs/PRACTITIONER_OUTREACH_TEMPLATE.md).
+- **Run a two-pass prompt structure:**
+  - **Pass 1 (entry-trust + legibility):** ask whether the entry point is clear, credible, and transparent about human-AI collaboration before requesting substantive critique.
+  - **Pass 2 (substance):**
+    - (a) Does this framework name bottlenecks you recognize from practice?
+    - (b) What does it miss or get wrong?
+    - (c) Where does the cross-domain comparison help and where does it feel forced?
+    - (d) Would you use or recommend this analysis?
 - **Collection window:** 4-6 weeks from when the prompt is sent.
 - **Output:** Synthesize findings in a short public note.
+- **Track metric:** entry-trust clearance rate (share of invited practitioners who clear Pass 1 and engage Pass 2).
 
 **Timeline guidance:** The "4-6 weeks" is a collection window for reviewer responses, not a full-time effort by the steward. The steward's work is front-loaded: identify reviewers, write the prompt, send it out. That design + recruitment phase can happen within a few weeks alongside other project work.
 
@@ -74,7 +77,7 @@ These are organic submissions. They are inputs to steward synthesis and roadmap 
 
 ### Recommendation 3: Formally separate the three kinds of "first"
 
-**Status: Not yet started.**
+**Status: Partially started.**
 
 The project has been conflating three different questions. This roadmap now makes the separation explicit:
 
@@ -121,7 +124,7 @@ Design (but do not rush) a bounded reform case where the process is participator
 
 ### Recommendation 5: Commit to transparent evidence integration in advance
 
-**Status: Not yet started.**
+**Status: Partially started.**
 
 Before any evidence arrives, publish a brief note stating:
 
@@ -132,6 +135,11 @@ Before any evidence arrives, publish a brief note stating:
 - That the trust-to-sequence layer (Layer 3) is inherently long-cycle and the project will not claim short-cycle evidence for it
 
 This prevents the misuse risk identified in the exchange: ambiguous results being retroactively cited as partial validation.
+
+**Current implementation state (April 2026):**
+
+- The project has started the transparency-commitment dimension through [Content Provenance Standard](docs/CONTENT_PROVENANCE.md) and visible provenance labeling across core artifacts.
+- Evidence-type commitments and interpretation commitments listed above are not yet published as a dedicated pre-evidence integration note.
 
 ---
 
@@ -179,6 +187,15 @@ The exchange established several findings that should inform all future work:
 - **Bounded administrative improvements alone do not reliably produce trust changes on short timelines.** The administrative-burden literature is consistent on this point.
 - **Participatory, visible reform processes have stronger evidence for trust effects than insular workflow optimization.** How the improvement happens matters more for trust than what improves.
 - **The project should publicly name the evidential limits of recursive uplift.** This honesty is a strength, not a weakness.
+
+---
+
+## Steward follow-ups (Exchange #17 Tier 4)
+
+These items require steward judgment and are tracked here so they are not lost:
+
+- **Review Exchanges #7 and #12 for likely practitioner pushback claims.** Decide whether pre-emptive memo revision is warranted once entry-trust barriers are cleared.
+- **Monitor the double-`docs` URL pattern** (`/docs/docs/content-provenance`) for reader confusion and assess whether a long-term docs path simplification is needed.
 
 ---
 

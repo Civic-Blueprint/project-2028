@@ -14,7 +14,7 @@
 
 > **Role:** Designated adversarial contributor per the [Adversarial Review Protocol](../process/adversarial-review-protocol.md), operating under Option A + Option B + Option C.
 >
-> **Reduced context:** Reviewing primarily from the current `docs/PROOF_OF_USEFULNESS_MEMO_01.md`, the relevant section of `docs/WEBSITE_PHASE_1_BRIEF.md`, the adversarial protocol itself, and the prompt that triggered this exchange, rather than from the full prior housing-vs.-AI discussion thread.
+> **Reduced context:** Reviewing primarily from the current `memos/proof-of-usefulness-memo-01.md`, the relevant section of `docs/WEBSITE_PHASE_1_BRIEF.md`, the adversarial protocol itself, and the prompt that triggered this exchange, rather than from the full prior housing-vs.-AI discussion thread.
 >
 > **Alternative framing:** The current proof-of-usefulness approach is treated as an assertion to be tested: "A comparative housing + AI memo is an adequate first public test of the framework."
 >
@@ -247,7 +247,7 @@ It is a reason to specify the theory more carefully so that "real evidence-based
 
 Internal documents considered in this round:
 
-- `../../../civicblueprint.org/docs/PROOF_OF_USEFULNESS_MEMO_01.md`
+- `../../memos/proof-of-usefulness-memo-01.md`
 - `../../../civicblueprint.org/docs/WEBSITE_PHASE_1_BRIEF.md`
 - `../process/adversarial-review-protocol.md`
 
@@ -593,7 +593,7 @@ That seems like the most disciplined response to the objection.
 
 Internal documents considered in this round:
 
-- `../../../civicblueprint.org/docs/PROOF_OF_USEFULNESS_MEMO_01.md`
+- `../../memos/proof-of-usefulness-memo-01.md`
 - `../../../civicblueprint.org/docs/WEBSITE_PHASE_1_BRIEF.md`
 - `../process/adversarial-review-protocol.md`
 - Round 1 of this exchange
@@ -870,7 +870,7 @@ I am arguing that both rounds reached it too easily and that the exchange has no
 
 Internal documents considered in this round:
 
-- `../../../civicblueprint.org/docs/PROOF_OF_USEFULNESS_MEMO_01.md`
+- `../../memos/proof-of-usefulness-memo-01.md`
 - `../process/adversarial-review-protocol.md`
 - Rounds 1 and 2 of this exchange
 
@@ -1127,7 +1127,7 @@ See Step 4 above. The answer is: transparently, with multiple interpretations pr
 
 Internal documents considered in this round:
 
-- `../../../civicblueprint.org/docs/PROOF_OF_USEFULNESS_MEMO_01.md`
+- `../../memos/proof-of-usefulness-memo-01.md`
 - `../process/adversarial-review-protocol.md`
 - Rounds 1, 2, and 3 of this exchange
 

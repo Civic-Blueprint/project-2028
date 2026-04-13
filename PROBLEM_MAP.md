@@ -1,9 +1,12 @@
 ---
 title: Problem Map
 description: A layered diagnosis of civic system failures, upstream dependencies, and the structural conditions that keep reform stuck.
+provenance: "[collaborative]"
 ---
 
 # Problem Map
+
+> **Provenance:** `[collaborative]` — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
 
 Civic Blueprint begins with a simple premise:
 

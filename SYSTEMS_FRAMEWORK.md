@@ -1,9 +1,12 @@
 ---
 title: Systems Framework
 description: A working framework for diagnosing civilizational bottlenecks, mapping leverage points, and sequencing system redesign.
+provenance: "[collaborative]"
 ---
 
 # Systems Framework
+
+> **Provenance:** `[collaborative]` — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
 
 This is not a campaign platform. It is not a declaration of solutions.
 

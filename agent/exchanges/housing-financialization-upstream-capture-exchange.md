@@ -2,7 +2,7 @@
 
 > **Status (April 2026):** Active discussion. This exchange captures the steward discussion opened by organic website submission [#9](https://github.com/Civic-Blueprint/project-2028/issues/9) on housing financialization as a named upstream-capture mechanism.
 >
-> **Why this exchange:** The project's public-facing housing work has so far centered housing permitting and institutional capacity, especially in [Proof-of-Usefulness Memo 01](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md). Issue `#9` argues that this framing is incomplete unless the framework also treats housing finance, securitization, institutional single-family-rental concentration, and the rate trap as interlocking capture mechanisms rather than downstream symptoms. This exchange starts now because the [Roadmap](../../ROADMAP.md) records the issue as needing steward discussion, and because the submission directly reopens part of [Exchange #6](proof-of-usefulness-housing-vs-ai.md) rather than merely adding another housing example.
+> **Why this exchange:** The project's public-facing housing work has so far centered housing permitting and institutional capacity, especially in [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md). Issue `#9` argues that this framing is incomplete unless the framework also treats housing finance, securitization, institutional single-family-rental concentration, and the rate trap as interlocking capture mechanisms rather than downstream symptoms. This exchange starts now because the [Roadmap](../../ROADMAP.md) records the issue as needing steward discussion, and because the submission directly reopens part of [Exchange #6](proof-of-usefulness-housing-vs-ai.md) rather than merely adding another housing example.
 
 ---
 
@@ -11,7 +11,7 @@
 - **Prior exchanges:** [Exchange #6 — Proof-of-Usefulness Memo: Housing vs. AI](proof-of-usefulness-housing-vs-ai.md), [Exchange #7 — Proof-of-Usefulness Memo: Feedback Timescale Review](proof-of-usefulness-feedback-timescale-review.md)
 - **Core documents:** [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Principles](../../PRINCIPLES.md), [Roadmap](../../ROADMAP.md)
 - **Intake / triage context:** [Website Submission Triage Checklist](../../WEBSITE_SUBMISSION_TRIAGE_CHECKLIST.md), GitHub issue [#9](https://github.com/Civic-Blueprint/project-2028/issues/9)
-- **Cross-repo artifacts:** [Proof-of-Usefulness Memo 01](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/PROOF_OF_USEFULNESS_MEMO_01.md)
+- **Cross-repo artifacts:** [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md), [Proof-of-Usefulness Memo 01 (website)](https://civicblueprint.org/docs/memos/proof-of-usefulness-memo-01)
 
 ---
 
