@@ -13,16 +13,16 @@ todos:
     status: completed
   - id: create-provenance-standard
     content: Create docs/CONTENT_PROVENANCE.md defining the four-level provenance spectrum and project policy
-    status: in_progress
+    status: completed
   - id: add-provenance-markers
     content: Add provenance disclosures to PRINCIPLES.md, memo source, and PROPOSAL_CATALOG.md header using the defined standard
-    status: pending
+    status: completed
   - id: website-orientation
     content: Design and implement website orientation layer and provenance disclosure (civicblueprint.org Hero, MemoFeature, docs layout)
-    status: pending
+    status: completed
   - id: build-verify
     content: Run build scripts for both repos to verify all changes compile successfully
-    status: pending
+    status: completed
 isProject: false
 ---
 
