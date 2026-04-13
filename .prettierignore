@@ -1,0 +1,4 @@
+# Project-2028 is a markdown-only repository.
+# Prettier reformats tables into fixed-width columns, producing noisy diffs
+# and degrading source readability. Ignore everything.
+*

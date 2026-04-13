@@ -36,13 +36,15 @@ Design and launch a structured review process targeting domain practitioners.
 
 - Outreach is underway; 8 practitioners have been contacted.
 - The 4-6 week response collection window is now open from initial outreach.
-- Responses are pending; synthesis work has not started yet.
+- First practitioner response has now been received and logged in [First Practitioner Critique and AI Content Provenance — Exchange](agent/exchanges/first-practitioner-critique-ai-provenance-exchange.md).
+- Early signal from that response: direct memo entry without orientation caused confusion, and AI-generated writing texture triggered a credibility filter before substantive critique.
 
 **What this means:**
 
 - **Recruit 8-12 reviewers** across housing, AI governance, public administration, and community organizing.
 - **Specifically recruit** at least 2 practitioners who have run bounded administrative reforms and measured public response.
 - **Write a structured prompt** asking:
+  - **Preamble adjustment (new):** briefly state what the project is, how AI is used (generated + curated/synthesized), and what kind of critique is being requested.
   - (a) Does this framework name bottlenecks you recognize from practice?
   - (b) What does it miss or get wrong?
   - (c) Where does the cross-domain comparison help and where does it feel forced?
@@ -160,6 +162,7 @@ This decomposition and the honest assessment of which layers are currently suppo
 Exchange #13 (Autonomous Proposal Generation — Agent Stress Test) produced 135 original proposals across all 15 Problem Map domains. These have been cataloged individually in [proposals/PROPOSAL_CATALOG.md](proposals/PROPOSAL_CATALOG.md) for steward review, feedback, and further brainstorming.
 
 **Next steps:**
+
 - Steward triage pass: scan proposals, mark interesting/wrong/debatable in Priority field
 - Priority ranking for proposals marked interesting
 - Coalition analysis for top-priority proposals
