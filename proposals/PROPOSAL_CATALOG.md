@@ -65,7 +65,7 @@ Five recursive uplift chains where proposals form causal sequences, each step re
 | **Classification** | Pragmatic |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | Medium |
-| **Steward notes** | Automted triggers are valuable. (This should go without saying and for the purposes of not repeating myself moving forward: O course, with oversight, evaluation, review, refinement, or replacement of the trigger); Random thought: In software, logging with different levels are great sources for triggers. Should we be able to have "logging" conceptually baked into processes as well as software? Better data. Better Responses. Better Outcomes. |
+| **Steward notes** | Automated triggers are valuable. (This should go without saying and for the purposes of not repeating myself moving forward: Of course, with oversight, evaluation, review, refinement, or replacement of the trigger); Random thought: In software, logging with different levels are great sources for triggers. Should we be able to have "logging" conceptually baked into processes as well as software? Better data. Better Responses. Better Outcomes. |
 
 Create a federal "shot clock" statute that auto-approves infrastructure permits after 180 days if no substantive objection has been filed by the reviewing agency. "Substantive" is defined in the statute (environmental, safety, engineering — not aesthetic or property-value complaints). Agencies that consistently miss the clock lose jurisdiction to a fast-track federal panel.
 
@@ -91,7 +91,7 @@ Mandate that every major infrastructure project include a legally binding recipr
 | **Classification** | Ambitious |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | High |
-| **Steward notes** | A lot of value here with direct experienced impact to citizens, both to communities where infrastructure projects get completed, but the labor involved as well. As with all money related proposals. Ani-corruption MUST be built into the fabric of the policy. I know that should go without saying and is true for all domains, but specifically when it comes to money - Anti. Corruption. [long pause]. BUILT IN. [long pause]. Continue. |
+| **Steward notes** | A lot of value here with direct experienced impact to citizens, both to communities where infrastructure projects get completed, but the labor involved as well. As with all money related proposals. Anti-corruption MUST be built into the fabric of the policy. I know that should go without saying and is true for all domains, but specifically when it comes to money - Anti. Corruption. [long pause]. BUILT IN. [long pause]. Continue. |
 
 Permanent, off-budget federal infrastructure bank with authority to issue revenue bonds, take equity positions, and offer below-market financing for projects that pass a cost-benefit threshold. Capitalized at $500B, self-sustaining through project returns. Projects that clear environmental and safety review get automatic financing eligibility, severing the link between political budget cycles and infrastructure investment timelines.
 
@@ -144,7 +144,7 @@ Campaign for a constitutional amendment guaranteeing access to electricity, broa
 | **Classification** | Ambitious |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | High |
-| **Steward notes** | Direct call to principle 11 about the biosphere. Any policy directly tied to a principal should be auto classified as a high priority |
+| **Steward notes** | Direct call to principle 11 about the biosphere. Any policy directly tied to a principle should be auto classified as a high priority |
 
 NRC pre-certifies 5-10 small modular reactor designs in a "catalog." Once a design is cataloged, site-specific approval takes 90 days max if the site meets pre-defined criteria. Separates "is this design safe?" (answered once, nationally) from "is this site appropriate?" (answered quickly, locally). The FAA type-certification model applied to energy.
 
@@ -187,7 +187,7 @@ Require all critical infrastructure control systems purchased with federal funds
 | **Classification** | Ambitious |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | Low |
-| **Steward notes** | Debt is inslavement, so ideally we could solve wages by competing with the open market on 80% of equivalent private market compensation. This would add competition to the market if they start losing talent to the public sector - thus recursive uplift by reinforcing institutional capacity. Why do I say all of this. |
+| **Steward notes** | Debt is enslavement, so ideally we could solve wages by competing with the open market on 80% of equivalent private market compensation. This would add competition to the market if they start losing talent to the public sector - thus recursive uplift by reinforcing institutional capacity. Why do I say all of this? Is debt a blight on humanity? A tool for extraction between the asset class and the labor class? Imagine if everyone had the ability to earn enough to not only survive, but thrive. They wouldn't need debt or tools like these. Are these just idealized fantasies or something that could legitimately be worked towards and systems built to help one day achieve? |
 
 Independent, publicly funded credit rating agency competing with Moody's, S&P, and Fitch. Funded by a small levy on rated issuances. Board with staggered 10-year terms, no revolving door for 5 years post-service. Breaks the issuer-pays conflict of interest that produced garbage AAA ratings on toxic mortgage securities.
 
@@ -241,7 +241,7 @@ Expand CRA to require algorithmic underwriting models to undergo annual disparat
 | **Classification** | Pragmatic |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | High |
-| **Steward notes** | There might be a lot of public opinion leverage here with a sense of "sticking it back to the man". In fact. Could the public demand compensation for past crises like the financial crisis bailout of 2008? |
+| **Steward notes** | There might be a lot of public opinion leverage here with a sense of "sticking it to the man". In fact. Could the public demand compensation for past crises like the financial crisis bailout of 2008? |
 
 Legislate that any SIFI bailout automatically converts senior unsecured debt and equity into a public equity stake, with government holding voting shares until taxpayers are made whole plus 10% return. Makes bailouts expensive for those who created the risk, changing ex-ante risk-taking incentives. Modeled on Sweden's 1990s bank restructuring.
 
@@ -267,7 +267,7 @@ $10B public venture fund modeled on In-Q-Tel but for civic applications. Takes e
 | **Classification** | Outlandish |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | Low |
-| **Steward notes** | Radical and a great idea! Calling back to chaning how people view debt, savings, and other health financial practices and literacy. While a great idea, the likely-hood is low. Fight potential is high. (Why can't we have 10,000 + growth now for all citizens?). |
+| **Steward notes** | Radical and a great idea! Calling back to changing how people view debt, savings, and other health financial practices and literacy. While a great idea, the likelihood is low. Fight potential is high. (Why can't we have 10,000 + growth now for all citizens?). |
 
 Every citizen receives a $10,000 Universal Investment Account at birth, managed by a low-cost public index fund. Tax-deductible contributions up to $5,000/year. Penalty-free withdrawals for housing, education, or business. Funded by modest estate tax increase above $10M. Baby Bonds meets index investing at national scale.
 
@@ -350,7 +350,7 @@ Require all AI-generated content to carry machine-readable provenance metadata (
 | **Classification** | Pragmatic |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | Critical |
-| **Steward notes** | High impact to to everyone in the biosphere. No need to hack when you can get PAID for legitimate help to the public interest. We need more Red-Team ideas of all types. |
+| **Steward notes** | High impact to everyone in the biosphere. No need to hack nefariously when you can get PAID for legitimate help to the public interest. We need more Red-Team ideas of all types. |
 
 Standing bounties ($10K-$100K) for documented demonstrations of election information-integrity vulnerabilities: deepfakes that evade detection, synthetic grassroots operations. Bounties paid for demonstration plus countermeasure. Crowdsources threat detection from security research community.
 
@@ -395,7 +395,7 @@ Shift federal procurement default from compliance-based to outcome-based. Contra
 | **Uplift chain** | Capacity-to-Trust Chain |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | High |
-| **Steward notes** | There is a lot political value here. Gives off "drain the swamp" vibes that resonated with a large demographic of the US population. |
+| **Steward notes** | There is a lot of political value here. Gives off "drain the swamp" vibes that resonated with a large demographic of the US population. |
 
 Independent Office of Institutional Integrity that identifies and reports deliberate institutional degradation: appointing unqualified leaders, defunding enforcement, reassigning experienced staff. Publishes annual "Institutional Health Index" for every major agency. Makes sabotage visible — and therefore politically costly.
 
@@ -409,7 +409,7 @@ Independent Office of Institutional Integrity that identifies and reports delibe
 | **Uplift chain** | Capacity-to-Trust Chain |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | High |
-| **Steward notes** | This makes a lot of sense and gives of the intent of what "DOGE" was supposed to be that resonated with a large demographic of the US population. |
+| **Steward notes** | This makes a lot of sense and gives off the intent of what "DOGE" was supposed to be that resonated with a large demographic of the US population. |
 
 Mandate all federal agencies use common shared digital services for identity, payments, notifications, forms, and case management. Agencies building custom solutions for functions the platform handles lose IT budget authority. Reduces cost 10x, creates shared capability that compounds.
 
@@ -436,7 +436,7 @@ Publicly accessible dashboard comparing public-sector to private-sector compensa
 | **Uplift chain** | Capacity-to-Trust Chain |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | Critical |
-| **Steward notes** | Super important for sustainability. Is there a path to have appointees replaced entirely by better democratic proceesses in the future with automatic triggers that could put someone up for re-election? What might those trigger points look like? Thinking of the supreme court here, as an example. |
+| **Steward notes** | Super important for sustainability. Is there a path to have appointees replaced entirely by better democratic processes in the future with automatic triggers that could put someone up for re-election? What might those trigger points look like? Thinking of the supreme court here, as an example. |
 
 Reduce political appointee positions by 40% (from ~4,000 to ~2,400), converting them to competitive Senior Executive Service roles. Remaining appointees must clear baseline competence review before confirmation. Breaks the cycle where each administration destroys institutional memory.
 
@@ -466,7 +466,7 @@ Pre-draft and maintain a library of detailed reform legislation — permitting o
 | **Classification** | Outlandish |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | High |
-| **Steward notes** | If the project's bet on recursive uplift is correct, then we need to create "subtasks" - incremental steps - towards this outlandish ideas. We need more outlandish ideas to explore. |
+| **Steward notes** | If the project's bet on recursive uplift is correct, then we need to create "subtasks" - incremental steps - towards these outlandish ideas. We need more outlandish ideas to explore. |
 
 Statutory independent body that publishes annual reports identifying highest-leverage reform sequences across domains. No regulatory power — pure analytical mandate. Operationalizes the Problem Map's recursive uplift hypothesis into an institution.
 
@@ -492,7 +492,7 @@ Domestic Corruption Immunity Index measuring strength of anti-corruption infrast
 | **Classification** | Pragmatic |
 | **Round** | [Round 1](../agent/exchanges/autonomous-proposal-generation-stress-test.md#round-1--foundational-substrates-energy-capital-information-institutional-capacity) |
 | **Priority** | High |
-| **Steward notes** | Tax day is upon us. It is too big a burden on everyone, and more than just financially. It can be anxiety inducing. Think of all of the industry sharks who are preying and profitting over something as hurtful as this domain. Taxes are ripe for high value reform like this when it comes to public opinion. We should probably look at taxes and aleternative means of pulling money out of the money supply. Another Outlandish thought. |
+| **Steward notes** | Tax day is upon us. It is too big a burden on everyone, and more than just financially. It can be anxiety inducing. Think of all of the industry sharks who are preying and profiting over something as hurtful as this domain. Taxes are ripe for high value reform like this when it comes to public opinion. We should probably look at taxes and alternative means of pulling money out of the money supply. Another Outlandish thought. |
 
 Redesign IRS Free File to include a "financial context" module showing each filer their effective rate vs. other brackets, spending breakdowns, housing cost policy drivers, and savings trajectory. Auditable, personalized data delivered at the one moment every American engages with the financial system.
 
