@@ -179,6 +179,28 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 15. [Steward Feedback Proposal Iteration — Exchange](steward-feedback-proposal-iteration-exchange.md)
+
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | When steward feedback is added to a subset of proposals in the catalog, does that human input materially change what a new proposal-development round produces — in specificity, originality, prioritization, coalition awareness, or recursive-uplift logic?                                                                                                                                                                                                                                             |
+| **Depends on** | [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review) (argument for faster, iterative learning), [Exchange #13](#13-autonomous-proposal-generation--agent-stress-test) (original proposal generation), [Exchange #14](#14-permitting-stack-recursive-uplift--exchange) (single-proposal deep dive on `P-004` / `P-107`), [Proposal Catalog](../../proposals/PROPOSAL_CATALOG.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Roadmap](../../ROADMAP.md) |
+| **Produced**   | New exchange opened. Frames a second experiment: steward-in-the-loop proposal iteration using annotations on 35 proposals from the catalog. Records the experiment's rationale, its relationship to the focused permitting-stack exchange, the likely output types, and the key methodological tensions. At exchange opening, the exact 35 annotated proposals are not yet visible in the saved catalog state available to the agent and remain to be incorporated in the next round.                                                   |
+| **Status**     | Active discussion.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+---
+
+### 16. [Starting Proposal Comparative Review — P-004/P-107 vs. P-053](starting-proposal-comparative-review.md)
+
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**   | The project needs to commit development effort to a starting proposal. Between the Open-Source Permitting Stack (`P-004` / `P-107`) and Federal Skills-First Hiring (`P-053`), which better serves the project's goals of testing recursive uplift, producing visible results, building credibility, and generating empirical learning? |
+| **Depends on** | [Exchange #3](#3-post-systems-framework-revision--next-steps) (empirical-validation need), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review) (fast-feedback and recursive-uplift decomposition), [Exchange #13](#13-autonomous-proposal-generation--agent-stress-test) (proposal generation and uplift-chain ranking), [Exchange #14](#14-permitting-stack-recursive-uplift--exchange) (initial P-004/P-107 development), [Proposal Catalog](../../proposals/PROPOSAL_CATALOG.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Roadmap](../../ROADMAP.md) |
+| **Produced**   | New exchange opened. Structured comparative framework across six dimensions (recursive uplift potential, learning velocity, visibility, political durability, project credibility, informative failure). Identifies open questions including whether the comparison is actually a sequencing question rather than either/or. |
+| **Status**     | Active discussion. |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -217,9 +239,17 @@ Core Documents (Principles, Problem Map, Systems Framework)
         ◄── All core docs + all 3 protocols + #7 + #12         │
         (30 rounds, 112 unique proposals, no steward input)    │
                                                                 │
-        └─► #14 Permitting Stack Recursive Uplift ◄─────────────┘
-              ◄── #3 + #7 + #13 + Proposal Catalog
-              (starting from P-004 / P-107 as first candidate)
+        ├─► #14 Permitting Stack Recursive Uplift ◄─────────────┐
+        │     ◄── #3 + #7 + #13 + Proposal Catalog              │
+        │     (starting from P-004 / P-107 as first candidate)  │
+        │     │                                                  │
+        │     └─► #16 Starting Proposal Comparative Review       │
+        │           ◄── #3 + #7 + #13 + #14 + Proposal Catalog  │
+        │           (P-004/P-107 vs. P-053 head-to-head)        │
+        │                                                        │
+        └─► #15 Steward Feedback Proposal Iteration ◄────────────┘
+              ◄── #7 + #13 + #14 + Proposal Catalog
+              (second experiment using steward annotations)
 ```
 
 ---

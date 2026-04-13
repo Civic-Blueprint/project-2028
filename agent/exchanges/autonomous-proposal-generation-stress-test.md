@@ -53,151 +53,151 @@ This exchange runs thirty rounds across six phases, using all three project prot
 ### §1 Energy & Critical Infrastructure
 
 **P-001. Federal Permitting Shot Clock with Auto-Approval**
-§1 | Pragmatic | Medium | Automted triggers are valuable. (This should go without saying and for the purposes of not repeating myself moving forward: O course, with oversight, evaluation, review, refinement, or replacement of the trigger); Random thought: In software, logging with different levels are great sources for triggers. Should we be able to have "logging" conceptually baked into processes as well as software? Better data. Better Responses. Better Outcomes.
+§1 | Pragmatic
 Create a federal "shot clock" statute that auto-approves infrastructure permits after 180 days if no substantive objection has been filed by the reviewing agency. "Substantive" is defined in the statute (environmental, safety, engineering — not aesthetic or property-value complaints). Agencies that consistently miss the clock lose jurisdiction to a fast-track federal panel.
 
 **P-002. Reciprocal Benefit Agreements for Infrastructure Siting**
-§1, §4 | Pragmatic | High | A lot of value here with direct experienced impact to citizens
+§1, §4 | Pragmatic
 Mandate that every major infrastructure project include a legally binding reciprocal benefit agreement where the host community receives direct, quantified compensation — property tax abatements, revenue sharing, community amenities fund — proportional to the regional benefit created. Reframes NIMBY from "you absorb cost, others get benefit" to "you absorb cost and get a guaranteed return."
 
 **P-003. National Infrastructure Financing Authority**
-§1, §2 | Ambitious | High | A lot of value here with direct experienced impact to citizens, both to communities where infrastructure projects get completed, but the labor involved as well. As with all money related proposals. Ani-corruption MUST be built into the fabric of the policy. I know that should go without saying and is true for all domains, but specifically when it comes to money - Anti. Corruption. [long pause]. BUILT IN. [long pause]. Continue.
+§1, §2 | Ambitious
 Permanent, off-budget federal infrastructure bank with authority to issue revenue bonds, take equity positions, and offer below-market financing for projects that pass a cost-benefit threshold. Capitalized at $500B, self-sustaining through project returns. Projects that clear environmental and safety review get automatic financing eligibility, severing the link between political budget cycles and infrastructure investment timelines.
 
 **P-004. Open-Source Permitting Stack**
-§1, §4 | Ambitious | High | Honestly a little biased here as an engineer myself, but yes. Maybe even go further and make it paid-open-source. Now I'm immediately thinking of talent, but I'm pretty far from that domain in the document.
+§1, §4 | Ambitious
 Fund a national open-source permitting software platform — maintained like Linux, contributed to by municipalities. Standardize data formats, automate routine checks, publish processing times and bottleneck data in real time. Municipalities that adopt the stack get priority access to federal infrastructure funds. Converts institutional incapacity from invisible to measured, comparable, and improvable.
 
 **P-005. Incumbent Utility Sunset Licensing**
-§1, §2 | Ambitious | High | Monopolies are serious and might be underlying multiple root causes, so I love the last sentence. 15 year lock in seems high. What are the options when something goes wrong?
+§1, §2 | Ambitious
 Replace perpetual utility franchise agreements with 15-year performance-based licenses. At each renewal, the utility must demonstrate it has met capacity expansion, interconnection, and reliability benchmarks — or the franchise opens to competitive bidding. Makes monopoly status contingent on performance rather than political relationship.
 
 **P-006. "Right to Connect" Constitutional Amendment Campaign**
-§1, §3 | Outlandish | Low | Very long term and has no chance of passing, no direct impact for years.
+§1, §3 | Outlandish
 Campaign for a constitutional amendment guaranteeing access to electricity, broadband, and clean water as a civil right, with enforceable service standards and a federal cause of action. The campaign itself reframes infrastructure from a budget line item to a rights question, changing the coalition math — the campaign is the intervention, whether or not the amendment passes.
 
 **P-007. Modular Nuclear Pre-Approval Catalog**
-§1, §4 | Ambitious | High | Direct call to principle 11 about the biosphere. Any policy directly tied to a principal should be auto classified as a high priority
+§1, §4 | Ambitious
 NRC pre-certifies 5-10 small modular reactor designs in a "catalog." Once a design is cataloged, site-specific approval takes 90 days max if the site meets pre-defined criteria. Separates "is this design safe?" (answered once, nationally) from "is this site appropriate?" (answered quickly, locally). The FAA type-certification model applied to energy.
 
 **P-008. Interstate Infrastructure Compact**
-§1, §4 | Pragmatic | Low
+§1, §4 | Pragmatic
 Voluntary interstate compact where member states agree to mutual recognition of environmental impact assessments for cross-border projects. A transmission line approved in New Mexico doesn't restart review when it crosses into Arizona. Start with 4-5 willing states.
 
 **P-009. Interoperability Mandate for Critical Infrastructure Control Systems**
-§1, §4 | Pragmatic | High | Breaking up of monopolies or lock-in to help people or communities to no longer feel like they are trapped.
+§1, §4 | Pragmatic
 Require all critical infrastructure control systems purchased with federal funds to use open, interoperable protocols — no proprietary lock-in. Existing systems must publish interoperability APIs within 3 years. Breaks the vendor lock-in that traps agencies in expensive, outdated systems.
 
 ### §2 Money, Credit & Capital Allocation
 
 **P-010. Public Credit Rating Agency**
-§2, §4 | Ambitious | Low | Debt is inslavement, so ideally we could solve wages by competing with the open market on 80% of equivalent private market compensation. This would add competition to the market if they start losing talent to the public sector - thus recursive uplift by reinforcing institutional capacity. Why do I say all of this. 
+§2, §4 | Ambitious
 Independent, publicly funded credit rating agency competing with Moody's, S&P, and Fitch. Funded by a small levy on rated issuances. Board with staggered 10-year terms, no revolving door for 5 years post-service. Breaks the issuer-pays conflict of interest that produced garbage AAA ratings on toxic mortgage securities.
 
 **P-011. Postal Banking 2.0 — Digital Public Payments**
-§2, §4 | Pragmatic | High | Very high value impact directly to citizens. We should propose figuring out how to help captured individuals by pay day lenders by automatically paying off those loans under these new and better public terms.
+§2, §4 | Pragmatic
 Relaunch postal banking through USPS as digital-first: free checking accounts, real-time payments, small-dollar lending capped at 15% APR. Partner with FedNow. Eliminates the $10B/year payday lending extraction tax on 6 million unbanked households. The infrastructure already exists.
 
 **P-012. Community Reinvestment Act 2.0 — Algorithmic Lending Audit**
-§2, §3 | Pragmatic | High | A lot of improvement for efficiency here with automation. This makes me think and callback to earlier in this document with the comment about Logging. Having data available helps improve efficiency and automation.
+§2, §3 | Pragmatic
 Expand CRA to require algorithmic underwriting models to undergo annual disparate-impact audits by certified third parties. Published results. Lenders that fail lose Fed discount window access and FDIC insurance until remediation. Extends fair-lending into machine-learning credit decisions.
 
 **P-013. Sovereign Wealth Fund via Financial Transaction Tax**
-§2, §1 | Ambitious | High | A lot of recursive uplift potential here.
+§2, §1 | Ambitious
 0.1% financial transaction tax on equities, bonds, and derivatives (~$100B/year). Revenue capitalizes a sovereign wealth fund investing exclusively in domestic infrastructure, clean energy, and public-interest technology. Returns flow to a universal citizen dividend. Converts high-frequency trading churn into patient capital for long-term public investment.
 
 **P-014. "Bail-In" Default for SIFIs**
-§2 | Pragmatic | High | There might be a lot of public opinion leverage here with a sense of "sticking it back to the man". In fact. Could the public demand compensation for past crises like the financial crisis bailout of 2008?
+§2 | Pragmatic
 Legislate that any SIFI bailout automatically converts senior unsecured debt and equity into a public equity stake, with government holding voting shares until taxpayers are made whole plus 10% return. Makes bailouts expensive for those who created the risk, changing ex-ante risk-taking incentives. Modeled on Sweden's 1990s bank restructuring.
 
 **P-015. Public Venture Capital for Civic Technology**
-§2, §4 | Ambitious | High | Cool idea. 7 years seems like a long time, I'd be interested in the thought processes behind this one.
+§2, §4 | Ambitious
 $10B public venture fund modeled on In-Q-Tel but for civic applications. Takes equity in startups building public-interest technology: permitting automation, benefits delivery, transparency tools. Startups must open-source core technology after 7 years. Steers capital toward building state capacity rather than disrupting it.
 
 **P-016. Democratized Capital Gains — Universal Investment Accounts**
-§2, §10 | Outlandish | low | Radical and a great idea! Calling back to chaning how people view debt, savings, and other health financial practices and literacy. While a great idea, the likely-hood is low. Fight potential is high. (Why can't we have 10,000 + growth now for all citizens?).
+§2, §10 | Outlandish
 Every citizen receives a $10,000 Universal Investment Account at birth, managed by a low-cost public index fund. Tax-deductible contributions up to $5,000/year. Penalty-free withdrawals for housing, education, or business. Funded by modest estate tax increase above $10M. Baby Bonds meets index investing at national scale.
 
 ### §3 Information Ecosystems
 
 **P-017. Local News Public Utility Districts**
-§3, §4 | Ambitious | High | Bringing public accountability via investigative journalism is very sorely needed and directly impacts infrastructure and mis-information fighting, for sure.
+§3, §4 | Ambitious
 Enable creation of Local News Public Utility Districts funded by small property tax levy ($20-40/household/year), modeled on library districts. Districts employ journalists to cover local government, courts, school boards. Editorial independence protected by statute, modeled on BBC charter. Treats accountability journalism as public infrastructure.
 
 **P-018. Mandatory Algorithmic Transparency for Platforms**
-§3, §4 | Pragmatic | High | A LOT of high political value here with this directly with citizens. Everyone says "safety is our top priority". Put your money where your mouth is. 10M+ may be too high a threshold.
+§3, §4 | Pragmatic
 Platforms with 10M+ US users that use algorithmic ranking must publish quarterly transparency reports: what signals the algorithm optimizes for, what content gets amplification, aggregate recommendation patterns. Third-party auditor verifies. Non-compliance triggers per-user-per-day fines.
 
 **P-019. "Public Option" Social Media Protocol**
-§3, §1 | Outlandish | High | Wow, another amazing idea. Corporations are too powerful. This would definitely be helpful in helping society.
+§3, §1 | Outlandish
 Fund development of an open, federated social media protocol — like email but for social feeds. Any platform can plug in; users own their identity and social graph. Don't need to beat Facebook — make switching costs zero so Facebook competes on quality, not lock-in. $200M/year — less than a single Navy destroyer.
 
 **P-020. AI Content Provenance Mandate**
-§3, §11 | Pragmatic | Critical | Super important hitting directly on principles 2, 5, and 14, with additional multiple hits in both the problem map and systems framework. Calling back to Logging - Automation - Accountability loop. How might we incorporate this policy into our project here as well? Is there a standard we need to start following? First Critical priority after my first reading of this. Is it just an emotional reaction or is this not as important as I am first thinking?
+§3, §11 | Pragmatic
 Require all AI-generated content to carry machine-readable provenance metadata (C2PA standard or equivalent). Platforms hosting content without provenance are liable for harms. Doesn't ban AI content — makes origin legible, shifting the verification asymmetry.
 
 **P-021. Civic Information Corps**
-§3, §4 | Ambitious | High | WOW. Another amazing idea. This could be easier to implement as well at a state level rather than federal.
+§3, §4 | Ambitious
 5,000 federally funded positions, 2-year terms, deployed to communities without local news. Trained in accountability journalism and data literacy. Produce public-domain reporting on local government. AmeriCorps meets ProPublica. Bridge strategy while sustainable models develop.
 
 **P-022. Adversarial Red-Team Bounties for Election Information**
-§3, §15 | Pragmatic | CRITICAL | High impact to to everyone in the biosphere. No need to hack when you can get PAID for legitimate help to the public interest. We need more Red-Team ideas of all types.
+§3, §15 | Pragmatic
 Standing bounties ($10K-$100K) for documented demonstrations of election information-integrity vulnerabilities: deepfakes that evade detection, synthetic grassroots operations. Bounties paid for demonstration plus countermeasure. Crowdsources threat detection from security research community.
 
 ### §4 Institutional Capacity
 
 **P-023. GovTech Corps**
-§4, §14 | Pragmatic | Critical | Why not have the Gov Tech Corps get involved with building AI with the frontier companies? We can bring the governance, oversight, engineering, and accountability? 
+§4, §14 | Pragmatic
 USDS/18F successor with structural fixes: 5-year terms (not 2), compensation at 80th percentile private sector, legal protection against political termination, authority to bypass procurement for projects under $10M. Members ship working software, not reports. Long enough for institutional memory, protected enough for uncomfortable truths.
 
 **P-024. Procurement Reform — Outcome-Based Contracting**
-§4 | Pragmatic | High | Love it. Make penalties REALLY have teeth
+§4 | Pragmatic
 Shift federal procurement default from compliance-based to outcome-based. Contracts over $5M must specify measurable outcomes, payment tied to performance. Contractors that miss outcomes barred for 3 years. Contracting officers get safe-harbor protection. Attacks the compliance-over-competence dynamic.
 
 **P-025. Anti-Sabotage Institutional Integrity Act**
-§4, §13 | Ambitious | High | There is a lot political value here. Gives off "drain the swamp" vibes that resonated with a large demographic of the US population.
+§4, §13 | Ambitious
 Independent Office of Institutional Integrity that identifies and reports deliberate institutional degradation: appointing unqualified leaders, defunding enforcement, reassigning experienced staff. Publishes annual "Institutional Health Index" for every major agency. Makes sabotage visible — and therefore politically costly.
 
 **P-026. "Government as Platform" — Shared Digital Services**
-§4, §1 | Ambitious | High | This makes a lot of sense and gives of the intent of what "DOGE" was supposed to be that resonated with a large demographic of the US population.
+§4, §1 | Ambitious
 Mandate all federal agencies use common shared digital services for identity, payments, notifications, forms, and case management. Agencies building custom solutions for functions the platform handles lose IT budget authority. Reduces cost 10x, creates shared capability that compounds.
 
 **P-027. Public-Sector Compensation Transparency Dashboard**
-§4, §14 | Pragmatic | High | A lot of value directly to citizens here. 
+§4, §14 | Pragmatic
 Publicly accessible dashboard comparing public-sector to private-sector compensation by role, grade, and metro area, using BLS data. Gaps exceeding 40% automatically trigger special pay rate recommendations to Congress. Makes the conversation data-driven, not political.
 
 **P-028. Career Civil Service Reinforcement**
-§4, §13 | Pragmatic | Critical | Super important for sustainability. Is there a path to have appointees replaced entirely by better democratic proceesses in the future with automatic triggers that could put someone up for re-election? What might those trigger points look like? Thinking of the supreme court here, as an example.
+§4, §13 | Pragmatic
 Reduce political appointee positions by 40% (from ~4,000 to ~2,400), converting them to competitive Senior Executive Service roles. Remaining appointees must clear baseline competence review before confirmation. Breaks the cycle where each administration destroys institutional memory.
 
 ### Cross-Cutting (Phase 1)
 
 **P-029. "Break Glass" Crisis Preparedness Legislation**
-§1, §2, §3, §4 | Ambitious | High | Direct impact to citizens
+§1, §2, §3, §4 | Ambitious
 Pre-draft and maintain a library of detailed reform legislation — permitting overhaul, financial restructuring, emergency information measures — ready to introduce within 72 hours of a triggering crisis. Maintained by a nonpartisan legislative design office. The side that is prepared wins; the side that improvises wastes the window.
 
 **P-030. Cross-Domain Reform Sequencing Authority**
-§1, §2, §4 | Outlandish | High | If the project's bet on recursive uplift is correct, then we need to create "subtasks" - incremental steps - towards this outlandish ideas. We need more outlandish ideas to explore.
+§1, §2, §4 | Outlandish
 Statutory independent body that publishes annual reports identifying highest-leverage reform sequences across domains. No regulatory power — pure analytical mandate. Operationalizes the Problem Map's recursive uplift hypothesis into an institution.
 
 **P-031. Corruption Immunity Index**
-§2, §4, §13 | Ambitious | Critical | An amazing idea. Data. Automation. Triggers. YES. Once trust is restored in public agencies, triggers and alarms can be set for when things start to go wrong. Random idea when thinking about the inverse: As trust is being restored, we have victory milestones as a means of celebration and encouragement to keep going?
+§2, §4, §13 | Ambitious
 Domestic Corruption Immunity Index measuring strength of anti-corruption infrastructure across federal agencies: IG independence, whistleblower utilization, lobbying disclosure, revolving-door compliance, procurement audit coverage. Published annually with agency rankings.
 
 **P-032. Universal Financial Literacy via Tax Filing**
-§2, §3 | Pragmatic | High | Tax day is upon us. It is too big a burden on everyone, and more than just financially. It can be anxiety inducing. Think of all of the industry sharks who are preying and profitting over something as hurtful as this domain. Taxes are ripe for high value reform like this when it comes to public opinion. We should probably look at taxes and aleternative means of pulling money out of the money supply. Another Outlandish thought.
+§2, §3 | Pragmatic
 Redesign IRS Free File to include a "financial context" module showing each filer their effective rate vs. other brackets, spending breakdowns, housing cost policy drivers, and savings trajectory. Auditable, personalized data delivered at the one moment every American engages with the financial system.
 
 **P-033. Federated Public Data Commons**
-§3, §4 | Ambitious | Critical | Data. Automation. Triggers. Accountability. Logging. YES
+§3, §4 | Ambitious
 Standardized, API-accessible platform for all government-collected data under open licenses. Federated architecture — state/local governments contribute without surrendering control, but data is queryable across jurisdictions. Transforms government data into shared infrastructure.
 
 **P-034. Recursive Uplift Demonstration Zones**
-§1, §2, §3, §4 | Outlandish | Critical | WOW. Hell yea! I'm getting excited just thinking about it. We need more outlandish ideas.
+§1, §2, §3, §4 | Outlandish
 Designate 3-5 metro areas where the federal government simultaneously deploys coordinated reforms across all four foundational substrates — fast-track permitting, public banking, local news utility, GovTech Corps — all in the same place, with rigorous measurement. The most direct empirical test of the recursive uplift hypothesis.
 
 **P-035. Real-Time Lobbying Disclosure**
-§2, §3, §4 | Pragmatic | High | Bro, we have SNS and other amazing technology. Why do we need to wait 48 hours? Blast corrupt stuff all over. Another point for having an open/public/commons social media.
+§2, §3, §4 | Pragmatic
 Require real-time (48 hours) public disclosure of all lobbying contacts with federal officials — who met whom, what was discussed, what was requested. Machine-readable format. Undisclosed meetings create rebuttable presumption of improper influence.
 
 **P-036. Regulatory Sandbox for Municipal Innovation**

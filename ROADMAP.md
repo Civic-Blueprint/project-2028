@@ -164,6 +164,7 @@ Exchange #13 (Autonomous Proposal Generation — Agent Stress Test) produced 135
 - Priority ranking for proposals marked interesting
 - Coalition analysis for top-priority proposals
 - Open follow-up exchanges for proposals worth developing further
+- Steward-in-the-loop iteration experiment opened in [Exchange #15](agent/exchanges/steward-feedback-proposal-iteration-exchange.md)
 
 ---
 
