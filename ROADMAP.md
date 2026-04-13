@@ -78,11 +78,11 @@ These are organic submissions. They are inputs to steward synthesis and roadmap 
 
 The project has been conflating three different questions. This roadmap now makes the separation explicit:
 
-| Question                                            | Current answer                                                 | Status                                        |
-| --------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------- |
-| What is the first public orientation artifact?      | Comparative Memo 01 (housing + AI)                             | **Decided. Shipped.**                         |
-| What is the first fast-feedback learning mechanism? | Structured practitioner critique of Memo 01                    | **Decided. Launched.** (See Recommendation 2) |
-| What is the first empirical validation case?        | To be designed. Criteria established, domain not yet selected. | **Open.** (See Recommendation 4)              |
+| Question | Current answer | Status |
+|---|---|---|
+| What is the first public orientation artifact? | Comparative Memo 01 (housing + AI) | **Decided. Shipped.** |
+| What is the first fast-feedback learning mechanism? | Structured practitioner critique of Memo 01 | **Decided. Launched.** (See Recommendation 2) |
+| What is the first empirical validation case? | To be designed. Criteria established, domain not yet selected. | **Open.** (See Recommendation 4) |
 
 ---
 
@@ -143,11 +143,11 @@ The exchange's most important finding is that recursive uplift, as currently for
 
 **The three-layer decomposition:**
 
-| Layer         | Claim                                                                                                     | Testable on short timelines?                                               |
-| ------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| **Execution** | Institutions can deliver visibly better outcomes in a bounded domain                                      | Yes                                                                        |
-| **Trust**     | Visible performance shifts behavioral trust indicators (uptake, re-engagement, compliance, participation) | Partially — behavioral proxies are observable but attribution is contested |
-| **Sequence**  | Trust and legitimacy gains make subsequent reforms more feasible                                          | No — inherently long-cycle, politically mediated                           |
+| Layer | Claim | Testable on short timelines? |
+|---|---|---|
+| **Execution** | Institutions can deliver visibly better outcomes in a bounded domain | Yes |
+| **Trust** | Visible performance shifts behavioral trust indicators (uptake, re-engagement, compliance, participation) | Partially — behavioral proxies are observable but attribution is contested |
+| **Sequence** | Trust and legitimacy gains make subsequent reforms more feasible | No — inherently long-cycle, politically mediated |
 
 **The hardest finding:** The visible-competence-to-trust cascade is the framework's most distinctive claim, and it has no direct empirical support. That is not a weakness to hide. It is a gap to name publicly and then work to close.
 

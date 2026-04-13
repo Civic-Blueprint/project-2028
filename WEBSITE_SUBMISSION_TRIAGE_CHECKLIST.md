@@ -35,14 +35,14 @@ Initial bucket: `<bucket>`.
 
 ## 3) Score (0-2 per dimension)
 
-| Dimension        | 0                              | 1                           | 2                                                | Score |
-| ---------------- | ------------------------------ | --------------------------- | ------------------------------------------------ | ----- |
-| Relevance        | weak connection to active work | related but indirect        | directly engages memo/framework/roadmap          |       |
-| Specificity      | general opinion/slogan         | clear claim, limited detail | concrete claim or proposed correction            |       |
-| Evidence         | no references/examples         | some support                | strong references, cases, or falsification logic |       |
-| Novelty          | duplicate/already covered      | partial new angle           | meaningfully new perspective or framing          |       |
-| Actionability    | unclear next move              | directional only            | clear review or revision candidate               |       |
-| Steward priority | can wait                       | next synthesis cycle        | prompt steward attention                         |       |
+| Dimension | 0 | 1 | 2 | Score |
+|---|---|---|---|---|
+| Relevance | weak connection to active work | related but indirect | directly engages memo/framework/roadmap |  |
+| Specificity | general opinion/slogan | clear claim, limited detail | concrete claim or proposed correction |  |
+| Evidence | no references/examples | some support | strong references, cases, or falsification logic |  |
+| Novelty | duplicate/already covered | partial new angle | meaningfully new perspective or framing |  |
+| Actionability | unclear next move | directional only | clear review or revision candidate |  |
+| Steward priority | can wait | next synthesis cycle | prompt steward attention |  |
 
 Total score (0-12): `<sum>`
 

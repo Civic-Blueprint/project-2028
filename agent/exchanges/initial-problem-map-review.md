@@ -319,11 +319,11 @@ This does not require optimism. It requires the same analytical honesty the map 
 
 ## Summary of recommendations
 
-| #   | Recommendation                                                 | Status                                                             |
-| --- | -------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 1   | Add democratic process to the Problem Map as a Layer 4 section | **Agree** — with explicit dual-role framing                        |
-| 2   | Add core bottleneck summaries under section headings           | **Agree** — with staged rollout and provisional markers            |
-| 3   | Add a "Theory of Entry Points" section to the Problem Map      | **New recommendation** — the map's most significant analytical gap |
+| # | Recommendation | Status |
+|---|---|---|
+| 1 | Add democratic process to the Problem Map as a Layer 4 section | **Agree** — with explicit dual-role framing |
+| 2 | Add core bottleneck summaries under section headings | **Agree** — with staged rollout and provisional markers |
+| 3 | Add a "Theory of Entry Points" section to the Problem Map | **New recommendation** — the map's most significant analytical gap |
 
 All three are high-leverage. Items 1 and 2 improve what the map already does. Item 3 addresses what the map does not yet do — and what it must do if it is going to function as real infrastructure for reform rather than a sophisticated portrait of stuckness.
 
@@ -759,10 +759,10 @@ Tracing those chains forward is, I believe, the single most important next step 
 
 ## Summary
 
-| #   | Contribution                                                         | Type                                                                                                      |
-| --- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 1   | The layer model may need to evolve into a web of typed relationships | **Architectural challenge** — the placement problem with democratic process is a symptom, not the disease |
-| 2   | Recursive uplift should be a central concept, not a list item        | **Elevation** — it is the inverse of the map's core insight and the key to making the map actionable      |
+| # | Contribution | Type |
+|---|---|---|
+| 1 | The layer model may need to evolve into a web of typed relationships | **Architectural challenge** — the placement problem with democratic process is a symptom, not the disease |
+| 2 | Recursive uplift should be a central concept, not a list item | **Elevation** — it is the inverse of the map's core insight and the key to making the map actionable |
 
 Both of these push in the same direction: making the Problem Map not just a diagnosis, but a navigational instrument. The web gives it the right structure. Recursive uplift gives it the right question to answer with that structure.
 

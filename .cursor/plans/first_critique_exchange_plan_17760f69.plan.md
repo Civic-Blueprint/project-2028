@@ -70,12 +70,12 @@ Register in [\_EXCHANGE_INDEX.md](agent/exchanges/_EXCHANGE_INDEX.md) as entry #
 
 **Proposed content provenance spectrum** (for discussion in the exchange):
 
-| Level                                    | Label                             | Description                                                                    | Project examples                                       |
-| ---------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| Human-authored                           | `[human]`                         | Written entirely by the steward                                                | Outreach messages, steward notes, personal reflections |
-| Human-directed, AI-drafted, human-edited | `[collaborative]`                 | Steward defined scope/constraints; AI drafted; steward revised and approved    | PRINCIPLES.md, SYSTEMS_FRAMEWORK.md, Memo 01           |
-| AI-generated, human-curated              | `[ai-generated, steward-curated]` | AI produced content within structured protocols; steward reviewed and selected | Proposal catalog entries, exchange outputs             |
-| AI-generated, unreviewed                 | `[ai-generated]`                  | Raw agent output not yet through steward review                                | Internal exchange rounds pre-synthesis                 |
+| Level | Label | Description | Project examples |
+|---|---|---|---|
+| Human-authored | `[human]` | Written entirely by the steward | Outreach messages, steward notes, personal reflections |
+| Human-directed, AI-drafted, human-edited | `[collaborative]` | Steward defined scope/constraints; AI drafted; steward revised and approved | PRINCIPLES.md, SYSTEMS_FRAMEWORK.md, Memo 01 |
+| AI-generated, human-curated | `[ai-generated, steward-curated]` | AI produced content within structured protocols; steward reviewed and selected | Proposal catalog entries, exchange outputs |
+| AI-generated, unreviewed | `[ai-generated]` | Raw agent output not yet through steward review | Internal exchange rounds pre-synthesis |
 
 ---
 

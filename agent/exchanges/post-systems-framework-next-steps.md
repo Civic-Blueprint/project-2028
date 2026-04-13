@@ -92,10 +92,10 @@ That is the transition the project needs to make next.
 
 ## Summary
 
-| Track                             | Purpose                                                                                      | Prerequisite for                                                                      |
-| --------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Website and contributor pipeline  | Give the project a public presence that can attract domain experts and adversarial reviewers | Adversarial review at scale, contributor diversity, broader legitimacy                |
-| Computational dependency analysis | Formalize the dependency graph and subject leverage claims to quantitative analysis          | Falsifiable hypotheses, narrative-bias correction, visual presentation of the network |
+| Track | Purpose | Prerequisite for |
+|---|---|---|
+| Website and contributor pipeline | Give the project a public presence that can attract domain experts and adversarial reviewers | Adversarial review at scale, contributor diversity, broader legitimacy |
+| Computational dependency analysis | Formalize the dependency graph and subject leverage claims to quantitative analysis | Falsifiable hypotheses, narrative-bias correction, visual presentation of the network |
 
 Both tracks serve the same underlying need: the project's analytical architecture is strong, and the next phase is earning its claims through empirical rigor and external challenge rather than internal structural reasoning alone.
 

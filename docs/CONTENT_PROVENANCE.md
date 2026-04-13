@@ -23,12 +23,12 @@ The project is intentionally dog-fooding its own provenance policy position.
 
 Use exactly one primary label per artifact.
 
-| Label                             | Definition                                                                                                                            | Typical examples                                                                   |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| `[human]`                         | Written directly by the steward without AI drafting.                                                                                  | Outreach messages, direct steward reflections, personal notes                      |
-| `[collaborative]`                 | Human-directed, AI-drafted, steward-edited. Steward sets intent/constraints, AI helps draft, steward revises and approves final form. | Core synthesis docs and public memos with steward sign-off                         |
-| `[ai-generated, steward-curated]` | AI generates candidate content under defined protocols; steward curates, selects, and contextualizes outputs.                         | Proposal catalog entries, exchange outputs synthesized from multi-round generation |
-| `[ai-generated]`                  | AI-generated content not yet reviewed or adopted by the steward.                                                                      | Raw drafts, intermediate experimental output                                       |
+| Label | Definition | Typical examples |
+|---|---|---|
+| `[human]` | Written directly by the steward without AI drafting. | Outreach messages, direct steward reflections, personal notes |
+| `[collaborative]` | Human-directed, AI-drafted, steward-edited. Steward sets intent/constraints, AI helps draft, steward revises and approves final form. | Core synthesis docs and public memos with steward sign-off |
+| `[ai-generated, steward-curated]` | AI generates candidate content under defined protocols; steward curates, selects, and contextualizes outputs. | Proposal catalog entries, exchange outputs synthesized from multi-round generation |
+| `[ai-generated]` | AI-generated content not yet reviewed or adopted by the steward. | Raw drafts, intermediate experimental output |
 
 ---
 

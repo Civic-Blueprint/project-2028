@@ -910,14 +910,14 @@ These three questions — augmentation, AI-native contribution, and governance �
 
 ## Summary
 
-| #   | Contribution | Type |
+| # | Contribution | Type |
 | --- | --- | --- |
-| 1   | The current Systems Framework is a working draft — nothing in it is sacred | Framing |
-| 2   | We need the same rigor for solutions that we have for diagnosis — positive recursion is the north star | Direction |
-| 3   | Build the evidence base: real examples of demonstrated competence and recursive uplift from Estonia, Singapore, NWS, Rwanda, South Korea, and beyond | Evidence |
-| 4   | Human + AI augmentation is a missing layer — institutional capacity, democratic deliberation, information integrity, and policy analysis all benefit | New dimension |
-| 5   | AI-native positive recursion: legal/regulatory audit, dependency mapping, condition monitoring, chain simulation, and public-interest AI as infrastructure | New dimension |
-| 6   | Add three AI-specific questions to every domain section: augmentation, AI-native contribution, and governance | Template |
+| 1 | The current Systems Framework is a working draft — nothing in it is sacred | Framing |
+| 2 | We need the same rigor for solutions that we have for diagnosis — positive recursion is the north star | Direction |
+| 3 | Build the evidence base: real examples of demonstrated competence and recursive uplift from Estonia, Singapore, NWS, Rwanda, South Korea, and beyond | Evidence |
+| 4 | Human + AI augmentation is a missing layer — institutional capacity, democratic deliberation, information integrity, and policy analysis all benefit | New dimension |
+| 5 | AI-native positive recursion: legal/regulatory audit, dependency mapping, condition monitoring, chain simulation, and public-interest AI as infrastructure | New dimension |
+| 6 | Add three AI-specific questions to every domain section: augmentation, AI-native contribution, and governance | Template |
 
 ---
 
