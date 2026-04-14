@@ -1,14 +1,14 @@
 ---
 title: Civic Blueprint
 description: An open-source blueprint for building a more capable, humane society in the age of AI.
-provenance: "[collaborative]"
+provenance: "collaborative"
 ---
 
 # Civic Blueprint
 
 **An open-source blueprint for a more capable, humane society in the age of AI.**
 
-> **Provenance:** `[collaborative]` — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
+> **Provenance:** collaborative — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
 
 ---
 

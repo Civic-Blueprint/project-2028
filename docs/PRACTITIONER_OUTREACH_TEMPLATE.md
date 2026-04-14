@@ -1,6 +1,6 @@
 ---
 description: Practitioner outreach templates for Recommendation 2, including trust-on-ramp framing and two-pass feedback prompts.
-provenance: "[human]"
+provenance: "human"
 ---
 
 # Practitioner Outreach Template

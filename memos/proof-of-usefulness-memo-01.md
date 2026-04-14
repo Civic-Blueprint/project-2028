@@ -1,14 +1,14 @@
 ---
 title: Proof-of-Usefulness Memo 01
 description: A comparative test of the Civic Blueprint framework across housing permitting and AI governance to evaluate institutional capacity as a core leverage point.
-provenance: "[collaborative]"
+provenance: "collaborative"
 ---
 
 # Proof-of-Usefulness Memo 01
 
 ## Two Test Cases, One Framework: What Housing Permitting and AI Governance Reveal About Institutional Capacity
 
-> **Provenance:** `[collaborative]` — This memo was developed through human-directed AI drafting, then curated, revised, and approved by the project steward. See [Content Provenance Standard](../docs/CONTENT_PROVENANCE.md).
+> **Provenance:** collaborative — This memo was developed through human-directed AI drafting, then curated, revised, and approved by the project steward. See [Content Provenance Standard](../docs/CONTENT_PROVENANCE.md).
 
 ## Status
 

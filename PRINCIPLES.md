@@ -1,12 +1,12 @@
 ---
 title: Principles
 description: Seventeen foundational principles for redesigning civic systems with dignity, accountability, and broad human agency.
-provenance: "[collaborative]"
+provenance: "collaborative"
 ---
 
 # Principles
 
-> **Provenance:** `[collaborative]` — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
+> **Provenance:** collaborative — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
 
 These principles were developed through iterative drafting by multiple AI models operating under different review protocols, then synthesized, edited, and approved by the project steward. They are not universal truths arrived at from nowhere. They are the project's best current synthesis, offered for challenge and revision.
 
