@@ -234,6 +234,17 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 20. [Social Slop and Information Integrity — Exchange](social-slop-information-integrity-exchange.md)
+
+|  |  |
+|---|---|
+| **Question** | Is "Social Slop" — engagement-optimized decontextualization that inflates method-level disagreements into apparent values-level conflicts — a named pattern the project should formally recognize, and how does it interact with Principle 14 (truth and evidence as public goods) and the alignment thesis? |
+| **Depends on** | [Principles](../../PRINCIPLES.md) (§14 truth and evidence), [Problem Map](../../PROBLEM_MAP.md) (§3 information ecosystems), [Exchange #18](#18-formation-document-comparative-analysis--exchange) (convergence claim), [Exchange #19](#19-formation-document-initial-findings--adversarial-review) (adversarial challenge to convergence), [Phase 2 Website Brief](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/WEBSITE_PHASE_2_BRIEF.md) |
+| **Produced** | Exchange opened. Proposed definition of Social Slop as a distinct information-integrity phenomenon. Anchor case (WEF natural capital accounting repackaged as "monetize breathing") documented with full source-to-post transformation analysis. Core mechanism identified: fragment extraction → threat reframing → outcome erasure → method-as-values substitution → engagement packaging. Six open questions framed for next rounds. |
+| **Status** | Active discussion. |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -270,8 +281,11 @@ Core Documents (Principles, Problem Map, Systems Framework)
   │     ├─► #18 Formation Document Comparative Analysis        │
   │     │     ◄── Principles + comparative corpus + protocol   │
   │     │
-  │     └─► #19 Formation Document Initial Findings Adv. Rev.  │
-  │           ◄── #18 + comparative corpus synthesis + ARP     │
+  │     ├─► #19 Formation Document Initial Findings Adv. Rev.  │
+  │     │     ◄── #18 + comparative corpus synthesis + ARP     │
+  │     │
+  │     └─► #20 Social Slop & Information Integrity            │
+  │           ◄── #18 + #19 + Principles §14 + PM §3          │
   │                                                             │
   ├─► #12 Memo 01 Housing Parallel Test ◄── #6 / #7 / HPTP    │
   │                                                             │
@@ -308,3 +322,4 @@ Several exchanges produced or depend on documents in the [civicblueprint.org](ht
 | #11 (AI Commonwealth vs. Governance) | `memos/proof-of-usefulness-memo-01.md` — public memo whose AI framing this exchange sharpens |
 | #12 (Housing Parallel Test) | `memos/proof-of-usefulness-memo-01.md` — public memo whose housing claims this exchange tests |
 | #17 (Practitioner Critique & AI Provenance) | `website/src/components/Hero.tsx`, `website/src/components/MemoFeature.tsx`, `website/src/app/docs/[...slug]/page.tsx` — website orientation and provenance legibility surfaces targeted by this exchange |
+| #20 (Social Slop & Information Integrity) | `docs/WEBSITE_PHASE_2_BRIEF.md`, `docs/HOMEPAGE_COPY_DRAFT_PHASE_2.md` — Phase 2 alignment narrative whose convergence claim this exchange stress-tests from the information-integrity angle |
