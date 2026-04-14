@@ -1,6 +1,6 @@
 # First Practitioner Critique and AI Content Provenance — Exchange
 
-> **Status (April 2026):** Synthesized. Five rounds completed (three constructive, one adversarial, one coherence audit) plus one steward interstitial. The exchange produced: (1) a four-level content provenance standard now adopted project-wide, (2) the finding that provenance labeling is necessary hygiene but not a trust strategy — trust requires demonstrated performance per Principle 9 and Problem Map §13, (3) identification of effort calibration and AI-sensitivity as compounding barriers (not competing hypotheses), (4) the conclusion that outreach-embedded relational disclosure matters more than website labels, (5) a reweighted three-layer critique model (entry trust as highest-strategic-weight layer), (6) downgraded epistemic claims about P-020 dog-fooding from "validation" to "illustration," and (7) a prioritized next-steps list centered on outreach redesign and accelerating Recommendation 4. Steward decisions and implementation tracked in a separate plan.
+> **Status (April 2026):** Reopened. Six rounds completed (four constructive, one adversarial, one coherence audit) plus one steward interstitial. Rounds 1–5 produced: (1) a four-level content provenance standard now adopted project-wide, (2) the finding that provenance labeling is necessary hygiene but not a trust strategy — trust requires demonstrated performance per Principle 9 and Problem Map §13, (3) identification of effort calibration and AI-sensitivity as compounding barriers (not competing hypotheses), (4) the conclusion that outreach-embedded relational disclosure matters more than website labels, (5) a reweighted three-layer critique model (entry trust as highest-strategic-weight layer), (6) downgraded epistemic claims about P-020 dog-fooding from "validation" to "illustration," and (7) a prioritized next-steps list centered on outreach redesign and accelerating Recommendation 4. Round 6 identifies a structural gap in Rounds 1–5: all five priorities address how to *collect* better practitioner input but none address what happens *after* practitioners engage — the post-critique retention and pathway problem. Proposes two additional priorities: design the post-critique practitioner pathway before feedback arrives, and connect the critique pipeline to the proposal development pipeline.
 >
 > **Why this exchange:** [Roadmap Recommendation 2](../../ROADMAP.md#recommendation-2-launch-structured-practitioner-critique) launched structured practitioner critique and outreach is now underway. The first response surfaced immediate concerns about AI-generated texture and orientation clarity when landing directly on the memo. This exchange started because that feedback intersects directly with [Proposal `P-020`](../../proposals/PROPOSAL_CATALOG.md#p-020-ai-content-provenance-mandate), [Principle 14](../../PRINCIPLES.md#14-truth-and-evidence-must-be-protected-as-public-goods), and the project's own claims about information integrity.
 
@@ -845,3 +845,181 @@ In priority order:
 | The trust strategy is Recommendation 4, not provenance labeling | Established by the project's own framework | Principle 9, Problem Map §13 both specify visible performance as the trust mechanism | Evidence that disclosure alone produces durable trust shifts without demonstrated performance |
 | The memo's substance may have problems that will surface once the trust barrier is cleared | Speculative but prudent | Exchanges #7 and #12 already identified weak claims; no practitioner has tested the substance | Substantive practitioner feedback that confirms or disconfirms the known weak points |
 | Entry-trust clearance rate should be tracked as a first-order strategic metric | Established by reasoning | If trust is the binding constraint per the steward's note and the framework, the clearance rate measures the constraint directly | Evidence that trust is not actually the binding constraint and that some other variable dominates |
+
+---
+
+# Round 6
+
+---
+
+## Constructive Analysis — Round 6 Agent (Claude, Opus)
+
+> **Role:** Constructive analyst. This round reopens the exchange to address a structural gap in the Round 5 next-steps list: all five priorities focus on collecting better practitioner input, but none address what happens after practitioners engage. The steward raised this as a strategic concern: "What then? How do we capture the momentum of serious practitioners engaging further? I don't want our practitioners to feel like we used them."
+>
+> **Context reviewed:** [Exchange #17 Rounds 1–5](first-practitioner-critique-ai-provenance-exchange.md), [Exchange #7 — Feedback Timescale Review](proof-of-usefulness-feedback-timescale-review.md) (Recommendations 2 and 4), [Exchange #12 — Housing Parallel Test](memo-01-housing-parallel-test-exchange.md) (practitioner prompt sharpening), [Exchange #14 — Permitting Stack Recursive Uplift](permitting-stack-recursive-uplift-exchange.md), [Exchange #16 — Starting Proposal Comparative Review](starting-proposal-comparative-review.md), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md) (§9 competence and trust, §10 built in the open), [Problem Map](../../PROBLEM_MAP.md) (§13 institutional trust), [Proposal Catalog](../../proposals/PROPOSAL_CATALOG.md).
+
+---
+
+### The gap in the current next-steps list
+
+Round 5 produced five priorities. They are all sound. They are also all oriented in one direction: toward the project.
+
+| Priority | Direction |
+|---|---|
+| 1. Redesign the outreach ask | Input → project |
+| 2. Track entry-trust clearance rate | Input → project |
+| 3. Review Exchanges #7/#12 for weak claims | Internal preparation |
+| 4. Keep provenance as infrastructure | Internal hygiene |
+| 5. Accelerate Recommendation 4 | Internal development |
+
+Every item answers some version of: *how does the project get better data from practitioners?*
+
+No item answers: *what does the practitioner get from engaging with the project?*
+
+That asymmetry is the structural gap this round addresses. It is not a minor omission. It is the difference between a research project that consults practitioners and a practitioner network that has analytical support. The project's own framework predicts that the first model is extractive and unsustainable; the second is what builds the recursive engagement the project needs.
+
+---
+
+### 1. The current design treats practitioners as a data source, not as participants
+
+The implicit model in Rounds 1–5 is:
+
+```
+Practitioner gives critique → Project synthesizes → Project produces better artifact → Next practitioner
+```
+
+From the project's perspective, each practitioner interaction generates learning. From the practitioner's perspective, the interaction is terminal: they gave their expertise, they received a thank-you, and the relationship ended.
+
+That is structurally extractive even if it is not intentionally so. The practitioner's contribution becomes an input to a process they cannot see, influence, or benefit from. For a federal HHS employee or a housing administrator — people who are already wary of being "consulted" without consequence — this pattern is familiar and discouraging.
+
+The steward's instinct is correct: if the project gets the practitioner critique it is seeking and then produces a revised memo, the practitioners will reasonably conclude they were used as free reviewers. That conclusion is accurate. The relationship was designed for one transaction.
+
+---
+
+### 2. The project needs a post-critique pathway designed before critique arrives
+
+The most important timing constraint is that the practitioner pathway must be designed *before* responses come in, not after. If the project receives substantive critique and only then starts thinking about "what's next for these reviewers," the delay will read as disorganization or indifference.
+
+What practitioners should know at the point of invitation — or at minimum, at the point of follow-up after they respond:
+
+1. **What happens to their feedback.** Not vaguely ("we'll incorporate it") but specifically: "Your critique will be synthesized in a public note. With your permission, your input will be credited by name or role."
+
+2. **What the project does next.** The feedback doesn't disappear into a document revision cycle. It shapes the next stage of the project, which is evaluating specific reform proposals — and that stage needs their expertise more than the memo stage did.
+
+3. **What they can do if they want to stay involved.** A concrete, bounded invitation: "We have [N] reform proposals that came out of this analysis. We're looking for practitioners to evaluate which ones are realistic and which are fantasy. Would you be willing to spend 20 minutes on a shortlist?"
+
+That transforms the interaction from "review my work" to "join an ongoing process." It also lowers the barrier: the practitioner doesn't need to commit to an open-ended relationship. They need to say yes to one more bounded task.
+
+---
+
+### 3. The Proposal Catalog is the natural bridge
+
+The project has 112 proposals in the [Proposal Catalog](../../proposals/PROPOSAL_CATALOG.md). [Exchange #14](permitting-stack-recursive-uplift-exchange.md) is developing the permitting stack hypothesis. [Exchange #16](starting-proposal-comparative-review.md) is comparing it against federal skills-first hiring. Both exchanges explicitly need the kind of operational knowledge that practitioners have and agents do not.
+
+Practitioners who engage with Memo 01 and find the analysis at least partially credible are the exact people who should be evaluating these proposals. A housing administrator can say whether P-004/P-107 is realistic in ways no amount of agent analysis can determine. An AI governance researcher can say whether the framework's temporal-mismatch diagnosis maps to their actual policy environment.
+
+The connection between the critique pipeline and the proposal pipeline is not currently designed. It should be. Concretely:
+
+- After synthesizing practitioner feedback on Memo 01, the project should produce a short "what we learned and what changed" note — not just an internal synthesis, but a public artifact that demonstrates responsiveness.
+- That note should include an invitation: "The next stage of this project is evaluating specific reform proposals. Here are the three we're developing. If any of these are in your wheelhouse, we'd value your input."
+- The invitation should link to a bounded subset of the catalog — not all 112 proposals, but the 3–5 that are most developed and most relevant to the practitioner's domain.
+
+This creates a natural on-ramp from one-time reviewer to recurring participant without requiring an open-ended commitment.
+
+---
+
+### 4. Visible responsiveness is the micro-layer recursive uplift test
+
+The project's own theory says visible institutional competence creates conditions for the next reform. The project itself is operating as an institution — a small one, but one that is asking people to invest trust and attention.
+
+If the project demonstrates visible competence in response to practitioner input — publishing what changed, crediting contributors, showing that the analysis got sharper because of external challenge — that is a live test of the execution-to-trust link at the project scale.
+
+This is not a metaphor. It is the same mechanism the framework describes:
+
+- **Execution layer:** The project visibly incorporates feedback and improves its analysis.
+- **Trust layer:** Practitioners who see their input reflected are more likely to engage again and to refer colleagues.
+- **Sequence layer:** A growing practitioner network makes the next stage — bounded reform proposals, validation cases — more feasible.
+
+If that sequence works at project scale, it is weak but real evidence for the micro layer of recursive uplift. If it does not work — if practitioners engage once and never return despite visible responsiveness — that is informative too.
+
+Either way, the project's own engagement model is a test case for its own theory, and it should be treated as such explicitly.
+
+---
+
+### 5. The public conversation matters more than the private synthesis
+
+Roadmap Recommendation 2 says practitioner critique should be "synthesized in a short public note." That is the right instinct, but the framing is too narrow.
+
+A synthesis note written by the project about what practitioners said is still a one-directional artifact. It is the project interpreting the practitioners, not the practitioners speaking.
+
+If practitioners consent to it, the stronger move is to publish the critiques themselves — or lightly edited versions — alongside the project's response. This does several things:
+
+- **It gives practitioners visibility.** Their expertise is on display, not buried in a synthesis. For a federal administrator or a housing policy researcher, that visibility has professional value.
+- **It signals to the next wave of readers** that the project is a living dialogue, not a static argument. A memo with published practitioner responses attached is a fundamentally different artifact than a memo that claims to have been reviewed.
+- **It creates accountability.** The project's responses to critique are public. If the project claims to have incorporated feedback but the published critique shows it didn't, that's visible.
+- **It models the project's own principles.** Principle 10 says "the future should be built in the open." Publishing the critique process — not just the output — is building in the open.
+
+The specific format matters less than the principle: the practitioner's voice should be visible in the project's public artifacts, not only in its internal synthesis.
+
+---
+
+### 6. What this round adds to the priority list
+
+Round 5 produced five priorities. This round proposes two additions that address the retention side of the practitioner problem:
+
+**Priority 6: Design the post-critique practitioner pathway before feedback arrives.**
+
+Specifically:
+
+- Draft a follow-up template that tells responding practitioners what happens next: their input is synthesized publicly, the project publishes what it got wrong, and they are invited into the next stage.
+- Define the "next stage" concretely: evaluating 3–5 specific reform proposals from the catalog against operational reality.
+- Ensure the follow-up can be sent within one week of receiving each practitioner's response. Speed of acknowledgment is itself a trust signal.
+
+**Priority 7: Connect the critique pipeline to the proposal development pipeline.**
+
+Specifically:
+
+- Identify which proposals in the catalog would most benefit from practitioner evaluation (P-004/P-107 permitting stack, P-053 federal skills-first hiring, and 2–3 others matched to each practitioner's domain).
+- Prepare a bounded evaluation prompt: "Here is one proposal. In 10 minutes, can you tell us: is this realistic? What would break? What's missing?"
+- Route practitioners toward the proposal exchanges ([Exchange #14](permitting-stack-recursive-uplift-exchange.md), [Exchange #16](starting-proposal-comparative-review.md)) where their operational knowledge has the most leverage.
+
+These two priorities do not replace the original five. They extend them from "get better input" to "build a durable relationship." The full priority list becomes:
+
+| # | Priority | Addresses |
+|---|---|---|
+| 1 | Redesign the outreach ask | Input barrier |
+| 2 | Track entry-trust clearance rate | Measurement |
+| 3 | Review Exchanges #7/#12 for weak claims | Content preparation |
+| 4 | Keep provenance as infrastructure | Principled hygiene |
+| 5 | Accelerate Recommendation 4 | Trust strategy (performance) |
+| 6 | Design the post-critique practitioner pathway | Retention / reciprocity |
+| 7 | Connect critique pipeline to proposal pipeline | Sustained engagement |
+
+---
+
+### Epistemic status of this round's claims
+
+| Claim | Confidence | Basis | What would change this |
+|---|---|---|---|
+| The current next-steps list treats practitioners as a data source rather than participants | Established by structural analysis | All five priorities flow toward the project; none address what the practitioner receives | Evidence that the current design already includes a retention mechanism this round has missed |
+| The post-critique pathway must be designed before feedback arrives | Working hypothesis | Delay between receiving critique and offering a next step reads as disorganization; the project cannot afford to squander the trust a practitioner extends by engaging | Evidence that practitioners are indifferent to response timing and will engage whenever asked |
+| The Proposal Catalog is the natural bridge from critique to sustained engagement | Working hypothesis | Proposals need operational reality-testing that practitioners can provide; practitioners who find the analysis credible are the right evaluators | Evidence that practitioners who engage with the memo have no interest in evaluating proposals, or that proposals are too undeveloped to benefit from practitioner input |
+| Visible responsiveness is a live micro-layer test of recursive uplift | Speculative but grounded | The mechanism is structurally identical to what the framework describes at institutional scale; the project is operating as a small institution | Evidence that project-scale engagement dynamics do not generalize to institutional-scale trust formation |
+| Publishing practitioner critiques (with consent) is stronger than publishing a project synthesis alone | Working hypothesis | Published critique gives practitioners visibility, creates accountability, and signals that the project is a dialogue; consistent with Principle 10 | Practitioner preference for anonymity or evidence that published critiques deter future participation |
+| Speed of acknowledgment is itself a trust signal | Working hypothesis | Responsiveness is a behavioral proxy for institutional competence; delayed follow-up undermines the trust the practitioner extended by engaging | Evidence that response speed is irrelevant to practitioner willingness to continue engaging |
+
+---
+
+## Notes on context
+
+Internal documents considered in this round:
+
+- Exchange #17 Rounds 1–5
+- [Exchange #7 — Feedback Timescale Review](proof-of-usefulness-feedback-timescale-review.md) (Recommendations 2 and 4)
+- [Exchange #12 — Housing Parallel Test](memo-01-housing-parallel-test-exchange.md) (practitioner prompt questions)
+- [Exchange #14 — Permitting Stack Recursive Uplift](permitting-stack-recursive-uplift-exchange.md)
+- [Exchange #16 — Starting Proposal Comparative Review](starting-proposal-comparative-review.md)
+- [Roadmap](../../ROADMAP.md)
+- [Principles](../../PRINCIPLES.md) (§9 competence and trust, §10 built in the open)
+- [Problem Map](../../PROBLEM_MAP.md) (§13 institutional trust)
+- [Proposal Catalog](../../proposals/PROPOSAL_CATALOG.md)
