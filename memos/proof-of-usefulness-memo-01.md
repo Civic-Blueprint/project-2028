@@ -8,7 +8,7 @@ provenance: "collaborative"
 
 ## Two Test Cases, One Framework: What Housing Permitting and AI Governance Reveal About Institutional Capacity
 
-> **Provenance:** collaborative — This memo was developed through human-directed AI drafting, then curated, revised, and approved by the project steward. See [Content Provenance Standard](../docs/CONTENT_PROVENANCE.md).
+> **Provenance:** `collaborative` — This memo was developed through human-directed AI drafting, then curated, revised, and approved by the project steward. See [Content Provenance Standard](../docs/CONTENT_PROVENANCE.md).
 
 ## Status
 

@@ -6,7 +6,7 @@ provenance: "collaborative"
 
 # Systems Framework
 
-> **Provenance:** collaborative — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
+> **Provenance:** `collaborative` — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
 
 This is not a campaign platform. It is not a declaration of solutions.
 

@@ -9,7 +9,7 @@ provenance: "ai-generated, steward-curated"
 >
 > **Generated:** April 2026. 135 original proposals (plus 3 revised variants and 13 alternative-framing proposals) across all 15 Problem Map domains, produced through 30 autonomous agent rounds using all three project review protocols (Adversarial Review, Historical Parallel Test, Coherence Audit). No steward input during generation.
 >
-> **Provenance:** ai-generated, steward-curated — Proposals were generated autonomously through structured agent rounds and later organized for steward review. See [Content Provenance Standard](../docs/CONTENT_PROVENANCE.md).
+> **Provenance:** `ai-generated, steward-curated` — Proposals were generated autonomously through structured agent rounds and later organized for steward review. See [Content Provenance Standard](../docs/CONTENT_PROVENANCE.md).
 >
 > **Purpose:** This catalog lists every proposal individually so that a project steward can review, provide feedback, flag ideas worth developing further, and use them as starting points for additional brainstorming.
 >

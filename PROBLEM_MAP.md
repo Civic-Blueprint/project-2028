@@ -6,7 +6,7 @@ provenance: "collaborative"
 
 # Problem Map
 
-> **Provenance:** collaborative — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
+> **Provenance:** `collaborative` — Human-directed AI drafting with steward synthesis, revision, and final approval. See [Content Provenance Standard](docs/CONTENT_PROVENANCE.md).
 
 Civic Blueprint begins with a simple premise:
 
