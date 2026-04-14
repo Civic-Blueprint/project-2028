@@ -77,6 +77,9 @@ The project is built on four interconnected documents:
 - **[Proposal Catalog](proposals/PROPOSAL_CATALOG.md)**  
   135 concrete reform proposals across all 15 Problem Map domains, generated through a 30-round autonomous agent stress test ([Exchange #13](agent/exchanges/autonomous-proposal-generation-stress-test.md)). Each proposal is individually listed for steward review, feedback, and further brainstorming. AI-generated hypotheses, not endorsed positions.
 
+- **[Formation Documents Analysis](formation-docs/README.md)**  
+  The `project-2028` analysis workspace for comparing Civic Blueprint's principles against constitutions, charters, declarations, and organizational founding texts. Retained source texts now live in [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs).
+
 ---
 
 ## How to contribute
@@ -127,11 +130,12 @@ The project is currently in an **adversarial review phase** — subjecting its f
 - [Post-Systems Framework Next Steps — Adversarial Review](agent/exchanges/post-systems-framework-next-steps.md): Includes adversarial challenge of the two-track strategy, questioning resource feasibility, the risk of false precision in graph analysis, and proposing an alternative sequencing starting with a proof-of-usefulness artifact.
 - [Review Protocol Design Exploration](agent/exchanges/review-protocol-design-exploration.md): Two-pass exploration of what review protocols beyond adversarial review the project might need — proposing seven candidate protocols, then subjecting them to adversarial challenge. Concludes that two new protocols (coherence audit, historical parallel test) should be formalized and five others should be folded into the adversarial protocol as standing questions.
 
-The project uses three structured review protocols, each addressing a different failure mode:
+The project uses four structured review protocols, each addressing a different failure mode:
 
 - **[Adversarial Review Protocol](agent/process/adversarial-review-protocol.md)** — Challenges claims. Counteracts convergence bias in multi-agent exchanges. Applied when exchanges generate strategic claims, produce near-total convergence, or will influence the project's direction.
 - **[Coherence Audit Protocol](agent/process/coherence-audit-protocol.md)** — Checks internal consistency across documents. Catches assumption drift, broken cross-references, and unincorporated exchange recommendations. Applied after major document revisions and on a regular schedule.
 - **[Historical Parallel Test Protocol](agent/process/historical-parallel-test-protocol.md)** — Grounds reform proposals in historical evidence. Tests leverage hypotheses and reform sequences against real-world cases where structurally similar reforms were attempted. Applied when proposals reach "working hypothesis" confidence.
+- **[Comparative Alignment Protocol](agent/process/comparative-alignment-protocol.md)** — Compares Civic Blueprint's principles against constitutions, charters, declarations, and organizational founding texts. Applied when the project wants to test overlap, divergence, silence, or possible principle-level gaps across formation documents.
 
 The project continues to need:
 

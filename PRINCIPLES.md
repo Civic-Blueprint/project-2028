@@ -14,6 +14,8 @@ The steward and contributors behind this document are aware that writing princip
 
 These principles will change. Not might change — _will_ change, as engagement with more diverse perspectives reveals blind spots, cultural assumptions, and power dynamics that the current synthesis cannot yet see from where it stands. The project values being wrong and correcting course more than it values being right the first time.
 
+External comparative pressure on this document is now also being tracked through the [formation-docs analysis workspace](formation-docs/README.md), while the retained source corpus itself lives in [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs). Together they assemble constitutions, charters, declarations, and organizational founding texts to test overlap, divergence, and possible gaps in the current principles.
+
 ---
 
 ## Philosophical positioning

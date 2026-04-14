@@ -6,21 +6,66 @@
 
 ## The problem this protocol addresses
 
-Civic Blueprint is built on multiple evolving documents: the Principles, the Problem Map, the Systems Framework, CONTRIBUTING.md, and a growing body of exchanges that propose changes to all of the above. Each document is revised independently. Exchanges produce recommendations that may or may not be incorporated. Terms are introduced in one document and referenced in another. Cross-references link specific sections that may move or change.
+Civic Blueprint is built on multiple evolving documents: the Principles, the Problem Map, the Systems Framework, CONTRIBUTING.md, a growing body of exchanges, and now a comparative formation-document track that spans two repositories.
+
+Each document is revised independently. Exchanges produce recommendations that may or may not be incorporated. Terms are introduced in one place and reused in another. Cross-references point across files, folders, and repositories. External source texts are retained as reference material while project-authored analysis interprets them.
 
 Over time, this creates coherence decay:
 
-- **Assumption drift.** One document evolves its position on a topic while another document still reflects the older position. The Principles exchange proposed revising Principle 13 (self-determination) to clarify that self-determination operates within the bounds of the substantive commitments. If the Principles are revised but the Systems Framework still references self-determination as unconstrained, the documents contradict each other.
+- **Assumption drift.** One document evolves its position on a topic while another still reflects the older position.
+- **Broken cross-references.** Links, section references, and dependency references silently go stale.
+- **Unincorporated recommendations.** Exchanges produce specific changes that may be implemented, deferred, or forgotten.
+- **Terminological inconsistency.** Terms such as "institutional capacity" or "recursive uplift" can drift in meaning across documents.
+- **Source-analysis boundary failure.** An external constitution, charter, or declaration can be treated as if it were editable project prose rather than retained reference material.
 
-- **Broken cross-references.** The Problem Map references specific Systems Framework sections. The Systems Framework references specific Principles. The README references specific exchanges. When any document is restructured, these references can break silently — no linter catches a Markdown link that points to a section heading that no longer exists.
+None of these failures are dramatic. They are slow, cumulative, and often invisible until someone reads multiple artifacts side by side.
 
-- **Unincorporated recommendations.** Exchanges produce specific, numbered recommendations for changes to project documents. Some are implemented; some are deferred; some are forgotten. Without tracking, the project loses visibility into what has been proposed versus what has been adopted.
+The [Adversarial Review Protocol](adversarial-review-protocol.md) does not catch these problems. It is designed to challenge claims, not to check whether the project's documents, indexes, metadata, and external-source handling still agree with each other. A dedicated maintenance protocol is needed.
 
-- **Terminological inconsistency.** The project uses terms like "institutional capacity," "recursive uplift," "leverage hypothesis," and "entry-point conditions" across multiple documents. If the definition or scope of a term shifts in one document, other documents may use the term with a meaning that no longer matches.
+---
 
-None of these failures are dramatic. They are slow, cumulative, and invisible until someone reads two documents side by side and notices the gap. By that point, the inconsistency may have been influencing analysis for multiple exchange cycles.
+## Document classes
 
-The [Adversarial Review Protocol](adversarial-review-protocol.md) does not catch these problems. It is designed to challenge claims, not to check whether documents agree with each other. A dedicated, lightweight protocol is needed.
+Before auditing, classify each artifact involved. The allowed resolutions depend on the class.
+
+### 1. Core normative documents
+
+These are the project's substantive commitments and design documents, including:
+
+- [PRINCIPLES.md](../../PRINCIPLES.md)
+- [PROBLEM_MAP.md](../../PROBLEM_MAP.md)
+- [SYSTEMS_FRAMEWORK.md](../../SYSTEMS_FRAMEWORK.md)
+- [CONTRIBUTING.md](../../CONTRIBUTING.md)
+- [ROADMAP.md](../../ROADMAP.md)
+
+These are fully auditable for contradictions, drift, broken references, and unincorporated recommendations.
+
+### 2. Project-authored analysis and coordination artifacts
+
+These include:
+
+- `formation-docs/analysis/**`
+- `formation-docs/ALIGNMENT_FRAMEWORK.md`
+- `formation-docs/SOURCE_REGISTRY.md`
+- `agent/exchanges/**`
+- `agent/process/**`
+- `README.md` and similar project-authored guidance files
+
+These are also fully auditable, but the audit should treat them as interpretation layers rather than as foundational commitments.
+
+### 3. Retained external source corpus
+
+This includes the source repository [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs), especially:
+
+- `documents/**`
+- `_source-meta.yaml`
+- `SOURCING_POLICY.md`
+- `TRANSLATION_WORKFLOW.md`
+- `_source-meta-template.yaml`
+
+These artifacts are retained reference material plus source-handling metadata. They are **not** project-authored normative text.
+
+**Hard rule:** the coherence audit must never recommend substantive edits to the meaning of an external source text in order to improve project coherence. If a source and the project differ, the analysis or synthesis layer must absorb that difference rather than rewriting the source.
 
 ---
 
@@ -28,92 +73,134 @@ The [Adversarial Review Protocol](adversarial-review-protocol.md) does not catch
 
 ### 1. Trigger
 
-A coherence audit should be performed:
+Run a **full coherence audit** when:
 
-- **After any major document revision.** If the Principles, Problem Map, Systems Framework, or CONTRIBUTING.md is substantively revised (not typo fixes or minor clarifications), the revised document should be audited against all other core documents.
+- any core normative document is substantively revised
+- an exchange produces multiple specific recommendations for document changes
+- a new exchange is created or an exchange's status changes
+- a major synthesis claim is introduced in `formation-docs/analysis/`
+- the project reaches a milestone or approximately every 3-5 exchanges
 
-- **After an exchange produces specific recommendations for document changes.** The audit tracks whether those recommendations have been incorporated or explicitly deferred.
+Run a **lightweight corpus-integrity check** when:
 
-- **After a new exchange is created or an exchange's status changes.** The [Exchange Index](../exchanges/_EXCHANGE_INDEX.md) should be verified against the actual exchange files. (The `civic-blueprint-exchange` Cursor skill handles index registration at creation time; the audit catches anything the skill missed or that drifted afterward.)
+- retained source metadata changes in `external-formation-docs`
+- a new formation document is added to the external corpus
+- a canonical source URL, translation status, or retention mode changes
+- an alignment memo is added or updated without broader project-document revisions
 
-- **On a regular schedule.** Even without a triggering revision, a coherence check should be performed approximately every 3-5 exchanges or at any significant project milestone. Documents can drift even when no single revision causes the drift.
+The lightweight corpus-integrity check exists because the comparative track can drift even when the core normative documents have not changed.
 
 ### 2. Scope
 
-Each audit covers three categories:
+Each audit covers four categories:
 
-**Cross-document consistency:**
+**Cross-document consistency**
 
-- Do the core documents agree on their shared claims? Where one document makes an assumption that another document addresses, are the assumptions aligned?
-- Do cross-references (links, section references, term usage) still point to the correct content?
-- Where a term is used across documents, does it carry the same meaning in each?
+- Do the core and project-authored documents agree on shared claims?
+- Do links, section references, and named concepts still point to the correct content?
+- Where a term is used across documents, does it carry the same meaning?
 
-**Recommendation tracking:**
+**Recommendation tracking**
 
-- What specific changes have been recommended in exchanges since the last audit?
-- Which have been incorporated into the relevant documents?
-- Which have been explicitly deferred (with reasoning)?
+- What changes have recent exchanges recommended?
+- Which have been incorporated?
+- Which have been explicitly deferred or accepted as open?
 - Which have not been addressed?
 
-**Exchange index integrity:**
+**Exchange index integrity**
 
-- Does the [Exchange Index](../exchanges/_EXCHANGE_INDEX.md) include an entry for every exchange file in `agent/exchanges/`?
-- Are the status fields in the index consistent with the status blocks at the top of each exchange file?
-- Are dependency links accurate — does each exchange's "Depends on" field reflect the actual context it assumes?
-- Is the dependency graph current?
-- Are cross-repo artifact references still valid (do the linked files in `civicblueprint.org` still exist at those paths)?
+- Does the [Exchange Index](../exchanges/_EXCHANGE_INDEX.md) include every exchange file in `agent/exchanges/`?
+- Are status fields in the index consistent with the exchange status blocks?
+- Are dependency links accurate and current?
+- Are cross-repo artifact references still valid?
 
-### 3. Process
+**Source corpus integrity**
 
-The auditor reads the revised document (or, for a scheduled audit, each core document in turn) alongside all other core documents. The auditor is not evaluating quality, challenging claims, or proposing improvements. The auditor is checking whether the documents agree with each other.
+- Do analysis memos point to the correct retained texts in `external-formation-docs`?
+- Do `_source-meta.yaml` files point to the correct analysis artifacts in `project-2028`?
+- Are translation-status claims consistent between source metadata and project-authored analysis?
+- Has a canonical source or excerpt basis drifted without the analysis acknowledging it?
+
+### 3. Issue types
+
+Classify each finding using the narrowest accurate label:
+
+- **Contradiction:** two project-authored documents actively disagree
+- **Drift:** one document has evolved past another on a shared topic
+- **Broken reference:** a link, section reference, or dependency path is stale or wrong
+- **Terminological inconsistency:** a shared term carries different meanings or scopes
+- **Unincorporated recommendation:** an exchange recommended a change that has not been adopted, deferred, or explicitly declined
+- **Source-handling error:** a retained source is stored, labeled, or linked in a way that violates the sourcing boundary
+- **Translation-status error:** metadata, memo text, or synthesis claims overstate translation certainty
+- **Interpretive overreach:** an analysis memo or synthesis artifact claims more than the source text supports
+- **Source-analysis mismatch:** metadata, retained text, and project-authored analysis no longer describe the same source basis
+- **Canonical-source drift:** the cited canonical source, version, or retained excerpt basis has changed or become uncertain without the corpus acknowledging it
+
+### 4. Process
+
+The auditor reads the relevant artifacts side by side. The job is not to evaluate whether the project is correct. The job is to check whether the artifacts agree with each other and whether the project is handling external sources honestly.
 
 **Prompt framing:**
 
-> You are auditing the internal coherence of Civic Blueprint's documents. You have been given [Document A] and [Document B]. Your job is not to evaluate either document's quality or challenge its claims. Your job is to find where they disagree with each other.
+> You are auditing the internal coherence of Civic Blueprint's artifacts.
+>
+> First classify each artifact as one of:
+>
+> - core normative document
+> - project-authored analysis / coordination artifact
+> - retained external source corpus
+>
+> Then audit only for coherence and boundary handling.
 >
 > Specifically:
 >
-> - Identify passages where Document A states or assumes something that Document B contradicts or does not support.
-> - Identify cross-references (links, section references, named concepts) that are broken or point to content that has changed.
-> - Identify terms that are used in both documents with different meanings or scopes.
-> - Check whether recommendations from recent exchanges have been incorporated into the documents or explicitly deferred.
->
-> For each finding, cite the exact passages in both documents and classify the issue:
->
-> - **Contradiction:** The documents actively disagree.
-> - **Drift:** One document has evolved past the other on a shared topic.
-> - **Broken reference:** A cross-reference no longer points to the correct content.
-> - **Terminological inconsistency:** A shared term carries different meanings.
-> - **Unincorporated recommendation:** An exchange recommended a specific change that has not been adopted or explicitly deferred.
+> - Identify contradictions, drift, broken references, and terminological inconsistency across project-authored documents.
+> - Check whether recommendations from recent exchanges have been incorporated, deferred, or left unaddressed.
+> - Check whether source metadata, retained texts, and project-authored analysis still refer to the same source basis.
+> - Check whether translation certainty or canonical-source stability is being overstated.
+> - If a retained external source differs from project language, do **not** recommend rewriting the source. Instead, classify whether the problem is in metadata, analysis, synthesis, or interpretation.
 
-### 4. Output
+### 5. Output
 
-The audit produces a **coherence checklist** — a flat list of findings, each with:
+The audit produces a **coherence checklist**: a flat list of findings, each with:
 
-- The issue type (contradiction, drift, broken reference, terminological inconsistency, unincorporated recommendation)
-- The specific passages in each document, cited by document name and section
-- A brief description of the inconsistency
-- A suggested resolution (not required, but helpful)
+- issue type
+- artifact class
+- the specific artifacts involved
+- a brief description of the inconsistency or drift
+- a suggested resolution that respects document boundaries
 
-The checklist is not a narrative document. It is a maintenance artifact. It should be concise enough to act on directly.
+Suggested format:
 
-**Example format:**
+| # | Type | Class | Artifact A | Artifact B | Issue | Suggested resolution |
+|---|---|---|---|---|---|---|
+| 1 | Drift | Project-authored analysis | `ROADMAP.md` | `formation-docs/README.md` | Roadmap still treats the corpus as local while the README describes a two-repo split | Update roadmap wording |
+| 2 | Broken reference | Project-authored analysis | `formation-docs/analysis/...` | `external-formation-docs` | Retained-text link still points to the old local path | Update memo link |
+| 3 | Translation-status error | Retained source corpus + analysis | `_source-meta.yaml` | alignment memo | Memo calls a translation expert-reviewed but metadata still says AI translated | Lower memo confidence or update metadata after verification |
+| 4 | Interpretive overreach | Project-authored analysis | alignment memo | retained source text | Memo claims a source encodes a value the cited clause does not clearly support | Revise memo classification or notes |
 
-| # | Type | Document A | Document B | Issue | Suggested resolution |
-|---|---|---|---|---|---|
-| 1 | Drift | Principles §13 | Systems Framework §14.3 | Principles exchange proposed constraining self-determination within substantive commitments; SF still references self-determination as unconstrained | Revise SF §14.3 to align with the proposed Principle 13 revision, or note that the revision has not yet been adopted |
-| 2 | Broken reference | README, Status section | agent/exchanges/ | README references "Post-Systems Framework Next Steps" but the exchange file was renamed | Update the README link |
-| 3 | Unincorporated | Principles exchange, rec #3 | Principles | Exchange recommended adding a principle on justice; Principles document has not been revised | Decide whether to adopt, defer, or decline; document the decision |
-| 4 | Broken reference | Exchange Index, entry #6 | civicblueprint.org | Cross-repo artifact link points to a memo that was renamed | Update the Exchange Index cross-repo table |
-| 5 | Drift | Exchange Index, entry #3 | post-systems-framework-next-steps.md | Index says "Active discussion" but the exchange status block was updated to reflect Track 1 progress | Sync the index status with the exchange status block |
+### 6. Resolution rules
 
-### 5. Resolution
+Each finding is resolved as one of:
 
-The coherence checklist is reviewed by the project steward (or, when domain stewards exist, by the relevant steward). Each item is resolved in one of three ways:
+- **Fix:** correct the inconsistency
+- **Defer:** acknowledge it and carry it forward with reasoning
+- **Accept:** document that the difference is intentional
 
-- **Fix:** The inconsistency is corrected in one or both documents.
-- **Defer:** The inconsistency is acknowledged but deferred to a future revision, with reasoning documented.
-- **Accept:** The inconsistency is intentional (e.g., two documents deliberately present different framings of the same topic) and is documented as such.
+For **core normative documents** and **project-authored analysis**, fixing can include substantive edits.
+
+For the **retained external source corpus**, fixes are constrained. Allowed resolutions include:
+
+- correct metadata
+- correct canonical URLs
+- replace a retained excerpt with a more faithful excerpt set
+- revise translation-status labeling
+- revise project-authored analysis or synthesis that misread the source
+- open an expert-review request
+
+Disallowed resolution:
+
+- editing an external source text to make it agree with Civic Blueprint's preferred formulation
 
 Unresolved items carry forward to the next audit.
 
@@ -123,38 +210,44 @@ Unresolved items carry forward to the next audit.
 
 **Always apply after:**
 
-- A major revision to any core document (Principles, Problem Map, Systems Framework, CONTRIBUTING.md)
-- An exchange that produces three or more specific recommendations for document changes
+- a major revision to any core normative document
+- an exchange that produces multiple specific recommendations for document changes
+- a substantial comparative synthesis update that may affect principles, roadmap framing, or exchange dependencies
 
-**Apply on schedule:**
+**Apply lightweight corpus-integrity checks after:**
 
-- Every 3-5 exchanges, or at any named project milestone
+- adding or replacing a retained source in `external-formation-docs`
+- changing translation verification status, canonical URLs, or source metadata that affects project-authored analysis
 
 **Skip when:**
 
-- The only changes since the last audit are minor editorial fixes (typos, formatting, clarifications that do not change meaning)
-- No exchanges have produced document-change recommendations since the last audit
+- only minor editorial fixes have occurred
+- there are no new exchange recommendations and no corpus-integrity changes since the last pass
 
 ---
 
 ## What this protocol does not do
 
-The coherence audit does not evaluate whether the documents are correct, complete, or well-argued. It does not challenge claims or propose improvements. It is a maintenance protocol, not an analytical one.
+The coherence audit does not decide whether the project is morally correct, whether a constitution is good, or whether a comparative synthesis claim is ultimately persuasive. It is a maintenance protocol, not an adversarial or normative one.
 
-Its value is preventive: it catches the slow accumulation of inconsistencies that, if left unchecked, would undermine the project's analytical credibility. A project that advocates for institutional competence (Principle 9) should demonstrate it in its own document management.
+It also does not authorize rewriting retained external source texts. Its job is to keep the project honest about where its own interpretation ends and where the source corpus begins.
+
+Its value is preventive: it catches the slow accumulation of inconsistencies that would otherwise undermine the project's analytical credibility.
 
 ---
 
 ## Relationship to other protocols
 
-- **Adversarial Review Protocol:** The adversarial protocol challenges what the documents say. The coherence audit checks whether the documents agree with each other. They are complementary, not overlapping.
-- **Historical Parallel Test Protocol:** The historical parallel test adds new content to the Systems Framework. Each addition is a potential source of coherence drift and should trigger a lightweight coherence check against the relevant Principles and Problem Map sections.
-- **Exchange Index and Cursor skill:** The `civic-blueprint-exchange` Cursor skill registers new exchanges in the [Exchange Index](../exchanges/_EXCHANGE_INDEX.md) at creation time, reducing the coherence audit's burden for index maintenance. The audit still verifies index accuracy as a catch for anything the skill missed or that drifted after initial registration.
+- **[Adversarial Review Protocol](adversarial-review-protocol.md):** challenges claims. The coherence audit checks whether artifacts agree and whether source handling is honest.
+- **[Comparative Alignment Protocol](comparative-alignment-protocol.md):** governs how external formation documents are mapped against the principles. The coherence audit verifies that the resulting memos, registry entries, metadata, and exchanges remain synchronized.
+- **[Historical Parallel Test Protocol](historical-parallel-test-protocol.md):** adds new evidence layers to project-authored analysis. Those additions can create drift and should trigger lightweight coherence checks.
+- **Exchange Index and Cursor skill:** the `civic-blueprint-exchange` Cursor skill registers new exchanges in the [Exchange Index](../exchanges/_EXCHANGE_INDEX.md) at creation time. The audit still verifies index accuracy afterward.
 
 ---
 
 ## Relationship to project principles
 
-- **Principle 9 (Institutions should be designed for competence and trust, not theater):** A project whose documents contradict each other is not competent. The coherence audit is basic hygiene.
-- **Principle 14 (Truth and evidence must be protected as public goods):** Internal inconsistency is a form of misinformation — not deliberate, but corrosive. Catching it early protects the integrity of the project's analysis.
-- **CONTRIBUTING.md quality standards:** Contributions must be "honest" and "specific." A project that does not track whether its own recommendations have been implemented is not being honest with itself about its own state.
+- **Principle 4 (Power must remain accountable, legible, and reversible):** the project should be able to explain what changed, where, and why.
+- **Principle 9 (Institutions should be designed for competence and trust, not theater):** a project whose own artifacts drift out of alignment is not demonstrating competence.
+- **Principle 14 (Truth and evidence must be protected as public goods):** overstating what a source says, or hiding source-handling drift, is a form of epistemic failure.
+- **CONTRIBUTING.md quality standards:** the project commits to honesty, specificity, and evidence. Those standards apply to document maintenance too.

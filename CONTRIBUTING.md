@@ -38,13 +38,16 @@ Identifying flaws, gaps, blind spots, or unstated assumptions in existing propos
 
 ### Structured review
 
-The project maintains three review protocols that produce specific kinds of analytical output. Each addresses a different failure mode:
+The project maintains four review protocols that produce specific kinds of analytical output. Each addresses a different failure mode:
 
 - **[Adversarial Review](agent/process/adversarial-review-protocol.md):** Designated challenge to the project's claims. Counteracts convergence bias in multi-agent exchanges by assigning at least one contributor the explicit role of finding what is weak, contradictory, or missing. Applied when exchanges produce strategic claims or near-total convergence.
 - **[Coherence Audit](agent/process/coherence-audit-protocol.md):** Systematic check of internal consistency across documents — assumption drift, broken cross-references, terminological inconsistency, and unincorporated exchange recommendations. Applied after major document revisions and on a regular schedule.
 - **[Historical Parallel Test](agent/process/historical-parallel-test-protocol.md):** Empirical grounding of reform proposals through historical cases where structurally similar reforms were attempted. Applied when reform sequences or leverage hypotheses reach "working hypothesis" confidence.
+- **[Comparative Alignment](agent/process/comparative-alignment-protocol.md):** Structured comparison between Civic Blueprint's principles and external formation documents such as constitutions, charters, declarations, and cooperative identity statements. Applied when contributors want to test overlap, divergence, or possible principle-level gaps.
 
-Contributors can participate in structured review by following the relevant protocol. The protocols include prompt templates and process guidance. Historical parallel contributions from human domain experts are especially valuable because they carry higher verification confidence than AI-generated parallels.
+Contributors can participate in structured review by following the relevant protocol. The protocols include prompt templates and process guidance. Historical parallel contributions from human domain experts are especially valuable because they carry higher verification confidence than AI-generated parallels. Comparative alignment contributions from native-language readers and constitutional specialists are especially valuable when the corpus expands beyond English-first sources.
+
+For the formation-document track specifically: retained source texts, source metadata, and translation-status updates belong in [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs), while alignment memos, synthesis artifacts, exchanges, and project-facing interpretation belong in `project-2028`.
 
 ### Implementation analysis
 

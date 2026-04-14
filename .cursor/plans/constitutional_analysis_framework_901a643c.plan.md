@@ -4,37 +4,37 @@ overview: Create a formation-documents library and comparative analysis pipeline
 todos:
   - id: phase1-structure
     content: Create formation-docs/ directory structure, README.md, SOURCING_POLICY.md, SOURCE_REGISTRY.md, ALIGNMENT_FRAMEWORK.md, and metadata template
-    status: pending
+    status: completed
   - id: phase1-protocol
     content: Write agent/process/comparative-alignment-protocol.md defining the scoring rubric, gap identification method, and output format
-    status: pending
+    status: completed
   - id: phase1-us-founding
     content: Add US founding documents (Constitution, Bill of Rights, Declaration of Independence) with full text and metadata
-    status: pending
+    status: completed
   - id: phase1-proof-of-concept
     content: "Run first comparative alignment analysis: US Constitution vs. PRINCIPLES.md"
-    status: pending
+    status: completed
   - id: phase1-exchange
     content: Open a new exchange for this effort and register it in _EXCHANGE_INDEX.md and ROADMAP.md
-    status: pending
+    status: completed
   - id: phase2-english-national
     content: Add South Africa, Canada Charter, India Fundamental Rights with alignment analyses
-    status: pending
+    status: completed
   - id: phase2-international
     content: Add UDHR and UN Charter with alignment analyses
-    status: pending
+    status: completed
   - id: phase2-us-states
     content: Add 4-6 representative US state constitutions with alignment analyses
-    status: pending
+    status: completed
   - id: phase2-matrix
     content: Build initial alignment matrix and open adversarial review exchange on findings
-    status: pending
+    status: completed
   - id: phase3-multilingual
     content: Add non-English constitutions with translation metadata and verification workflow
-    status: pending
+    status: completed
   - id: phase4-orgs-synthesis
     content: Add organizational documents, produce synthesis reports, feed findings back to PRINCIPLES.md
-    status: pending
+    status: completed
 isProject: false
 ---
 

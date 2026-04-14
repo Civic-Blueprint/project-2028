@@ -212,6 +212,28 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 18. [Formation Document Comparative Analysis — Exchange](formation-document-comparative-analysis-exchange.md)
+
+|  |  |
+|---|---|
+| **Question** | How should Civic Blueprint use constitutions, charters, declarations, and organizational founding texts to test, sharpen, or challenge its own principles without collapsing meaningful difference into false consensus? |
+| **Depends on** | [Principles](../../PRINCIPLES.md), [Comparative Alignment Protocol](../process/comparative-alignment-protocol.md), [External Formation Documents README](https://github.com/Civic-Blueprint/external-formation-docs/blob/main/README.md), [Alignment Framework](../../formation-docs/ALIGNMENT_FRAMEWORK.md), [United States Constitution alignment memo](../../formation-docs/analysis/principle-maps/us-constitution-alignment.md) |
+| **Produced** | New comparative-analysis track launched. Added a two-repo corpus workflow, with retained source texts in `external-formation-docs` and analysis/synthesis artifacts in `project-2028`, plus a proof-of-concept memo comparing the original U.S. Constitution against the 17 principles. Frames key methodological questions: structural constitutions vs. rights charters, overlap vs. asymmetry, and what should count as a principles-level gap. |
+| **Status** | Active discussion. |
+
+---
+
+### 19. [Formation Document Initial Findings — Adversarial Review](formation-document-initial-findings-adversarial-review.md)
+
+|  |  |
+|---|---|
+| **Question** | What are the strongest counterarguments against the early synthesis emerging from the formation-document corpus, and which current findings are robust versus artifacts of source selection, translation, or interpretive generosity? |
+| **Depends on** | [Exchange #18](#18-formation-document-comparative-analysis--exchange), [Comparative Alignment Protocol](../process/comparative-alignment-protocol.md), [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Alignment Matrix](../../formation-docs/analysis/synthesis/alignment-matrix.md), [Gap Analysis](../../formation-docs/analysis/synthesis/gap-analysis.md), [Uniqueness Report](../../formation-docs/analysis/synthesis/uniqueness-report.md) |
+| **Produced** | Opened the first structured challenge to the comparative corpus. Identifies source-selection bias, genre mismatch, false-overlap inflation, modernity bias, and translation risk as the main failure modes to test before treating the corpus as evidence of broad values alignment. |
+| **Status** | Active discussion. |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -243,8 +265,13 @@ Core Documents (Principles, Problem Map, Systems Framework)
   │     ├─► #9 Debt Legitimacy & Odious Debt                   │
   │     ├─► #10 Housing Financialization ◄── #6 / Memo 01      │
   │     ├─► #11 AI Commonwealth vs. Governance ◄── #6 / Memo 01│
-  │     └─► #17 Practitioner Critique & AI Provenance          │
+  │     ├─► #17 Practitioner Critique & AI Provenance          │
   │           ◄── #6 + #7 + #8 + P-020 + website memo entry    │
+  │     ├─► #18 Formation Document Comparative Analysis        │
+  │     │     ◄── Principles + comparative corpus + protocol   │
+  │     │
+  │     └─► #19 Formation Document Initial Findings Adv. Rev.  │
+  │           ◄── #18 + comparative corpus synthesis + ARP     │
   │                                                             │
   ├─► #12 Memo 01 Housing Parallel Test ◄── #6 / #7 / HPTP    │
   │                                                             │

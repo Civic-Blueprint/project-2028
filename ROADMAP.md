@@ -179,6 +179,31 @@ Exchange #13 (Autonomous Proposal Generation — Agent Stress Test) produced 135
 
 ---
 
+### Comparative Formation-Document Analysis (from Exchange #18)
+
+**Status: In progress.**
+
+Launch a comparative corpus of constitutions, charters, declarations, and organizational founding texts to test whether Civic Blueprint's principles are missing widely recurring commitments, resolve common tensions unusually, or overlap more with existing traditions than initial intuition suggests.
+
+**Current implementation state (April 2026):**
+
+- A new comparative analysis workspace now exists under [formation-docs/](formation-docs/README.md), with retained source texts housed separately in [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs).
+- The project has adopted a [Comparative Alignment Protocol](agent/process/comparative-alignment-protocol.md) for source-by-source mapping against [Principles](PRINCIPLES.md).
+- Sourcing policy, metadata schema, and synthesis artifacts are in place across the two-repo corpus workflow.
+- U.S. founding documents have been added as the first retained source set in `external-formation-docs`.
+- A proof-of-concept memo now exists for the original U.S. Constitution: [United States Constitution alignment memo](formation-docs/analysis/principle-maps/us-constitution-alignment.md).
+- The framing and open questions for the track are being carried in [Formation Document Comparative Analysis - Exchange](agent/exchanges/formation-document-comparative-analysis-exchange.md).
+
+**Next steps:**
+
+- Add English-accessible comparison sources with strong public value commitments: South Africa, Canada, India, UDHR, and UN Charter.
+- Add representative U.S. state constitutions and compare how subnational texts resolve rights, openness, privacy, education, and environmental obligations.
+- Add multilingual sources with explicit translation-verification metadata.
+- Add organizational identity documents to test whether some values appear more clearly outside state constitutions.
+- Use the resulting corpus to update the alignment matrix, gap analysis, and uniqueness report before opening a later adversarial review on any strong synthesis claims.
+
+---
+
 ## Key context from the exchange
 
 The exchange established several findings that should inform all future work:
