@@ -119,7 +119,6 @@ These items require steward judgment and cannot be implemented autonomously, but
 
 - **Review Exchanges #7 and #12** to identify memo claims most likely to draw practitioner pushback if the trust barrier is cleared. Decide whether pre-emptive revision is warranted. (Round 5, response to challenge 6)
 - **Accelerate Recommendation 4** (fast-feedback validation case). The exchange concludes this is the actual trust-builder, not provenance labeling. (Round 5, priority item 5)
-- **Monitor the double-`docs` URL pattern** (`/docs/docs/content-provenance`) for user confusion. Consider whether `docs/` as a subdirectory in project-2028 should be renamed long-term. (Coherence audit item #7)
 
 ---
 

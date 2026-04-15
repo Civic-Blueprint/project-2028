@@ -220,7 +220,6 @@ The exchange established several findings that should inform all future work:
 These items require steward judgment and are tracked here so they are not lost:
 
 - **Review Exchanges #7 and #12 for likely practitioner pushback claims.** Decide whether pre-emptive memo revision is warranted once entry-trust barriers are cleared.
-- **Monitor the double-`docs` URL pattern** (`/docs/docs/content-provenance`) for reader confusion and assess whether a long-term docs path simplification is needed.
 
 ---
 
