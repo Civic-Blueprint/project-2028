@@ -71,14 +71,20 @@ The project is built on four interconnected documents:
 - **[Contributing](CONTRIBUTING.md)**  
   How to participate, what quality means here, and how the project practices the transparent governance it advocates.
 
-- **[Roadmap](ROADMAP.md)**  
-  Recommended next steps drawn from exchange findings. Tracks what has been completed, what is in progress, and what comes next — including the structured practitioner critique, fast-feedback validation case design, and recursive uplift theory revision.
+## Extended artifacts
 
 - **[Proposal Catalog](proposals/PROPOSAL_CATALOG.md)**  
   135 concrete reform proposals across all 15 Problem Map domains, generated through a 30-round autonomous agent stress test ([Exchange #13](agent/exchanges/autonomous-proposal-generation-stress-test.md)). Each proposal is individually listed for steward review, feedback, and further brainstorming. AI-generated hypotheses, not endorsed positions.
 
 - **[Formation Documents Analysis](formation-docs/README.md)**  
   The `project-2028` analysis workspace for comparing Civic Blueprint's principles against constitutions, charters, declarations, and organizational founding texts. Retained source texts now live in [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs).
+
+## Internal project management
+
+These documents support steward coordination and are not published on the website:
+
+- **[Roadmap](ROADMAP.md)**  
+  Recommended next steps drawn from exchange findings. Tracks what has been completed, what is in progress, and what comes next — including the structured practitioner critique, fast-feedback validation case design, and recursive uplift theory revision.
 
 ---
 
@@ -101,9 +107,9 @@ AI-assisted contributors are welcome. See [Principles](PRINCIPLES.md) and [Contr
 
 Public feedback from the website response path is collected as issues labeled `website-submission`. These submissions are treated as **organic feedback** by default and reviewed with a steward triage rubric documented in [Contributing](CONTRIBUTING.md).
 
-The **structured practitioner critique** track is separate: invited reviewers, structured prompt, defined collection window, and separate synthesis output (see [Roadmap](ROADMAP.md), Recommendation 2).
+The **structured practitioner critique** track is separate: invited reviewers, structured prompt, defined collection window, and separate synthesis output (see the internal [Roadmap](ROADMAP.md), Recommendation 2).
 
-For day-to-day handling, stewards use [Website Submission Triage Checklist](WEBSITE_SUBMISSION_TRIAGE_CHECKLIST.md).
+For day-to-day handling, stewards use the internal [Website Submission Triage Checklist](WEBSITE_SUBMISSION_TRIAGE_CHECKLIST.md).
 
 ---
 

@@ -36,7 +36,6 @@ These are the project's substantive commitments and design documents, including:
 - [PROBLEM_MAP.md](../../PROBLEM_MAP.md)
 - [SYSTEMS_FRAMEWORK.md](../../SYSTEMS_FRAMEWORK.md)
 - [CONTRIBUTING.md](../../CONTRIBUTING.md)
-- [ROADMAP.md](../../ROADMAP.md)
 
 These are fully auditable for contradictions, drift, broken references, and unincorporated recommendations.
 
@@ -50,6 +49,7 @@ These include:
 - `agent/exchanges/**`
 - `agent/process/**`
 - `README.md` and similar project-authored guidance files
+- [ROADMAP.md](../../ROADMAP.md) — internal project management, not published on the website
 
 These are also fully auditable, but the audit should treat them as interpretation layers rather than as foundational commitments.
 
