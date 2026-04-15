@@ -1,0 +1,51 @@
+name: Suggest a missing formation document
+description: Propose a formation document that should be evaluated in the comparative corpus.
+title: "Missing formation document: "
+labels:
+  - missing-formation-document
+  - website-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to suggest a formation document that should be added to the comparative analysis corpus.
+  - type: input
+    id: document-name
+    attributes:
+      label: Document name
+      description: Provide the formal title of the source document.
+      placeholder: e.g. Constitution of Kenya (2010)
+    validations:
+      required: true
+  - type: input
+    id: source-family
+    attributes:
+      label: Source family
+      description: Which family best fits this source?
+      placeholder: e.g. nation-state, US state, international body, organization
+    validations:
+      required: true
+  - type: input
+    id: canonical-url
+    attributes:
+      label: Canonical source URL
+      description: Link to the best primary or canonical source text.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Why this source matters
+      description: Explain what this source adds to the convergence claim or where it may challenge it.
+      placeholder: This source matters because...
+    validations:
+      required: true
+  - type: textarea
+    id: excerpt-hints
+    attributes:
+      label: Relevant clauses or sections (optional)
+      description: If possible, cite specific sections that should be reviewed first.
+      placeholder: Article/section references...
+    validations:
+      required: false
