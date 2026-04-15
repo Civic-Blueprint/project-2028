@@ -245,6 +245,17 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 21. [Government Overreach, Ownership as Transition, and the Ratchet Problem — Exchange](government-overreach-ownership-ratchet-exchange.md)
+
+|  |  |
+|---|---|
+| **Question** | Is public-interest governance inherently expansionary (the "ratchet problem"), is private ownership a transitional mechanism to abundance or a permanent feature, and can democratic process become a capture mechanism when a majority of voters are net beneficiaries of government spending? |
+| **Depends on** | [Source Digest — Modern Wisdom #1084: Friedberg](../../sources/source-modern-wisdom-1084-friedberg-digest.md) (Clusters 3–7 + Steward Observation 1), [Principles](../../PRINCIPLES.md) (§2, §4, §5, §6), [Problem Map](../../PROBLEM_MAP.md) (Domains 2, 13, 15), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review) (recursive uplift decomposition), [Exchange #9](#9-debt-legitimacy-and-odious-debt--exchange) (debt/fiscal capture), [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md) |
+| **Produced** | Exchange opened. Adversarial challenge distilled from verified Friedberg claims. Three central questions framed (ratchet problem, ownership as transition, democracy as capture). Eight open questions queued for Round 2 spanning adversarial review (Option B + C), historical parallel tests (income tax ratchet, Germany nuclear, Argentina/Milei), and the steward's philosophical question on ownership under abundance. Epistemic status table established. |
+| **Status** | Active discussion. |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -304,6 +315,14 @@ Core Documents (Principles, Problem Map, Systems Framework)
         └─► #15 Steward Feedback Proposal Iteration ◄────────────┘
               ◄── #7 + #13 + #14 + Proposal Catalog
               (second experiment using steward annotations)
+
+  Source Digest: Modern Wisdom #1084 (Friedberg)
+        │
+        └─► #21 Government Overreach, Ownership & Ratchet Problem
+              ◄── Source Digest + Principles §2/4/5/6 + PM §2/13/15
+              ◄── #7 (recursive uplift) + #9 (debt legitimacy)
+              ◄── ARP + HPTP
+              (adversarial challenge to Principle 5 + ownership question)
 ```
 
 ---
