@@ -119,8 +119,8 @@ Contributions to Civic Blueprint should be:
 
 Civic Blueprint uses a **stewardship model**:
 
-- **Project stewards** maintain the overall direction, voice, and coherence of the project. They have merge authority over cross-cutting changes and the Principles document.
-- **Domain stewards** maintain specific sections of the Problem Map and Systems Framework. They review contributions in their domain, synthesize inputs, and make editorial decisions. Domain stewards are selected for demonstrated expertise and commitment, not for status.
+- **Project stewards** maintain the overall direction, voice, and coherence of the project. They have merge authority over cross-cutting changes and the [Principles](PRINCIPLES.md) document.
+- **Domain stewards** maintain specific sections of the [Problem Map](PROBLEM_MAP.md) and [Systems Framework](SYSTEMS_FRAMEWORK.md). They review contributions in their domain, synthesize inputs, and make editorial decisions. Domain stewards are selected for demonstrated expertise and commitment, not for status.
 - **Contributors** propose changes, provide expertise, and participate in discussion. Sustained, high-quality contribution is the path to stewardship.
 
 ### Decision process
@@ -214,7 +214,7 @@ If you want to contribute but are not sure where to start:
 1. Read the [Systems Framework](SYSTEMS_FRAMEWORK.md) and look for the **Contribution prompts** at the end of each section. The Framework now includes dependency mapping, leverage hypotheses, and failure-mode analysis alongside the original diagnostic questions — all of which benefit from domain expertise, case studies, and analytical challenge.
 2. Check the open issues for areas where help is specifically requested.
 3. If you have domain expertise in any area covered by the [Problem Map](PROBLEM_MAP.md), that expertise is especially valuable — particularly from outside the US/Western context.
-4. If you see something missing, say so. The "What is missing from this map" section at the end of the Problem Map lists acknowledged gaps that need contributors.
+4. If you see something missing, say so. The "What is missing from this map" section at the end of the [Problem Map](PROBLEM_MAP.md) lists acknowledged gaps that need contributors.
 
 ---
 

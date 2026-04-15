@@ -44,11 +44,11 @@ These are fully auditable for contradictions, drift, broken references, and unin
 These include:
 
 - `formation-docs/analysis/**`
-- `formation-docs/ALIGNMENT_FRAMEWORK.md`
-- `formation-docs/SOURCE_REGISTRY.md`
+- [formation-docs/ALIGNMENT_FRAMEWORK.md](../../formation-docs/ALIGNMENT_FRAMEWORK.md)
+- [formation-docs/SOURCE_REGISTRY.md](../../formation-docs/SOURCE_REGISTRY.md)
 - `agent/exchanges/**`
 - `agent/process/**`
-- `README.md` and similar project-authored guidance files
+- [README.md](../../README.md) and similar project-authored guidance files
 - [ROADMAP.md](../../ROADMAP.md) — internal project management, not published on the website
 
 These are also fully auditable, but the audit should treat them as interpretation layers rather than as foundational commitments.
@@ -247,7 +247,7 @@ Its value is preventive: it catches the slow accumulation of inconsistencies tha
 
 ## Relationship to project principles
 
-- **Principle 4 (Power must remain accountable, legible, and reversible):** the project should be able to explain what changed, where, and why.
-- **Principle 9 (Institutions should be designed for competence and trust, not theater):** a project whose own artifacts drift out of alignment is not demonstrating competence.
-- **Principle 14 (Truth and evidence must be protected as public goods):** overstating what a source says, or hiding source-handling drift, is a form of epistemic failure.
-- **CONTRIBUTING.md quality standards:** the project commits to honesty, specificity, and evidence. Those standards apply to document maintenance too.
+- **[Principle 4](../../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) (Power must remain accountable, legible, and reversible):** the project should be able to explain what changed, where, and why.
+- **[Principle 9](../../PRINCIPLES.md#9-institutions-should-be-designed-for-competence-and-trust-not-theater) (Institutions should be designed for competence and trust, not theater):** a project whose own artifacts drift out of alignment is not demonstrating competence.
+- **[Principle 14](../../PRINCIPLES.md#14-truth-and-evidence-must-be-protected-as-public-goods) (Truth and evidence must be protected as public goods):** overstating what a source says, or hiding source-handling drift, is a form of epistemic failure.
+- **[CONTRIBUTING.md](../../CONTRIBUTING.md) quality standards:** the project commits to honesty, specificity, and evidence. Those standards apply to document maintenance too.

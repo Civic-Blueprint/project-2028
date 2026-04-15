@@ -66,7 +66,7 @@ The project is built on four interconnected documents:
   A layered diagnostic of where systems are failing, why they stay broken, and who benefits from the status quo.
 
 - **[Systems Framework](SYSTEMS_FRAMEWORK.md)**  
-  Fourteen domains, each analyzed through diagnostic, design, and strategic questions — including dependencies, leverage hypotheses, failure modes, and candidate reform sequences. The design companion to the Problem Map.
+  Fourteen domains, each analyzed through diagnostic, design, and strategic questions — including dependencies, leverage hypotheses, failure modes, and candidate reform sequences. The design companion to the [Problem Map](PROBLEM_MAP.md).
 
 - **[Contributing](CONTRIBUTING.md)**  
   How to participate, what quality means here, and how the project practices the transparent governance it advocates.
@@ -74,7 +74,7 @@ The project is built on four interconnected documents:
 ## Extended artifacts
 
 - **[Proposal Catalog](proposals/PROPOSAL_CATALOG.md)**  
-  135 concrete reform proposals across all 15 Problem Map domains, generated through a 30-round autonomous agent stress test ([Exchange #13](agent/exchanges/autonomous-proposal-generation-stress-test.md)). Each proposal is individually listed for steward review, feedback, and further brainstorming. AI-generated hypotheses, not endorsed positions.
+  135 concrete reform proposals across all 15 [Problem Map](PROBLEM_MAP.md) domains, generated through a 30-round autonomous agent stress test ([Exchange #13](agent/exchanges/autonomous-proposal-generation-stress-test.md)). Each proposal is individually listed for steward review, feedback, and further brainstorming. AI-generated hypotheses, not endorsed positions.
 
 - **[Formation Documents Analysis](formation-docs/README.md)**  
   The `project-2028` analysis workspace for comparing Civic Blueprint's principles against constitutions, charters, declarations, and organizational founding texts. Retained source texts now live in [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs).
@@ -117,18 +117,18 @@ For day-to-day handling, stewards use the internal [Website Submission Triage Ch
 
 Early stage. Actively being developed.
 
-The foundational documents are in place. The Problem Map has undergone a major revision incorporating multi-agent review, adding democratic process as a core domain, core bottleneck summaries for scannability, a structural entry points analysis featuring recursive uplift, and an updated dependency map with explicit recursive loops. The Systems Framework has been revised to add dependency mapping, leverage hypotheses, failure-mode analysis, and a sequencing section that synthesizes cross-domain reform chains — evolving from a parallel domain analysis into the project's strategic design layer.
+The foundational documents are in place. The [Problem Map](PROBLEM_MAP.md) has undergone a major revision incorporating multi-agent review, adding democratic process as a core domain, core bottleneck summaries for scannability, a structural entry points analysis featuring recursive uplift, and an updated dependency map with explicit recursive loops. The [Systems Framework](SYSTEMS_FRAMEWORK.md) has been revised to add dependency mapping, leverage hypotheses, failure-mode analysis, and a sequencing section that synthesizes cross-domain reform chains — evolving from a parallel domain analysis into the project's strategic design layer.
 
 Two parallel tracks are now in focus (see [Next Steps](agent/exchanges/post-systems-framework-next-steps.md)):
 
 1. **A public entry point** — a website that makes the project's analysis readable and navigable for the domain experts, scholars, and practitioners whose perspectives are most needed.
-2. **Computational dependency analysis** — formalizing the dependency graph that the Problem Map and Systems Framework describe in prose, and subjecting the project's leverage hypotheses to quantitative analysis.
+2. **Computational dependency analysis** — formalizing the dependency graph that the [Problem Map](PROBLEM_MAP.md) and [Systems Framework](SYSTEMS_FRAMEWORK.md) describe in prose, and subjecting the project's leverage hypotheses to quantitative analysis.
 
-Progress on Track 1 now lives in the companion website repository at `../civicblueprint.org/`:
+Progress on Track 1 now lives in the companion website repository ([civicblueprint.org](https://github.com/Civic-Blueprint/civicblueprint.org)):
 
-- `docs/WEBSITE_PHASE_1_BRIEF.md` — Phase 1 scope, audience, and launch plan
-- `docs/HOMEPAGE_COPY_DRAFT.md` — current homepage draft
-- `memos/proof-of-usefulness-memo-01.md` — the first comparative proof-of-usefulness memo (housing permitting + AI governance)
+- [Website Phase 1 Brief](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/WEBSITE_PHASE_1_BRIEF.md) — Phase 1 scope, audience, and launch plan
+- [Homepage Copy Draft](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/HOMEPAGE_COPY_DRAFT.md) — current homepage draft
+- [Proof-of-Usefulness Memo 01](memos/proof-of-usefulness-memo-01.md) — the first comparative proof-of-usefulness memo (housing permitting + AI governance)
 
 The project is currently in an **adversarial review phase** — subjecting its foundational documents to structured challenge before building outward. A full navigational index of all exchanges — including dependency links, status, and a visual dependency graph — is available at [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md). Completed exchanges:
 
