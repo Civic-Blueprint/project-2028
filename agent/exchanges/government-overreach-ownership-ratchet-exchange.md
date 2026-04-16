@@ -39,7 +39,7 @@ The strongest version of Friedberg's argument, distilled from the source digest,
 >
 > Every generation that tries socialism says "this time we'll do it right." It never works. Argentina just proved that the exit path is painful but possible. The alternative — technological abundance in energy, AI, biotech, and automation — is real and imminent, but the political system is about to strangle it through fear-based regulation and redistributive overreach.
 
-This is not a strawman. It is backed by verified data on most factual claims (see source digest fact-check tables). The project must engage with it on the merits.
+This is not a strawman. It is backed by corroborated data on most factual claims (see source digest research context). The project must engage with it on the merits.
 
 ---
 

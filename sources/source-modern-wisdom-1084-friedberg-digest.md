@@ -12,9 +12,9 @@ copyright_notice: "This material may be protected by copyright. Excerpts are inc
 
 # Source Digest — Modern Wisdom #1084: David Friedberg
 
-> **Status (April 2026):** Complete source digest. Thematic parsing, steward commentary, and fact-check pass finished. Ready to be referenced by exchanges.
+> **Status (April 2026):** Complete source digest. Thematic parsing, steward commentary, and research context finished. Ready to be referenced by exchanges.
 >
-> **Why this digest:** The steward encountered a podcast episode that intersects with multiple Problem Map domains, several Principles, and at least three active exchanges. The material is too thematically dense to fit into a single exchange without losing context. This digest preserves the full parsed content as a reference artifact that multiple exchanges can draw from.
+> **Why this digest:** The steward encountered a podcast episode that intersects with multiple Problem Map domains, several Principles, and at least three active exchanges. The material is too thematically dense to fit into a single exchange without losing context. This digest preserves the full parsed content as a reference artifact that multiple exchanges can draw from. Research context is provided alongside each cluster — not to audit or refute the source, but to give future exchanges a richer evidence base to build on.
 
 ---
 
@@ -33,14 +33,16 @@ copyright_notice: "This material may be protected by copyright. Excerpts are inc
 
 ## Thematic clusters
 
-The three segments have been parsed into eleven thematic clusters. Each cluster includes a summary of the core claims, representative transcript excerpts, and a fact-check section with verification status.
+The three segments have been parsed into eleven thematic clusters. Each cluster includes a summary of the core claims, representative transcript excerpts, research context with linked sources, and a mapping to Project 2028's framework.
 
-### Verification status labels
+### Evidence context labels
 
-- **Verified:** Corroborated by independent published sources.
-- **Partially verified:** Core claim is directionally correct but specific numbers or framing are overstated, understated, or require qualification.
-- **Contested:** Reasonable counterarguments or contradictory evidence exist.
-- **Unverified:** No independent source found to confirm or deny.
+Each cluster's research context uses one of four labels to indicate how much independent sourcing was found — not to pass judgment on the claim, but to help future exchanges know where the evidence base is strong, where it needs nuance, and where open questions remain.
+
+- **Corroborated:** Supported by independent published sources.
+- **Partially corroborated:** Directionally correct; specific numbers or framing benefit from additional context or qualification.
+- **Debated:** Reasonable perspectives and evidence exist on multiple sides.
+- **No independent source located:** Claim could not be confirmed or contradicted from published sources at time of research.
 
 ---
 
@@ -59,13 +61,13 @@ The three segments have been parsed into eleven thematic clusters. Each cluster 
 
 > "California set up a system where we created the highest tax rate in the country. Because of all the success in Silicon Valley, all the income that's being generated, all the success and capital gains and whatnot. And use that to fund a bunch of nonsense."
 
-### Fact-check
+### Research context
 
-| Claim | Status | Notes |
+| Claim | Evidence | Context |
 |---|---|---|
-| CA has the highest state income tax rate | **Verified** | California's top marginal rate is 13.3%, the highest in the US. ([Tax Foundation](https://taxfoundation.org/data/all/state/state-income-tax-rates-2026/)) |
-| $600B–$1T unfunded pension liability | **Partially verified** | Official estimates range from ~$269B–$294B using standard actuarial assumptions ([Equable Institute](https://equable.org/state/california/), [Truth in Accounting](https://www.truthinaccounting.org/news/detail/the-burden-of-unfunded-pension-liabilities-a-national-crisis-in-state-finances)). CalPERS and CalSTRS alone report gaps of $138.9B and $107.3B respectively ([PPIC](https://www.ppic.org/publication/public-pension-liabilities-in-california/)). Conservative estimates using lower discount rates reach $500B+. The $1T upper bound is at the far edge of any published analysis. |
-| Tech exodus survey (~87% planning to leave) | **Unverified** | Friedberg references "a survey we did informally in a group, which has been published, talked about." No independently published survey with this methodology or figure was located. Anecdotal reporting on tech departures is widespread. |
+| CA has the highest state income tax rate | **Corroborated** | California's top marginal rate is 13.3%, the highest in the US. ([Tax Foundation](https://taxfoundation.org/data/all/state/state-income-tax-rates-2026/)) |
+| $600B–$1T unfunded pension liability | **Partially corroborated** | Official estimates range from ~$269B–$294B using standard actuarial assumptions ([Equable Institute](https://equable.org/state/california/), [Truth in Accounting](https://www.truthinaccounting.org/news/detail/the-burden-of-unfunded-pension-liabilities-a-national-crisis-in-state-finances)). CalPERS and CalSTRS alone report gaps of $138.9B and $107.3B respectively ([PPIC](https://www.ppic.org/publication/public-pension-liabilities-in-california/)). Conservative estimates using lower discount rates reach $500B+. The $1T upper bound is at the far edge of any published analysis. |
+| Tech exodus survey (~87% planning to leave) | **No independent source located** | Friedberg references "a survey we did informally in a group, which has been published, talked about." No independently published survey with this methodology or figure was located. Anecdotal reporting on tech departures is widespread. |
 
 ### Project 2028 mapping
 
@@ -89,16 +91,16 @@ The three segments have been parsed into eleven thematic clusters. Each cluster 
 
 > "It was just published that this homeless program, $220 million are spent on it. Six homeless people got themselves out of the cycle of poverty that they were in."
 
-### Fact-check
+### Research context
 
-| Claim | Status | Notes |
+| Claim | Evidence | Context |
 |---|---|---|
-| CA High-Speed Rail ~$30B spent | **Partially verified** | Original estimates were ~$33B. Current total project cost projections have ballooned to $128B ([Politico, Feb 2026](https://www.politico.com/news/2026/02/18/california-high-speed-rail-ceo-leave-00786465)). Actual spending to date is lower than the full projection but the order of magnitude is correct. |
-| HSR CEO arrested | **Verified** | CEO Ian Choudri was arrested Feb 4, 2026 on suspicion of misdemeanor domestic battery ([AP News](https://apnews.com/article/california-high-speed-rail-choudri-arrest-588a4b10f9368965c468b2b49d9f6ec0)). Charges were declined; he returned to position March 5 ([CBS Sacramento](https://www.cbsnews.com/sacramento/news/california-high-speed-rail-ceo-arrested-folsom/)). Not fraud-related as the context implies. |
-| Six HSR CEOs fired | **Partially verified** | The project has had significant leadership turnover. The exact count of "six fired" was not independently verified, but multiple leadership changes are well-documented. |
-| $220M homeless program / 6 people | **Partially verified** | A San Jose city council post references a program of this scale where spending benefited a small percentage of the homeless population. The "6 people" figure was not independently verified with the exact framing Friedberg uses. The broader finding — that California spent $24B over five fiscal years on homelessness with poor tracking of results — is verified by a [2024 state audit](https://www.auditor.ca.gov/reports/2023-102/index.html) (see also [Stanford SIEPR analysis](https://siepr.stanford.edu/publications/policy-brief/homelessness-california-recent-challenges-and-new-horizons)). |
-| Rural broadband vs. Starlink cost | **Contested** | This is a federal program, not California-specific (Friedberg acknowledges this). The BEAD program has faced criticism for cost vs. outcomes ([Cardinal News](https://cardinalnews.org/2025/07/22/effort-to-bring-high-speed-internet-to-rural-america-has-a-new-wrinkle-a-push-toward-starlink/), [Stateline](https://stateline.org/2025/06/06/trumps-broadband-program-overhaul-favors-musk-tech-strips-low-cost-plans/)). Fiber infrastructure costs $3K–$20K+ per rural home, while Starlink costs ~$120/month + hardware ([US Mobile comparison](https://www.usmobile.com/blog/starlink-vs-fiber-cable/)). The comparison depends heavily on timeframe and definition of "broadband." |
-| $100B temporary tax revenue, 80% to pensions | **Unverified** | Friedberg references temporary tax hikes passed in 2012–2013 that raised "an incremental $100 billion since then" with "$80 billion" going to increasing public retirement benefits. These specific figures were not independently verified, though the pattern of pension costs absorbing revenue increases is well-documented ([Reason Foundation](https://reason.org/commentary/state-lawmakers-prepare-to-stick-taxpayers-with-more-public-pension-costs-and-debt/)). |
+| CA High-Speed Rail ~$30B spent | **Partially corroborated** | Original estimates were ~$33B. Current total project cost projections have ballooned to $128B ([Politico, Feb 2026](https://www.politico.com/news/2026/02/18/california-high-speed-rail-ceo-leave-00786465)). Actual spending to date is lower than the full projection but the order of magnitude is correct. |
+| HSR CEO arrested | **Corroborated** | CEO Ian Choudri was arrested Feb 4, 2026 on suspicion of misdemeanor domestic battery ([AP News](https://apnews.com/article/california-high-speed-rail-choudri-arrest-588a4b10f9368965c468b2b49d9f6ec0)). Charges were declined; he returned to position March 5 ([CBS Sacramento](https://www.cbsnews.com/sacramento/news/california-high-speed-rail-ceo-arrested-folsom/)). Not fraud-related as the context implies. |
+| Six HSR CEOs fired | **Partially corroborated** | The project has had significant leadership turnover. The exact count of "six fired" was not independently verified, but multiple leadership changes are well-documented. |
+| $220M homeless program / 6 people | **Partially corroborated** | A San Jose city council post references a program of this scale where spending benefited a small percentage of the homeless population. The "6 people" figure was not independently verified with the exact framing Friedberg uses. The broader finding — that California spent $24B over five fiscal years on homelessness with poor tracking of results — is verified by a [2024 state audit](https://www.auditor.ca.gov/reports/2023-102/index.html) (see also [Stanford SIEPR analysis](https://siepr.stanford.edu/publications/policy-brief/homelessness-california-recent-challenges-and-new-horizons)). |
+| Rural broadband vs. Starlink cost | **Debated** | This is a federal program, not California-specific (Friedberg acknowledges this). The BEAD program has faced criticism for cost vs. outcomes ([Cardinal News](https://cardinalnews.org/2025/07/22/effort-to-bring-high-speed-internet-to-rural-america-has-a-new-wrinkle-a-push-toward-starlink/), [Stateline](https://stateline.org/2025/06/06/trumps-broadband-program-overhaul-favors-musk-tech-strips-low-cost-plans/)). Fiber infrastructure costs $3K–$20K+ per rural home, while Starlink costs ~$120/month + hardware ([US Mobile comparison](https://www.usmobile.com/blog/starlink-vs-fiber-cable/)). The comparison depends heavily on timeframe and definition of "broadband." |
+| $100B temporary tax revenue, 80% to pensions | **No independent source located** | Friedberg references temporary tax hikes passed in 2012–2013 that raised "an incremental $100 billion since then" with "$80 billion" going to increasing public retirement benefits. These specific figures were not independently verified, though the pattern of pension costs absorbing revenue increases is well-documented ([Reason Foundation](https://reason.org/commentary/state-lawmakers-prepare-to-stick-taxpayers-with-more-public-pension-costs-and-debt/)). |
 
 ### Project 2028 mapping
 
@@ -123,14 +125,14 @@ The three segments have been parsed into eleven thematic clusters. Each cluster 
 
 > "Private property rights go out the window when you institute a wealth tax. Cause now the government has the right to assess all your value and to take anything they want from you based on a vote where a bunch of people raise their hand and say, we'll increase the tax rate to this."
 
-### Fact-check
+### Research context
 
-| Claim | Status | Notes |
+| Claim | Evidence | Context |
 |---|---|---|
-| SEIU-UHW proposed 5% wealth tax on billionaires | **Verified** | The "California Billionaire Tax Act" is a proposed ballot initiative for November 2026. One-time 5% tax on net worth >$1B, based on net worth as of Dec 31, 2026, for anyone who was a CA resident as of Jan 1, 2026. Needs 874,641 signatures by June 24, 2026 to qualify. ([Ballotpedia](https://ballotpedia.org/California_One-Time_Wealth_Tax_for_State-Funded_Healthcare,_Education,_and_Food_Assistance_Programs_Initiative_(2026)), [Baker Botts](https://www.bakerbotts.com/thought-leadership/publications/2025/december/california-2026-billionaire-tax-act), [SEIU-UHW](https://www.seiu-uhw.org/ca-billionaire-tax-act/)) |
-| Revenue allocation: 90% healthcare, 10% education/food | **Verified** | Per the initiative text ([Ballotpedia](https://ballotpedia.org/California_One-Time_Wealth_Tax_for_State-Funded_Healthcare,_Education,_and_Food_Assistance_Programs_Initiative_(2026))). |
-| National wealth tax push by Sanders, Warren, AOC, Khanna | **Verified** | All four have publicly advocated for various forms of wealth taxation at the federal level. Sanders ([Sanders.senate.gov](https://www.sanders.senate.gov/press-releases/news-sanders-introduces-tax-on-extreme-wealth-to-address-planetary-crisis/)), Warren ([Warren.senate.gov](https://www.warren.senate.gov/newsroom/press-releases/senator-warren-representative-jayapal-reintroduce-ultra-millionaire-tax-act)), Khanna ([Khanna.house.gov](https://khanna.house.gov/media/press-releases/rep-khanna-introduces-patriot-tax-create-new-10-percent-surtax-billionaires)), AOC has co-sponsored multiple wealth tax proposals. |
-| Precedent claim (thresholds can be changed) | **Contested** | This is a structural argument, not a factual claim. California's ballot initiative process does allow future modifications by voter initiative ([CA Secretary of State](https://www.sos.ca.gov/elections/ballot-measures/)). Whether this constitutes a "slippery slope" is a political judgment, not a verifiable fact. The income tax history (Cluster 4) provides directional evidence for the pattern. |
+| SEIU-UHW proposed 5% wealth tax on billionaires | **Corroborated** | The "California Billionaire Tax Act" is a proposed ballot initiative for November 2026. One-time 5% tax on net worth >$1B, based on net worth as of Dec 31, 2026, for anyone who was a CA resident as of Jan 1, 2026. Needs 874,641 signatures by June 24, 2026 to qualify. ([Ballotpedia](https://ballotpedia.org/California_One-Time_Wealth_Tax_for_State-Funded_Healthcare,_Education,_and_Food_Assistance_Programs_Initiative_(2026)), [Baker Botts](https://www.bakerbotts.com/thought-leadership/publications/2025/december/california-2026-billionaire-tax-act), [SEIU-UHW](https://www.seiu-uhw.org/ca-billionaire-tax-act/)) |
+| Revenue allocation: 90% healthcare, 10% education/food | **Corroborated** | Per the initiative text ([Ballotpedia](https://ballotpedia.org/California_One-Time_Wealth_Tax_for_State-Funded_Healthcare,_Education,_and_Food_Assistance_Programs_Initiative_(2026))). |
+| National wealth tax push by Sanders, Warren, AOC, Khanna | **Corroborated** | All four have publicly advocated for various forms of wealth taxation at the federal level. Sanders ([Sanders.senate.gov](https://www.sanders.senate.gov/press-releases/news-sanders-introduces-tax-on-extreme-wealth-to-address-planetary-crisis/)), Warren ([Warren.senate.gov](https://www.warren.senate.gov/newsroom/press-releases/senator-warren-representative-jayapal-reintroduce-ultra-millionaire-tax-act)), Khanna ([Khanna.house.gov](https://khanna.house.gov/media/press-releases/rep-khanna-introduces-patriot-tax-create-new-10-percent-surtax-billionaires)), AOC has co-sponsored multiple wealth tax proposals. |
+| Precedent claim (thresholds can be changed) | **Debated** | This is a structural argument, not a factual claim. California's ballot initiative process does allow future modifications by voter initiative ([CA Secretary of State](https://www.sos.ca.gov/elections/ballot-measures/)). Whether this constitutes a "slippery slope" is a political judgment, not a verifiable fact. The income tax history (Cluster 4) provides directional evidence for the pattern. |
 
 ### Project 2028 mapping
 
@@ -156,15 +158,15 @@ The three segments have been parsed into eleven thematic clusters. Each cluster 
 
 > "So the original income tax was 1%? 1% on high net worth people, on high earning people, and that's it. [...] And you can look at this. And so, then it became like suddenly today, everyone pays an income tax."
 
-### Fact-check
+### Research context
 
-| Claim | Status | Notes |
+| Claim | Evidence | Context |
 |---|---|---|
-| 1913 income tax started at 1% | **Verified** | The 1913 tax law imposed 1% on net personal income over $3,000, with a 6% surtax on incomes over $500,000. ([National Archives](https://www.archives.gov/milestone-documents/16th-amendment), [Tax Foundation](https://taxfoundation.org/data/all/federal/historical-income-tax-rates-brackets/)) |
-| Top rate reached 94% in 1944–1945 | **Verified** | ([Bradford Tax Institute](https://bradfordtaxinstitute.com/Free_Resources/Federal-Income-Tax-Rates.aspx), [Tax Foundation](https://taxfoundation.org/data/all/federal/historical-income-tax-rates-brackets/)) |
-| Pre-1913: no income tax | **Partially verified** | The modern income tax structure began in 1913, but the US did enact a temporary income tax during the Civil War (1862–1872). Friedberg's framing implies no prior tax, which is an oversimplification. ([PolitiFact](https://www.politifact.com/factchecks/2020/jan/21/facebook-posts/modern-income-tax-structure-born-1913-americans-pa/)) |
-| "Ratchet" pattern — taxes only expand | **Partially verified** | Historical data shows top marginal rates spiked during wartime and remained elevated, but significant rate reductions have occurred (1981, 1986 Reagan reforms; 2001, 2003 Bush tax cuts; 2017 TCJA). The *base* of who pays has expanded steadily — mandatory employer withholding in 1943 transformed it from a levy on the wealthy to a universal mechanism. The ratchet is real for the base; it's cyclical for rates. ([Tax Foundation historical tables](https://taxfoundation.org/data/all/federal/historical-income-tax-rates-brackets/)) |
-| 53% effective income tax in California | **Partially verified** | California's top marginal state rate is 13.3% ([Tax Foundation](https://taxfoundation.org/data/all/state/state-income-tax-rates-2026/)). Combined with the top federal marginal rate of 37%, plus NIIT (3.8%), the top combined marginal rate approaches 54%. "Effective" rate for high earners would typically be lower due to progressive brackets, but the marginal figure is approximately correct. |
+| 1913 income tax started at 1% | **Corroborated** | The 1913 tax law imposed 1% on net personal income over $3,000, with a 6% surtax on incomes over $500,000. ([National Archives](https://www.archives.gov/milestone-documents/16th-amendment), [Tax Foundation](https://taxfoundation.org/data/all/federal/historical-income-tax-rates-brackets/)) |
+| Top rate reached 94% in 1944–1945 | **Corroborated** | ([Bradford Tax Institute](https://bradfordtaxinstitute.com/Free_Resources/Federal-Income-Tax-Rates.aspx), [Tax Foundation](https://taxfoundation.org/data/all/federal/historical-income-tax-rates-brackets/)) |
+| Pre-1913: no income tax | **Partially corroborated** | The modern income tax structure began in 1913, but the US did enact a temporary income tax during the Civil War (1862–1872). Friedberg's framing implies no prior tax, which is an oversimplification. ([PolitiFact](https://www.politifact.com/factchecks/2020/jan/21/facebook-posts/modern-income-tax-structure-born-1913-americans-pa/)) |
+| "Ratchet" pattern — taxes only expand | **Partially corroborated** | Historical data shows top marginal rates spiked during wartime and remained elevated, but significant rate reductions have occurred (1981, 1986 Reagan reforms; 2001, 2003 Bush tax cuts; 2017 TCJA). The *base* of who pays has expanded steadily — mandatory employer withholding in 1943 transformed it from a levy on the wealthy to a universal mechanism. The ratchet is real for the base; it's cyclical for rates. ([Tax Foundation historical tables](https://taxfoundation.org/data/all/federal/historical-income-tax-rates-brackets/)) |
+| 53% effective income tax in California | **Partially corroborated** | California's top marginal state rate is 13.3% ([Tax Foundation](https://taxfoundation.org/data/all/state/state-income-tax-rates-2026/)). Combined with the top federal marginal rate of 37%, plus NIIT (3.8%), the top combined marginal rate approaches 54%. "Effective" rate for high earners would typically be lower due to progressive brackets, but the marginal figure is approximately correct. |
 
 ### Project 2028 mapping
 
@@ -188,13 +190,13 @@ The three segments have been parsed into eleven thematic clusters. Each cluster 
 
 > "So the people selling those things can basically charge more and they know they can charge more because the government can just fund it. And the government's an endless pool of money printing."
 
-### Fact-check
+### Research context
 
-| Claim | Status | Notes |
+| Claim | Evidence | Context |
 |---|---|---|
-| The price divergence chart is real | **Verified** | The "Chart of the Century" was created by economist Mark Perry using BLS CPI data. It shows healthcare, education, and childcare prices rising sharply while TVs, toys, software, and clothing prices fell. Widely cited and independently reproducible. ([Human Progress](https://humanprogress.org/time-pricing-mark-perrys-latest-chart-of-the-century/), [Capitalogix](https://blog.capitalogix.com/public/2025/04/the-chart-of-the-century-in-2025-a-look-at-consumer-price-inflation/), [BLS CPI data](https://www.bls.gov/regions/mid-atlantic/data/consumerpriceindexhistorical_us_table.htm)) |
-| Causal claim: government funding causes the inflation | **Contested** | The correlation is well-established. The causal mechanism is debated. Alternative explanations include: Baumol's cost disease ([Investopedia](https://www.investopedia.com/terms/b/baumols-cost-disease.asp)), regulatory complexity, professional licensing barriers, and demand-side effects unrelated to government funding. Most economists agree government subsidies are *a* factor but not the sole cause. See [NY Fed study on tuition-aid link](https://www.newyorkfed.org/research/staff_reports/sr733.html) and [Cato Institute analysis](https://www.cato.org/blog/chart-century-illustrates-unseen-costs-government-intervention). |
-| Federal student loan mechanism (no underwriting, any school/degree/price) | **Verified** | Federal student loans are not underwritten based on creditworthiness, school quality, degree marketability, or price ([Federal Student Aid](https://studentaid.gov/understand-aid/types/loans), [Brookings](https://www.brookings.edu/articles/the-looming-student-loan-default-crisis-is-worse-than-we-thought/)). |
+| The price divergence chart is real | **Corroborated** | The "Chart of the Century" was created by economist Mark Perry using BLS CPI data. It shows healthcare, education, and childcare prices rising sharply while TVs, toys, software, and clothing prices fell. Widely cited and independently reproducible. ([Human Progress](https://humanprogress.org/time-pricing-mark-perrys-latest-chart-of-the-century/), [Capitalogix](https://blog.capitalogix.com/public/2025/04/the-chart-of-the-century-in-2025-a-look-at-consumer-price-inflation/), [BLS CPI data](https://www.bls.gov/regions/mid-atlantic/data/consumerpriceindexhistorical_us_table.htm)) |
+| Causal claim: government funding causes the inflation | **Debated** | The correlation is well-established. The causal mechanism is debated. Alternative explanations include: Baumol's cost disease ([Investopedia](https://www.investopedia.com/terms/b/baumols-cost-disease.asp)), regulatory complexity, professional licensing barriers, and demand-side effects unrelated to government funding. Most economists agree government subsidies are *a* factor but not the sole cause. See [NY Fed study on tuition-aid link](https://www.newyorkfed.org/research/staff_reports/sr733.html) and [Cato Institute analysis](https://www.cato.org/blog/chart-century-illustrates-unseen-costs-government-intervention). |
+| Federal student loan mechanism (no underwriting, any school/degree/price) | **Corroborated** | Federal student loans are not underwritten based on creditworthiness, school quality, degree marketability, or price ([Federal Student Aid](https://studentaid.gov/understand-aid/types/loans), [Brookings](https://www.brookings.edu/articles/the-looming-student-loan-default-crisis-is-worse-than-we-thought/)). |
 
 ### Project 2028 mapping
 
@@ -219,12 +221,12 @@ The three segments have been parsed into eleven thematic clusters. Each cluster 
 
 > "If you're collecting a check every month from the government, you will never vote to have that check go down. You're living on those checks. So we're now in a system where like, will people actually want to say [government should do less]."
 
-### Fact-check
+### Research context
 
-| Claim | Status | Notes |
+| Claim | Evidence | Context |
 |---|---|---|
-| ~Half of US population on government checks | **Partially verified** | The claim aggregates federal/state/local employees (~22M), contractors (~10M+), Social Security recipients (~67M), Medicare recipients (~65M), Medicaid recipients (~85M), SNAP recipients (~42M), and public pensioners. Federal civilian workforce alone is ~4.3M ([North American Community Hub](https://nchstats.com/number-of-federal-employees-us/)); contractors may outnumber them 2:1 ([Brookings](https://www.brookings.edu/articles/is-government-too-big-reflections-on-the-size-and-composition-of-todays-federal-government/)). Many people fall into multiple categories. The raw count exceeds 150M but significant double-counting makes "nearly half" a rough approximation. The framing conflates earned benefits (Social Security, which people paid into) with transfer payments, which critics argue is misleading. |
-| Voter-bloc dynamic is irreversible | **Contested** | This is a structural argument, not a verifiable fact. Argentina's 2023–2025 experience under Milei provides a counterexample — GDP up 4.4%, inflation down from 200% to 32%, fiscal surplus for two consecutive years ([NY Post](https://nypost.com/2026/04/13/opinion/the-lesson-behind-argentinas-miracle-recovery-after-rolling-back-socialism/), [National Interest](https://nationalinterest.org/feature/has-javier-milei-cured-argentinas-economy)). However, the US political system's structure (two-party, federalism, veto points) differs significantly from Argentina's. |
+| ~Half of US population on government checks | **Partially corroborated** | The claim aggregates federal/state/local employees (~22M), contractors (~10M+), Social Security recipients (~67M), Medicare recipients (~65M), Medicaid recipients (~85M), SNAP recipients (~42M), and public pensioners. Federal civilian workforce alone is ~4.3M ([North American Community Hub](https://nchstats.com/number-of-federal-employees-us/)); contractors may outnumber them 2:1 ([Brookings](https://www.brookings.edu/articles/is-government-too-big-reflections-on-the-size-and-composition-of-todays-federal-government/)). Many people fall into multiple categories. The raw count exceeds 150M but significant double-counting makes "nearly half" a rough approximation. The framing conflates earned benefits (Social Security, which people paid into) with transfer payments, which critics argue is misleading. |
+| Voter-bloc dynamic is irreversible | **Debated** | This is a structural argument, not a verifiable fact. Argentina's 2023–2025 experience under Milei provides a counterexample — GDP up 4.4%, inflation down from 200% to 32%, fiscal surplus for two consecutive years ([NY Post](https://nypost.com/2026/04/13/opinion/the-lesson-behind-argentinas-miracle-recovery-after-rolling-back-socialism/), [National Interest](https://nationalinterest.org/feature/has-javier-milei-cured-argentinas-economy)). However, the US political system's structure (two-party, federalism, veto points) differs significantly from Argentina's. |
 
 ### Project 2028 mapping
 
@@ -251,13 +253,13 @@ The three segments have been parsed into eleven thematic clusters. Each cluster 
 
 > "I've seen that happen time and time again around the world. It's just not the right system. And I think that there's much for us to kind of learn from why these things haven't worked around the world."
 
-### Fact-check
+### Research context
 
-| Claim | Status | Notes |
+| Claim | Evidence | Context |
 |---|---|---|
-| Argentina's recovery under Milei | **Verified** | GDP grew 4.4% in 2025. Inflation dropped from ~200% to 32%. Fiscal surplus achieved for two consecutive years (2024–2025), first since 2008. Poverty rate declined from 52.9% to ~31%. ([NY Post](https://nypost.com/2026/04/13/opinion/the-lesson-behind-argentinas-miracle-recovery-after-rolling-back-socialism/), [National Interest](https://nationalinterest.org/feature/has-javier-milei-cured-argentinas-economy), [Reason](https://reason.com/2025/11/06/socialism-didnt-work-in-argentina-it-wont-work-for-america-either/), [Friedrich Naumann Foundation](https://www.freiheit.org/one-year-javier-mileis-economic-policy)) |
-| "Socialism has never worked anywhere" | **Contested** | Depends entirely on definition. Nordic social democracies (Sweden, Denmark, Norway) combine strong welfare states with market economies and rank highly on human development ([UNDP Human Development Index](https://hdr.undp.org/data-center/human-development-index)), inequality reduction, and quality of life. Friedberg's claim applies most clearly to command-economy socialism (Venezuela, Cuba, USSR). The conflation of social democracy with command-economy socialism is itself a contested rhetorical move ([Investopedia: socialism vs. social democracy](https://www.investopedia.com/articles/investing/080515/socialism-vs-communism.asp)). |
-| AOC as next president | **Unverified** | Political prediction, not a factual claim. |
+| Argentina's recovery under Milei | **Corroborated** | GDP grew 4.4% in 2025. Inflation dropped from ~200% to 32%. Fiscal surplus achieved for two consecutive years (2024–2025), first since 2008. Poverty rate declined from 52.9% to ~31%. ([NY Post](https://nypost.com/2026/04/13/opinion/the-lesson-behind-argentinas-miracle-recovery-after-rolling-back-socialism/), [National Interest](https://nationalinterest.org/feature/has-javier-milei-cured-argentinas-economy), [Reason](https://reason.com/2025/11/06/socialism-didnt-work-in-argentina-it-wont-work-for-america-either/), [Friedrich Naumann Foundation](https://www.freiheit.org/one-year-javier-mileis-economic-policy)) |
+| "Socialism has never worked anywhere" | **Debated** | Depends entirely on definition. Nordic social democracies (Sweden, Denmark, Norway) combine strong welfare states with market economies and rank highly on human development ([UNDP Human Development Index](https://hdr.undp.org/data-center/human-development-index)), inequality reduction, and quality of life. Friedberg's claim applies most clearly to command-economy socialism (Venezuela, Cuba, USSR). The conflation of social democracy with command-economy socialism is itself a contested rhetorical move ([Investopedia: socialism vs. social democracy](https://www.investopedia.com/articles/investing/080515/socialism-vs-communism.asp)). |
+| AOC as next president | **No independent source located** | Political prediction, not a factual claim. |
 
 ### Project 2028 mapping
 
@@ -281,13 +283,13 @@ The three segments have been parsed into eleven thematic clusters. Each cluster 
 
 > "The number one most unfavorable thing in the United States right now, according to a recent poll is AI. More unfavorable than Donald Trump."
 
-### Fact-check
+### Research context
 
-| Claim | Status | Notes |
+| Claim | Evidence | Context |
 |---|---|---|
-| AI is the most unfavorable thing in the US | **Partially verified** | A March 2026 NBC News poll found only 26% of voters hold positive feelings about AI while 46% hold negative views ([NBC News](https://www.nbcnews.com/politics/politics-news/poll-majority-voters-say-risks-ai-outweigh-benefits-rcna262196), [The Hill](https://thehill.com/policy/technology/5777684-ai-concerns-voter-sentiment/)). AI ranks as one of the least popular topics measured but the *Democratic Party* and *Iran* ranked as less favorable ([Fortune](https://fortune.com/2026/03/09/ai-opinion-poll-democrats-iran-war-president-donald-trump/)). A separate Quinnipiac poll found 7 in 10 Americans think AI will cut jobs ([Quinnipiac](https://poll.qu.edu/poll-release?releaseid=3955)). Pew Research confirms that a majority of US adults are more concerned than excited about AI's increasing use ([Pew Research](https://www.pewresearch.org/short-reads/2026/03/12/key-findings-about-how-americans-view-artificial-intelligence/)). So "most unfavorable" is slightly overstated — but it is among the top 3 most negatively viewed. |
-| Sanders called for stopping data centers | **Unverified** | Sanders has criticized AI and tech concentration, but the specific claim about "stopping all data centers this week" was not independently verified with a specific source. |
-| Foreign influence funding anti-tech NGOs | **Unverified** | Friedberg himself frames this as speculative ("maybe, maybe there's influence happening"). No evidence cited. |
+| AI is the most unfavorable thing in the US | **Partially corroborated** | A March 2026 NBC News poll found only 26% of voters hold positive feelings about AI while 46% hold negative views ([NBC News](https://www.nbcnews.com/politics/politics-news/poll-majority-voters-say-risks-ai-outweigh-benefits-rcna262196), [The Hill](https://thehill.com/policy/technology/5777684-ai-concerns-voter-sentiment/)). AI ranks as one of the least popular topics measured but the *Democratic Party* and *Iran* ranked as less favorable ([Fortune](https://fortune.com/2026/03/09/ai-opinion-poll-democrats-iran-war-president-donald-trump/)). A separate Quinnipiac poll found 7 in 10 Americans think AI will cut jobs ([Quinnipiac](https://poll.qu.edu/poll-release?releaseid=3955)). Pew Research confirms that a majority of US adults are more concerned than excited about AI's increasing use ([Pew Research](https://www.pewresearch.org/short-reads/2026/03/12/key-findings-about-how-americans-view-artificial-intelligence/)). So "most unfavorable" is slightly overstated — but it is among the top 3 most negatively viewed. |
+| Sanders called for stopping data centers | **No independent source located** | Sanders has criticized AI and tech concentration, but the specific claim about "stopping all data centers this week" was not independently verified with a specific source. |
+| Foreign influence funding anti-tech NGOs | **No independent source located** | Friedberg himself frames this as speculative ("maybe, maybe there's influence happening"). No evidence cited. |
 
 ### Project 2028 mapping
 
@@ -313,9 +315,9 @@ The three segments have been parsed into eleven thematic clusters. Each cluster 
 
 > "This amazing shit that's happening in the world, we're going to have free fucking energy, we're going to live forever, we're going to have all of this insane stuff that we never imagined, abundance and resources that we could never contemplate. [...] And then we're like, let's fuck ourselves."
 
-### Fact-check
+### Research context
 
-This cluster is primarily normative and argumentative rather than factual. No specific claims to fact-check beyond those addressed in other clusters.
+This cluster is primarily normative and argumentative rather than factual. No additional research context beyond what is addressed in other clusters.
 
 ### Project 2028 mapping
 
@@ -339,12 +341,12 @@ This cluster is primarily normative and argumentative rather than factual. No sp
 
 > "In the 1970s, they changed over every ride to make it all about the fear of tomorrow. [...] Captain EO was Michael Jackson coming back to planet Earth and he's like, hey, we're going to destroy the robots that took over the Earth."
 
-### Fact-check
+### Research context
 
-| Claim | Status | Notes |
+| Claim | Evidence | Context |
 |---|---|---|
-| Tomorrowland 1955 optimism narrative | **Partially verified** | Tomorrowland opened in 1955 with attractions celebrating future technology ([D23 / Disney Archives](https://d23.com/a-to-z/tomorrowland-2/)). However, Disney historians note it was designed to be "a live, breathing thing" requiring constant updates — the shifts reflected changing cultural context, not a single-point pessimism switch. The 1970s timeline is approximate; Space Mountain opened in 1977 ([Disneyland history](https://disneyland.disney.go.com/attractions/disneyland/space-mountain/)), Captain EO in 1986 ([D23](https://d23.com/a-to-z/captain-eo/)). |
-| Germany nuclear shutdown consequences | **Verified** | Germany completed its nuclear phase-out in April 2023. Analysis by PwC: if the 2010 nuclear fleet had stayed operational, 2024 electricity prices would have been 23% lower. The phase-out increased reliance on fossil fuels. Emission-free generation could have reached 94% in 2024 vs. actual 61%. ([Foro Nuclear](https://www.foronuclear.org/en/updates/in-depth/germanys-nuclear-shutdown-mistake-rising-prices-increased-emissions-and-economic-recession/)). Germany's energy import dependency was 67% in 2024 ([Clean Energy Wire](https://www.cleanenergywire.org/factsheets/germany-eu-remain-heavily-dependent-imported-fossil-fuels)). See also [Breakthrough Institute](https://thebreakthrough.org/journal/no-18-fall-2022/the-source-of-germanys-nuclear-aversion), [Forbes](https://www.forbes.com/sites/jamesbroughel/2023/04/20/germany-embraces-pseudoscience-with-nuclear-phaseout/), [DW](https://www.dw.com/en/germany-nuclear-power-plants-european-union-energy-policy/a-76305267). |
+| Tomorrowland 1955 optimism narrative | **Partially corroborated** | Tomorrowland opened in 1955 with attractions celebrating future technology ([D23 / Disney Archives](https://d23.com/a-to-z/tomorrowland-2/)). However, Disney historians note it was designed to be "a live, breathing thing" requiring constant updates — the shifts reflected changing cultural context, not a single-point pessimism switch. The 1970s timeline is approximate; Space Mountain opened in 1977 ([Disneyland history](https://disneyland.disney.go.com/attractions/disneyland/space-mountain/)), Captain EO in 1986 ([D23](https://d23.com/a-to-z/captain-eo/)). |
+| Germany nuclear shutdown consequences | **Corroborated** | Germany completed its nuclear phase-out in April 2023. Analysis by PwC: if the 2010 nuclear fleet had stayed operational, 2024 electricity prices would have been 23% lower. The phase-out increased reliance on fossil fuels. Emission-free generation could have reached 94% in 2024 vs. actual 61%. ([Foro Nuclear](https://www.foronuclear.org/en/updates/in-depth/germanys-nuclear-shutdown-mistake-rising-prices-increased-emissions-and-economic-recession/)). Germany's energy import dependency was 67% in 2024 ([Clean Energy Wire](https://www.cleanenergywire.org/factsheets/germany-eu-remain-heavily-dependent-imported-fossil-fuels)). See also [Breakthrough Institute](https://thebreakthrough.org/journal/no-18-fall-2022/the-source-of-germanys-nuclear-aversion), [Forbes](https://www.forbes.com/sites/jamesbroughel/2023/04/20/germany-embraces-pseudoscience-with-nuclear-phaseout/), [DW](https://www.dw.com/en/germany-nuclear-power-plants-european-union-energy-policy/a-76305267). |
 
 ### Project 2028 mapping
 
@@ -369,12 +371,12 @@ This cluster is primarily normative and argumentative rather than factual. No sp
 
 > "There was a flipping, flippening that happened, probably around the time you're describing. [...] When people went from like, hey, there's a set of things we agree on and a bunch of stuff we disagree on, to like anything that you do or say I disagree with."
 
-### Fact-check
+### Research context
 
-| Claim | Status | Notes |
+| Claim | Evidence | Context |
 |---|---|---|
-| 2012 as the negative partisanship inflection point | **Verified** | ANES data shows opposing-party thermometer ratings dropped from 45° (1980) to 30° (2012) ([PBS NewsHour](https://www.pbs.org/newshour/politics/negative-partisanship-flipping-politics-head)). Pew Research confirms sharp rise in "very unfavorable" views of the opposing party during this era ([Pew 2012 post-election](https://www.pewresearch.org/politics/2012/11/15/low-marks-for-the-2012-election/)). Academic literature identifies this period as the acceleration of negative partisanship ([Abramowitz & Webster, 2015 via Cambridge Core](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/presidential-negative-partisanship/1697BEDDAAA4D0252E2FBA5AC78C7651)). See also [State Department overview](https://2017-2021.state.gov/elections-101-the-history-and-state-of-current-partisanship-in-the-u-s-2/). |
-| Iran/vaccine flip-flop examples | **Partially verified** | Widely documented in political commentary. Partisan reversal on vaccine trust depending on which administration claimed credit is well-documented ([KFF COVID-19 Vaccine Monitor](https://www.kff.org/coronavirus-covid-19/dashboard/kff-covid-19-vaccine-monitor-dashboard/), [Gallup](https://news.gallup.com/poll/510073/partisans-differ-widely-vaccines.aspx)). Partisan response reversals on foreign policy are similarly documented ([Pew Research on partisan gaps in foreign policy](https://www.pewresearch.org/politics/2025/01/14/foreign-policy-and-international-engagement/)). The phenomenon is real; the specific anecdotes are representative rather than precisely sourced. |
+| 2012 as the negative partisanship inflection point | **Corroborated** | ANES data shows opposing-party thermometer ratings dropped from 45° (1980) to 30° (2012) ([PBS NewsHour](https://www.pbs.org/newshour/politics/negative-partisanship-flipping-politics-head)). Pew Research confirms sharp rise in "very unfavorable" views of the opposing party during this era ([Pew 2012 post-election](https://www.pewresearch.org/politics/2012/11/15/low-marks-for-the-2012-election/)). Academic literature identifies this period as the acceleration of negative partisanship ([Abramowitz & Webster, 2015 via Cambridge Core](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/presidential-negative-partisanship/1697BEDDAAA4D0252E2FBA5AC78C7651)). See also [State Department overview](https://2017-2021.state.gov/elections-101-the-history-and-state-of-current-partisanship-in-the-u-s-2/). |
+| Iran/vaccine flip-flop examples | **Partially corroborated** | Widely documented in political commentary. Partisan reversal on vaccine trust depending on which administration claimed credit is well-documented ([KFF COVID-19 Vaccine Monitor](https://www.kff.org/coronavirus-covid-19/dashboard/kff-covid-19-vaccine-monitor-dashboard/), [Gallup](https://news.gallup.com/poll/510073/partisans-differ-widely-vaccines.aspx)). Partisan response reversals on foreign policy are similarly documented ([Pew Research on partisan gaps in foreign policy](https://www.pewresearch.org/politics/2025/01/14/foreign-policy-and-international-engagement/)). The phenomenon is real; the specific anecdotes are representative rather than precisely sourced. |
 
 ### Project 2028 mapping
 

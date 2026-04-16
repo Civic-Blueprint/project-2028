@@ -80,7 +80,7 @@ The project is built on four interconnected documents:
   The `project-2028` analysis workspace for comparing Civic Blueprint's principles against constitutions, charters, declarations, and organizational founding texts. Retained source texts now live in [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs).
 
 - **[Source Digests](sources/README.md)**  
-  Curated reference documents for external media, interviews, and commentary that intersect with the project's analysis. Source digests capture thematic parsing, fact-check findings, and project-mapping in a permanent form that multiple exchanges can reference without duplicating context.
+  Curated reference documents for external media, interviews, and commentary that intersect with the project's analysis. Source digests capture thematic parsing, research context, and project-mapping in a permanent form that multiple exchanges can reference without duplicating context.
 
 ## Internal project management
 
