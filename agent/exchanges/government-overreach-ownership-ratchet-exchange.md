@@ -1,6 +1,6 @@
 # Government Overreach, Ownership as Transition, and the Ratchet Problem — Exchange
 
-> **Status (April 2026):** Active discussion. Opening frame and Round 1 constructive analysis are now in place. The exchange has distinguished the ratchet as a broader capture dynamic rather than a state-only phenomenon, argued that ownership likely persists under abundance but with different moral weight across categories, and identified bounded governance design as the unresolved crux.
+> **Status (April 2026):** Active discussion. Opening frame, Round 1 constructive analysis, and Round 2 sub-debate stress test (against 43 curated source digests) are now in place. The exchange has distinguished the ratchet as a broader capture dynamic rather than a state-only phenomenon, argued that ownership likely persists under abundance but with different moral weight across categories, identified bounded governance design as the unresolved crux, and after Round 2 has narrowed the open questions toward a specific bounded-governance doctrine. Round 2 flags five residual data gaps that the steward may want to close before a Round 3 synthesis.
 >
 > **Why this exchange:** The steward encountered a podcast interview (David Friedberg on Modern Wisdom #1084, April 13, 2026) whose strongest arguments directly challenge the project's Principle 5 (public-interest governance) and the Problem Map's assumption that governance design — not government withdrawal — is the path to reform. The full parsed content is preserved in [Source Digest — Modern Wisdom #1084](../../sources/source-modern-wisdom-1084-friedberg-digest.md). This exchange focuses on the highest-priority intersection: whether public-interest governance is inherently expansionary, whether ownership is a transitional vehicle to abundance or a permanent feature, and whether democratic process itself becomes a capture mechanism when a majority of voters are net beneficiaries of government spending.
 
@@ -329,3 +329,242 @@ If those rounds go well, the exchange may produce not a simple yes/no answer on 
 | Ownership persists under abundance, but with differentiated moral weight | Speculative | Philosophical reasoning consistent with Principles 2, 5, and 17; no strong empirical post-scarcity evidence base | Strong historical or theoretical work showing either that ownership disappears under abundance or that all ownership claims remain equally justified |
 | Democracy can become a capture mechanism through multiple pathways, not only transfer dependence | Working hypothesis | Problem Map examples across housing, capital, information, and institutional capacity | Evidence that these pathways are better explained without democratic-capture dynamics |
 | The project should move toward an explicit bounded-governance doctrine | Working hypothesis | This round's synthesis of Friedberg's challenge against current project commitments | Round 2 historical and philosophical work showing that existing principles already suffice without additional clarification |
+
+---
+
+# Round 2
+
+---
+
+## Constructive Analysis — Round 2 Agent
+
+> **Role:** Constructive analyst. Same voice as Round 1, now testing the Round 1 thesis against the 43-digest evidence base assembled after that round was closed. This round is structured as an eight-sub-debate stress test rather than a new opening argument.
+>
+> **Context reviewed:** All entries in the [Source Index](../../sources/SOURCE_INDEX.md); Round 1 constructive analysis above; [Principles](../../PRINCIPLES.md) (§§ 2, 4, 5, 6, 17); [Problem Map](../../PROBLEM_MAP.md) (Domains 1, 2, 3, 5, 9, 10, 11, 12, 13, 14, 15); prior exchanges #7, #9.
+
+---
+
+### How this round reads the evidence
+
+Round 1 produced a three-point thesis: the ratchet is real but not unique to the state; ownership persists under abundance but with differentiated moral weight; democratic capture is real but bilateral. Round 1 then proposed a bounded-governance doctrine as the deliverable the exchange should aim for.
+
+Round 2 asks whether that thesis and that proposed deliverable survive contact with the eight sub-debates, taking the sympathetic (pro-Friedberg) and the skeptical (project-continuity) readings seriously in each. Where the evidence meaningfully shifts the Round 1 view, I flag it. Where it sharpens an underdefined Round 1 point, I propose the sharpening. Where it exposes a genuine data gap that should be closed before synthesis, I name it and hold the call.
+
+The short answer up front: **the Round 1 thesis holds, but becomes substantially more precise, and three of its moves have to be revised or strengthened.**
+
+---
+
+### Sub-debate 1 — Ratchet dynamics, tax history, and government growth
+
+**Sympathetic reading (pro-Friedberg).** The [Higgs "crisis ratchet"](../../sources/source-higgs-crisis-ratchet-digest.md), the [Mercatus regulatory-accumulation](../../sources/source-mercatus-regulatory-accumulation-digest.md) account of RegData-measured compliance stock, and the [Tax Policy Center tax-expenditures](../../sources/source-tax-policy-center-tax-expenditures-digest.md) framing of hidden second-order ratchets together establish something real. The scope of the U.S. state — what it regulates, what it promises, what it commits the future to — has grown nearly monotonically for a century, with crises functioning as step-change moments that do not fully retrench. That is a structural pattern, not a rhetorical claim.
+
+**Skeptical reading (counter-evidence).** Three datasets complicate the monotonic reading. The [Tax Foundation historical-rates data](../../sources/source-tax-foundation-historical-rates-digest.md) shows that U.S. statutory tax *rates* are cyclical, not monotonic — major cuts in 1981, 1986, 2001, 2003, 2017. The [CBPP federal-revenue overview](../../sources/source-cbpp-federal-tax-revenues-digest.md) shows that U.S. federal revenue as a share of GDP has been remarkably stable at roughly 16–18% for half a century, despite repeated rate and base changes. The [OECD Revenue Statistics](../../sources/source-oecd-revenue-statistics-digest.md) show that tax-to-GDP ratios across OECD countries have been stable or declining since 2000 in many cases, and that Nordic countries peaked and then partly retreated without political collapse. [Lindert's *Growing Public*](../../sources/source-lindert-growing-public-digest.md) adds the most important theoretical refinement: the historical driver of social spending is political voice, not beneficiary self-interest, and social spending has coincided with *faster* not slower long-run growth ("free lunch").
+
+**My read.** Round 1 was right that the ratchet is real. Round 2's refinement: **there are at least three distinct ratchets operating, and they should not be conflated.**
+
+1. **Scope ratchet** (what the state regulates, licenses, and commits to) — monotonic, Higgs-Mercatus-Tax-Expenditures pattern, strong evidence.
+2. **Rate ratchet** (how heavily it taxes at a given income) — does not exist in the simple form Friedberg implies; the U.S. rate history is cyclical, and revenue-to-GDP is stable.
+3. **Commitment ratchet** (long-horizon promises: pensions, entitlements, debt service) — monotonic *within an instrument* once adopted, but this is a feature of long-horizon contract, not of government per se; similar dynamics show up in private long-horizon commitments (defined-benefit pensions, IP rents, long-term leases).
+
+**Implication for the project.** Principle 5's anti-ratchet bounding should be aimed primarily at the scope ratchet and the commitment ratchet, not at the rate ratchet (which is not what the evidence shows). This is a meaningful tightening of Round 1's language.
+
+---
+
+### Sub-debate 2 — Property rights, ownership, and wealth taxation
+
+**Sympathetic reading.** [Nozick](../../sources/source-nozick-anarchy-state-utopia-digest.md) supplies the strongest philosophical case that wealth taxation is a category break: it is an ongoing coercive claim on already-justly-held property, not a toll on new flows. [Cato](../../sources/source-cato-taxing-wealth-digest.md) documents the European retreat from wealth taxes on administrative and behavioral grounds. [Summers & Sarin](../../sources/source-summers-sarin-wealth-tax-puzzle-digest.md) — from the center-left — concede that revenue estimates for U.S. wealth taxes are substantially optimistic and enforcement is the binding constraint.
+
+**Skeptical reading.** [Saez & Zucman](../../sources/source-saez-zucman-progressive-wealth-tax-digest.md) show the revenue case survives at lower-than-advertised levels given realistic avoidance assumptions. [Piketty](../../sources/source-piketty-capital-21c-digest.md) provides the structural reason it matters: r > g compounds concentration across generations in the absence of intervention. [Scheve & Stasavage](../../sources/source-scheve-stasavage-taxing-the-rich-digest.md) show that the historical durability of mass progressivity rests on *compensatory* ("you ask me to bleed; I ask you to share") rather than redistributive arguments — a point that cuts both ways. [Scanlon](../../sources/source-scanlon-inequality-matter-digest.md) provides a pluralist philosophical framework that lets the project object to concentration on multiple independent grounds (status, control, procedural unfairness, erosion of common life) without committing to any single distributive theory. [Rawls](../../sources/source-rawls-theory-of-justice-digest.md) supplies the most developed philosophical counter to Nozick, including explicit permission for property-owning democracy or liberal socialism as instantiations of the two principles of justice. [Sandel](../../sources/source-sandel-market-morality-digest.md) adds the civic-republican layer: some ownership arrangements corrupt the goods they govern, independent of distributional concerns.
+
+**My read.** The Round 1 position — "ownership persists under abundance with differentiated moral weight" — survives the philosophy round intact and gets a more complete grounding. The refinement is this: **the project does not need to resolve Nozick-vs-Rawls to advance.** What it needs is an ownership *taxonomy* (personal autonomy / productive coordination / chokepoint rents / publicly maintained scarcity), a pluralist objection framework (Scanlon) that justifies treating the taxonomy categories differently, and a reform sequence that addresses the *administrable* cases first.
+
+**Implication for the wealth-tax question specifically.** The convergence of Summers-Sarin, Cato-on-administrability, Saez-Zucman-on-revenue, and Scheve-Stasavage-on-political-viability points strongly toward a **reform inside existing instruments** path (eliminate step-up at death, mark-to-market unrealized gains at high thresholds, tax-gap enforcement, estate-tax restoration) rather than a new wealth-tax instrument. This is close to what Round 1 called "differentiated claims"; Round 2 sharpens it into a specific reform direction. The wealth-tax-as-instrument is a lower priority than the instruments that address the same distributional concern with better administrative grounding and stronger historical precedent.
+
+---
+
+### Sub-debate 3 — Public choice and democracy-as-capture
+
+**Sympathetic reading.** The four-mechanism inventory is now well-documented. [Caplan](../../sources/source-caplan-myth-rational-voter-digest.md) supplies voter-side rational-irrationality biases. [Gilens & Page](../../sources/source-gilens-page-testing-theories-digest.md) supply empirical elite-dominance findings. [Hacker & Pierson](../../sources/source-hacker-pierson-winner-take-all-digest.md) supply policy-drift and organized-combat dynamics. [Bartels](../../sources/source-bartels-unequal-democracy-digest.md) supplies the unenlightened-voter information-gap mechanism. The combined picture is one in which democratic majoritarian outcomes systematically diverge from what informed median preferences would produce — which is considerably stronger than Friedberg's specifically transfer-bloc framing, and more intellectually serious.
+
+**Skeptical reading.** [Ostrom](../../sources/source-ostrom-governing-commons-digest.md) gives empirical demonstration that collective governance is possible at decades-to-centuries timescales when her design principles are honored. [Buchanan & Tullock](../../sources/source-buchanan-tullock-calculus-consent-digest.md) provide the constitutional-level framework within which the capture mechanisms are tractable design problems rather than inevitabilities. Critically, all four capture mechanisms from the sympathetic reading apply as much or more to *non-democratic* aggregation regimes (markets, technocracies, authoritarian systems) as to democracy itself — the capture literature does not support a retreat-from-democracy conclusion. It supports a redesign-democracy conclusion.
+
+**My read.** Round 1's "capture is bilateral; democracy can be designed for conditional self-correction" position holds and becomes substantially more precise. The project should **name the four mechanisms** (rational irrationality, elite dominance, drift-and-combat, information gap) when restating Problem Map Domain 15, because each mechanism implies a different corrective. Availability cascades (Sub-debate 7 below) form a fifth, partly overlapping mechanism.
+
+**Revision to Round 1.** Round 1 said the project "should probably revise its framing in Problem Map Domain 15 to make this ambivalence more explicit." Round 2 is more specific: the revision should explicitly name the five capture mechanisms (Caplan, Gilens-Page, Hacker-Pierson, Bartels, Kuran-Sunstein) and pair each with its corresponding design response (transparency, limits on elite influence, anti-drift indexation, distributional labeling, cooling periods / anti-catastrophe-narrow precaution). Without that level of specificity, Principle 4 remains the moral framing Friedberg correctly identifies as underdefended.
+
+---
+
+### Sub-debate 4 — Abundance, post-scarcity, and the future of ownership
+
+**Sympathetic reading.** [Diamandis](../../sources/source-diamandis-abundance-digest.md) is the empirically most serious pro-market abundance source. The exponential cost curves he cites (solar LCOE, genome sequencing, AI compute, LED lighting) are real. [Andreessen's manifesto](../../sources/source-andreessen-techno-optimist-digest.md), stripped of its polemical hostility to "trust and safety," identifies a real concern about procedural friction in the U.S. build-stack.
+
+**Skeptical reading.** [Klein & Thompson](../../sources/source-klein-thompson-abundance-digest.md) is the decisive 2025 text for the project's synthesis. Their diagnosis — that progressivism built proceduralist scaffolding that now prevents it from delivering what it values — grants the empirical substance of Friedberg's complaint while locating the reform target in state capacity rather than state retreat. [Bastani](../../sources/source-bastani-falc-digest.md) supplies the left-accelerationist pushback that without ownership reform, abundance technology will produce rent-concentration rather than broad welfare. [Keynes](../../sources/source-keynes-grandchildren-digest.md) anchors the humanist framing: the aggregate 1930 forecast was right; the distributive and cultural forecasts were wrong; the modern exchange is essentially an argument about *why* the distributive part failed. [Raworth](../../sources/source-raworth-doughnut-digest.md) supplies the ecological-ceiling constraint that all of Andreessen, Diamandis, and most of Bastani omit. [Ostrom](../../sources/source-ostrom-governing-commons-digest.md) provides the polycentric institutional vocabulary needed to combine the parts.
+
+**My read.** The steward's positioning — that Civic Blueprint shares Friedberg's destination — is empirically vindicated by the Diamandis-Keynes lineage but is *not* satisfied by the Andreessen-style mechanism. The evidence strongly favors the synthesis: Klein-Thompson's supply-side state-capacity diagnosis, plus Ostrom's polycentric ownership vocabulary, plus Raworth's ecological ceiling, plus Keynes's transitional-ownership framing.
+
+**Concrete upgrade to Round 1.** Round 1 said "ownership probably persists under abundance, but differentiated." Round 2 can specify the differentiation using published vocabulary: the four categories are Sandel-Ostrom civic/commons goods (where market allocation corrupts the good), Diamandis-style innovation goods (where private ownership plus competitive markets drive exponential cost decline), Raworth ecological-ceiling resources (where commons governance bounded by planetary limits is the right frame), and Keynes-Bastani transitional productive capital (where ownership is instrumental and its moral weight tracks its current contribution to broad welfare).
+
+**This is the taxonomy the exchange should deliver.** It is more defensible than "differentiated moral weight" because every category points to specific literatures and specific reform levers.
+
+---
+
+### Sub-debate 5 — Social democracy vs. command vs. minimal state (the Venezuela reductio)
+
+**Sympathetic reading.** [Heritage and Fraser Economic Freedom Indexes](../../sources/source-economic-freedom-index-digest.md) are widely read as supporting the "smaller government produces better outcomes" narrative. Cross-country correlations of economic-freedom scores with welfare indicators are strong.
+
+**Skeptical reading.** The indexes' own methodology dismantles the Friedberg Venezuela reductio. Denmark, Finland, Sweden, and Norway rank in the top 20 globally on both Heritage and Fraser *despite* tax-to-GDP ratios of 41–47%, because they score very high on rule of law, property rights, openness, regulatory quality, monetary soundness — and those non-size dimensions dominate the aggregate score. Venezuela ranks 174th on Heritage because its *institutional quality* is catastrophic, not because its state is unusually large. [Acemoglu & Robinson](../../sources/source-acemoglu-robinson-why-nations-fail-digest.md) (2024 Nobel) provide the analytical reframe: the decisive variable is inclusive-vs-extractive institutions, not state-vs-market. [Sachs and Andersen et al.](../../sources/source-sachs-nordic-model-digest.md) provide the positive institutional case: the Nordic model works because of openness-plus-risk-sharing inside strong pluralist institutions, and it has been durable across repeated shocks and rollbacks. [Rodrik](../../sources/source-rodrik-trilemma-digest.md) provides the methodological scaffold for holding context-specific positions without sliding into relativism.
+
+**My read.** The Venezuela reductio is empirically and analytically defective, and the evidence for this is overwhelming. The project should treat "Sweden vs. Venezuela" as a test case and respond unequivocally: **the relevant variable is institutional inclusiveness, not state scale.** This is the most straightforwardly decidable of the eight sub-debates.
+
+**Implication for the project's synthesis.** Principle 5 should be restated in Acemoglu-Robinson-Rodrik vocabulary. "Public-interest governance" should be replaced or supplemented with the clearer formulation: **inclusive institutions with bounded rules.** That is the property the evidence shows to be decisive. State scale, rate of taxation, and ownership mode are subsidiary variables whose correct setting varies with institutional context (Rodrik's "many recipes") and which matter only insofar as they support or degrade institutional inclusiveness.
+
+---
+
+### Sub-debate 6 — Price discipline in subsidized sectors (the Perry chart)
+
+**Sympathetic reading.** [Perry's "Chart of the Century"](../../sources/source-perry-chart-of-the-century-digest.md) is empirically honest at the descriptive level. Heavily subsidized and regulated sectors (hospital services, college, childcare, housing, medical services) show dramatic price inflation; lightly regulated consumer goods show deflation. This pattern is real data.
+
+**Skeptical reading.** The *decomposition* of the pattern does not support Friedberg's monocausal reading. [Baumol cost disease](../../sources/source-baumol-cost-disease-digest.md) accounts for a large share of the trajectory (labor-intensive services get relatively more expensive in any growing economy, regardless of institutional form — the pattern appears across all OECD healthcare systems including those with much more government involvement). [Cooper, Papanicolas, Anderson et al.](../../sources/source-chetty-healthcare-prices-digest.md) show that U.S. healthcare is expensive because of market concentration, multi-payer administrative fragmentation, and blocked countervailing power — countries with *more* government involvement have *lower* prices, which directly falsifies the "government drives inflation" reading of the healthcare line. [The Bowen/Archibald-Feldman/Gordon-Hedlund cluster](../../sources/source-bowen-college-cost-digest.md) shows college-cost decomposition to be genuinely mixed: ~30-40% Baumol, ~20-30% declining state appropriations, ~20-30% Bennett-hypothesis subsidy drift, ~10-20% amenity / compliance. [Glaeser & Gyourko](../../sources/source-glaeser-gyourko-housing-digest.md) show that housing inflation is genuinely government-caused — via zoning restrictions — but the reform is state-level preemption plus permit reform, which *expands* regulatory authority in one direction to deregulate in another.
+
+**My read.** The chart is real; the story behind it is not what Friedberg says. Each subsidized sector has a distinct decomposition and therefore a distinct reform. "The government inflates prices" is too coarse to produce good reform direction; in some cases (zoning) it is correct, in others (healthcare concentration) it is the opposite of correct.
+
+**Strongest single move.** The project should **concede housing to Friedberg explicitly.** Zoning is a government-caused price-inflation ratchet; the Klein-Thompson supply-side state-capacity agenda (zoning preemption, by-right multifamily, permit reform) is the right response. This concession costs the project nothing philosophically — housing-supply restriction is an incumbent-protection ratchet, not a public-interest-governance achievement — and gains enormous credibility on the broader chart by showing that the project can read the evidence honestly.
+
+**For healthcare**, the project's position becomes: the U.S. system's problem is fragmented multi-payer + market concentration + administrative overhead + blocked negotiation, not government scale. Reform is countervailing-power restoration (price negotiation à la IRA, consolidation rollback, transparency, administrative simplification) — moves that are institutionally *more* active than the status quo but distributionally progressive.
+
+**For education**, the answer is genuinely mixed and requires a subsidy-plus-supply-side-plus-state-appropriations triple: reform aid formulas to reduce Bennett drift, restore state appropriations, loosen supply constraints (accreditation reform, competency-based credentialing).
+
+---
+
+### Sub-debate 7 — Fear-based framing and policy risk
+
+**Sympathetic reading.** [Sunstein's critique of strong precaution](../../sources/source-sunstein-precautionary-digest.md) is formally correct — a symmetric precautionary principle applied to both the risks of action and the risks of regulation produces no guidance, and selective application is bias. [Kuran & Sunstein availability cascades](../../sources/source-kuran-availability-cascades-digest.md) document a real capture mechanism in risk regulation. [The German Energiewende case](../../sources/source-germany-energiewende-digest.md) is a textbook, measurable instance of precautionary policy producing worse aggregate risk outcomes (higher fossil use, excess air-pollution mortality, energy-security vulnerability).
+
+**Skeptical reading.** Sunstein's own positive reformulation — the *anti-catastrophe principle* applied narrowly to low-probability, high-consequence, irreversible risks — preserves the valid intuition behind precaution. Availability-cascade logic is symmetric: the "AI doom" cascade and the "AI dismissal" cascade are both cascades, and institutional-design responses must guard against both.
+
+**My read.** Friedberg's intuition about fear-driven policy is largely correct, and the project should adopt the Sunstein framework wholesale. Specifically: (a) strong-form precaution is incoherent and should be rejected; (b) narrow anti-catastrophe precaution is defensible for irreversibility-tail cases (engineered pandemics, catastrophic climate tipping, frontier-model safety); (c) availability cascades are a distinct capture mechanism requiring distinct institutional remedies (cooling periods, mandatory risk-risk analysis, cascade-insulated scientific advisory bodies); (d) precautionary regulation should have built-in sunsets and review triggers because it is structurally prone to ratcheting beyond its warrant.
+
+**Implication.** The Round 1 list of bounded-governance requirements ("clearly named harms, visible performance measures, sunset mechanisms, reversibility, protection against correction-as-extraction") already names most of these. Round 2's addition: mandatory distributional transparency (Bartels) and mandatory risk-risk analysis (Sunstein) as legibility requirements for any major regulation. These two together plausibly do much of the work of Principle 4.
+
+---
+
+### Sub-debate 8 — Bounded-governance design, fiscal rules, and institutional anti-ratchet mechanisms
+
+**Sympathetic reading (to Friedberg's pessimism).** [Sunset clauses literature](../../sources/source-sunset-clauses-digest.md) is a cautionary tale as much as an optimistic one. PATRIOT Act sunsets, Bush tax-cut sunsets, and most state sunset commissions routinely extend or fail to review substantively. Rule design is not self-executing; naive rules break.
+
+**Skeptical reading (to Friedberg's pessimism).** [The Swiss debt brake](../../sources/source-swiss-debt-brake-digest.md) is a 20-year proof that well-designed fiscal rules survive multiple major shocks (2008, 2020) while constraining debt accumulation — debt-to-GDP fell from 52% to 15% across the period, and the rule absorbed both crises without political collapse. [The OECD/IMF fiscal-rules database plus independent fiscal institutions literature](../../sources/source-oecd-fiscal-rules-digest.md) shows which design features produce this outcome: cyclical adjustment, compensation accounts, supermajority or constitutional entrenchment, escape clauses with compensation obligations, independent-institution monitoring. [Buchanan & Tullock](../../sources/source-buchanan-tullock-calculus-consent-digest.md) provide the constitutional-level framework. [Rawls](../../sources/source-rawls-theory-of-justice-digest.md) supplies the philosophical grounding for lexical priority of constitutive commitments over operational choices. [Sandel](../../sources/source-sandel-market-morality-digest.md) adds the civic-republican counterweight that bounded governance should protect civic commons, not only fiscal prudence. [Ostrom](../../sources/source-ostrom-governing-commons-digest.md) provides the polycentric design principles for multi-level governance.
+
+**My read.** Round 1's call for a bounded-governance doctrine is vindicated. The evidence supports a specific *design package* rather than a mere principle:
+
+| Design element | Source of the requirement | What it accomplishes |
+|---|---|---|
+| Cyclically adjusted fiscal rules with compensation account | Swiss debt brake, IMF evidence | Prevents crisis-ratchet while preserving automatic stabilization |
+| Constitutional or popular-referendum entrenchment | Swiss case, Buchanan & Tullock | Puts the rule above short-term political reversal |
+| Escape clauses with compensation obligations | Swiss case, OECD fiscal rules | Accommodates genuine emergencies without normalizing breach |
+| Independent fiscal institution with legal protection | OECD IFI literature | Provides non-partisan monitoring and forecast discipline |
+| Sunset plus mandatory substantive review | Gersen, Kysar, state sunset commissions | Counters scope-ratchet while avoiding commitment loss |
+| Mandatory risk-risk analysis before major regulation | Sunstein, Kuran-Sunstein | Prevents availability-cascade capture |
+| Mandatory distributional-impact labeling | Bartels, policy-feedback literature | Counters information-gap capture |
+| Polycentric governance where resource allows | Ostrom | Prevents single-point capture; enables experimentation |
+| Ownership taxonomy with explicit category treatment | Scanlon, Sandel, Keynes-Bastani, Diamandis | Matches reform tool to ownership type |
+
+That table is the deliverable Round 1 was reaching for. It is a non-utopian list; every element has either a working real-world precedent or a well-developed theoretical literature, and it is implementable as a reform agenda rather than only as a philosophical stance.
+
+---
+
+### Cross-cutting synthesis — the project's tightened position after Round 2
+
+Combining the sub-debates, the project's position can now be stated with markedly more confidence than at the end of Round 1:
+
+1. **The ratchet is real, multi-dimensional, and bilateral.** There are at least five distinct ratchets operating simultaneously: scope ratchet (regulatory and promise accumulation), commitment ratchet (long-horizon entitlements), cascade ratchet (availability-driven precaution), drift ratchet (Hacker-Pierson policy drift favoring incumbent power), and ownership-concentration ratchet (Piketty r > g). A serious anti-ratchet position has to address all five. "Less government" addresses at most two of them, and makes the rest worse.
+
+2. **Ownership is not monolithic.** The four-category taxonomy (civic/commons, innovation, ecological-ceiling, transitional productive) is now empirically and philosophically grounded rather than gestural. Different categories get different reform tools.
+
+3. **Democracy fails predictably and correctable ways.** The five-mechanism capture inventory (Caplan/Gilens-Page/Hacker-Pierson/Bartels/Kuran-Sunstein) maps to specific design responses. Democracy is not self-correcting automatically, but it is substantially designable.
+
+4. **Institutional inclusiveness, not state scale, is the decisive variable.** Acemoglu-Robinson-Rodrik is the correct analytical frame. The Sweden-vs-Venezuela contrast is a contrast in institutional quality, not in tax rate. The project's Principle 5 should be reformulated around inclusive-institution maintenance.
+
+5. **The Perry chart reform is sector-by-sector, not "less government."** Housing: concede Friedberg's supply-side point explicitly; reform is preemption and permit reform. Healthcare: countervailing power, consolidation rollback, price negotiation, administrative simplification. Education: aid-formula reform + state-appropriation restoration + supply-side loosening. This is a much more defensible position than either "the chart proves government overreach" or "the chart is misleading and should be ignored."
+
+6. **Fear-based policy is a real ratchet and should be bounded by Sunstein-style anti-catastrophe discipline.** Cascades cut both ways; the institutional response is risk-risk analysis plus cooling periods plus narrow anti-catastrophe precaution for irreversible-tail cases.
+
+7. **Bounded governance is designable.** The nine-element design package above, tested against Swiss/OECD/IMF/U.S.-state evidence, is a credible operational agenda. This is the project's central Round 2 deliverable.
+
+The most important single framing move, on reflection: **Principle 5 should be restated as an inclusive-institutions principle with an explicit anti-ratchet bounding.** Something like *"Critical systems require inclusive, legible, reversible governance, bounded against scope-ratcheting, commitment-ratcheting, cascade-capture, drift-capture, and concentration-capture, and designed in forms proportionate to the type of good being governed."* That sentence is defensible against every sub-debate the exchange has engaged. It is not libertarian; it is not naively pro-state; it is specific; it gives reform direction.
+
+---
+
+### Where Round 2 revises Round 1
+
+1. **Tighten the ratchet typology.** Round 1 said "ratchet is real but not unique to state." Round 2 sharpens to five named ratchets with different sources and different remedies. The rate-ratchet (which Friedberg implies) is empirically absent; conflating it with the scope- and commitment-ratchets was a rhetorical move on his part that the project should decline.
+
+2. **Make the ownership taxonomy explicit.** Round 1 gestured at personal / productive / chokepoint / scarcity-preserving distinctions. Round 2 grounds the taxonomy in specific literatures and proposes four named categories. This should be written into the Principles or into a supporting ownership-doctrine document.
+
+3. **Concede housing explicitly.** Round 1 did not distinguish among the Perry-chart sectors. Round 2 concludes that the housing case is genuinely a government-caused inflation ratchet and the project should say so clearly. The Klein-Thompson supply-side agenda gives the reform direction.
+
+4. **Move to inclusive-institutions vocabulary.** Round 1 used public-interest-governance vocabulary. Round 2 proposes moving to inclusive-institutions-with-bounded-rules vocabulary, which is decisively better supported by comparative evidence (Acemoglu-Robinson 2024 Nobel, Heritage-Fraser paradox, Nordic case).
+
+5. **Specify the bounded-governance design package.** Round 1 listed five anti-ratchet requirements in prose. Round 2 proposes a nine-element design table with named empirical precedents. This is the level of specificity the project needs to move from stance to proposal.
+
+---
+
+### Residual data gaps — where more research would strengthen a Round 3 synthesis
+
+The corpus is now strong enough for most of the synthesis, but five specific gaps are substantively worth closing before Round 3. Named here with short rationale so the steward can choose which to commission:
+
+1. **Argentina under Milei (2023–2026).** This is the exchange's Question #6 and is directly responsive to Friedberg's "exit path is painful but possible" claim. The project has no digest on it, and the evidence from 2024–2026 is now substantial (IMF stand-by evaluations, INDEC data, academic early-review papers). A digest here would let Round 3 test the "democracies can contract government" claim with a near-contemporary case instead of only the Canada-1990s or Sweden-1990s historical cases.
+
+2. **Canada-1990s, New Zealand-1984, Sweden-1990s fiscal consolidations.** All three are established cases where democracies meaningfully reduced government scope from a high baseline, without political collapse, and sustained the reductions. This is the strongest negative-evidence set against the universal-ratchet claim. A single digest covering the cluster would be high-leverage.
+
+3. **AI-governance literature.** The project repeatedly signals the AI domain as important, and the Sub-debate 7 framework is directly applicable. A digest covering Bengio et al. (Future of Life Institute statements), Russell (*Human Compatible*), Bostrom or similar anti-catastrophe arguments, and representative recent-era regulation (EU AI Act, California SB 1047 and its veto, executive-order sequence) would let Round 3 stress-test the "narrow anti-catastrophe precaution" move against an important live case.
+
+4. **Public-private hybrid ownership forms.** The ownership taxonomy's "transitional productive" category needs empirical backing. Worker cooperatives (Mondragón), platform cooperatives, B-corps, public options (e.g., state pharmaceutical manufacturing), sovereign wealth funds (Norway's Government Pension Fund, Alaska Permanent Fund), and modern state-owned enterprises with performance discipline are all candidates. One or two digests on these forms would move the taxonomy from philosophical to operational.
+
+5. **Direct-democracy / referendum mechanics in bounded-governance design.** The Swiss debt brake got its legitimacy partly from direct popular approval. Swiss referendum practice — frequency, question design, outcomes, failures — is substantive evidence about whether direct-democratic mechanisms can anchor constitutive commitments at scale. Bruno Frey's political-economy work and the Zogg et al. evaluations are standard references. Would strengthen Sub-debate 8's entrenchment discussion substantially.
+
+Secondary gaps worth noting but not urgent: Putnam-style social-trust / bowling-alone literature (would anchor the Sandel civic-republican argument empirically); the dot-matrix U.S. healthcare reform scholarship since the IRA 2022 (would let the project say more specific things about the healthcare-reform sequence); Acemoglu & Johnson's 2023 *Power and Progress* (technology-mediated institutional argument).
+
+**My recommendation to the steward.** Close gaps 1 (Argentina), 2 (the contraction-case cluster), and 3 (AI governance) before Round 3. Those three address the exchange's stated open questions directly and materially affect the synthesis. Gap 4 (hybrid ownership forms) and gap 5 (direct-democracy mechanics) can be closed later if the Round 3 synthesis points toward specific proposal work that needs them.
+
+If the steward accepts the recommendation, a focused research sweep of roughly 5–8 additional digests — Argentina-Milei, Canada-1990s, Sweden-1990s, New Zealand-1984 (possibly consolidated into one comparative digest), Bengio/FLI, Russell *Human Compatible*, EU AI Act, SB 1047 retrospective — would close the major gaps and set up a clean Round 3 synthesis.
+
+If the steward prefers to proceed to Round 3 with the current corpus, Round 3 can still be productive but will have to treat the Milei / contraction-case and AI-governance arms more speculatively, with explicit caveats.
+
+---
+
+### Proposed Round 3 structure (whether preceded by further research or not)
+
+Round 3 should be a synthesis round that produces three outputs:
+
+1. **A revised Principle 5 draft** that incorporates the Round 2 tightening and is short enough to fit into the Principles document.
+2. **An explicit ownership-taxonomy note** (short subsidiary document or Principles appendix) using the four categories.
+3. **A bounded-governance doctrine note** using the nine-element design table, scoped to the exchange.
+
+If the recommended research sweep happens first, Round 3 can add:
+4. **Historical-parallel test results** for the tax/government-contraction cluster (Question #4, #6).
+5. **An AI-governance worked example** showing how the bounded-governance framework applies to a live policy area.
+
+An alternative route is to bypass Round 3 and instead spawn a small set of focused follow-up exchanges: (a) Principle 5 revision, (b) ownership taxonomy, (c) bounded-governance doctrine, (d) housing-reform position statement, (e) AI-governance framework. That is probably better if the Round 2 synthesis above survives the steward's scrutiny; worse if the steward wants to keep testing the synthesis before freezing any of it.
+
+---
+
+### Epistemic status of Round 2's claims
+
+| Claim | Confidence | Basis | What would change this |
+|---|---|---|---|
+| The ratchet decomposes into at least five distinct mechanisms, not one | Established by reasoning | Sub-debates 1, 3, 7 evidence; each ratchet has its own literature and remedy | Evidence that the mechanisms reduce to a single underlying driver with a single remedy |
+| The U.S. rate ratchet (rates rising monotonically) does not exist | Established by evidence | Tax Foundation rates; CBPP revenue-share stability; OECD cross-country data | New data showing sustained rate ratcheting controlling for base-broadening and demographic drift |
+| Ownership taxonomy with four named categories is analytically sound | Working hypothesis, strengthened from Round 1 | Scanlon pluralist objections; Sandel corruption/inequality distinction; Ostrom polycentric; Keynes transitional framing | Argument that the four categories collapse into fewer or that additional categories are required |
+| Wealth-tax-as-instrument is a lower priority than reform of existing instruments | Working hypothesis | Summers-Sarin enforcement first; Saez-Zucman reduced revenue under realistic assumptions; Scheve-Stasavage political-viability argument | New enforcement technology that resolves the wealth-tax administrative challenges |
+| The five-mechanism capture inventory is correct and complete | Working hypothesis | Caplan, Gilens-Page, Hacker-Pierson, Bartels, Kuran-Sunstein | A sixth major mechanism with independent empirical support, or evidence that one of the five reduces to another |
+| Institutional inclusiveness is the decisive variable, not state scale | Established by reasoning | Acemoglu-Robinson 2024 Nobel; Heritage-Fraser Nordic paradox; Sachs-Andersen Nordic case; Rodrik methodological pluralism | A large N comparative study showing state-scale dominates inclusiveness on welfare outcomes |
+| Housing inflation is genuinely government-caused (zoning restriction) | Established by evidence | Glaeser-Gyourko-Hsieh-Moretti literature | Evidence that zoning restrictions do not produce large price premia or welfare losses |
+| Healthcare inflation is driven by concentration plus fragmentation, not state scale | Corroborated | Cooper et al.; Papanicolas et al.; Anderson et al.; cross-OECD comparison | A new study showing U.S. healthcare price premium is explained by state involvement after controlling for concentration and administrative overhead |
+| Bounded governance is designable with a specific design package | Working hypothesis, strengthened | Swiss case; OECD/IMF evidence; Buchanan-Tullock framework; sunset literature | Negative evidence that the nine-element package fails in implementation outside Switzerland |
+| The steward should commission gaps 1–3 before Round 3 synthesis | Judgment call | Gaps directly correspond to unanswered Round 1 questions and to the exchange's weakest current evidence areas | Steward preference to freeze the synthesis at current corpus |
+
+---
+
+### A short note on tone, per steward positioning
+
+The steward's April 2026 directional note ("Civic Blueprint must lead with hope") is load-bearing, and Round 2's synthesis respects it. The bounded-governance design package is not a position of pessimism. It is an operational agenda that takes Friedberg's concerns seriously, concedes what is correct, declines what is not, and shows the project has concrete design moves that resolve the tension rather than wishing it away. If the synthesis above is correct, the project can tell the steward's hopeful story in a disciplined form: *abundance is reachable, ownership need not disappear, democracy can be redesigned, and the institutional toolkit to do all three exists — we can name the pieces, cite the precedents, and show the path.* That is hope that earns credence rather than hope that asks for indulgence.
