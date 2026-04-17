@@ -1,6 +1,6 @@
 # Government Overreach, Ownership as Transition, and the Ratchet Problem — Exchange
 
-> **Status (April 2026):** Active discussion. Opening frame, Round 1 constructive analysis, and Round 2 sub-debate stress test (against 43 curated source digests) are now in place. The exchange has distinguished the ratchet as a broader capture dynamic rather than a state-only phenomenon, argued that ownership likely persists under abundance but with different moral weight across categories, identified bounded governance design as the unresolved crux, and after Round 2 has narrowed the open questions toward a specific bounded-governance doctrine. Round 2 flags five residual data gaps that the steward may want to close before a Round 3 synthesis.
+> **Status (April 2026):** Active discussion. Opening frame, Round 1 constructive analysis, Round 2 sub-debate stress test (against 43 curated source digests), and a targeted second research sweep (7 additional digests closing all five Round 2 data gaps) are now in place. The exchange has distinguished the ratchet as a broader capture dynamic rather than a state-only phenomenon, argued that ownership likely persists under abundance but with different moral weight across five categories (personal / civic-commons / innovation / ecological-ceiling / transitional-productive / collective-dividend), identified bounded-governance design as the unresolved crux, specified a nine-element bounded-governance design package grounded in Swiss, OECD/IMF, historical-contraction, and AI-regulation evidence, and closed the Round 2 data gaps in preparation for a Round 3 synthesis.
 >
 > **Why this exchange:** The steward encountered a podcast interview (David Friedberg on Modern Wisdom #1084, April 13, 2026) whose strongest arguments directly challenge the project's Principle 5 (public-interest governance) and the Problem Map's assumption that governance design — not government withdrawal — is the path to reform. The full parsed content is preserved in [Source Digest — Modern Wisdom #1084](../../sources/source-modern-wisdom-1084-friedberg-digest.md). This exchange focuses on the highest-priority intersection: whether public-interest governance is inherently expansionary, whether ownership is a transitional vehicle to abundance or a permanent feature, and whether democratic process itself becomes a capture mechanism when a majority of voters are net beneficiaries of government spending.
 
@@ -11,7 +11,7 @@
 | Type | Document |
 |---|---|
 | **Source material** | [Source Digest — Modern Wisdom #1084: David Friedberg](../../sources/source-modern-wisdom-1084-friedberg-digest.md) (Clusters 3, 4, 5, 6, 7 + Steward Observation 1) |
-| **Research base** | [Source Index](../../sources/SOURCE_INDEX.md) — 43 curated source digests organized by sub-debate and viewpoint (ratchet dynamics, property and wealth taxation, public choice and capture, abundance and post-scarcity, social democracy vs. command, price discipline in subsidized sectors, fear-based framing, bounded-governance design). Round 2+ participants should consult the Source Index to assemble balanced evidence for each sub-debate. |
+| **Research base** | [Source Index](../../sources/SOURCE_INDEX.md) — 50 curated source digests organized by sub-debate and viewpoint (ratchet dynamics, property and wealth taxation, public choice and capture, abundance and post-scarcity, social democracy vs. command, price discipline in subsidized sectors, fear-based framing, bounded-governance design). Round 2 drew on the first 43 digests; a targeted second sweep added 7 digests (Argentina / Milei; historical fiscal-consolidation cases — Canada 1990s, Sweden 1990s, NZ 1984; AI catastrophic-risk literature; AI governance practice — EU AI Act, California SB 1047/SB 53, U.S. EO sequence, NIST AI RMF; cooperative and platform-cooperative ownership; sovereign wealth funds — Norway GPFG, Alaska Permanent Fund; Swiss direct democracy) to close the five residual Round 2 data gaps. Round 3 is now fully resourced. |
 | **Core documents** | [Principles](../../PRINCIPLES.md) (especially §2, §4, §5, §6), [Problem Map](../../PROBLEM_MAP.md) (especially Domains 2, 13, 15), [Systems Framework](../../SYSTEMS_FRAMEWORK.md) |
 | **Prior exchanges** | [Exchange #9 (Debt Legitimacy)](debt-legitimacy-odious-debt-exchange.md), [Exchange #13 (Proposal Generation)](autonomous-proposal-generation-stress-test.md), [Exchange #7 (Timescale Review)](proof-of-usefulness-feedback-timescale-review.md) |
 | **Protocols** | [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md) |
@@ -568,3 +568,47 @@ An alternative route is to bypass Round 3 and instead spawn a small set of focus
 ### A short note on tone, per steward positioning
 
 The steward's April 2026 directional note ("Civic Blueprint must lead with hope") is load-bearing, and Round 2's synthesis respects it. The bounded-governance design package is not a position of pessimism. It is an operational agenda that takes Friedberg's concerns seriously, concedes what is correct, declines what is not, and shows the project has concrete design moves that resolve the tension rather than wishing it away. If the synthesis above is correct, the project can tell the steward's hopeful story in a disciplined form: *abundance is reachable, ownership need not disappear, democracy can be redesigned, and the institutional toolkit to do all three exists — we can name the pieces, cite the precedents, and show the path.* That is hope that earns credence rather than hope that asks for indulgence.
+
+---
+
+## Round 2 addendum — data gaps closed (April 2026)
+
+Following Round 2, the steward commissioned a targeted second research sweep to close all five residual data gaps identified above. Seven new source digests were added:
+
+| Gap | Digest(s) added |
+|---|---|
+| 1. Argentina under Milei (2023–2026) | [Argentina under Milei](../../sources/source-argentina-milei-reforms-digest.md) |
+| 2. Canada-1990s / Sweden-1990s / NZ-1984 contraction cases | [Fiscal Consolidation Cases (comparative)](../../sources/source-fiscal-consolidation-cases-digest.md) |
+| 3. AI-governance literature | [AI Catastrophic-Risk Literature (Bengio, Russell, Bostrom, IDAIS)](../../sources/source-ai-existential-risk-digest.md) + [AI Governance Practice (EU AI Act, SB 1047/SB 53, U.S. EO sequence, NIST)](../../sources/source-ai-governance-practice-digest.md) |
+| 4. Public-private hybrid ownership forms | [Cooperatives: Mondragón, Worker Cooperatives, Platform Cooperativism](../../sources/source-cooperatives-mondragon-digest.md) + [Sovereign Wealth Funds: Norway GPFG, Alaska Permanent Fund](../../sources/source-sovereign-wealth-funds-digest.md) |
+| 5. Direct-democracy / referendum mechanics | [Swiss Direct Democracy](../../sources/source-swiss-direct-democracy-digest.md) |
+
+### What the new evidence shifts in the Round 2 synthesis
+
+None of the Round 2 main conclusions is overturned by the new evidence, but several are sharpened and one category is added.
+
+1. **Democratic contraction is empirically possible (Round 2 claim strengthened, with a specific caveat).** Argentina (2023–2026) plus the comparative-cases cluster (Canada 1993–97, Sweden 1991–98, NZ 1984–91) falsify the strong-form "democracies cannot contract" claim definitively. Four different OECD-tier democracies, across four distinct political systems, have durably contracted government scope from high-expansion baselines. The caveat sharpens: all four cases required prior fiscal crisis or near-crisis as the enabling condition. In the absence of crisis, the universal-ratchet claim may still hold; the point is that the ratchet is reversible when the enabling condition is present.
+
+2. **The ownership taxonomy expands from four categories to five (Round 2 revision).** The SWF digest demonstrates that the original four-category taxonomy (civic-commons / innovation / ecological-ceiling / transitional-productive) is incomplete. A fifth category — **collective-dividend ownership**, exemplified by Norway's GPFG and Alaska's Permanent Fund — is neither civic-commons nor transitional-productive and represents a distinct institutional form: ownership of productive assets held in common on behalf of a defined population with returns distributed on explicit rules. This matters for Sub-debate 2 because it provides an institutional alternative to individual wealth taxation that partly addresses the Summers-Sarin enforcement-first concern.
+
+3. **The bounded-governance design package is empirically grounded in at least five working instances (Round 2 claim strengthened).** Switzerland (debt brake), Sweden (expenditure ceiling + surplus target + fiscal council + pension reform), Canada (federal budgetary framework through 2009), Norway (GPFG + fiscal rule), and Alaska (constitutional principal protection + per-capita PFD) all operationalize versions of the nine-element design package. The package is not theoretical; it has been implemented, in varying forms, at real national scale, sustained across decades, and resistant to political raiding. This materially strengthens the confidence label on "bounded governance is designable."
+
+4. **AI governance is the cleanest live test of the bounded-governance doctrine (Round 2 claim operationalized).** The paired AI digests establish that the Sunstein anti-catastrophe-narrow framework has been adopted in practice (EU AI Act, California SB 53) and that the SB 1047 → SB 53 transition specifically illustrates the political ceiling on prescriptive AI-safety regulation in the U.S. at present. The nine-element bounded-governance design package maps directly onto the AI-governance architecture, and Round 3 can use this domain as its worked example.
+
+5. **Direct democracy is a useful entrenchment mechanism, not a universal policy instrument (new nuance).** The Swiss digest and Frey's political-economy findings support the use of direct-democratic mechanisms for *entrenching* already-negotiated institutional rules (constitutional-level bounded governance) but *not* for designing complex ongoing policy. This calibration should appear in the Round 3 synthesis and in any downstream proposal work. The minaret and immigration cases supply cautionary evidence about direct democracy's failure modes on minority-rights questions.
+
+6. **One finding that partly tempers Round 2 optimism (honest note).** The Argentine case reveals that macroeconomic success of a contraction does not automatically translate to political support — approval fell to 36% even as the fiscal surplus was maintained and inflation declined by an order of magnitude. This is consistent with Round 2's observation that distributional design is decisive for political sustainability, and it suggests that the project's bounded-governance doctrine should include explicit provisions for distributional incidence of the rules it specifies, not only their fiscal-arithmetic correctness.
+
+### Updated readiness assessment
+
+Round 3 synthesis is now fully resourced. The recommended Round 3 deliverable set remains as Round 2 described it:
+
+1. Revised Principle 5 draft in inclusive-institutions-with-bounded-rules vocabulary.
+2. Explicit ownership-taxonomy note (now five categories: personal autonomy / civic-commons / innovation / ecological-ceiling / transitional-productive / collective-dividend).
+3. Bounded-governance doctrine note with the nine-element design table and at least five working precedents cited.
+4. Worked example: applying the bounded-governance doctrine to frontier-AI governance (using the AI Governance Practice digest).
+5. Distributional-incidence addendum (informed by Argentina case): any bounded-governance rule should include explicit distributional labeling and incidence review, not only fiscal-arithmetic compliance.
+
+Alternative path (unchanged): bypass a single Round 3 synthesis and spawn follow-up exchanges on (a) Principle 5 revision, (b) ownership taxonomy, (c) bounded-governance doctrine, (d) housing-reform position statement, (e) AI-governance framework. Each would use the now-sufficient corpus rather than requiring further research first.
+
+The exchange's residual research debt after this sweep is low. Secondary gaps identified in Round 2 (Putnam-style social-trust literature; post-IRA 2022 U.S. healthcare-reform scholarship; Acemoglu & Johnson's *Power and Progress*) remain open but are not load-bearing for Round 3.

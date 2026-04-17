@@ -35,6 +35,12 @@ As the corpus grows, browse the [Source Index](SOURCE_INDEX.md) to find digests 
 
 ## Current corpus
 
-As of April 2026, the directory contains 44 source digests: one originating adversarial anchor (the Modern Wisdom #1084 Friedberg digest) and 43 curated reference digests assembled in a first-pass research sweep covering the eight sub-debates identified in the Government Overreach exchange. Viewpoint coverage is balanced across pro-market/libertarian, social-democratic/progressive, and heterodox/institutional positions so that subsequent exchange rounds can draw on sympathetic and skeptical evidence for each sub-debate.
+As of April 2026, the directory contains 51 source digests:
+
+- One originating adversarial anchor (the Modern Wisdom #1084 Friedberg digest).
+- 43 curated reference digests from the first research sweep (April 2026), covering the eight sub-debates identified in the Government Overreach exchange.
+- 7 curated reference digests from the second research sweep (April 2026), closing the five residual data gaps identified at the end of Round 2 of that exchange: Argentina under Milei; historical fiscal consolidation cases (Canada 1990s, Sweden 1990s, NZ 1984); AI catastrophic-risk literature; AI governance practice (EU AI Act, California SB 1047/SB 53, U.S. EO sequence, NIST AI RMF); cooperative and platform-cooperative ownership forms; sovereign wealth funds (Norway GPFG, Alaska Permanent Fund); Swiss direct democracy.
+
+Viewpoint coverage is balanced across pro-market/libertarian, social-democratic/progressive, and heterodox/institutional positions so that exchange rounds can draw on sympathetic and skeptical evidence for each sub-debate. The ownership taxonomy developed in Round 2 is empirically grounded after the second sweep (cooperatives and SWFs as concrete instances), the AI-governance sub-debate is empirically and theoretically supported by paired digests (existential-risk literature + regulatory practice), and the bounded-governance design package in Sub-debate 8 has real-world case grounding (Argentina, Canada, Sweden, NZ, Switzerland).
 
 Successor sweeps can expand the corpus further in each sub-debate (targeted empirical studies, regional case studies, additional philosophical positions). New digests should be added both to the directory and to the [Source Index](SOURCE_INDEX.md) under the correct sub-debate bucket.

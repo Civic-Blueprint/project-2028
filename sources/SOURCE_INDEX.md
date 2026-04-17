@@ -5,7 +5,7 @@ provenance: "collaborative"
 
 # Source Index
 
-> **Status (April 2026):** Active. This index tracks curated source digests in `sources/` that feed the [Government Overreach, Ownership as Transition, and the Ratchet Problem exchange](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) and adjacent exchanges. Sources are grouped by sub-debate and viewpoint to make it easy to assemble balanced evidence bases for Round 2 and subsequent rounds.
+> **Status (April 2026):** Active. This index tracks curated source digests in `sources/` that feed the [Government Overreach, Ownership as Transition, and the Ratchet Problem exchange](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) and adjacent exchanges. Sources are grouped by sub-debate and viewpoint to make it easy to assemble balanced evidence bases for Round 2 and subsequent rounds. As of April 2026, 51 digests are catalogued (the originating Friedberg anchor + 50 curated references across two research sweeps).
 >
 > **Scope:** This index intentionally favors peer-reviewed work, major investigative journalism, reputable think-tank analysis (across the political spectrum), named-expert essays, and freely available book chapters or summaries. Paywalled or speculative material is excluded unless explicitly noted.
 >
@@ -49,6 +49,8 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Heterodox / synthesis | [Lindert, *Growing Public* (2004)](source-lindert-growing-public-digest.md) | Social spending tracks political voice; "free lunch" paradox. |
 | Heterodox / institutional | [OECD Revenue Statistics](source-oecd-revenue-statistics-digest.md) | Cross-country data against universal-ratchet claim. |
 | Heterodox / institutional | [Tax Policy Center, Tax Expenditures](source-tax-policy-center-tax-expenditures-digest.md) | Hidden-ratchet in tax-code preferences. |
+| Contemporary case / contraction evidence | [Argentina under Milei (2023–2026)](source-argentina-milei-reforms-digest.md) | Near-contemporary test of democratic contraction; primary case for Exchange Question #6. (also in Sub-debates 3, 5, 8) |
+| Historical cases / contraction evidence | [Fiscal Consolidation Cases (Canada 1990s, Sweden 1990s, NZ 1984)](source-fiscal-consolidation-cases-digest.md) | Three OECD democracies that durably contracted government from high-expansion baselines. (also in Sub-debates 3, 5, 8) |
 
 ## 2. Property rights, ownership, and wealth taxation
 
@@ -61,6 +63,8 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Heterodox / center-left | [Summers & Sarin, "A 'Wealth Tax' Presents a Revenue Estimation Puzzle"](source-summers-sarin-wealth-tax-puzzle-digest.md) | Methodological middle-ground critique; enforcement-first alternative. |
 | Heterodox / political economy | [Scheve & Stasavage, *Taxing the Rich* (2016)](source-scheve-stasavage-taxing-the-rich-digest.md) | Compensatory theory; why mass progressivity emerged when it did. |
 | Heterodox / moral philosophy | [Scanlon, "Why Does Inequality Matter?"](source-scanlon-inequality-matter-digest.md) | Six pluralist objections to inequality; foundation for ownership taxonomy. |
+| Heterodox / hybrid-ownership practice | [Cooperatives: Mondragón, Worker Cooperatives, Platform Cooperativism](source-cooperatives-mondragon-digest.md) | Empirical grounding for "transitional productive" ownership category. (also in Sub-debate 4) |
+| Heterodox / collective-dividend ownership | [Sovereign Wealth Funds: Norway GPFG, Alaska Permanent Fund](source-sovereign-wealth-funds-digest.md) | Adds a fifth ownership category (collective-dividend); alternative to individual wealth taxation. (also in Sub-debates 4, 5) |
 
 ## 3. Public choice and democracy-as-capture
 
@@ -72,6 +76,7 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Social-democratic / progressive | [Hacker & Pierson, *Winner-Take-All Politics* (2010)](source-hacker-pierson-winner-take-all-digest.md) | Policy drift + organized-combat capture story. |
 | Social-democratic / progressive | [Bartels, *Unequal Democracy* (2008/2016)](source-bartels-unequal-democracy-digest.md) | Partisan differentials + unenlightened-voter information gap. |
 | Heterodox / institutional | [Ostrom, *Governing the Commons* (1990) + Nobel Lecture](source-ostrom-governing-commons-digest.md) | Polycentric governance as alternative to both state and market capture. |
+| Institutional / direct-democracy | [Swiss Direct Democracy (referendum, initiative, Frey empirics)](source-swiss-direct-democracy-digest.md) | Mechanism evidence on direct-democratic override of capture; primary input for entrenchment element of bounded-governance design. (also in Sub-debate 8) |
 
 ## 4. Abundance, post-scarcity, and the future of ownership
 
@@ -83,6 +88,7 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Post-capitalist / left-accelerationist | [Bastani, *Fully Automated Luxury Communism* (2019)](source-bastani-falc-digest.md) | Ownership reform as the binding abundance variable. |
 | Heterodox / humanist | [Keynes, "Economic Possibilities for Our Grandchildren" (1930)](source-keynes-grandchildren-digest.md) | Canonical humanist abundance essay; transition framing of ownership. |
 | Heterodox / ecological | [Raworth, *Doughnut Economics* (2017)](source-raworth-doughnut-digest.md) | Social floor + ecological ceiling as safe operating space. |
+| Heterodox / existential-safety | [AI Catastrophic-Risk Literature (Bengio, Russell, Bostrom, IDAIS)](source-ai-existential-risk-digest.md) | Ecological-ceiling analog for AI capability; anti-catastrophe-narrow framing. (also in Sub-debates 7, 8) |
 
 ## 5. Social democracy vs. command economics vs. minimal-state models
 
@@ -110,6 +116,8 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Centrist / behavioral-regulatory | [Sunstein, *Laws of Fear* (2005)](source-sunstein-precautionary-digest.md) | Critique of strong precautionary principle; anti-catastrophe reformulation. |
 | Centrist / behavioral-regulatory | [Kuran & Sunstein, "Availability Cascades and Risk Regulation" (1999)](source-kuran-availability-cascades-digest.md) | Core mechanism; case studies of cascade-driven regulation. |
 | Mixed / policy case study | [German Energiewende and Nuclear Phaseout](source-germany-energiewende-digest.md) | Real-world case of precautionary policy with measurable risk-risk costs. |
+| Expert-letter / catastrophic-risk | [AI Catastrophic-Risk Literature (Bengio, Russell, Bostrom, IDAIS)](source-ai-existential-risk-digest.md) | Applied test case for Sunstein anti-catastrophe framework. (also in Sub-debates 4, 8) |
+| Regulatory practice / live case | [AI Governance Practice (EU AI Act, SB 1047/SB 53, U.S. EO sequence, NIST)](source-ai-governance-practice-digest.md) | Empirical record of 2024–2026 regulatory choices; tests whether anti-catastrophe-narrow is politically available. (also in Sub-debate 8) |
 
 ## 8. Bounded-governance design, fiscal rules, and institutional anti-ratchet mechanisms
 
@@ -124,6 +132,10 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Heterodox / institutional | [Ostrom, *Governing the Commons* + Nobel Lecture](source-ostrom-governing-commons-digest.md) | Polycentric design principles; empirical foundation for non-state, non-market governance. (also in Sub-debate 3) |
 | Heterodox / institutionalist | [Acemoglu & Robinson, *Why Nations Fail* (2012 + 2024 Nobel)](source-acemoglu-robinson-why-nations-fail-digest.md) | Inclusive vs. extractive institutional framework; reframes bounded-governance as inclusiveness-preservation. (also in Sub-debate 5) |
 | Heterodox / institutional pluralism | [Rodrik, Globalization Trilemma + *Economics Rules*](source-rodrik-trilemma-digest.md) | Methodological anchor for context-specific bounded-governance design. (also in Sub-debate 5) |
+| Contemporary contraction case | [Argentina under Milei (2023–2026)](source-argentina-milei-reforms-digest.md) | Near-contemporary test of bounded-contraction feasibility under democracy. (also in Sub-debates 1, 3, 5) |
+| Historical contraction cluster | [Fiscal Consolidation Cases (Canada 1990s, Sweden 1990s, NZ 1984)](source-fiscal-consolidation-cases-digest.md) | Institutional rule architecture (Swedish expenditure ceiling + surplus target) as bounded-governance benchmark. (also in Sub-debates 1, 3, 5) |
+| Regulatory practice / applied design | [AI Governance Practice (EU AI Act, SB 1047/SB 53, U.S. EO sequence, NIST)](source-ai-governance-practice-digest.md) | Live test of the bounded-governance design package on frontier AI. (also in Sub-debate 7) |
+| Institutional / direct-democracy entrenchment | [Swiss Direct Democracy](source-swiss-direct-democracy-digest.md) | Entrenchment mechanism in the bounded-governance design package; Frey's political-economy findings. (also in Sub-debate 3) |
 
 ---
 
