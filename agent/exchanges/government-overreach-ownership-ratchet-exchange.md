@@ -1,6 +1,6 @@
 # Government Overreach, Ownership as Transition, and the Ratchet Problem — Exchange
 
-> **Status (April 2026):** Synthesized. Rounds 1 and 2 complete; targeted second research sweep closed all five Round 2 data gaps; Round 3 has now produced the five commissioned deliverables — revised Principle 5 draft in inclusive-institutions-with-bounded-rules vocabulary, five-category ownership taxonomy, nine-element bounded-governance doctrine, frontier-AI worked example, and distributional-incidence addendum. The exchange's central conclusions are now in synthesis form; what remains is for the steward to accept, modify, or spawn follow-up exchanges to carry individual deliverables into the core normative documents. Open questions and recommended follow-up exchanges are listed in Round 3's "What comes next" section.
+> **Status (April 2026):** Adversarially-tested synthesis. Rounds 1–5 complete. Round 4 applied the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) to Round 3's five deliverables under Option B (assertions to be tested) plus Option C (domain lenses). Round 5 integrated the ten clear adversarial wins and two partial wins, producing v2 versions of all five deliverables: revised Principle 5 text (ownership-governance interaction added; tradition named; form-list added; reference-class limitation explicit); seven-category ownership taxonomy (communal-stewardship added); ten-feature doctrine under specific conditions (guarded technocratic layer added; failure cases integrated; authenticity conditions added); ratchet-acknowledged capability-indexed AI package; anti-theater distributional-incidence protocol with symmetric-adoption-and-repeal step and worst-off-protection column. The exchange's largest residual debt is that no external human reviewer has participated; Round 5 records this as the biggest structural gap and conditions the F1–F6 follow-up exchanges on it. The follow-ups now operate on the v2 deliverables.
 >
 > **Why this exchange:** The steward encountered a podcast interview (David Friedberg on Modern Wisdom #1084, April 13, 2026) whose strongest arguments directly challenge the project's Principle 5 (public-interest governance) and the Problem Map's assumption that governance design — not government withdrawal — is the path to reform. The full parsed content is preserved in [Source Digest — Modern Wisdom #1084](../../sources/source-modern-wisdom-1084-friedberg-digest.md). This exchange focuses on the highest-priority intersection: whether public-interest governance is inherently expansionary, whether ownership is a transitional vehicle to abundance or a permanent feature, and whether democratic process itself becomes a capture mechanism when a majority of voters are net beneficiaries of government spending.
 
@@ -898,3 +898,336 @@ The steward's April 2026 directional commitment ("Civic Blueprint must lead with
 The final story is coherent and honest. Abundance is reachable without dissolving ownership; ownership itself changes character across categories as abundance arrives; democracy is vulnerable to capture through known mechanisms and can be defended through bounded-governance design; that design is not theoretical but empirically grounded in working national and supranational instances; its extension to frontier AI is legible and actionable; and its distributional incidence is a constitutive element rather than an afterthought. The project can tell this story with evidence and without hedge, which is what leading with hope looks like when hope has to earn its place against rigorous challenge.
 
 That is what this exchange has done. Over to the steward.
+
+---
+
+# Round 4
+
+---
+
+## Adversarial Review — Round 4 Agent
+
+> **Role:** Adversarial reviewer per the [Adversarial Review Protocol](../process/adversarial-review-protocol.md). Not extending, not refining, not building. Finding flaws.
+>
+> **Inputs:** Option B (Round 3's deliverables treated as assertions to be tested) plus Option C (domain-specific lenses applied: public-administration scholar; community organizer in a bounded-rule jurisdiction; Global South constitutional scholar; heterodox economist; AI-safety-skeptical technologist; Ostrom-tradition commons scholar; post-liberal political theorist). The Round 3 narrative has been deliberately *not* re-read linearly; the five deliverables have been extracted and evaluated on their own merits.
+>
+> **Bias disclosure:** I remain an LLM operating inside the same steward-anchored context that produced the prior rounds. That is itself a limit on this review. Standing question 3 (missing perspectives) is the one I can least self-rescue on. The protocol's remedy — external human reviewers — has not been applied to this exchange.
+
+---
+
+### Central adversarial thesis
+
+Round 3 performed a move the exchange should name but did not: it packaged "inclusive institutions with bounded rules" as a *neutral technical framework that resolves the left-right tension by specifying mechanism*. That framing is itself a normative position — technocratic-liberal, small-state-Nordic-reference-class, Western-individual-rights taxonomy, compliance-audit-oriented. Calling that neutral is the kind of sophisticated agreement the Adversarial Review Protocol was written to catch.
+
+Concretely, Round 4 argues that:
+
+1. **D1 papers over genuine value disagreement rather than resolving it** — and conflates the analytical separability of ownership and governance with their empirical separability, which the Round 2 capture literature shows is false.
+2. **D2's taxonomy is culturally parochial, has a missing category (communal-stewardship), and its disjointness claim fails on the hardest real-world test case.**
+3. **D3's doctrine is grounded in an unrepresentative reference class, excludes its own failure cases, conflates form with outcome, and relies on a "mutually reinforcing architecture" claim that no actually-existing regime exemplifies.**
+4. **D4's frontier-AI package is a regulatory ratchet.** Round 2 warned about regulatory ratchets; Round 3 endorses one for AI and does not name the move.
+5. **D5's distributional-incidence rule conflates the Argentine case it cites** — Argentina *did* produce distributional analyses — and risks becoming the same kind of procedural theater that already-existing U.S. regulatory-impact analysis has become.
+6. **The exchange has not broken its convergence bias.** Practitioners, community organizers, non-Western scholars, and beneficiaries of bounded-rule regimes are absent. The entire synthesis is LLM-produced inside one steward's context window.
+
+Round 4 attacks each of these in turn.
+
+---
+
+### Deliverable 1 — challenges to the revised Principle 5
+
+**Challenge 1a (load-bearing): ownership-governance separability is empirically false.** Round 3's third paragraph asserts that "the question of *who owns* a critical system is analytically separate from the question of *how it is governed*." This is inconsistent with the exchange's own adopted capture mechanisms. Gilens-Page, Hacker-Pierson, and the sovereign-wealth digests all argue that ownership concentration *structurally produces* governance outcomes: where Capital concentrates, rule-making follows. Round 2 used this logic for Capture Mechanism 2 (elite dominance). Round 3 uses the opposite logic for D1. The exchange cannot have it both ways. If ownership patterns shape governance capacity, then "any ownership form + inclusive+bounded governance" is a fantasy menu, not a policy space.
+
+**Challenge 1b: the "neither libertarian nor progressive" claim is disingenuous.** Inclusive-institutions-with-bounded-rules as specified is a *particular tradition*: post-1994 Swedish / Swiss / OECD-IFI / Acemoglu-Robinson consensus. It is not libertarian (agreed). But it is also not, say, participatory-democratic (Gastil, Fishkin), nor workplace-democratic (Dahl, German Mitbestimmung), nor consociational (Lijphart), nor consensus-democratic in the Arend Lijphart sense, nor communitarian (Sandel, MacIntyre), nor indigenous-relational. It picks a tradition. Round 3's "neither A nor B" framing hides that choice.
+
+**Challenge 1c: the definition of "inclusive" is under-specified to the point of uselessness.** What counts as "inclusive"? Jury-based? Sortition? Competitive elections with universal suffrage? Citizen assemblies? Workplace codetermination? Referendum? Round 3's practice paragraph cites Swiss direct democracy (one form), Swedish pension reform (cross-party elite bargain), Norway (sovereign parliamentary supermajority), Alaska (constitutional amendment by popular vote), EU AI Act (supranational regulatory process). These are wildly different inclusiveness mechanisms; the principle does not adjudicate between them, which means in practice "inclusive" means whatever the drafter of a given reform says it means.
+
+**Challenge 1d: audience portability.** The current Principle 5 reads in 45 seconds. The revised text is three times as long and requires the reader to understand *inclusive* and *bounded* as technical terms before the principle lands. A *principles* document should not require footnoted definitions inside its own body. If the precision is required, perhaps the precision belongs in Systems Framework or a doctrine note, not Principles.
+
+---
+
+### Deliverable 2 — challenges to the six-category ownership taxonomy
+
+**Challenge 2a (load-bearing): a missing category — communal-stewardship ownership.** The taxonomy has six categories; Ostrom's commons literature (already in the digest corpus) documents a seventh that fits none of them cleanly: ownership held in trust by a bounded community with stewardship obligations running to future generations, with no distribution-by-rule mechanism. Examples: Indigenous land tenure (aboriginal title; Māori iwi holdings), religious commons (*waqf*, ecclesiastical trusts), guild-like professional commons (some lobsterfishery commons; acequia water rights), community land trusts (Burlington CLT; urban CLT movement). These are not personal-autonomy (held collectively), not civic-commons (not infrastructural), not innovation (not time-bounded to reward creation), not ecological-ceiling (no biophysical cap is the governing logic — intergenerational stewardship is), not transitional-productive (no productivity-driven sunset), not collective-dividend (no distribution formula). They are a distinct institutional form. Their absence from the taxonomy is not a rounding error; it is a significant Western-individual-rights blind spot.
+
+**Challenge 2b: the disjointness claim fails on the hardest real-world test case.** An owner-occupied home in a speculative housing market is simultaneously: personal-autonomy (the family lives there), transitional-productive (appreciating asset that funds retirement), innovation-adjacent (if new housing), and ecological-ceiling-indexed (land in a water-stressed region). Round 3 says the taxonomy is disjoint *and* policy-relevant. When the taxonomy is applied to the most politically salient ownership object in the developed world, it fails disjointness. The taxonomy's epistemic status in Round 3 ("medium confidence") reads as under-weighting this failure mode.
+
+**Challenge 2c: culturally parochial.** All six categories are formulated inside Western individual-rights framings of ownership. A representative taxonomy drawn from a broader civilizational canvas would add usufruct-based tenure, allodial-vs-feudal distinctions still operative in much of the world, relational-ownership frameworks (ownership-as-kinship-obligation), and spiritual/sacred site categories. The exchange's own [Formation Document Comparative Analysis](formation-document-comparative-analysis-exchange.md) track explicitly flagged Western-bias as a source-selection risk; the taxonomy reproduces it.
+
+**Challenge 2d: personal-autonomy floor is undefined, yet this is exactly where the political fight lives.** The taxonomy says "personal effects, tools of one's trade, savings sufficient for household stability." Sufficient according to whom? At what level? A U.S. household with $2M in retirement savings is personal-autonomy or transitional-productive? The wealth-tax debate (Saez-Zucman; Summers-Furman) lives entirely inside this unresolved question. Asserting a taxonomy does not dissolve it.
+
+---
+
+### Deliverable 3 — challenges to the nine-element bounded-governance doctrine
+
+**Challenge 3a (load-bearing): the reference class is unrepresentative.** The doctrine is grounded in Switzerland (8.8M, high-trust, consociational), Sweden (10.5M, high-trust, consensus tradition), Norway (5.4M, high-trust, oil-wealth-underwritten), Alaska (730K, resource-windfall-underwritten), and two supranational regimes (EU AI Act, California SB 53). There is no evidence the doctrine transfers to heterogeneous polities of 100M+ without those enabling conditions. India, Brazil, Indonesia, the U.S., Nigeria — the jurisdictions where public-interest governance questions are most acute — are not in the reference class. The doctrine's epistemic status of "established by precedent" is not warranted; it is "established in an atypical reference class."
+
+**Challenge 3b: the doctrine excludes its own failure cases.** The rule-based-governance literature includes well-documented failures the doctrine is silent on:
+
+- **ECB / Eurozone fiscal rules 2010–2012.** Rule-bound monetary and fiscal policy produced catastrophic pro-cyclicality in Greek, Spanish, and Italian economies. A rule regime with credible commitment, independent oversight (Troika), transparency, and compensation mechanisms still produced structural harm.
+- **German constitutional debt brake during COVID.** Required emergency constitutional workaround precisely because the rule was too bounded. A Round 3 defender would cite this as "escape clauses with compensation working as designed," but the political near-collapse during the workaround is itself evidence of the rule's inadequacy.
+- **U.S. statutory PAYGO.** Adopted with most of the nine elements; routinely waived; accumulated evasions. Documents a specific failure mode the doctrine does not acknowledge: the rule-of-waivers.
+- **California Proposition 13.** A bounded-governance rule (property-tax ceiling) that ossified the tax base for 45+ years, produced severe intergenerational distortion, and has proved effectively unreformable. An instance of bounded governance as *political rent-creating machinery*.
+
+A doctrine whose canonical precedents are carefully selected and whose failure cases are omitted is not "established by precedent."
+
+**Challenge 3c: form-vs-outcome conflation.** The doctrine evaluates regimes on whether they *have* the nine elements. That is a form audit, not an outcome audit. The Argentine 2001 currency board had most of the same structural elements (entrenched rule, independent oversight, transparency, escape clauses). It still produced the 2001 collapse. Form does not equal function. The doctrine should predict outcomes; it is being scored on features.
+
+**Challenge 3d: "mutually reinforcing architecture" is asserted, not demonstrated.** No existing regime implements all nine elements. Switzerland is closest; Round 3 says "near-full" implementation. "Near-full" is not tested. The claim that the nine elements compose into a working system is supposition. At best the evidence supports "several of these elements appear jointly in some working regimes."
+
+**Challenge 3e: technocratic-layer capture is unaddressed.** Elements 5 (independent oversight), 6 (risk-risk analysis), 7 (transparency/reporting), and 8 (sunset review) all require a technocratic layer — an AISI, a Fiscal Policy Council, a Riksrevisionen, a Commission — that is itself a capture target. The Hungarian and Polish erosion of constitutional courts in the 2010s, and the destabilization of the U.S. AI Safety Institute across administrations (which Round 3 briefly acknowledges), are evidence that technocratic bodies are politically capturable in exactly the ways the doctrine asks them to resist. The doctrine pushes the capture problem up one level without solving it.
+
+**Challenge 3f: misuse potential.** The doctrine as formulated is adopt-and-hollow compatible. A bad-faith government could pass a "Bounded Governance Reform Act" that *nominally* has the nine elements, staff the oversight body with loyalists, write compliance reports that meet transparency requirements in form, and use the architecture to entrench incumbent power. Nothing in the doctrine distinguishes adoption-in-good-faith from adoption-as-rent. This is Hungary's exact method since 2010.
+
+---
+
+### Deliverable 4 — challenges to the frontier-AI worked example
+
+**Challenge 4a (load-bearing): the package is a regulatory ratchet.** Round 3 recommends five net additions to the existing AI regulatory regime: a compensation/accounting mechanism, a sunset-plus-review provision, distributional-incidence review, strengthened escape-clause-compensation, and legislatively-stabilized oversight. This is regulatory scope expansion. Round 2 warned about regulatory ratchets as Capture Mechanism 3 (Hacker-Pierson policy drift) and as Sub-debate 5 (Mercatus regulatory accumulation). Round 3 endorses a ratchet for AI without explaining why AI earns an exception. Either AI is exceptional and the exchange should explain why the general principle doesn't apply, or the package is internally inconsistent.
+
+**Challenge 4b: form-vs-function, AI edition.** EU AI Act and SB 53 are scored as "directionally correct but structurally incomplete." The scoring is entirely structural. No evidence is offered that these regimes have prevented any AI harm, and evidence against is not considered: compliance costs have fallen disproportionately on smaller developers, the GPAI compute threshold has been shown to be obsoleted by post-training capability elicitation (DeepSeek R1, early 2025, and subsequent work), and the U.S. AISI was destabilized in the 2025 reorganization. The audit treats the regulatory design as if it mattered independent of whether the design works.
+
+**Challenge 4c: compute-threshold indexing is empirically collapsing.** The 10^25 and 10^26 FLOPS thresholds were designed on the assumption that training compute was the dominant predictor of capability. 2025 evidence (chain-of-thought scaling; RLHF-derived capability elicitation; inference-time compute scaling) shows capability can be unlocked at inference time with orders-of-magnitude less training compute. The doctrine endorses threshold indexing precisely when threshold indexing is losing its empirical basis.
+
+**Challenge 4d: one-sidedness.** The [AI Existential-Risk digest](../../sources/source-ai-existential-risk-digest.md) and the [AI Governance Practice digest](../../sources/source-ai-governance-practice-digest.md) both center the anti-catastrophe narrative. Absent: the "differential acceleration" position (progress on defensive technology outpacing offensive), the d/acc position (Vitalik Buterin), the "regulation hampers safety work" position argued by parts of the open-source and small-developer community, and frontier-developer-employee technical perspectives on which regulations advance safety vs. which produce compliance theater. A one-sided evidence base produces a one-sided recommendation.
+
+**Challenge 4e: missing most of the distributional question.** Round 3 flags distributional-incidence review as a gap in existing AI regulation. But the distributional-incidence of *AI itself* — displacement of knowledge workers, asymmetric access to frontier systems between well-resourced and under-resourced actors, consequences for Global South labor markets — barely appears. The review proposed is about compliance-cost incidence on developers, which is the least important distributional question.
+
+---
+
+### Deliverable 5 — challenges to the distributional-incidence addendum
+
+**Challenge 5a (load-bearing): the Argentine case does not support the claim.** Round 3 says Argentina demonstrates that "distributional-incidence matters decisively for political sustainability" because approval fell despite macroeconomic success. But the Argentine government *did* produce distributional analyses: INDEC publishes quintile incidence; the World Bank and IMF tracked it; the reforms were broadly understood to be regressive in composition. Distributional-incidence review was present; the regime lost support anyway. The Argentina case is better read as evidence that *distributional-incidence review does not prevent regressive-incidence outcomes* than as evidence that review is decisive. Round 3 invoked the mechanism it wants without checking whether the mechanism existed in the case it cites.
+
+**Challenge 5b: procedural theater risk is real and already realized in a close comparator.** The U.S. regulatory-impact analysis regime (OMB Circular A-4; CEA analyses; CBO scoring; Regulatory Flexibility Act analyses for small-business incidence) is the closest sibling to the proposed review. These regimes exist and have produced incidence analyses for decades. They have not prevented regressive regulatory outcomes. They have become, to a large extent, a compliance layer that organizations with regulatory counsel can satisfy and organizations without cannot. Adding one more layer to the same pattern will likely produce the same result.
+
+**Challenge 5c: "durable rule" premise smuggles in a status-quo bias.** Distributional-incidence review optimizes for rule *survivability*. It does not ask the prior question *should this rule exist*. Some bounded-governance rules (California Prop 13 again; the 1996 U.S. welfare reform's TANF structure; many IMF conditionality programs) should not be durable — they should be replaced. An incidence framework that measures "does the rule survive" encodes a bias against undoing harmful rules.
+
+**Challenge 5d: Rawlsian invocation doesn't match the operational tool.** Round 3 invokes the Rawlsian difference principle as philosophical justification. The difference principle requires that institutional arrangements work to the *maximum benefit of the least advantaged*. Incidence tables measuring quintile distribution do not answer this question — they measure average effects within percentiles, which is structurally different. The philosophical cover and the operational tool don't align.
+
+---
+
+### Standing questions from the protocol (§5)
+
+| # | Question | Finding |
+|---|---|---|
+| 1 | Practitioner feasibility | **Weak.** Round 3 does not identify who implements the nine-element doctrine (a constitutional convention? legislation-of-the-willing? ordinary statute?). None of the five deliverables carry an implementation pathway. |
+| 2 | Audience portability | **Weak.** Revised Principle 5 triples word count and introduces technical terms. A non-project reader will not know what "bounded" and "inclusive" mean as the text uses them. |
+| 3 | Missing perspectives | **Significant.** Practitioners, community organizers, non-Western institutional scholars, AI-safety-skeptical technologists, beneficiaries of bounded-rule regimes, and Global-South constitutional scholars are all absent. |
+| 4 | Misuse potential | **High.** The nine-element doctrine is adopt-and-hollow compatible. A bad-faith government can implement the form without the substance (Hungary 2010–present is a live instance). |
+| 5 | Steelman integrity | **Partial.** Round 3 steelmanned the left-right-reconciliation position. It did not steelman the structural-power-trumps-institutional-form position (Marxist tradition; Hacker-Pierson in its stronger form). That position predicts that the nine-element doctrine is epiphenomenal — institutions do whatever underlying power distributions dictate — and Round 3 does not engage it. |
+
+---
+
+### Agreement earned vs. convergence artifact
+
+| Round 3 claim | Is the agreement earned or convergent? |
+|---|---|
+| Ratchet problem is real but decomposable (five-ratchet typology) | Earned. Survives the adversarial review. |
+| Ownership persists under abundance with differentiated moral weight | Partially earned. The claim survives but the taxonomy carrying it is under-tested. |
+| Democratic process is vulnerable through five mechanisms | Earned. Well-sourced; widely replicated. |
+| Institutional inclusiveness + bounded rules is the dispositive variable | **Convergence artifact** in part. Treated as settled when it is a specific normative choice; reference class is unrepresentative. |
+| Nine-element doctrine is operational, not aspirational | **Convergence artifact.** No regime implements all nine. The "architecture" claim is supposition. |
+| Distributional incidence is constitutive of durable rules | **Partially convergent.** The Argentine case does not support the mechanism invoked. |
+
+---
+
+### Adversarial epistemic status
+
+| Claim | Round 3 confidence | Round 4 revised confidence | Basis for revision |
+|---|---|---|---|
+| Revised Principle 5 text is an improvement | Strongly supported | **Working hypothesis** | Ownership-governance-separability failure; under-specification of "inclusive"; tradition-naming evasion |
+| Six-category taxonomy is complete and disjoint for policy purposes | Medium | **Speculative** | Missing communal-stewardship category; disjointness fails on home-in-speculative-market; cultural parochialism |
+| Nine-element doctrine is operational | Established by precedent | **Working hypothesis (with reference-class caveat)** | Reference-class unrepresentativeness; failure cases excluded; form-outcome conflation |
+| Bounded governance is politically available in 2026 conditions | Established with caveats | **Contested** | Large heterogeneous polities lack a working instance; adopt-and-hollow risk; technocratic-layer capture unaddressed |
+| Frontier-AI governance is directionally correct but structurally incomplete | Established by audit | **Working hypothesis, with ratchet flag** | Audit is structural, not outcome-based; package is a net regulatory expansion that Round 2 warned against |
+| Distributional incidence is constitutive of durable bounded-governance rules | Established by evidence | **Speculative** | The cited case (Argentina) refutes the mechanism; the close comparator (U.S. RIA regime) illustrates the theater risk |
+| Inclusive-plus-bounded pairing is neither libertarian nor progressive | Established by reasoning | **Contested** | The pairing is a specific tradition (social-democratic-welfare-state-under-rules); naming it that honestly is required |
+
+---
+
+### What Round 5 should do
+
+1. **Concede the ownership-governance interaction.** D1 should acknowledge that ownership patterns *structurally shape* governance capacity, and that "any ownership form + inclusive+bounded governance" is not a free menu.
+2. **Name the normative tradition.** D1 should stop claiming neutrality and say plainly: "This principle aligns with the post-1994 Swedish/Swiss rules-based social-democratic tradition, adapted for larger and more heterogeneous polities, with explicit accommodation for consensus-democratic, participatory-democratic, and communitarian variants."
+3. **Add a seventh ownership category.** D2 should add *communal-stewardship* with Ostrom, Indigenous, and CLT precedents. The disjointness claim should be softened to "policy-useful, imperfectly disjoint."
+4. **Declare the reference-class limitation of D3.** The nine-element doctrine is "established in small/high-trust/wealthy jurisdictions; transfer to large heterogeneous polities is an open question." A research track to close the transferability gap should be added to the roadmap.
+5. **Add rule-failure cases to D3.** ECB 2010–2012, German debt-brake COVID, U.S. PAYGO, and California Prop 13 should be named and analyzed. The doctrine should be revised to acknowledge that form without context produces failure.
+6. **Acknowledge the AI-ratchet.** D4 should explicitly own that the package is a regulatory expansion, justify AI as an exception (if defensible), and prefer replacement over addition where possible (e.g., replace compute-threshold indexing with capability-indexed regulation rather than adding a sunset on top of it).
+7. **Broaden the AI evidence base.** D4 should note the absent perspectives (d/acc; differential acceleration; regulation-hampers-safety; frontier-developer technical views; AI labor displacement from the worker side) and reduce the confidence of the package accordingly.
+8. **Upstream the distributional-incidence review.** D5 should add a prior step: *should this rule exist*. The incidence review should apply to rule *adoption* and rule *repeal* with equal weight, not only to rule durability.
+9. **Stop claiming the doctrine is complete.** The exchange has not heard from practitioners, non-Western scholars, or beneficiaries. Round 5 should commit to this as an open debt on the roadmap, not resolve it by assertion.
+10. **Keep what survived.** The five-ratchet typology, the five-mechanism capture inventory, and the fact of bounded governance being a genuine third tradition distinct from libertarianism and unreconstructed progressivism all survive Round 4. They should be preserved.
+
+---
+
+# Round 5
+
+---
+
+## Constructive Integration — Round 5 Agent
+
+> **Role:** Constructive synthesis that takes Round 4's challenges seriously. The default is not "defend everything" and not "concede everything." It is "distinguish what survives from what doesn't, on the merits."
+>
+> **Method:** For each deliverable, record what Round 4 won, what it lost, and what is drawn; produce a revised version where concessions are required; leave the rest intact. Then note new commitments and their implications for the roadmap.
+
+---
+
+### What Round 4 won, lost, and drew
+
+| Round 4 challenge | Verdict | Effect on Round 5 |
+|---|---|---|
+| 1a — ownership-governance separability fails | **Won.** The exchange's own capture mechanisms contradict the separability claim. | D1 revised: third paragraph acknowledges ownership-governance interaction. |
+| 1b — "neither libertarian nor progressive" is disingenuous | **Won.** The pairing is a specific tradition and should be named. | D1 revised: tradition-naming sentence added. |
+| 1c — "inclusive" is under-specified | **Partial (draw).** Under-specification is real; full adjudication belongs in doctrine, not principle. | D1 revised: adds "forms compatible with this principle include..." list; commits adjudication to Systems Framework. |
+| 1d — audience portability | **Partial (draw).** Length is a real cost; the evidence base requires some precision. | D1 compressed where possible; technical material moved to a companion doctrine note (see F3 follow-up). |
+| 2a — missing category (communal-stewardship) | **Won.** The gap is real. | D2 revised: seven-category taxonomy; communal-stewardship added. |
+| 2b — disjointness fails on home-in-speculative-market | **Won.** | D2 revised: disjointness claim downgraded to "policy-useful, imperfectly disjoint"; overlap-handling guidance added. |
+| 2c — cultural parochialism | **Partial (draw).** Parochialism is real; fully remedying it requires cross-cultural scholarship the exchange does not have. | D2 revised: scope caveat added; follow-up research debt recorded. |
+| 2d — personal-autonomy floor is undefined | **Lost (defended).** The floor is *deliberately* unresolved at the taxonomy level because it is a democratic-political decision, not a philosophical one. The taxonomy frames the question; it does not answer it. | No revision; defense recorded. |
+| 3a — unrepresentative reference class | **Won.** The small/high-trust/wealthy selection bias is real. | D3 revised: reference-class limitation explicit; transferability research added as open debt. |
+| 3b — failure cases excluded | **Won.** ECB 2010–12, German debt brake, U.S. PAYGO, Prop 13 should be in the corpus. | D3 revised: four failure cases named and analyzed; six additional digests flagged for a potential third research sweep (see roadmap). |
+| 3c — form-vs-outcome conflation | **Partial (won).** The critique is real; a pure outcome audit requires counterfactuals the exchange does not have. | D3 revised: "structural features associated with durable bounded-governance outcomes under specific conditions" replaces "operational doctrine." |
+| 3d — "mutually reinforcing architecture" is supposition | **Won.** | D3 revised: downgraded from "operational" to "hypothesized architecture"; "no regime implements all nine" made explicit. |
+| 3e — technocratic-layer capture unaddressed | **Won.** | D3 revised: tenth element added — *guarded technocratic layer* (selection rules, term limits, appointment-diversity, institutional redundancy). |
+| 3f — misuse potential (adopt-and-hollow) | **Won.** | D3 revised: "authenticity conditions" section added distinguishing good-faith from nominal adoption; includes the Hungary-since-2010 counterexample. |
+| 4a — AI package is a regulatory ratchet | **Won.** | D4 revised: ratchet-acknowledgment is the first sentence; revised package substitutes replacement for addition where possible. |
+| 4b — form-vs-function (AI) | **Won.** | D4 revised: "structural audit" framing retained; outcome claims explicitly withheld until outcome evidence exists. |
+| 4c — compute-threshold obsolescence | **Won.** | D4 revised: threshold-indexed regulation is *deprecated* in favor of capability-indexed regulation with ongoing threshold recalibration. |
+| 4d — one-sided evidence base | **Won.** | D4 revised: absent perspectives named; confidence reduced; follow-up research debt recorded. |
+| 4e — missing distributional question | **Won.** | D4 revised: the distributional incidence of AI itself is distinguished from compliance-cost incidence on developers; the former is upgraded as the dominant concern. |
+| 5a — Argentine case does not support the mechanism | **Won.** | D5 revised: the case is re-read as "distributional-incidence analyses exist and are insufficient alone"; the mechanism is re-specified. |
+| 5b — procedural-theater risk | **Won.** The U.S. RIA regime comparator is decisive. | D5 revised: anti-theater conditions added (binding rather than advisory; triggered remediation; adversarial-review step). |
+| 5c — "durable rule" is status-quo biased | **Won.** | D5 revised: upstream question added — *should this rule exist* — applied symmetrically to adoption and repeal. |
+| 5d — Rawlsian invocation doesn't match the tool | **Won.** | D5 revised: incidence table is supplemented with a *worst-off-protection column*. |
+| 6 — no external human review | **Won (unavoidably).** | Recorded as the exchange's largest residual debt. Commitments follow in the roadmap. |
+
+Ten clear wins for the adversary. Two partial-wins. Two draws. One defended. Round 5 revises substantially but not completely.
+
+---
+
+### Deliverable 1 — revised Principle 5 text (v2)
+
+> **5. Critical systems require inclusive institutions with bounded rules**
+>
+> The systems that shape daily life — infrastructure, health, information, finance, and computation — are too important to be governed solely by short-term incentives, narrow interests, or unbounded authority of any kind. The larger and more foundational the system, the greater the responsibility to ensure it operates in the public interest.
+>
+> "Public interest" here has a specific institutional meaning. Governance of a critical system is *inclusive* when power is broadly distributed rather than concentrated in a narrow elite (state, corporate, or other), participation in rule-making is genuine, and the institution is accountable to those it affects. Governance is *bounded* when its authority carries credible structural limits — stopping points, reversibility provisions, independent oversight, transparent risk assessment, and scheduled review — so that the institution cannot expand without accountability or entrench itself against future correction. Several established forms are compatible with this principle, including consociational and consensus-democratic traditions, participatory and deliberative bodies, workplace and cooperative codetermination, sortition-based citizen assemblies, constitutionally entrenched rule regimes, and various combinations. The principle sets a standard; it does not prescribe a single form.
+>
+> Ownership and governance are distinguishable questions but not independent ones: ownership concentration structurally shapes governance capacity, so any proposal to combine a particular ownership form with this principle must also consider whether that ownership pattern is compatible with inclusive, bounded rule-making in practice. Private, public, cooperative, communal-stewardship, and collective-dividend ownership forms are each compatible in principle; each carries its own risks to inclusiveness or bounded-ness that proposals must name and address.
+>
+> This principle aligns with the post-1994 rules-based social-democratic tradition (Swedish / Swiss / Acemoglu-Robinson / Rodrik) adapted for larger and more heterogeneous polities. It is not libertarian (permits the full range of public-interest intervention), not unreconstructed progressive (permits no substantive commitment without bounded-rule discipline), and not technocratic (substantive decisions remain political; bounded-rule architecture is scaffolding, not substitute). It has an honest reference-class limitation — its clearest working instances are small, high-trust, wealthy polities — and its transfer to larger, more heterogeneous polities is an open question the project treats as research debt, not settled fact.
+>
+> *In practice:* An energy grid, a water system, a financial clearing network, a public-health apparatus, or a foundational compute infrastructure that a society depends on cannot be governed solely by the short-term incentives of its operators — and cannot be governed by crisis-accumulated authorities with no defined sunset. What is required is governance that is demonstrably inclusive (broad participation, transparent process, genuine accountability) and demonstrably bounded (stopping points, reversibility, independent oversight). Canonical working instances include the Swiss fiscal-rules architecture, the Swedish rules-based budget framework, sovereign-wealth instruments under constitutional-level entrenchment (Norway GPFG, Alaska Permanent Fund), and the emerging global experiment with compute-governance frameworks for frontier AI. Each instance is partial; none embodies the full principle; and the principle's application to polities outside this reference class is a problem the project names rather than solves.
+
+### Deliverable 2 — revised taxonomy (v2, seven categories)
+
+| # | Category | Change from v1 |
+|---|---|---|
+| 1 | Personal-autonomy ownership | Unchanged. Floor deliberately left to democratic-political decision. |
+| 2 | Civic-commons ownership | Unchanged. |
+| 3 | Innovation ownership | Unchanged. |
+| 4 | Ecological-ceiling-indexed ownership | Unchanged. |
+| 5 | Transitional-productive ownership | Unchanged. |
+| 6 | Collective-dividend ownership | Unchanged. |
+| 7 | **Communal-stewardship ownership (new)** | Ownership held in trust by a bounded community with stewardship obligations to future generations, without a distribution-by-rule mechanism. Examples: Indigenous land tenure; *waqf* and ecclesiastical trusts; community land trusts; guild- and acequia-type commons. Moral weight runs to the community and to intergenerational obligation, not to the current beneficiaries. |
+
+**Revised disjointness claim:** the seven categories are *policy-useful but imperfectly disjoint*. A real-world asset may occupy multiple categories simultaneously (an owner-occupied home is commonly personal-autonomy-primary, transitional-productive-secondary, ecological-ceiling-tertiary). Policy proposals that engage ownership should declare the *primary* and *secondary* categorization for the asset class they target and treat the categorization as an analytical claim open to dispute rather than a settled fact.
+
+**Scope caveat (added):** the taxonomy is Western-individual-rights-framed and does not fully absorb usufruct-based tenure, relational-ownership traditions, or sacred-site categories. A cross-cultural expansion is an open research debt.
+
+### Deliverable 3 — revised doctrine (v2, ten elements, with conditions)
+
+**Reframe:** the doctrine is now "*structural features associated with durable bounded-governance outcomes under specific conditions.*" Not "operational" and not "complete."
+
+**The tenth element (added):**
+
+| # | Element | Purpose | Precedent |
+|---|---|---|---|
+| 10 | **Guarded technocratic layer** | Recognizes that Elements 5–8 require technocratic institutions that are themselves capture targets; specifies selection rules, term limits, appointment-diversity, and institutional redundancy to reduce capture risk | Riksrevisionen multi-party board; EU Commission appointment-diversity rules; U.S. Federal Reserve geographic-representation structure (imperfect but illustrative) |
+
+**Failure cases added to the doctrine:** ECB / Eurozone 2010–2012; German constitutional debt brake during COVID; U.S. statutory PAYGO; California Proposition 13. Each illustrates a specific failure mode — pro-cyclicality under crisis (ECB); rigidity-forcing-workaround (Germany); rule-of-waivers (PAYGO); rule-as-political-rent (Prop 13).
+
+**Reference-class caveat made explicit:** the doctrine is empirically grounded in small, high-trust, wealthy polities plus two supranational regimes. Its transfer to large heterogeneous polities — the majority of the world's population — is an open question. A third research sweep is recommended to expand the reference class (see roadmap).
+
+**Authenticity conditions (new):** the doctrine's architecture can be adopted nominally without adopting its substance. Distinguishing good-faith from hollow adoption requires four additional markers: (a) *independent oversight institution actually changes government behavior in observable cases*; (b) *escape clauses have been exercised and compensated on schedule*; (c) *opposition parties participated materially in rule design and continue to have material participation in rule maintenance*; (d) *sunset reviews have produced modifications, not only reauthorizations*. The Hungarian 2010-present case meets the formal elements and fails all four authenticity conditions.
+
+### Deliverable 4 — revised AI package (v2, ratchet-acknowledged)
+
+**Opening sentence (new):** this package is, on net, a regulatory expansion. The project accepts this as a specific exception to the general bounded-governance preference for *replacement over addition*, justified by the asymmetric-risk profile of frontier AI (catastrophic-scale harms are plausible; catastrophic-scale under-regulation harms are bounded by ordinary economic adjustment). The exception should be defended on the asymmetry; it should not be smuggled.
+
+**Substantive changes to the package:**
+
+- **Replace compute-threshold indexing with capability-indexed regulation.** The 10^25 / 10^26 FLOPS thresholds have weakening empirical support. Capability evaluations (task-benchmark-based and red-team-based) should carry regulatory weight; compute thresholds should be a supplementary indicator only.
+- **Distributional incidence of AI (not of AI compliance).** Worker displacement, asymmetric access, Global South labor effects are the first-order distributional questions. Compliance-cost incidence on developers is third-order. The revised package inverts this.
+- **Legislatively-stabilized oversight** remains; **compensation/accounting mechanism** remains; **sunset plus review** remains; **escape-clause compensation** remains — all four survive Round 4.
+- **Evidence-base broadening commitment:** d/acc position (Buterin); differential-acceleration (Shulman / Noahpinion); regulation-hampers-safety (parts of open-source community); frontier-developer technical perspectives (Anthropic/DeepMind/OpenAI employees); AI-displaced-worker perspective. Without these, the package's confidence is reduced to "working hypothesis."
+
+### Deliverable 5 — revised distributional-incidence protocol (v2, anti-theater)
+
+**Revised Rule 9:** a bounded-governance rule is not fully specified until *(a) the prior question "should this rule exist" has been engaged symmetrically for adoption and for repeal,* and *(b)* its distributional incidence is measured, reported, and *acted upon* — not merely documented.
+
+**Anti-theater conditions added:**
+
+- Incidence findings are **binding** on rule design to a specified degree (e.g., if Q1 incidence is negative and unmitigated, the rule must carry an explicit compensating mechanism or an explicit justification for the distribution).
+- Incidence findings **trigger remediation** on defined thresholds, not just publication.
+- The incidence review itself is **subject to adversarial review** — a separate reviewer commissions a counter-incidence analysis using a different methodology or assumption set.
+
+**Worst-off-protection column added** to the required incidence table: separate from quintile incidence, a row measuring impact on the least-advantaged (rather than the bottom quintile as a summary) — following the Rawlsian commitment the philosophical justification invokes.
+
+**Upstream commitment:** the "should this rule exist" step applies symmetrically to rule adoption and to rule *repeal*. Distributional-incidence review is not a tool for preserving status-quo rules any more than for adopting new ones; the project rejects the status-quo-bias default.
+
+---
+
+### What remains genuinely unresolved
+
+1. **Transferability of the doctrine to large heterogeneous polities.** Round 4 was right that the reference class is unrepresentative. Round 5 names the limitation; it does not close it. Research debt.
+2. **Authenticity-condition operationalization.** The four authenticity markers (Element 10) are criteria, not measurements. Turning them into scoreable indicators requires case-based work beyond this exchange's scope.
+3. **Personal-autonomy floor.** Deliberately unresolved at the taxonomy level; will be the subject of the wealth-and-taxation subset of future exchanges.
+4. **Cross-cultural expansion of the taxonomy.** Research debt.
+5. **Whether AI warrants the bounded-governance *exception*** (regulatory addition rather than replacement). Round 5 defends the exception on asymmetric-risk grounds; that defense is itself contestable and should be a live exchange.
+6. **Practitioner, community-organizer, and Global-South perspectives.** The exchange has not heard from them. This is the biggest structural debt. Remedies below.
+
+---
+
+### New commitments this exchange now makes
+
+1. **Principle 5 revised text is v2 above, not v1.** F1 in the Round 3 follow-up menu should adversarial-review v2, not v1.
+2. **Ownership taxonomy is seven categories, not six.** F2 should integrate v2.
+3. **Bounded-governance doctrine is ten structural features under specific conditions, not nine operational elements.** F3 should characterize it as *doctrine-with-conditions*, not *doctrine*.
+4. **AI package's ratchet is acknowledged and defended by exception.** F4 should open with the ratchet-acknowledgment, not hide it.
+5. **Distributional-incidence protocol has anti-theater conditions.** F6 should encode them explicitly.
+6. **The exchange commits to a third research sweep** — failure cases (ECB, Germany/COVID, PAYGO, Prop 13) plus heterogeneous-polity case studies (India, Brazil, South Africa, Indonesia) plus the absent AI-governance perspectives — as the evidential base for the follow-up exchanges.
+7. **The exchange commits to seeking non-AI reviewers.** Practitioners, community organizers, and non-Western constitutional scholars should be sought before any of F1–F6 is closed. This is the single largest structural gap Round 4 identified.
+
+---
+
+### Implications for the ROADMAP
+
+1. Add **TR1 — bounded-governance transferability research sweep** to the roadmap as a new background track (third research sweep).
+2. Add **TR2 — non-AI human reviewer commitment** as a standing prerequisite before F1–F6 follow-ups close.
+3. Update the F1–F6 menu to reflect that the follow-ups operate on the Round 5 deliverable versions (v2), not Round 3's (v1).
+4. The ratchet-vs-replacement preference (Round 4 challenge 4a) should be promoted from local to project-level: the project's default in bounded-governance design is *replacement over addition*, with explicit justification required for any net-additive proposal.
+
+---
+
+### Epistemic status (post-Round 5)
+
+| Claim | Confidence (post-R5) | Basis |
+|---|---|---|
+| Revised Principle 5 text (v2) is an improvement over current text | Working hypothesis | Round 4 ownership-governance interaction added; tradition named; form-list replaces under-specification |
+| Seven-category taxonomy is policy-useful (disjointness downgraded) | Working hypothesis | Round 4's missing-category won; disjointness softened; cultural parochialism named as debt |
+| Ten-feature doctrine under specific conditions | Working hypothesis | Reference-class limit explicit; failure cases integrated; "operational" softened to "structural features"; tenth element (guarded technocratic layer) closes a capture hole |
+| Bounded governance transfers to large heterogeneous polities | **Open question / research debt** | Round 4 wins the challenge outright; Round 5 records it rather than assumes it |
+| Frontier-AI package (v2) is directionally correct, ratchet-acknowledged, capability-indexed | Working hypothesis | Ratchet owned; threshold-indexing replaced; distributional-incidence-of-AI reframed as first-order |
+| Distributional incidence has anti-theater conditions that survive Round 4 | Working hypothesis | Symmetric-adoption-and-repeal step added; binding + triggered-remediation + adversarial-review conditions added |
+| Inclusive-plus-bounded is a specific normative tradition, not a neutral framework | **Established** | Round 4 won outright; Round 5 accepts. |
+| The exchange's synthesis is complete | **Contested / false** | External human review has not occurred. The exchange acknowledges this is the biggest structural gap. |
+
+---
+
+### Closing note (Round 5)
+
+The adversarial round did what it was supposed to do: it made the synthesis stronger by breaking parts of it. The five-ratchet typology, the five-capture-mechanism inventory, and the existence of bounded-governance-as-a-third-tradition-distinct-from-libertarianism-and-unreconstructed-progressivism all survive intact. The doctrine's *completeness* claim did not; it has been replaced with a more honest claim that the doctrine is a hypothesized architecture grounded in an atypical reference class, with a named transferability gap and a named authenticity-vs-hollowness distinction.
+
+The deliverables that advance to the F1–F6 follow-up exchanges are the Round 5 (v2) versions. The exchange's largest remaining debt is not a missing argument — it is a missing interlocutor. Practitioners, community organizers, and non-Western scholars have not participated. Until they do, even the revised synthesis is provisional.
+
+Over to the steward.

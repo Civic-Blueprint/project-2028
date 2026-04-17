@@ -1,282 +1,152 @@
 ---
-description: Recommended next steps drawn from exchange findings and steward decisions — the single source for what's next.
+description: Forward-looking steward decisions and open project tracks. Completed items live in ROADMAP_ARCHIVE.md.
 ---
 
 # Project 2028 — Roadmap
 
-> **Purpose:** This document tracks the project's recommended next steps, drawn from exchange findings and steward decisions. It is the single source of truth for "what's next" so that neither the steward nor agents lose track of outstanding work.
+> **Purpose:** This document shows only what needs steward attention next. Completed items are moved to [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md) so the live roadmap stays clean and scannable.
 >
-> **Source:** Active items below are drawn from the exchange corpus (21 exchanges registered in the [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md)). The six original recommendations from [Exchange #7 — Feedback Timescale Review](agent/exchanges/proof-of-usefulness-feedback-timescale-review.md) remain the backbone; subsequent exchanges have added specific extensions now reflected here.
->
-> **Last updated:** April 2026. Refreshed after [Exchange #21 Round 3 synthesis](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-3) — the five Round 3 deliverables are recorded in the exchange, and the follow-up decisions they imply are now surfaced as high-priority TODOs. Prior refresh: full coherence audit against the exchange corpus (see [Coherence Audit Protocol](agent/process/coherence-audit-protocol.md)).
+> **Last updated:** April 2026, after [Exchange #21 Round 5](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-5) adversarial-review integration. Completed items (Exchange #7 Recommendations 1 and 3; Exchange #21 Rounds 1–5 historical detail) have been moved to the archive.
 
 ---
 
 ## Steward attention needed — prioritized TODOs
 
-These are the decisions or actions that currently block downstream work. Everything is citation-linked so the context for each item is one click away.
-
 ### High priority (unblocks multiple workstreams)
 
-1. **Decide which Exchange #21 follow-up exchanges to spawn (F1–F6).** Round 3 synthesis is complete: five deliverables are now in [Exchange #21 Round 3](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-3) — (D1) revised Principle 5 draft, (D2) six-category ownership taxonomy, (D3) nine-element bounded-governance doctrine, (D4) frontier-AI worked example, (D5) distributional-incidence addendum. Each deliverable is a proposal-to-the-steward, not an adopted change. The next decision is which follow-up exchanges to open to carry each deliverable into the project's core documents or public artifacts:
-   - **F1 — Principle 5 revision.** Adversarial review + steward voice edit on the proposed text; then integrate into [PRINCIPLES.md §5](PRINCIPLES.md#5-critical-systems-require-public-interest-governance). Smallest, highest-structural-priority.
-   - **F2 — Ownership taxonomy → [SYSTEMS_FRAMEWORK](SYSTEMS_FRAMEWORK.md).** Formalize the six-category taxonomy and evaluate implications for [Problem Map](PROBLEM_MAP.md) Domains 2 and 10.
-   - **F3 — Bounded-governance doctrine → public artifact.** Turn the nine-element doctrine into a public-facing memo or dedicated doctrine document.
-   - **F4 — Frontier-AI governance framework.** Develop the AI worked example into a standalone project position, feeding back into [Exchange #11](agent/exchanges/ai-commonwealth-vs-governance-exchange.md).
-   - **F5 — Housing-reform position statement.** Consolidate Round 2's sector-specific decomposition + Memo 01 → feeds [Exchange #10](agent/exchanges/housing-financialization-upstream-capture-exchange.md) and [Exchange #14](agent/exchanges/permitting-stack-recursive-uplift-exchange.md).
-   - **F6 — Distributional-incidence protocol.** Formalize Deliverable 5 as a new entry in [`agent/process/`](agent/process/) alongside Adversarial Review, Coherence Audit, and Historical Parallel Test — so all future proposals inherit distributional-incidence review as a default step.
-   - Recommended minimum: F1 (structural) + F6 (low-cost process leverage). Recommended full set: F1 + F3 + F6. See the [Round 3 "What comes next" section](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#what-comes-next--recommended-follow-up-work) for rationale and relative cost.
+1. **Pick which Exchange #21 follow-up exchanges to spawn, against the v2 deliverables.** [Exchange #21](agent/exchanges/government-overreach-ownership-ratchet-exchange.md) is now Rounds 1–5 complete (synthesis + adversarial review + integration). The v2 deliverables are in the exchange's [Round 5](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-5) section. Follow-up exchange menu:
+   - **F1 — Principle 5 revision.** Adversarial review + steward voice edit on the **v2** text; then integrate into [PRINCIPLES.md §5](PRINCIPLES.md#5-critical-systems-require-public-interest-governance). Smallest, highest-structural-priority.
+   - **F2 — Ownership taxonomy → [SYSTEMS_FRAMEWORK](SYSTEMS_FRAMEWORK.md).** Formalize the **seven-category** taxonomy (v2 adds communal-stewardship); evaluate implications for [Problem Map](PROBLEM_MAP.md) Domains 2 and 10.
+   - **F3 — Bounded-governance doctrine → public artifact.** Turn the **ten-feature doctrine under specific conditions** (v2) into a public-facing memo or dedicated doctrine document. Must carry reference-class limit and authenticity conditions.
+   - **F4 — Frontier-AI governance framework.** Develop the ratchet-acknowledged capability-indexed AI package (v2) into a standalone position; feeds back into [Exchange #11](agent/exchanges/ai-commonwealth-vs-governance-exchange.md).
+   - **F5 — Housing-reform position statement.** Consolidate Round 2's sector-specific decomposition + Memo 01; feeds [Exchange #10](agent/exchanges/housing-financialization-upstream-capture-exchange.md) and [Exchange #14](agent/exchanges/permitting-stack-recursive-uplift-exchange.md).
+   - **F6 — Distributional-incidence protocol.** Formalize the v2 protocol (anti-theater conditions; worst-off-protection column; symmetric adoption-and-repeal) as a new entry in [`agent/process/`](agent/process/) alongside Adversarial Review, Coherence Audit, and Historical Parallel Test.
+   - **Recommended minimum:** F1 (structural) + F6 (low-cost process leverage). **Recommended full set:** F1 + F3 + F6. See [Round 3 "What comes next"](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#what-comes-next--recommended-follow-up-work) for rationale; the **v2 deliverables** are what each follow-up operates on.
 
-2. **Decide on Exchange #16 (P-004/P-107 vs. P-053).** A head-to-head comparative analysis of the two strongest proposal candidates is open. This is a sequencing commitment for Recommendation 4 (fast-feedback validation case). Picking one (or an explicit sequence of both) determines which proposal gets development effort next and which practitioners are routed toward which exchanges per Exchange #17 Priority 7. See [Exchange #16](agent/exchanges/starting-proposal-comparative-review.md).
+2. **Decide on Exchange #16 (P-004/P-107 vs. P-053).** Head-to-head comparative analysis of the two strongest proposal candidates is open. This is a sequencing commitment for Recommendation 4 (fast-feedback validation case). Picking one (or an explicit sequence of both) determines which proposal gets development effort next and which practitioners are routed toward which exchanges per Exchange #17 Priority 7. See [Exchange #16](agent/exchanges/starting-proposal-comparative-review.md).
 
-3. **Accept or modify Exchange #17 Priorities 6–7.** Round 6 added two priorities to the practitioner-critique workstream: (P6) design the post-critique practitioner pathway before feedback arrives; (P7) connect the critique pipeline to the proposal-development pipeline. Steward decision is pending. See [Exchange #17 Round 6](agent/exchanges/first-practitioner-critique-ai-provenance-exchange.md). Accepting these folds Recommendation 2 into the proposal workstream from Recommendation 4, which meaningfully changes the roadmap's shape.
+3. **Accept or modify Exchange #17 Priorities 6–7.** Round 6 added two priorities to the practitioner-critique workstream: (P6) design the post-critique practitioner pathway before feedback arrives; (P7) connect the critique pipeline to the proposal-development pipeline. See [Exchange #17 Round 6](agent/exchanges/first-practitioner-critique-ai-provenance-exchange.md). Accepting these folds Recommendation 2 into the proposal workstream from Recommendation 4, which meaningfully changes the roadmap's shape.
 
 ### Medium priority (advance when bandwidth allows)
 
-4. **Proposal Catalog triage pass.** 135 AI-generated proposals (112 unique after dedup) are cataloged in [proposals/PROPOSAL_CATALOG.md](proposals/PROPOSAL_CATALOG.md). No steward feedback has been applied yet to the catalog's Priority field. Even a coarse first-pass (interesting / wrong / debatable) would materially improve the signal for Exchange #15. See [Exchange #13](agent/exchanges/autonomous-proposal-generation-stress-test.md), [Exchange #15](agent/exchanges/steward-feedback-proposal-iteration-exchange.md).
+4. **Proposal Catalog triage pass.** 135 AI-generated proposals (112 unique after dedup) live in [proposals/PROPOSAL_CATALOG.md](proposals/PROPOSAL_CATALOG.md). No steward feedback applied yet. Even a coarse first pass (interesting / wrong / debatable) in the Priority field would materially improve the signal for Exchange #15. See [Exchange #13](agent/exchanges/autonomous-proposal-generation-stress-test.md), [Exchange #15](agent/exchanges/steward-feedback-proposal-iteration-exchange.md).
 
-5. **Review the three website-submission exchanges for synthesis or disposition.** Three organic submissions produced active exchanges that have not moved since they were opened: [#9 Debt Legitimacy and Odious Debt](agent/exchanges/debt-legitimacy-odious-debt-exchange.md), [#10 Housing Financialization as Upstream Capture](agent/exchanges/housing-financialization-upstream-capture-exchange.md), [#11 AI Commonwealth vs. AI Governance](agent/exchanges/ai-commonwealth-vs-governance-exchange.md). Each needs a steward judgment call: advance to Round 1, fold into an existing workstream, or close with a short rationale.
+5. **Review the three website-submission exchanges for synthesis or disposition.** Three organic submissions produced active exchanges that have not moved since opening: [#9 Debt Legitimacy and Odious Debt](agent/exchanges/debt-legitimacy-odious-debt-exchange.md), [#10 Housing Financialization as Upstream Capture](agent/exchanges/housing-financialization-upstream-capture-exchange.md), [#11 AI Commonwealth vs. AI Governance](agent/exchanges/ai-commonwealth-vs-governance-exchange.md). Each needs a steward judgment call: advance to Round 1, fold into an existing workstream, or close with a short rationale.
 
-6. **Review Exchange #20 (Social Slop) for project-level commitment.** The exchange proposes a named information-integrity pattern with structural analysis and a concrete anchor case. Pending decisions: (a) is "Social Slop" adopted as project terminology, (b) does Principle 14 or Problem Map §3 get updated language, (c) does it inform any public-facing artifact? See [Exchange #20](agent/exchanges/social-slop-information-integrity-exchange.md).
+6. **Review Exchange #20 (Social Slop) for project-level commitment.** Exchange proposes a named information-integrity pattern with structural analysis and a concrete anchor case. Pending: (a) is "Social Slop" adopted as project terminology, (b) does Principle 14 or Problem Map §3 get updated language, (c) does it inform any public-facing artifact? See [Exchange #20](agent/exchanges/social-slop-information-integrity-exchange.md).
 
-7. **Advance Exchange #19 (Formation Document Adversarial Review).** First adversarial pass over the comparative corpus is open but not yet stress-tested in a constructive round. Without a response round the corpus synthesis claims remain untested. See [Exchange #19](agent/exchanges/formation-document-initial-findings-adversarial-review.md).
+7. **Advance Exchange #19 (Formation Document Adversarial Review).** First adversarial pass is open but not yet stress-tested in a constructive round. Without a response round the corpus synthesis claims remain untested. See [Exchange #19](agent/exchanges/formation-document-initial-findings-adversarial-review.md).
 
-8. **Review Exchanges #7 and #12 for likely practitioner pushback.** Previously logged as Tier 4 follow-up. Now especially relevant given Exchange #17's conclusion that the memo's substance has not been evaluated. Exchange #12 already identified Claim 2 (recursive uplift) as the most vulnerable housing claim. A pre-emptive memo revision decision belongs to the steward. See [Exchange #12](agent/exchanges/memo-01-housing-parallel-test-exchange.md).
+8. **Review Exchanges #7 and #12 for likely practitioner pushback.** Especially relevant given Exchange #17's finding that the memo's substance has not yet been evaluated. Exchange #12 already flagged Claim 2 (recursive uplift) as the most vulnerable housing claim. A pre-emptive memo revision decision belongs to the steward. See [Exchange #12](agent/exchanges/memo-01-housing-parallel-test-exchange.md).
+
+### New tracks introduced by Exchange #21 Round 5
+
+9. **TR1 — Bounded-governance transferability research sweep.** Round 4 established that the nine-element doctrine (now ten-feature doctrine) is grounded in an unrepresentative reference class (Switzerland, Sweden, Norway, Alaska + two supranational regimes — small/high-trust/wealthy). Transfer to large heterogeneous polities is unresolved. A third research sweep targeting India, Brazil, South Africa, Indonesia institutional-design experience, plus four rule-failure cases (ECB / Eurozone 2010–12; German debt brake during COVID; U.S. statutory PAYGO; California Prop 13), would close the gap before F3 is taken public. See [Round 4 challenge 3a–3b](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-4) and [Round 5 implications](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#implications-for-the-roadmap).
+
+10. **TR2 — External human reviewer commitment for F1–F6.** Round 4's biggest win: the entire Government Overreach / Ownership / Ratchet synthesis is LLM-produced inside one steward's context window. No practitioners, community organizers, non-Western constitutional scholars, or beneficiaries of bounded-rule regimes have participated. [Adversarial Review Protocol §4](agent/process/adversarial-review-protocol.md#4-seek-human-reviewers-who-are-not-the-project-steward) calls for this explicitly. Commitment: at least one external human reviewer participates in each of F1, F3, F4 before those exchanges are closed. F2 and F6 can be closed without external review if F1 and F3 carry reviewers whose input informs them; F5 should fold into the existing [Exchange #17 practitioner critique](agent/exchanges/first-practitioner-critique-ai-provenance-exchange.md) lane.
+
+11. **Adopt the "replacement over addition" default for bounded-governance proposals.** Round 5 promoted Round 4's challenge 4a (the AI package is a regulatory ratchet) from local finding to project-level default: any bounded-governance proposal that is net-additive rather than replacement-and-sunset must carry an explicit justification (asymmetric-risk, irreducible coordination, explicit exception). This belongs in Systems Framework or a dedicated doctrine note.
 
 ### Background / ongoing
 
-9. **Recommendation 6 (revise the internal description of recursive uplift).** Still not started. The three-layer decomposition (execution / trust / sequence) from Exchange #7 needs to be written into `SYSTEMS_FRAMEWORK.md` or a dedicated theory-specification note. Now additionally informed by Exchange #12 (housing literature offers no support for Layer 2 cascade) and Exchange #17 (entry-trust as load-bearing).
+12. **Recommendation 6 (revise the internal description of recursive uplift).** Not yet started. The three-layer decomposition (execution / trust / sequence) from Exchange #7 needs to be written into [SYSTEMS_FRAMEWORK.md](SYSTEMS_FRAMEWORK.md) or a dedicated theory-specification note. Informed by: Exchange #12 (housing literature offers no support for Layer 2 cascade); Exchange #17 (entry-trust as load-bearing); Exchange #21 Round 5 (bounded-governance doctrine as the proposed architecture under which recursive-uplift claims sit).
 
-10. **Recommendation 5 (publish the pre-evidence integration note).** Still partially started. Content provenance is live; evidence-interpretation commitments are not yet published as a dedicated note.
-
----
-
-## Recommendations from Exchange #7 (status tracker)
-
-The six recommendations from [Exchange #7](agent/exchanges/proof-of-usefulness-feedback-timescale-review.md) remain the backbone. Status as of April 2026:
-
-### Recommendation 1: Ship Memo 01 without delay — **Complete**
-
-Ship the comparative proof-of-usefulness memo as the public-facing artifact. Add a short epistemic-status section naming recursive uplift as plausible but empirically unvalidated.
-
-- Memo 01 is published and live.
-- Epistemic-status language has been incorporated.
-- Early organic feedback arriving via the website issue form.
-
-### Recommendation 2: Launch structured practitioner critique — **In progress**
-
-Design and launch a structured review process targeting domain practitioners.
-
-**Current implementation state (April 2026):**
-
-- Outreach is underway; 8 practitioners contacted.
-- The 4–6 week response window is open from initial outreach.
-- First practitioner response received and logged in [Exchange #17 — First Practitioner Critique and AI Content Provenance](agent/exchanges/first-practitioner-critique-ai-provenance-exchange.md).
-- Signal from that response: direct memo entry without orientation caused confusion; AI-generated texture triggered a credibility filter before substantive critique.
-- Exchange #17 Rounds 1–5 produced a five-priority refinement to this recommendation; Round 6 proposed two additional priorities (now tracked above as TODO #3).
-- Exchange #12 produced sharpened practitioner prompt questions specific to housing claims; these should feed the Pass 2 prompt design.
-
-**Design (updated with Exchange #12 and Exchange #17 inputs):**
-
-- **Recruit 8–12 reviewers** across housing, AI governance, public administration, and community organizing.
-- **Specifically recruit** at least 2 practitioners who have run bounded administrative reforms and measured public response.
-- **Use the structured outreach template:** [Practitioner Outreach Template](docs/PRACTITIONER_OUTREACH_TEMPLATE.md).
-- **Run a two-pass prompt structure:**
-  - **Pass 1 (entry-trust + legibility):** ask whether the entry point is clear, credible, and transparent about human-AI collaboration before requesting substantive critique.
-  - **Pass 2 (substance):** the generic prompt (bottlenecks recognized / missing-or-wrong / cross-domain helpfulness / usage intent), plus — where relevant — the housing-specific prompts from [Exchange #12](agent/exchanges/memo-01-housing-parallel-test-exchange.md).
-- **Collection window:** 4–6 weeks from when the prompt is sent.
-- **Output:** per Exchange #17 Round 6, publish practitioner critiques themselves (with consent) alongside the project's response, rather than a single synthesis note.
-- **Track metric:** entry-trust clearance rate (share of invited practitioners who clear Pass 1 and engage Pass 2).
-
-**Operational boundary (intake rule, unchanged):**
-
-- Any issue labeled `website-submission` is treated as **organic feedback** by default.
-- Structured practitioner critique includes only invited or intentionally recruited reviewers using the Recommendation 2 prompt in the defined collection window.
-- Unsolicited public issues do not become structured-critique evidence unless explicitly incorporated into that separate process. See [Website Submission Triage Checklist](WEBSITE_SUBMISSION_TRIAGE_CHECKLIST.md).
-
-**Current organic feedback triage (April 2026, unchanged — see TODO #5):**
-
-- [#8 Historical case](https://github.com/Civic-Blueprint/project-2028/issues/8) → [Exchange #9 — Debt Legitimacy and Odious Debt](agent/exchanges/debt-legitimacy-odious-debt-exchange.md). Active.
-- [#9 Missing perspective](https://github.com/Civic-Blueprint/project-2028/issues/9) → [Exchange #10 — Housing Financialization as Upstream Capture](agent/exchanges/housing-financialization-upstream-capture-exchange.md). Active.
-- [#10 Missing perspective](https://github.com/Civic-Blueprint/project-2028/issues/10) → [Exchange #11 — AI Commonwealth vs. AI Governance](agent/exchanges/ai-commonwealth-vs-governance-exchange.md). Active.
-
-### Recommendation 3: Formally separate the three kinds of "first" — **Satisfied (this roadmap)**
-
-| Question | Current answer | Status |
-|---|---|---|
-| What is the first public orientation artifact? | Comparative Memo 01 (housing + AI) | **Decided. Shipped.** |
-| What is the first fast-feedback learning mechanism? | Structured practitioner critique of Memo 01 | **Decided. Launched.** (Rec 2) |
-| What is the first empirical validation case? | Under active comparative review between `P-004/P-107` and `P-053`. | **In progress.** (Rec 4 + TODO #2) |
-
-### Recommendation 4: Design a fast-feedback validation case — **In progress (decision pending, TODO #2)**
-
-Design (but do not rush) a bounded reform case where the process is participatory and visible, the execution improvement is measurable, and behavioral trust proxies can be tracked alongside throughput metrics.
-
-**Selection criteria** (unchanged; adopt from Exchange #7):
-
-1. Bounded institutional actor.
-2. Measurable public outputs within roughly a year.
-3. Plausible connection to **behavioral** trust indicators — not just throughput.
-4. A reform process that is **participatory, visible, and co-designed** with affected communities.
-5. Enough structural similarity to governance questions that the result teaches something about institutional capacity.
-6. Enough public salience that the result matters beyond internal learning.
-
-**Current implementation state (April 2026):**
-
-- Initial proposal generation: complete in [Exchange #13](agent/exchanges/autonomous-proposal-generation-stress-test.md).
-- Full proposal catalog: live at [Proposal Catalog](proposals/PROPOSAL_CATALOG.md). Steward triage is TODO #4.
-- Deep-dive exchange for the leading candidate: [Exchange #14 — Permitting Stack Recursive Uplift](agent/exchanges/permitting-stack-recursive-uplift-exchange.md), centered on `P-004` / `P-107`.
-- Comparative review against runner-up: [Exchange #16 — P-004/P-107 vs. P-053](agent/exchanges/starting-proposal-comparative-review.md). **Decision pending — this is TODO #2.**
-- Steward-in-the-loop iteration experiment: [Exchange #15](agent/exchanges/steward-feedback-proposal-iteration-exchange.md). Awaits steward annotations to execute the second round.
-
-### Recommendation 5: Commit to transparent evidence integration in advance — **Partially started**
-
-Before any evidence arrives, publish a brief note stating:
-
-- What kinds of evidence each track produces.
-- That practitioner critique tests analytical usefulness, not causal claims.
-- That a fast-feedback case produces directional evidence on execution and behavioral trust proxies, not proof of recursive uplift.
-- That ambiguous results will be reported as ambiguous, with multiple interpretations presented.
-- That the trust-to-sequence layer (Layer 3) is inherently long-cycle and the project will not claim short-cycle evidence for it.
-
-**Current implementation state (April 2026):**
-
-- Transparency-commitment dimension has progressed through the [Content Provenance Standard](docs/CONTENT_PROVENANCE.md) and visible provenance labels across core artifacts (driven by Exchange #17 Rounds 1–5).
-- Evidence-type and interpretation commitments above are **not yet published** as a dedicated pre-evidence integration note. Still TODO (see background item #10).
-
-### Recommendation 6: Revise the internal description of recursive uplift — **Not yet started**
-
-The three-layer decomposition from Exchange #7:
-
-| Layer | Claim | Testable on short timelines? |
-|---|---|---|
-| **Execution** | Institutions can deliver visibly better outcomes in a bounded domain | Yes |
-| **Trust** | Visible performance shifts behavioral trust indicators | Partially — behavioral proxies are observable but attribution is contested |
-| **Sequence** | Trust and legitimacy gains make subsequent reforms more feasible | No — inherently long-cycle, politically mediated |
-
-**Post-#7 updates that should inform the rewrite:**
-
-- Exchange #12: no published housing-literature support for Layer 2 cascade. Claim 2 is the project's most vulnerable housing claim.
-- Exchange #17: entry-trust is a *micro-layer* precursor to institutional-scale trust formation and carries the highest strategic weight in the critique pipeline.
-- Exchange #21 Round 2: the bounded-governance design package is now the proposed architecture under which recursive-uplift claims should sit.
-
-The decomposition and the honest assessment of which layers are currently supported should appear in [SYSTEMS_FRAMEWORK.md](SYSTEMS_FRAMEWORK.md) or a dedicated theory-specification note. Still background item #9.
+13. **Recommendation 5 (publish the pre-evidence integration note).** Partially started. Content provenance is live; evidence-interpretation commitments are not yet published as a dedicated note.
 
 ---
 
-## Active research & analysis tracks (post-#7 exchanges)
+## Active tracks — state and next step
+
+Each track shows only what moves it forward. Historical detail is in [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md).
 
 ### Proposal Catalog & development (Exchanges #13 → #14 → #15 → #16)
 
-**Status: Generated, awaiting steward triage and sequencing decision.**
+**State:** 135 proposals cataloged; two strongest candidates (`P-004/P-107` permitting stack, `P-053` federal skills-first hiring) head-to-head in Exchange #16; steward triage of the catalog not yet done.
 
-135 proposals across all 15 Problem Map domains (112 unique after dedup). Current open items:
-
-- **Steward triage pass** (TODO #4): mark interesting / wrong / debatable in the Priority field of [proposals/PROPOSAL_CATALOG.md](proposals/PROPOSAL_CATALOG.md).
-- **Starting-proposal sequencing decision** (TODO #2): resolve [Exchange #16](agent/exchanges/starting-proposal-comparative-review.md) between `P-004/P-107` and `P-053`.
-- **Continue permitting-stack deep dive:** advance [Exchange #14](agent/exchanges/permitting-stack-recursive-uplift-exchange.md) with next-round questions once the #16 decision is in.
-- **Execute steward-in-the-loop experiment:** [Exchange #15](agent/exchanges/steward-feedback-proposal-iteration-exchange.md) runs once at least some catalog annotations are in place (TODO #4 unblocks this).
-- **Practitioner × proposal connection:** per TODO #3, proposal evaluation by practitioners becomes the post-critique retention pathway.
+**Next step:** TODO #2 (resolve #16) and TODO #4 (catalog triage pass).
 
 ### Government Overreach / Ownership / Ratchet (Exchange #21)
 
-**Status: Rounds 1–3 complete; synthesis recorded; follow-up exchange menu pending steward decision.**
+**State:** Rounds 1–5 complete; synthesis adversarially tested; v2 deliverables recorded; F1–F6 follow-up menu defined.
 
-- Source corpus: 51 digests (1 anchor + 50 curated) in [sources/SOURCE_INDEX.md](sources/SOURCE_INDEX.md), covering eight sub-debates with balanced viewpoint coverage.
-- Round 2 produced: five-ratchet typology, four-category ownership taxonomy, five-mechanism democratic-capture inventory, institutional-inclusiveness reframing of Principle 5, sector-specific Perry-chart decomposition, nine-element bounded-governance design package.
-- Second research sweep (April 2026) closed all five Round 2 gaps: Argentina/Milei; Canada/Sweden/NZ fiscal-consolidation cases; AI catastrophic-risk literature; AI governance practice; cooperatives and platform coops; sovereign wealth funds; Swiss direct democracy.
-- [Round 2 addendum](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-2-addendum--data-gaps-closed-april-2026) records what the new evidence shifts.
-- **[Round 3 synthesis](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-3) (April 2026) produced the five commissioned deliverables:**
-  - **D1** — Proposed revised Principle 5 text (inclusive institutions with bounded rules; ownership and governance separated; five canonical working precedents cited in practice paragraph).
-  - **D2** — Six-category ownership taxonomy with formal definitions, test questions, moral-weight reasoning, and policy implications (personal-autonomy / civic-commons / innovation / ecological-ceiling / transitional-productive / collective-dividend).
-  - **D3** — Nine-element bounded-governance doctrine (entrenchment / cyclical adjustment / compensation / escape clauses / independent oversight / risk-risk analysis / transparency / sunset / distributional incidence) with canonical precedents.
-  - **D4** — Frontier-AI worked example applying the doctrine element-by-element; identified structural gaps (missing compensation/accounting, sunset, distributional-incidence review) and specific project-voice recommendations.
-  - **D5** — Distributional-incidence addendum elevating distributional review from addendum to constitutive element of any bounded-governance rule, with operational guidance.
-- **Next step: TODO #1** — decide which of the six follow-up exchanges (F1–F6) to spawn.
+**Next step:** TODO #1 (pick F1–F6 to spawn) with TR1 and TR2 (TODOs #9, #10) as standing prerequisites for F3 and for F1/F3/F4 closure respectively.
 
 ### Formation Document Comparative Analysis (Exchanges #18 → #19)
 
-**Status: In progress. Adversarial challenge open.**
+**State:** Two-repo corpus workflow live; proof-of-concept U.S. Constitution memo produced; first adversarial challenge open in #19; no constructive response round yet.
 
-- Two-repo corpus workflow established: retained source texts in [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs); project-authored analysis in [formation-docs/](formation-docs/README.md).
-- [Comparative Alignment Protocol](agent/process/comparative-alignment-protocol.md) adopted.
-- Sourcing policy, metadata schema, and synthesis artifacts live.
-- U.S. founding documents added as the first retained source set.
-- Proof-of-concept memo: [United States Constitution alignment memo](formation-docs/analysis/principle-maps/us-constitution-alignment.md).
-- [Exchange #18](agent/exchanges/formation-document-comparative-analysis-exchange.md) frames the methodological questions.
-- [Exchange #19](agent/exchanges/formation-document-initial-findings-adversarial-review.md) opened the first structured challenge (source-selection bias, genre mismatch, false-overlap inflation, modernity bias, translation risk). **Needs a constructive response round** (TODO #7).
-
-**Next steps (corpus expansion):**
-
-- Add English-accessible comparison sources with strong public value commitments: South Africa, Canada, India, UDHR, UN Charter.
-- Add representative U.S. state constitutions.
-- Add multilingual sources with explicit translation-verification metadata.
-- Add organizational identity documents.
-- Use the resulting corpus to update the alignment matrix, gap analysis, and uniqueness report before treating any strong synthesis claim as earned.
+**Next step:** TODO #7 (run the constructive response round on #19). Corpus expansion (South Africa, Canada, India, UDHR, UN Charter, U.S. state constitutions, multilingual sources, organizational identity documents) resumes after that.
 
 ### Information integrity — Social Slop (Exchange #20)
 
-**Status: Active. Opening + anchor case only; no rounds yet.**
+**State:** Exchange opened with proposed definition and anchor case; no rounds yet; six open questions framed.
 
-- Proposed definition of Social Slop as a distinct information-integrity phenomenon (engagement-optimized decontextualization; fragment extraction → threat reframing → outcome erasure → method-as-values substitution → engagement packaging).
-- Anchor case documented: WEF natural-capital-accounting panel repackaged as "monetize breathing."
-- Six open questions framed for future rounds.
-- **Next step: TODO #6** — steward judgment on whether to adopt the term, update Principle 14 or Problem Map §3, and/or commission a Phase 2 website treatment.
+**Next step:** TODO #6 (steward judgment on adopting the term and whether it updates Principle 14 or Problem Map §3 or informs a public-facing artifact).
 
----
+### Website submission triage (Exchanges #9, #10, #11)
 
-## Exchange Index integrity (from coherence audit)
+**State:** Three active organic-submission exchanges opened during the Exchange #7 website-feedback lane; none has moved since opening.
 
-| Check | Result |
-|---|---|
-| Every exchange file in `agent/exchanges/` appears in the [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md) | Pass (21 registered; 21 on disk beyond the index itself) |
-| Index status fields consistent with exchange status blocks | Pass |
-| Dependency links accurate and current | Pass |
-| Cross-repo artifact references still valid | Pass |
-| Source digest count consistent across [README](sources/README.md), [SOURCE_INDEX](sources/SOURCE_INDEX.md), and [Exchange #21](agent/exchanges/government-overreach-ownership-ratchet-exchange.md) | Pass (51 total: 1 anchor + 50 curated after second sweep) |
+**Next step:** TODO #5 (advance / fold / close each).
 
-No contradictions, drift, broken references, terminological inconsistencies, or source-handling errors were found during the audit that are not already listed in the TODO block above.
+### Practitioner critique & AI provenance (Exchange #17)
 
----
+**State:** Five priorities adopted in Rounds 1–5; Round 6 proposed two additional priorities (P6 retention pathway; P7 critique→proposal-pipeline connection); steward decision on P6/P7 pending.
 
-## Key context from the Exchange #7 synthesis
+**Next step:** TODO #3 (accept or modify P6/P7).
 
-The exchange established several findings that should continue to inform all future work:
+### Recursive-uplift theory specification (Recommendation 6)
 
-- **Memo 01 is a public orientation artifact, not an empirical validation plan.** Do not ask it to prove recursive uplift.
-- **Bounded administrative improvements alone do not reliably produce trust changes on short timelines.** The administrative-burden literature is consistent on this point; Exchange #12 corroborated for the housing domain specifically.
-- **Participatory, visible reform processes have stronger evidence for trust effects than insular workflow optimization.** How the improvement happens matters more for trust than what improves.
-- **The project should publicly name the evidential limits of recursive uplift.** This honesty is a strength, not a weakness.
+**State:** Not started. Three-layer decomposition exists in Exchange #7; not yet integrated into Systems Framework.
+
+**Next step:** TODO #12 (write into Systems Framework or a dedicated theory note).
+
+### Pre-evidence integration note (Recommendation 5)
+
+**State:** Partial — content-provenance half is live; evidence-interpretation commitments unpublished.
+
+**Next step:** TODO #13 (draft and publish the evidence-interpretation note).
 
 ---
 
 ## Dependency ordering
 
 ```
-Exchange #7 Recommendation 1 (Ship Memo 01) ✅ Complete
-    │
-    ├─► Rec 2 (Practitioner critique) ──► #17 (5 priorities adopted + 2 pending — TODO #3)
-    │     │                                │
-    │     ├─► #12 (sharpened prompts)      │
-    │     │                                ▼
-    │     └─► Rec 5 (Evidence note — TODO background #10)
-    │
-    ├─► Rec 3 (Three firsts) ✅ Satisfied by this roadmap
-    │
-    ├─► Rec 4 (Fast-feedback case)
-    │     │
-    │     ├─► #13 (Proposal catalog) ──► Steward triage (TODO #4)
-    │     │                         └─► #15 (Steward-in-loop iteration)
-    │     │
-    │     └─► #14 Permitting Stack ──► #16 P-004/P-107 vs. P-053 ← TODO #2
-    │
-    └─► Rec 6 (Revise recursive uplift — TODO background #9)
+TODO #1 (F1–F6 spawn decision)
+  │
+  ├─► F1 (Principle 5 revision) ──► PRINCIPLES.md §5 edit
+  │     ◄── requires TR2 (external human reviewer)
+  │
+  ├─► F2 (Ownership taxonomy → Systems Framework) ──► SYSTEMS_FRAMEWORK.md edit
+  │     ◄── can close on F1 reviewer input alone
+  │
+  ├─► F3 (Doctrine as public artifact)
+  │     ◄── requires TR1 (transferability research) + TR2 (external reviewer)
+  │
+  ├─► F4 (Frontier-AI framework)
+  │     ◄── requires TR2 + broader AI-governance perspective base
+  │     ◄── feeds Exchange #11
+  │
+  ├─► F5 (Housing-reform statement)
+  │     ◄── folds into Exchange #17 practitioner lane
+  │     ◄── feeds Exchanges #10, #14
+  │
+  └─► F6 (Distributional-incidence protocol)
+        ◄── small-cost process addition
+        ◄── once live, applies to all future proposals
 
-Independent tracks:
-  ├─► Website-submission triage: #9, #10, #11 (all active, need disposition) ← TODO #5
-  ├─► Formation-document track: #18 → #19 (needs constructive round) ← TODO #7
-  ├─► Social Slop: #20 (opening only) ← TODO #6
-  └─► Government Overreach / Ratchet: #21 (Rounds 1–3 synthesized; five deliverables; F1–F6 follow-ups pending) ← TODO #1
+TODO #2 (#16 P-004/P-107 vs. P-053) ──► #14 deep dive + #15 steward-in-loop
+TODO #3 (#17 P6–P7) ──► feeds into TODO #1 F5 framing
+TODO #4 (Catalog triage) ──► unblocks #15
+TODO #5 (#9/#10/#11 triage) ──► independent
+TODO #6 (#20 Social Slop) ──► potential Principle 14 / PM §3 edit
+TODO #7 (#19 response round) ──► formation-doc corpus integrity
+TODO #8 (#7/#12 memo pushback) ──► potential Memo 01 revision
+TODO #9 (TR1 research) ──► unblocks F3 public artifact
+TODO #10 (TR2 reviewers) ──► standing prerequisite for F1/F3/F4 closure
+TODO #11 (replacement-over-addition default) ──► SF or doctrine-note edit
+TODO #12 (Recursive uplift theory spec) ──► SF edit
+TODO #13 (Pre-evidence integration note) ──► standalone note
 ```
 
 ---
@@ -284,5 +154,5 @@ Independent tracks:
 ## What this roadmap is not
 
 - It is not a project schedule. Most items do not have fixed dates.
-- It does not claim to be exhaustive of all AI-advanceable work. Agents advance active exchanges on their own cadence.
-- It does not substitute for the [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md). The index is the structural record; this roadmap is the curated steward-facing summary of what needs attention next.
+- It is not exhaustive of all agent-advanceable work. Agents advance active exchanges on their own cadence.
+- It does not substitute for the [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md) (structural record) or the [Archive](ROADMAP_ARCHIVE.md) (historical context). This roadmap is the curated steward-facing summary of what needs attention next.
