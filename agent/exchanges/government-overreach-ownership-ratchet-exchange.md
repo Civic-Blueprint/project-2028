@@ -11,6 +11,7 @@
 | Type | Document |
 |---|---|
 | **Source material** | [Source Digest — Modern Wisdom #1084: David Friedberg](../../sources/source-modern-wisdom-1084-friedberg-digest.md) (Clusters 3, 4, 5, 6, 7 + Steward Observation 1) |
+| **Research base** | [Source Index](../../sources/SOURCE_INDEX.md) — 43 curated source digests organized by sub-debate and viewpoint (ratchet dynamics, property and wealth taxation, public choice and capture, abundance and post-scarcity, social democracy vs. command, price discipline in subsidized sectors, fear-based framing, bounded-governance design). Round 2+ participants should consult the Source Index to assemble balanced evidence for each sub-debate. |
 | **Core documents** | [Principles](../../PRINCIPLES.md) (especially §2, §4, §5, §6), [Problem Map](../../PROBLEM_MAP.md) (especially Domains 2, 13, 15), [Systems Framework](../../SYSTEMS_FRAMEWORK.md) |
 | **Prior exchanges** | [Exchange #9 (Debt Legitimacy)](debt-legitimacy-odious-debt-exchange.md), [Exchange #13 (Proposal Generation)](autonomous-proposal-generation-stress-test.md), [Exchange #7 (Timescale Review)](proof-of-usefulness-feedback-timescale-review.md) |
 | **Protocols** | [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md) |
