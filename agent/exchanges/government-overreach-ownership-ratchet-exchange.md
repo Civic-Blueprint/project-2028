@@ -1,6 +1,6 @@
 # Government Overreach, Ownership as Transition, and the Ratchet Problem — Exchange
 
-> **Status (April 2026):** Active discussion. Opening frame, Round 1 constructive analysis, Round 2 sub-debate stress test (against 43 curated source digests), and a targeted second research sweep (7 additional digests closing all five Round 2 data gaps) are now in place. The exchange has distinguished the ratchet as a broader capture dynamic rather than a state-only phenomenon, argued that ownership likely persists under abundance but with different moral weight across five categories (personal / civic-commons / innovation / ecological-ceiling / transitional-productive / collective-dividend), identified bounded-governance design as the unresolved crux, specified a nine-element bounded-governance design package grounded in Swiss, OECD/IMF, historical-contraction, and AI-regulation evidence, and closed the Round 2 data gaps in preparation for a Round 3 synthesis.
+> **Status (April 2026):** Synthesized. Rounds 1 and 2 complete; targeted second research sweep closed all five Round 2 data gaps; Round 3 has now produced the five commissioned deliverables — revised Principle 5 draft in inclusive-institutions-with-bounded-rules vocabulary, five-category ownership taxonomy, nine-element bounded-governance doctrine, frontier-AI worked example, and distributional-incidence addendum. The exchange's central conclusions are now in synthesis form; what remains is for the steward to accept, modify, or spawn follow-up exchanges to carry individual deliverables into the core normative documents. Open questions and recommended follow-up exchanges are listed in Round 3's "What comes next" section.
 >
 > **Why this exchange:** The steward encountered a podcast interview (David Friedberg on Modern Wisdom #1084, April 13, 2026) whose strongest arguments directly challenge the project's Principle 5 (public-interest governance) and the Problem Map's assumption that governance design — not government withdrawal — is the path to reform. The full parsed content is preserved in [Source Digest — Modern Wisdom #1084](../../sources/source-modern-wisdom-1084-friedberg-digest.md). This exchange focuses on the highest-priority intersection: whether public-interest governance is inherently expansionary, whether ownership is a transitional vehicle to abundance or a permanent feature, and whether democratic process itself becomes a capture mechanism when a majority of voters are net beneficiaries of government spending.
 
@@ -612,3 +612,289 @@ Round 3 synthesis is now fully resourced. The recommended Round 3 deliverable se
 Alternative path (unchanged): bypass a single Round 3 synthesis and spawn follow-up exchanges on (a) Principle 5 revision, (b) ownership taxonomy, (c) bounded-governance doctrine, (d) housing-reform position statement, (e) AI-governance framework. Each would use the now-sufficient corpus rather than requiring further research first.
 
 The exchange's residual research debt after this sweep is low. Secondary gaps identified in Round 2 (Putnam-style social-trust literature; post-IRA 2022 U.S. healthcare-reform scholarship; Acemoglu & Johnson's *Power and Progress*) remain open but are not load-bearing for Round 3.
+
+---
+
+# Round 3
+
+---
+
+## Synthesis — Round 3 Agent
+
+> **Role:** Synthesis agent. Same constructive voice as Rounds 1 and 2. This round's job is not to open new argument; it is to consolidate what the exchange has concluded into five concrete deliverables against the full 51-digest corpus, in the form the steward commissioned.
+>
+> **Context reviewed:** Rounds 1 and 2 above; [Round 2 addendum](#round-2-addendum--data-gaps-closed-april-2026); all 51 [source digests](../../sources/SOURCE_INDEX.md); current [Principles](../../PRINCIPLES.md) (esp. §§ 2, 4, 5, 6, 10, 13, 17); [Problem Map](../../PROBLEM_MAP.md) Domains 2, 9, 10, 11, 13, 15; prior exchanges #7, #9.
+
+---
+
+### What Round 3 is and is not
+
+Round 3 is a **synthesis** round. It produces project-ready drafts, not exploratory argument. It presents:
+
+1. A proposed revised text for Principle 5, phrased in the project's own voice and tested against the philosophical and institutional evidence base.
+2. A five-category ownership taxonomy with formal definitions, examples, and moral-weight reasoning.
+3. A nine-element bounded-governance doctrine with canonical precedents.
+4. A worked example applying the doctrine to frontier-AI governance.
+5. A distributional-incidence addendum that integrates the Argentine finding into the doctrine.
+
+It does **not**:
+
+- Revise any core normative document unilaterally. The proposed Principle 5 text below is a *draft for steward consideration*, not an adopted change.
+- Close every open question the exchange raised. Several follow-up exchanges remain appropriate (listed at the end).
+- Claim to have exhausted the philosophical debate. It commits the project to defensible positions on load-bearing questions; it preserves honest uncertainty where uncertainty is real.
+
+---
+
+## Deliverable 1 — Revised Principle 5 draft
+
+### Current text (for reference)
+
+> **5. Critical systems require public-interest governance**
+>
+> The systems that shape daily life — including infrastructure, health, information, and computation — are too important to be governed solely by short-term incentives or narrow interests.
+>
+> The larger and more foundational the system, the greater the responsibility to ensure it operates in the public interest.
+>
+> *In practice:* An energy grid, a water system, a financial clearing network, or a compute infrastructure that a society depends on cannot be governed solely by the short-term profit incentives of its operators. This does not require state ownership — it requires that governance structures exist to ensure the system serves the public, whether through regulation, public ownership, cooperative models, or other arrangements appropriate to the context.
+
+### What the exchange revealed about the current text
+
+The current text is correct in its commitments but imprecise about its mechanism. Friedberg's challenge in its strongest form landed on exactly this imprecision: "public-interest governance" can mean many things, including outcomes the project does not intend (ratchet-driven state expansion, extractive capture dressed as public interest, crisis-ratchet accumulation without reversibility). The Round 2 stress test against the pro-market digest set (Higgs, Nozick, Caplan, Buchanan-Tullock, Perry, Andreessen, Heritage-Fraser) showed that these concerns are serious rather than dismissible.
+
+The Round 2 synthesis resolved the tension not by weakening the commitment but by **specifying its mechanism**. The dispositive variable for good outcomes is not state scale but institutional inclusiveness with bounded rules (Acemoglu-Robinson 2024 Nobel; Heritage-Fraser's "Nordic paradox"; Rodrik's methodological pluralism). The project's commitment is not to a particular size of government; it is to a particular *kind* of institution.
+
+### Proposed revised text
+
+> **5. Critical systems require inclusive institutions with bounded rules**
+>
+> The systems that shape daily life — infrastructure, health, information, finance, and computation — are too important to be governed solely by short-term incentives, narrow interests, or unbounded authority of any kind. The larger and more foundational the system, the greater the responsibility to ensure it operates in the public interest.
+>
+> "Public interest" here has a specific institutional meaning the project commits to. Governance of a critical system is *inclusive* when power is broadly distributed rather than concentrated in a narrow elite (state, corporate, or other), when participation in rule-making is genuine, and when the institution is accountable to those it affects. Governance of a critical system is *bounded* when its authority to act carries credible structural limits — stopping points, reversibility provisions, independent oversight, transparent risk assessment, and scheduled review — so that the institution cannot expand without accountability or entrench itself against future correction.
+>
+> This is neither a commitment to state ownership nor a commitment to private ownership. The question of *who owns* a critical system is analytically separate from the question of *how it is governed*. A critical system may be privately owned, publicly owned, cooperatively owned, or held in collective-dividend form and still satisfy this principle, provided that governance is both inclusive and bounded. A critical system may also fail this principle under any ownership form if governance is extractive, captured, or unbounded.
+>
+> *In practice:* An energy grid, a water system, a financial clearing network, a public-health apparatus, or a foundational compute infrastructure that a society depends on cannot be governed solely by the short-term incentives of its operators — and cannot be governed by crisis-accumulated authorities with no defined sunset. What is required is governance that is demonstrably inclusive (broad participation, transparent process, genuine accountability) and demonstrably bounded (stopping points, reversibility, independent oversight). The canonical real-world examples the project draws from include the Swiss fiscal-rules architecture, the Scandinavian cross-partisan-rule tradition (Swedish expenditure ceiling, fiscal council, pension reform), sovereign-wealth instruments under constitutional-level entrenchment (Norway GPFG, Alaska Permanent Fund), and the ongoing global experiment with compute-governance frameworks for frontier AI. The combination — inclusive plus bounded — is what the project means by "public-interest governance," and this principle commits to that combination as the substantive standard against which proposals are evaluated.
+
+### Rationale for the change
+
+| Change | Reason | Evidence base |
+|---|---|---|
+| Title shifts from "public-interest governance" to "inclusive institutions with bounded rules" | The project's actual commitment is narrower and more specific than "public interest" implies; the new title is operational rather than aspirational | Acemoglu & Robinson (inclusive vs. extractive); Rodrik (institutional specificity); Round 2 synthesis |
+| New second paragraph defines *inclusive* and *bounded* | The current text's "public interest" is the imprecision Friedberg exploited; precision here closes the loop | Round 2 five-mechanism capture inventory; Round 2 nine-element design package |
+| New third paragraph separates ownership from governance | The ownership-governance conflation underlies a substantial share of unproductive debate about "size of government"; separating them allows the project to hold a clear position on governance while remaining pluralist on ownership | Round 2 ownership taxonomy; Round 3 Deliverable 2 |
+| "Critical system" now explicitly includes finance and foundational compute | Round 2 evidence elevates financial clearing (2008 GFC; regulatory accumulation critique) and frontier compute (AI catastrophic-risk and governance-practice digests) to critical-system status | [AI Existential-Risk digest](../../sources/source-ai-existential-risk-digest.md); [Mercatus regulatory accumulation digest](../../sources/source-mercatus-regulatory-accumulation-digest.md) |
+| Practice paragraph cites five specific real-world precedents | The doctrine must be shown to exist in working form, not only in principle | Swiss debt brake; Swedish rules architecture; Norway GPFG; Alaska PFD; EU AI Act / California SB 53 |
+
+### Compatibility with other principles
+
+- **Principle 4 (accountability, legibility, reversibility):** The proposed text operationalizes Principle 4 at the level of critical-system governance. No conflict; mutual reinforcement.
+- **Principle 13 (pluralism and self-determination):** The proposed text strengthens compatibility with Principle 13 by making explicit that the commitment is to *outcomes* (inclusive + bounded governance) rather than to particular institutional forms, which is what Principle 13 already asserts.
+- **Principle 10 (built in the open):** The inclusive half of "inclusive-and-bounded" is the same commitment as Principle 10 applied to critical systems.
+- **Principle 17 (collective power within principled constraints):** The bounded half is the same commitment as Principle 17 applied to critical systems.
+
+### Anticipated objections and responses
+
+- *"This makes the principle longer and less poetic."* True. The current text reads more cleanly. The tradeoff is analytical precision against rhetorical compactness. Round 2 evidence suggests the imprecision is a real vulnerability. The steward may wish to edit the proposed text for voice while preserving the structural changes; that would be a reasonable compromise.
+- *"Bounded-governance vocabulary sounds libertarian."* It is not libertarian. Libertarianism constrains what the state can do at all. Bounded governance constrains how the state (or any institution) acts while permitting the full scope of public-interest intervention. The Swedish welfare state under the post-1994 fiscal-rules architecture is not a small state; it is a large state with bounded rules. The project's position sits with that tradition.
+- *"What if 'inclusive' and 'bounded' are in tension?"* They are complementary by design. Inclusive institutions without bounds are vulnerable to capture by whichever majority currently prevails (Caplan / Kuran-Sunstein risk). Bounded institutions without inclusiveness are vulnerable to technocratic or oligarchic capture (Gilens-Page / Hacker-Pierson risk). The pairing is what defends against both failure modes.
+
+---
+
+## Deliverable 2 — Five-category ownership taxonomy
+
+### Formal definitions
+
+| Category | Definition | Defining test questions |
+|---|---|---|
+| **1. Personal-autonomy ownership** | Ownership of things whose primary function is to enable individual autonomy, privacy, and dignity — homes people live in, personal effects, tools of one's trade, savings sufficient for household stability. | Does this ownership primarily enable the owner's autonomous life? Is the welfare loss from forced transfer borne most heavily by the owner rather than others? |
+| **2. Civic-commons ownership** | Ownership of things whose primary function is shared public use or infrastructural integrity — roads, parks, public buildings, air, water, essential public-health capacity, the electromagnetic spectrum, core civic-information infrastructure. | Is the good excludable only at high social cost? Is its value largely realized through shared use? |
+| **3. Innovation ownership** | Ownership of claims that exist primarily to reward and coordinate the creation of new productive capacity — IP with defined term, entrepreneurial equity, early-stage venture claims, novel technology platforms during their emergence. | Would the good have been created in the absence of the ownership claim? Is the claim time-bounded or inherently transitional? |
+| **4. Ecological-ceiling-indexed ownership** | Ownership claims operating against a biophysical ceiling that the civilization collectively cannot exceed — emissions permits, water-withdrawal rights, fisheries allocations, land within sensitive ecosystems, lithosphere extraction rights. | Is the stock itself finite in a physically binding way? Do aggregate ownership claims sum to a ceiling that cannot be renegotiated without catastrophic loss? |
+| **5. Transitional-productive ownership** | Ownership of productive capital in a regime where the productivity gains will eventually eliminate the binding resource constraint, making the moral justification for private concentration weaken over time. | Is the current ownership structure justified instrumentally by productivity gains it enables? If the productivity gains were achieved, would the ownership claim still be justified on current grounds? |
+| **6. Collective-dividend ownership** (added in Round 3 per Round 2 addendum) | Ownership of productive assets held in common on behalf of a defined population, with returns distributed by explicit rules to individuals or to a general public account. | Is the asset owned by a legally defined collective? Are returns distributed by rule rather than by individual holdings? Is the ownership structure institutionally entrenched against political raiding? |
+
+### Moral-weight reasoning per category
+
+Each category has a different *center of moral gravity*:
+
+1. **Personal autonomy:** Moral weight is strongest. Anchored in dignity (Principle 1), material stability (Principle 7), Scanlon's anti-domination objection, and common-sense intuition. Forced transfer is presumptively illegitimate absent extraordinary justification (e.g., eminent domain under public-use + just-compensation conditions).
+2. **Civic commons:** Moral weight is weak against use claims, strong against exclusion. Ostrom's polycentric analysis: well-managed commons outperform either state or private management under specific institutional conditions; badly-managed commons fail under all three.
+3. **Innovation ownership:** Moral weight is instrumental and time-bounded. Patent terms, non-compete sunsets, early-stage equity treatment all reflect the instrumental justification. The stronger the innovation argument, the weaker the justification for permanent post-innovation rent extraction.
+4. **Ecological-ceiling-indexed:** Moral weight lies with the ceiling, not the owner. Claims against a binding physical ceiling are quota-like; they are legitimate only within the ceiling's integrity. Raworth's Doughnut Economics and the biosphere-as-constraint commitment in Principle 11 support strong prioritization of the ceiling over ownership absolutism.
+5. **Transitional-productive:** Moral weight is contingent on the transition actually happening. Keynes's "Economic Possibilities for Our Grandchildren" framing: ownership of productive capital is a temporary arrangement justified by coordination requirements that technological abundance eventually dissolves. The project's bounded-governance doctrine makes this contingency explicit rather than aspirational.
+6. **Collective-dividend:** Moral weight comes from the distribution rule plus the political economy that produced it. Norway GPFG and Alaska PFD demonstrate that this form is durable at scale when institutionally entrenched.
+
+### Policy implications
+
+- Tax and transfer policy should differentiate by category. A wealth-tax debate that treats personal-autonomy assets (primary residence, retirement savings) and transitional-productive assets (large equity holdings in mature industries) as equivalent is analytically confused. The Saez-Zucman proposals distinguish above a threshold precisely to capture this.
+- Property-rights jurisprudence likewise. A uniform property-rights doctrine that treats innovation ownership (time-bounded IP), ecological-ceiling ownership (quota-indexed permits), and personal-autonomy ownership (primary residence) the same will mis-calibrate on multiple dimensions.
+- Sovereign-wealth and cooperative forms are not exotic; they are specific institutional instantiations of collective-dividend ownership. The project's proposals should include them as ordinary policy tools rather than as progressive curiosities.
+- In an AI-enabled productivity-gain regime, the transitional-productive category's moral weight weakens over time, and the collective-dividend category's weight strengthens. Principle 6 (automation gains should strengthen society) operationalizes this.
+
+---
+
+## Deliverable 3 — Nine-element bounded-governance doctrine
+
+### The nine elements
+
+| # | Element | Purpose | Canonical precedent(s) |
+|---|---|---|---|
+| 1 | **Rule-level entrenchment** | Make the rule difficult to amend for short-term political convenience, while leaving substantial amendment feasible through a demanding process | Swiss debt brake (constitutional, double-majority amendment); Norway GPFG fiscal rule (parliamentary super-commitment); Alaska Permanent Fund principal (constitutional) |
+| 2 | **Cyclical or capacity-indexed adjustment** | The rule must not produce pro-cyclical austerity or other known failure modes; it must adjust mechanically to circumstances | Swiss debt brake (cyclical adjustment); EU AI Act (compute-threshold-indexed GPAI tier); Swedish expenditure ceiling (multi-year framework) |
+| 3 | **Compensation or accounting mechanism** | Deviations (in either direction) must be tracked and compensated on a schedule, so the rule accumulates credibility rather than leakage | Swiss compensation account; Swedish surplus target over business cycle; OECD fiscal-rule best practices |
+| 4 | **Escape clauses with compensation obligations** | A rule without escape is rigid and loses legitimacy; a rule with ungoverned escape becomes fiction; the Swiss design resolves this | Swiss extraordinary-expenditure mechanism; EU AI Act crisis-response provisions; Alaska PFD formula with emergency-override |
+| 5 | **Independent oversight institution** | Rule compliance is monitored by a non-partisan body with publication authority, removed from direct electoral cycle pressure | Swedish Fiscal Policy Council; IMF Article IV surveillance; U.S. / U.K. AI Safety Institutes; Norwegian Council on Ethics; OECD IFI network |
+| 6 | **Mandatory risk-risk analysis** | Any proposed intervention must be evaluated against the baseline *and* against the expected cost of alternative inaction, making precaution-cascade and dismissal-cascade failure modes equally visible | Sunstein's anti-catastrophe framework; Kuran-Sunstein cascade analysis; EU AI Act risk-assessment obligations; NIST AI RMF methodology |
+| 7 | **Transparency and public reporting** | The rule's operation is legible to non-specialists in near-real time; compliance and deviation are public knowledge | Swiss federal-finance-administration publications; NBIM quarterly disclosure; EU AI Act transparency obligations; California SB 53 transparency reports |
+| 8 | **Sunset plus scheduled review** | The rule itself is time-bounded and must be actively reauthorized on a credible schedule, with evidentiary review included in the reauthorization process | U.S. sunset-clause empirical record (mixed but informative); recommended but *not* yet present in EU AI Act and SB 53; Norway ethical-guidelines review cycle (imperfect working model) |
+| 9 | **Distributional-incidence review** | The rule's effects across groups must be measured and reported, not just its aggregate effects; distributional labeling is a required output (see Deliverable 5) | Scheve-Stasavage compensatory taxation findings; Argentine case as cautionary example; Rawlsian difference-principle tradition |
+
+### How the nine elements combine
+
+The elements are not a menu. They are a *mutually reinforcing architecture*:
+
+- Entrenchment (1) makes the rule hard to undo; cyclical adjustment (2) makes it possible to keep; compensation (3) makes deviations tractable; escape clauses (4) make it legitimate; oversight (5) makes it credible; risk-risk analysis (6) makes it defensible; transparency (7) makes it legible; sunset (8) makes it correctable; distributional incidence (9) makes it survivable in political economy terms.
+- Omitting any single element creates a known failure mode. An entrenched rule without escape clauses becomes rigid; an escape-heavy rule without compensation becomes ratchet-prone in reverse; an oversight-free rule lacks credibility; a sunset-free rule drifts; and so on.
+- The five working national precedents (Switzerland, Sweden, Canada, Norway, Alaska) each implement most but not all of the nine. Switzerland is the nearest to a full implementation; Sweden has the strongest oversight and distributional-incidence integration; Norway has the strongest entrenchment and transparency; Alaska has the strongest popular-legitimacy mechanism.
+
+### What this doctrine is and is not
+
+- It is **not libertarian.** It permits the full range of public-interest intervention; it only specifies the institutional form in which that intervention is durable.
+- It is **not progressive** in the sense of committing to a particular redistribution program. It is a design framework compatible with a range of substantive programs, including substantial welfare commitments and substantial market activity.
+- It is **not technocratic** in the sense of delegating substantive judgment to expert bodies. It does entrust rule-compliance monitoring to independent institutions, but substantive decisions remain political.
+- It **is** a commitment to treating institutional design as load-bearing rather than incidental. The project's Round 2 position was that institutional design is the dispositive variable for whether public-interest governance succeeds or fails; the nine-element doctrine is what that commitment looks like in operational form.
+
+---
+
+## Deliverable 4 — Frontier-AI worked example
+
+### Why AI governance is the cleanest test case
+
+Frontier AI governance is the contemporary policy area where the nine-element doctrine can be most clearly evaluated. The [AI Catastrophic-Risk digest](../../sources/source-ai-existential-risk-digest.md) establishes the technical basis for anti-catastrophe-narrow regulation; the [AI Governance Practice digest](../../sources/source-ai-governance-practice-digest.md) documents what the world has actually built in 2024–2026. A like-for-like evaluation follows.
+
+### Element-by-element evaluation of the current frontier-AI regulatory landscape
+
+| # | Element | Current status (April 2026) | Gap |
+|---|---|---|---|
+| 1 | Rule-level entrenchment | **Partial.** EU AI Act is a regulation (binding, directly applicable); California SB 53 is statute; U.S. federal posture volatile across administrations | U.S. federal legislation remains absent |
+| 2 | Capacity-indexed adjustment | **Present.** Both EU (10^25 FLOPS GPAI threshold) and California (10^26 FLOPS frontier threshold) use compute-indexed tiering | Thresholds may become obsolete quickly; mechanism for threshold update is underspecified |
+| 3 | Compensation/accounting mechanism | **Absent.** No incident-accounting framework that tracks cumulative deviations or feeds back into rule adjustment | Major gap |
+| 4 | Escape clauses with compensation | **Partial.** EU AI Act provides limited exceptions; SB 53 has federal-deference mechanism | Escape without compensation-obligation risks the "governed escape becomes fiction" failure mode |
+| 5 | Independent oversight institution | **Partial but strong.** EU AI Office, U.S. AISI (status reduced post-2025 reorganization), U.K. AISI active | U.S. federal oversight has been destabilized by executive-order volatility |
+| 6 | Mandatory risk-risk analysis | **Present in form.** NIST AI RMF provides methodology; EU AI Act requires risk assessment | Practice varies substantially by actor; no authoritative cross-jurisdiction standard yet |
+| 7 | Transparency and reporting | **Strong and improving.** EU transparency obligations (Aug 2026); SB 53 transparency + incident reporting; voluntary commitments by major labs | Small-scale and open-source actors less well covered |
+| 8 | Sunset plus scheduled review | **Weak.** EU AI Act has 2028 and 2031 Commission evaluations but no automatic sunset; SB 53 similarly | Meaningful gap — the frameworks may drift into permanence without scheduled recalibration |
+| 9 | Distributional-incidence review | **Minimal.** Compliance-cost impacts on small developers partly addressed; distributional impacts on affected populations underdeveloped | Major gap |
+
+### Project-voice recommendation for frontier-AI governance
+
+The proposed doctrine suggests the world's 2024–2026 AI-governance efforts are directionally correct but structurally incomplete. Specifically:
+
+1. **Add a compensation/accounting mechanism (Element 3).** Incident reports should feed a shared ledger that both adjusts rule calibration and accumulates empirical evidence for future threshold updates.
+2. **Add mandatory sunset plus review (Element 8).** Every major regulatory provision should carry a scheduled reauthorization (suggested: 5 years) tied to evidence review by the relevant oversight institution.
+3. **Add distributional-incidence review (Element 9).** Effects on AI-using workers, disadvantaged populations, and civil-society capacity should be measured alongside effects on frontier developers. Both halves of the "AI ethics vs. AI safety" debate are then addressed under a single framework.
+4. **Strengthen escape-clause compensation (Element 4).** Governed exceptions (e.g., for national-security research) should carry a compensation obligation — for example, equivalent transparency requirements on a delayed schedule, or incident-reporting obligations on a narrower scope.
+5. **Stabilize U.S. federal oversight (Element 5).** The project's position should explicitly support durable, legislation-based oversight institutions (a statutorily authorized AISI-equivalent with appropriation independence) rather than executive-order-based arrangements that rescind across administrations.
+
+This package is a recommendation, not a legislative draft. It sits at the policy-framework level and could anchor a follow-up exchange or a dedicated public-facing project artifact.
+
+### What the AI worked example demonstrates for the doctrine overall
+
+- The doctrine is not Swiss-specific or fiscal-specific. It applies to a technology-governance domain with no common fiscal architecture and produces specific, actionable recommendations.
+- The doctrine distinguishes *directionally correct but incomplete* regimes (EU AI Act, California SB 53) from *structurally deficient* regimes (a purely voluntary or purely prohibitory approach). Both extremes fail the nine-element test.
+- The doctrine is not "the Swiss debt brake copied everywhere." Each element has a functional purpose; each element can be operationalized differently in different domains, and the doctrine's value is the mutual-reinforcement logic rather than any particular instance.
+
+---
+
+## Deliverable 5 — Distributional-incidence addendum
+
+### The Argentine insight restated as a general rule
+
+The [Argentina under Milei digest](../../sources/source-argentina-milei-reforms-digest.md) demonstrated that macroeconomic success of a bounded-governance intervention does not automatically translate to political support. The Argentine fiscal consolidation has achieved on its stated terms (primary surplus, disinflation, investment recovery), and yet approval has fallen to historic lows because the *distributional incidence* of the adjustment has been regressive.
+
+Stated as a doctrinal rule:
+
+> **Rule 9 (distributional-incidence):** A bounded-governance rule is not fully specified until its distributional incidence is measured and reported. A rule whose aggregate arithmetic is correct but whose distributional incidence falls disproportionately on less politically durable populations is not a durable rule, regardless of its fiscal or technical success.
+
+### Why this belongs in the doctrine, not outside it
+
+Three reasons:
+
+1. **Evidence.** The comparative-cases cluster (Canada 1990s, Sweden 1990s, NZ 1984) already showed that *distributional design is decisive for political sustainability*. Canada's consolidation survived because distribution was broad and Medicare was protected; NZ's reformers paid the largest political cost because distribution concentrated on public-sector workers and benefit recipients. The pattern repeats in Argentina.
+2. **Philosophy.** Both the Rawlsian tradition (Principle 5's compatibility with the difference principle) and the Scheve-Stasavage compensatory-taxation literature require that distributional incidence be part of the moral evaluation of a rule, not an external addendum to it.
+3. **Political economy.** A rule that cannot survive its first electoral cycle is a rule with undiscounted entrenchment value. Distributional-incidence review is the mechanism that aligns entrenchment with survivability.
+
+### Operational guidance
+
+A distributional-incidence review should produce, at minimum:
+
+- An **incidence table** — who bears the direct, secondary, and long-run costs of the rule, measured across income quintiles (or other policy-relevant groups: age, geography, race/ethnicity, sector of employment).
+- An **incidence explanation** — whether the distribution is intentional (the rule is redistributive by design), incidental (the distribution emerges from technical mechanics), or problematic (the distribution produces unintended regressive effects that warrant compensating side measures).
+- A **compensatory-design note** — where incidence is problematic, what compensating side measures are included in the proposal.
+
+The review does not require a particular distributional outcome. It requires that the outcome be visible, explicit, and defended on the merits rather than hidden in aggregate metrics.
+
+### Integration with the other eight elements
+
+- Compensation/accounting (Element 3) and distributional incidence (Element 9) are companion mechanisms. Aggregate compensation tracks the rule's fiscal-arithmetic trajectory; distributional-incidence tracks its political-economic trajectory. Both are needed.
+- Transparency and reporting (Element 7) is the publication vehicle for distributional-incidence review; the review's findings become part of the rule's ongoing public record.
+- Risk-risk analysis (Element 6) evaluates the rule against alternatives; distributional-incidence review evaluates the rule against the baseline and against the question "who pays." The two analyses together constitute the rule's full justification.
+
+---
+
+## What this exchange now commits to
+
+At the exchange's conclusion, the project's position on the Friedberg-style challenges is:
+
+1. **The ratchet problem is real but decomposable.** The five-ratchet typology (scope / commitment / cascade / drift / concentration) distinguishes failure modes. Several working institutional precedents (Sweden, Switzerland, Canada, New Zealand, Norway, Alaska) have arrested or reversed specific ratchets without collapsing the state. Friedberg's strongest concerns are about a ratchet-driven expansion without bounded-rule discipline; that concern is addressed by the nine-element doctrine, not dismissed.
+
+2. **Ownership persists under abundance, with differentiated moral weight across six categories.** (The taxonomy's five-plus-one categories: personal autonomy / civic-commons / innovation / ecological-ceiling / transitional-productive / collective-dividend.) Ownership does not simply dissolve into collective abundance; it changes character, with different moral weight for each category and different implications for policy. The project neither endorses nor rejects ownership in the abstract.
+
+3. **Democratic process is genuinely vulnerable to capture — through five identifiable mechanisms — and institutional design is the dispositive response.** The five mechanisms are rational irrationality (Caplan), elite dominance (Gilens-Page), policy drift (Hacker-Pierson), information gaps (Bartels), and availability cascades (Kuran-Sunstein). The response is not "trust democracy less" but "design institutions that work alongside democracy to preserve inclusiveness *and* bounded rules."
+
+4. **The dispositive variable for whether public-interest governance succeeds is institutional inclusiveness with bounded rules, not state scale.** Supported by Acemoglu-Robinson, Rodrik, Heritage-Fraser's own data (Nordic paradox), and the cross-cutting comparative-case evidence.
+
+5. **Bounded governance is operationally specifiable as a nine-element doctrine.** The doctrine is empirically grounded in at least five working national instances and is directly applicable to a contemporary policy domain (frontier AI) as the Round 3 worked example demonstrates.
+
+6. **Distributional incidence is a constitutive element of the doctrine, not an addendum.** Rules whose arithmetic is correct but whose distribution is regressive are not durable rules. This is a lesson from Argentina 2023–2026 as well as from the longer historical record.
+
+---
+
+## What comes next — recommended follow-up work
+
+Round 3 closes the synthesis phase of the exchange. What remains is for the steward to decide how each deliverable lands in the project's core documents. Recommended follow-up exchanges:
+
+| # | Exchange | Purpose | Entry cost |
+|---|---|---|---|
+| F1 | **Principle 5 revision** | Move the proposed revised text (Deliverable 1) into [PRINCIPLES.md](../../PRINCIPLES.md) after adversarial review and steward voice edit | Small — one focused exchange, ~2 rounds |
+| F2 | **Ownership taxonomy → Systems Framework** | Formalize the six-category taxonomy (Deliverable 2) in [SYSTEMS_FRAMEWORK.md](../../SYSTEMS_FRAMEWORK.md) and evaluate its implications for [Problem Map](../../PROBLEM_MAP.md) domains 2 and 10 | Medium — 2–3 rounds, including practitioner input where feasible |
+| F3 | **Bounded-governance doctrine → public artifact** | Turn the nine-element doctrine (Deliverable 3) into a public-facing project artifact (a second proof-of-usefulness memo or a dedicated doctrine document) | Medium-large — requires careful voice and presentation work |
+| F4 | **Frontier-AI governance framework** | Develop the AI worked example (Deliverable 4) into a standalone project position on AI governance, potentially feeding back into [Exchange #11](ai-commonwealth-vs-governance-exchange.md) | Large — this is arguably a full policy-framework effort |
+| F5 | **Housing-reform position statement** | Incorporate the Round 2 sector-specific Perry-chart decomposition (concede housing to supply-side reform; address healthcare via concentration/administrative-overhead) into a focused housing position, possibly feeding [Exchange #10](housing-financialization-upstream-capture-exchange.md) and the existing [Permitting Stack exchange](permitting-stack-recursive-uplift-exchange.md) | Medium — connects to in-flight proposal development |
+| F6 | **Distributional-incidence protocol** | Formalize Deliverable 5 as a project-wide protocol alongside the existing [Adversarial Review](../process/adversarial-review-protocol.md), [Coherence Audit](../process/coherence-audit-protocol.md), and [Historical Parallel Test](../process/historical-parallel-test-protocol.md) protocols, so that future proposals carry distributional-incidence review as a default step | Small-medium — one focused exchange |
+
+The steward need not spawn all six. F1 is the highest-priority structural change; F3 is the highest-leverage public-facing opportunity; F6 is the smallest-cost process institutionalization that would carry the most other deliverables automatically forward.
+
+---
+
+## Epistemic status of Round 3's claims
+
+| Claim | Confidence | Basis | What would change this |
+|---|---|---|---|
+| Revised Principle 5 text better fits the exchange's conclusions than the current text | Working hypothesis, strongly supported | Rounds 1–2 synthesis; evidence base across 51 digests | Adversarial review identifying a consequential commitment that the new text loses |
+| Six-category ownership taxonomy is complete and disjoint for policy purposes | Working hypothesis, medium confidence | Round 2 + Round 2 addendum; cross-checked against Scanlon, Nozick, Keynes, Ostrom, Piketty, Raworth | A domain where a policy-relevant ownership form does not fit any of the six categories |
+| Nine-element doctrine is operational, not aspirational | Established by precedent | Swiss debt brake; Swedish rules; Norway GPFG; Alaska PFD; EU AI Act + SB 53 as partial implementations | Implementation failures showing that the elements do not combine as the doctrine claims |
+| Bounded governance is politically available in 2026 conditions | Established with caveats | Multiple working precedents; several in active political systems | A systematic failure pattern showing that outside Switzerland-Sweden-Norway-type conditions the doctrine does not transfer |
+| Frontier-AI governance is directionally correct but structurally incomplete | Established by audit | Element-by-element review; cross-jurisdiction comparison | Evidence that missing elements (compensation, sunset, distributional incidence) do not materially affect regime performance |
+| Distributional incidence is constitutive of durable bounded-governance rules | Established by evidence | Argentina; comparative-cases cluster; Scheve-Stasavage; Rawlsian tradition | A working regime with sustained political survival despite overtly regressive distribution |
+| Principle 5's inclusive-plus-bounded pairing is neither libertarian nor progressive | Established by reasoning | Acemoglu-Robinson framework; Rodrik pluralism; Nordic cases fit the commitment without fitting either label | A consistent libertarian-or-progressive reading that the exchange has missed |
+
+---
+
+## A closing note on tone
+
+The steward's April 2026 directional commitment ("Civic Blueprint must lead with hope") remains load-bearing. Round 3's synthesis honors that commitment in a disciplined form: the exchange has taken seriously the strongest contemporary adversarial challenge to public-interest governance, worked through fifty-one curated sources across eight sub-debates, declined what is incorrect, conceded what is correct, and produced five concrete design deliverables that the project can defend on the merits.
+
+The final story is coherent and honest. Abundance is reachable without dissolving ownership; ownership itself changes character across categories as abundance arrives; democracy is vulnerable to capture through known mechanisms and can be defended through bounded-governance design; that design is not theoretical but empirically grounded in working national and supranational instances; its extension to frontier AI is legible and actionable; and its distributional incidence is a constitutive element rather than an afterthought. The project can tell this story with evidence and without hedge, which is what leading with hope looks like when hope has to earn its place against rigorous challenge.
+
+That is what this exchange has done. Over to the steward.

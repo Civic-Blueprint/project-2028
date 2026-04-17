@@ -8,7 +8,7 @@ description: Recommended next steps drawn from exchange findings and steward dec
 >
 > **Source:** Active items below are drawn from the exchange corpus (21 exchanges registered in the [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md)). The six original recommendations from [Exchange #7 — Feedback Timescale Review](agent/exchanges/proof-of-usefulness-feedback-timescale-review.md) remain the backbone; subsequent exchanges have added specific extensions now reflected here.
 >
-> **Last updated:** April 2026. Refreshed with a full coherence audit against the exchange corpus (see [Coherence Audit Protocol](agent/process/coherence-audit-protocol.md)).
+> **Last updated:** April 2026. Refreshed after [Exchange #21 Round 3 synthesis](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-3) — the five Round 3 deliverables are recorded in the exchange, and the follow-up decisions they imply are now surfaced as high-priority TODOs. Prior refresh: full coherence audit against the exchange corpus (see [Coherence Audit Protocol](agent/process/coherence-audit-protocol.md)).
 
 ---
 
@@ -18,10 +18,14 @@ These are the decisions or actions that currently block downstream work. Everyth
 
 ### High priority (unblocks multiple workstreams)
 
-1. **Pick the next move on Exchange #21 (Government Overreach / Ownership / Ratchet).** Round 2 stress-tested against 43 digests; a second research sweep (April 2026) closed all five Round 2 data gaps with 7 new digests, so Round 3 is now fully resourced. Decision needed:
-   - **(a)** write Round 3 synthesis now (against the 51-digest corpus), producing: revised Principle 5 draft in inclusive-institutions-with-bounded-rules vocabulary, the five-category ownership taxonomy note, the nine-element bounded-governance doctrine note, a frontier-AI worked example, and a distributional-incidence addendum; **or**
-   - **(b)** skip a single Round 3 and spawn follow-up exchanges for each deliverable (Principle 5 revision, ownership taxonomy, bounded-governance doctrine, housing-reform statement, AI-governance framework).
-   - See [Round 2 addendum](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-2-addendum--data-gaps-closed-april-2026) for full framing. This decision gates potentially substantial edits to [Principle 5](PRINCIPLES.md#5-critical-systems-require-public-interest-governance).
+1. **Decide which Exchange #21 follow-up exchanges to spawn (F1–F6).** Round 3 synthesis is complete: five deliverables are now in [Exchange #21 Round 3](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-3) — (D1) revised Principle 5 draft, (D2) six-category ownership taxonomy, (D3) nine-element bounded-governance doctrine, (D4) frontier-AI worked example, (D5) distributional-incidence addendum. Each deliverable is a proposal-to-the-steward, not an adopted change. The next decision is which follow-up exchanges to open to carry each deliverable into the project's core documents or public artifacts:
+   - **F1 — Principle 5 revision.** Adversarial review + steward voice edit on the proposed text; then integrate into [PRINCIPLES.md §5](PRINCIPLES.md#5-critical-systems-require-public-interest-governance). Smallest, highest-structural-priority.
+   - **F2 — Ownership taxonomy → [SYSTEMS_FRAMEWORK](SYSTEMS_FRAMEWORK.md).** Formalize the six-category taxonomy and evaluate implications for [Problem Map](PROBLEM_MAP.md) Domains 2 and 10.
+   - **F3 — Bounded-governance doctrine → public artifact.** Turn the nine-element doctrine into a public-facing memo or dedicated doctrine document.
+   - **F4 — Frontier-AI governance framework.** Develop the AI worked example into a standalone project position, feeding back into [Exchange #11](agent/exchanges/ai-commonwealth-vs-governance-exchange.md).
+   - **F5 — Housing-reform position statement.** Consolidate Round 2's sector-specific decomposition + Memo 01 → feeds [Exchange #10](agent/exchanges/housing-financialization-upstream-capture-exchange.md) and [Exchange #14](agent/exchanges/permitting-stack-recursive-uplift-exchange.md).
+   - **F6 — Distributional-incidence protocol.** Formalize Deliverable 5 as a new entry in [`agent/process/`](agent/process/) alongside Adversarial Review, Coherence Audit, and Historical Parallel Test — so all future proposals inherit distributional-incidence review as a default step.
+   - Recommended minimum: F1 (structural) + F6 (low-cost process leverage). Recommended full set: F1 + F3 + F6. See the [Round 3 "What comes next" section](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#what-comes-next--recommended-follow-up-work) for rationale and relative cost.
 
 2. **Decide on Exchange #16 (P-004/P-107 vs. P-053).** A head-to-head comparative analysis of the two strongest proposal candidates is open. This is a sequencing commitment for Recommendation 4 (fast-feedback validation case). Picking one (or an explicit sequence of both) determines which proposal gets development effort next and which practitioners are routed toward which exchanges per Exchange #17 Priority 7. See [Exchange #16](agent/exchanges/starting-proposal-comparative-review.md).
 
@@ -176,13 +180,19 @@ The decomposition and the honest assessment of which layers are currently suppor
 
 ### Government Overreach / Ownership / Ratchet (Exchange #21)
 
-**Status: Round 2 + targeted second research sweep complete; Round 3 ready.**
+**Status: Rounds 1–3 complete; synthesis recorded; follow-up exchange menu pending steward decision.**
 
 - Source corpus: 51 digests (1 anchor + 50 curated) in [sources/SOURCE_INDEX.md](sources/SOURCE_INDEX.md), covering eight sub-debates with balanced viewpoint coverage.
 - Round 2 produced: five-ratchet typology, four-category ownership taxonomy, five-mechanism democratic-capture inventory, institutional-inclusiveness reframing of Principle 5, sector-specific Perry-chart decomposition, nine-element bounded-governance design package.
 - Second research sweep (April 2026) closed all five Round 2 gaps: Argentina/Milei; Canada/Sweden/NZ fiscal-consolidation cases; AI catastrophic-risk literature; AI governance practice; cooperatives and platform coops; sovereign wealth funds; Swiss direct democracy.
-- [Round 2 addendum](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-2-addendum--data-gaps-closed-april-2026) records what the new evidence shifts: ownership taxonomy expands to five categories (adds collective-dividend); design package is empirically grounded in five working national instances; democratic contraction is empirically possible but requires a fiscal-crisis enabling condition; direct democracy is a useful entrenchment mechanism not a universal policy instrument; distributional incidence matters decisively for political sustainability.
-- **Next step: TODO #1** — decide between a single Round 3 synthesis or spawned follow-up exchanges.
+- [Round 2 addendum](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-2-addendum--data-gaps-closed-april-2026) records what the new evidence shifts.
+- **[Round 3 synthesis](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-3) (April 2026) produced the five commissioned deliverables:**
+  - **D1** — Proposed revised Principle 5 text (inclusive institutions with bounded rules; ownership and governance separated; five canonical working precedents cited in practice paragraph).
+  - **D2** — Six-category ownership taxonomy with formal definitions, test questions, moral-weight reasoning, and policy implications (personal-autonomy / civic-commons / innovation / ecological-ceiling / transitional-productive / collective-dividend).
+  - **D3** — Nine-element bounded-governance doctrine (entrenchment / cyclical adjustment / compensation / escape clauses / independent oversight / risk-risk analysis / transparency / sunset / distributional incidence) with canonical precedents.
+  - **D4** — Frontier-AI worked example applying the doctrine element-by-element; identified structural gaps (missing compensation/accounting, sunset, distributional-incidence review) and specific project-voice recommendations.
+  - **D5** — Distributional-incidence addendum elevating distributional review from addendum to constitutive element of any bounded-governance rule, with operational guidance.
+- **Next step: TODO #1** — decide which of the six follow-up exchanges (F1–F6) to spawn.
 
 ### Formation Document Comparative Analysis (Exchanges #18 → #19)
 
@@ -266,7 +276,7 @@ Independent tracks:
   ├─► Website-submission triage: #9, #10, #11 (all active, need disposition) ← TODO #5
   ├─► Formation-document track: #18 → #19 (needs constructive round) ← TODO #7
   ├─► Social Slop: #20 (opening only) ← TODO #6
-  └─► Government Overreach / Ratchet: #21 (Round 2 + second sweep complete) ← TODO #1
+  └─► Government Overreach / Ratchet: #21 (Rounds 1–3 synthesized; five deliverables; F1–F6 follow-ups pending) ← TODO #1
 ```
 
 ---
