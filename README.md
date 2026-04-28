@@ -62,6 +62,9 @@ The project is built on four interconnected documents:
 - **[Principles](PRINCIPLES.md)**  
   Seventeen foundational commitments — from dignity and essential needs to AI governance, ecological limits, justice, legitimate collective power, and expanding moral consideration.
 
+- **[Foundational Commitments](FOUNDATIONAL_COMMITMENTS.md)**  
+  Operational companion to Principles. Per principle, specifies what the commitment binds the project to, what counts as meeting it, the conditions and caveats, and the anti-misuse clauses. Commitment 5 (inclusive + bounded governance of critical systems) is the first section populated in full, derived from [Exchange #21 Round 5](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-5); the others will be populated as their dedicated exchanges complete.
+
 - **[Problem Map](PROBLEM_MAP.md)**  
   A layered diagnostic of where systems are failing, why they stay broken, and who benefits from the status quo.
 
@@ -75,6 +78,9 @@ The project is built on four interconnected documents:
 
 - **[Proposal Catalog](proposals/PROPOSAL_CATALOG.md)**  
   135 concrete reform proposals across all 15 [Problem Map](PROBLEM_MAP.md) domains, generated through a 30-round autonomous agent stress test ([Exchange #13](agent/exchanges/autonomous-proposal-generation-stress-test.md)). Each proposal is individually listed for steward review, feedback, and further brainstorming. AI-generated hypotheses, not endorsed positions.
+
+- **[Doctrine Index](agent/doctrine/_DOCTRINE_INDEX.md)**  
+  The HOW layer — adopted operational frameworks that have survived adversarial review and been promoted out of their originating exchange. Currently empty by design; the bounded-governance doctrine from [Exchange #21](agent/exchanges/government-overreach-ownership-ratchet-exchange.md) is the first planned entry via [Roadmap follow-up F3](ROADMAP.md).
 
 - **[Formation Documents Analysis](formation-docs/README.md)**  
   The `project-2028` analysis workspace for comparing Civic Blueprint's principles against constitutions, charters, declarations, and organizational founding texts. Retained source texts now live in [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs).

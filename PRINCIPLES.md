@@ -14,6 +14,8 @@ The steward and contributors behind this document are aware that writing princip
 
 These principles will change. Not might change — _will_ change, as engagement with more diverse perspectives reveals blind spots, cultural assumptions, and power dynamics that the current synthesis cannot yet see from where it stands. The project values being wrong and correcting course more than it values being right the first time.
 
+**Operational companion.** This document states the commitments in short, outcome-level form. The operational specificity — what it takes to meet each commitment, what would count as violating it, and what misuse looks like — lives in the companion document [FOUNDATIONAL_COMMITMENTS.md](FOUNDATIONAL_COMMITMENTS.md). The separation is intentional: Principles specify the WHAT; Foundational Commitments specifies what it takes to meet the WHAT; [SYSTEMS_FRAMEWORK.md](SYSTEMS_FRAMEWORK.md) and adopted doctrine describe the space of HOWs. Principles should be read as a public-facing commitment document; Foundational Commitments should be read alongside it when evaluating specific reform proposals.
+
 External comparative pressure on this document is now also being tracked through the [formation-docs analysis workspace](formation-docs/README.md), while the retained source corpus itself lives in [`external-formation-docs`](https://github.com/Civic-Blueprint/external-formation-docs). Together they assemble constitutions, charters, declarations, and organizational founding texts to test overlap, divergence, and possible gaps in the current principles.
 
 ---

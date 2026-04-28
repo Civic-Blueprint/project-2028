@@ -6,7 +6,7 @@ description: Forward-looking steward decisions and open project tracks. Complete
 
 > **Purpose:** This document shows only what needs steward attention next. Completed items are moved to [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md) so the live roadmap stays clean and scannable.
 >
-> **Last updated:** April 2026, after [Exchange #21 Round 5](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-5) adversarial-review integration. Completed items (Exchange #7 Recommendations 1 and 3; Exchange #21 Rounds 1–5 historical detail) have been moved to the archive.
+> **Last updated:** April 2026, after the [FOUNDATIONAL_COMMITMENTS.md](FOUNDATIONAL_COMMITMENTS.md) companion document (Thread B) and the [Reviewer Packet](docs/REVIEWER_PACKET_TEMPLATE.md) + [Reviewer-as-a-Round Convention](docs/REVIEWER_AS_A_ROUND_CONVENTION.md) (Thread F) were adopted. TR1/TR2 framing has been updated to match the Thread E scoping. Threads B, D, and F-packet have been archived; see [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md). Prior entry: [Exchange #21 Round 5](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-5) adversarial-review integration.
 
 ---
 
@@ -41,17 +41,19 @@ description: Forward-looking steward decisions and open project tracks. Complete
 
 ### New tracks introduced by Exchange #21 Round 5
 
-9. **TR1 — Bounded-governance transferability research sweep.** Round 4 established that the nine-element doctrine (now ten-feature doctrine) is grounded in an unrepresentative reference class (Switzerland, Sweden, Norway, Alaska + two supranational regimes — small/high-trust/wealthy). Transfer to large heterogeneous polities is unresolved. A third research sweep targeting India, Brazil, South Africa, Indonesia institutional-design experience, plus four rule-failure cases (ECB / Eurozone 2010–12; German debt brake during COVID; U.S. statutory PAYGO; California Prop 13), would close the gap before F3 is taken public. See [Round 4 challenge 3a–3b](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-4) and [Round 5 implications](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#implications-for-the-roadmap).
+9. **TR1 — Bounded-governance transferability + perspective-gap research sweep.** (Broadened per Thread E.) Round 4 established that the ten-feature doctrine is grounded in an unrepresentative reference class (Switzerland, Sweden, Norway, Alaska + two supranational regimes — small/high-trust/wealthy). Transfer to large heterogeneous polities is unresolved. A third research sweep now covers two tracks: (a) institutional-design experience in India, Brazil, South Africa, Indonesia, plus four rule-failure cases (ECB / Eurozone 2010–12; German debt brake during COVID; U.S. statutory PAYGO; California Prop 13) — closes before F3 goes public; (b) perspective-gap sources — Global South constitutional scholarship (Baxi, Khilnani, Nino, Mamdani), community-organizer theory (Piven, Alinsky, Ganz, McAlevey), non-Western institutional traditions (Chatterjee, Nandy, Scott, Ostrom cross-cultural), AI-safety-skeptical technologists (d/acc, differential acceleration, open-source movement) — closes before F1 and F4 go public. See [Round 4 challenge 3a–3b](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-4), [Round 5 implications](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#implications-for-the-roadmap), and [Thread E](ROADMAP_ARCHIVE.md#thread-e--sources-vs-live-humans-resolved-as-e1e2-scoping) for the scoping rationale.
 
-10. **TR2 — External human reviewer commitment for F1–F6.** Round 4's biggest win: the entire Government Overreach / Ownership / Ratchet synthesis is LLM-produced inside one steward's context window. No practitioners, community organizers, non-Western constitutional scholars, or beneficiaries of bounded-rule regimes have participated. [Adversarial Review Protocol §4](agent/process/adversarial-review-protocol.md#4-seek-human-reviewers-who-are-not-the-project-steward) calls for this explicitly. Commitment: at least one external human reviewer participates in each of F1, F3, F4 before those exchanges are closed. F2 and F6 can be closed without external review if F1 and F3 carry reviewers whose input informs them; F5 should fold into the existing [Exchange #17 practitioner critique](agent/exchanges/first-practitioner-critique-ai-provenance-exchange.md) lane.
+10. **TR2 — External human reviewer commitment for F1, F3, F4 (legitimacy + practitioner feasibility only).** (Narrowed per Thread E.) Analytical-improvement review is handled by source expansion under TR1; live human review is reserved for what sources cannot provide — dialogic negation, unknown-unknowns, tacit practitioner knowledge, and legitimacy. **Instruments now available:** [Reviewer Packet Template](docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](docs/REVIEWER_AS_A_ROUND_CONVENTION.md). Commitment: at least one external human reviewer, invited under the packet, participates in each of F1, F3, F4 before those exchanges are closed. F2 and F6 close on F1/F3 reviewer input. F5 folds into the existing [Exchange #17 practitioner critique](agent/exchanges/first-practitioner-critique-ai-provenance-exchange.md) lane. See also TODO #11 below for the first recruit.
 
-11. **Adopt the "replacement over addition" default for bounded-governance proposals.** Round 5 promoted Round 4's challenge 4a (the AI package is a regulatory ratchet) from local finding to project-level default: any bounded-governance proposal that is net-additive rather than replacement-and-sunset must carry an explicit justification (asymmetric-risk, irreducible coordination, explicit exception). This belongs in Systems Framework or a dedicated doctrine note.
+11. **Use the Reviewer Packet to recruit the first live reviewer.** The packet and the convention are drafted but have not yet been used against a live invitation. Target: recruit *at least one* live reviewer for F1, F3, or F4 (preferred order F3 → F1 → F4 based on where legitimacy review has the highest marginal value). First-use notes should be folded back into both documents' changelogs; the packet and convention are provisional until they have survived a live cycle. Steward judgment required: which relationship to recruit from, and which review type to request. See the [Reviewer Packet "First use" section](docs/REVIEWER_PACKET_TEMPLATE.md#first-use).
+
+12. **Adopt the "replacement over addition" default for bounded-governance proposals.** Round 5 promoted Round 4's challenge 4a (the AI package is a regulatory ratchet) from local finding to project-level default: any bounded-governance proposal that is net-additive rather than replacement-and-sunset must carry an explicit justification (asymmetric-risk, irreducible coordination, explicit exception). This belongs in Systems Framework or a dedicated doctrine note.
 
 ### Background / ongoing
 
-12. **Recommendation 6 (revise the internal description of recursive uplift).** Not yet started. The three-layer decomposition (execution / trust / sequence) from Exchange #7 needs to be written into [SYSTEMS_FRAMEWORK.md](SYSTEMS_FRAMEWORK.md) or a dedicated theory-specification note. Informed by: Exchange #12 (housing literature offers no support for Layer 2 cascade); Exchange #17 (entry-trust as load-bearing); Exchange #21 Round 5 (bounded-governance doctrine as the proposed architecture under which recursive-uplift claims sit).
+13. **Recommendation 6 (revise the internal description of recursive uplift).** Not yet started. The three-layer decomposition (execution / trust / sequence) from Exchange #7 needs to be written into [SYSTEMS_FRAMEWORK.md](SYSTEMS_FRAMEWORK.md) or a dedicated theory-specification note. Informed by: Exchange #12 (housing literature offers no support for Layer 2 cascade); Exchange #17 (entry-trust as load-bearing); Exchange #21 Round 5 (bounded-governance doctrine as the proposed architecture under which recursive-uplift claims sit).
 
-13. **Recommendation 5 (publish the pre-evidence integration note).** Partially started. Content provenance is live; evidence-interpretation commitments are not yet published as a dedicated note.
+14. **Recommendation 5 (publish the pre-evidence integration note).** Partially started. Content provenance is live; evidence-interpretation commitments are not yet published as a dedicated note.
 
 ---
 
@@ -142,11 +144,12 @@ TODO #5 (#9/#10/#11 triage) ──► independent
 TODO #6 (#20 Social Slop) ──► potential Principle 14 / PM §3 edit
 TODO #7 (#19 response round) ──► formation-doc corpus integrity
 TODO #8 (#7/#12 memo pushback) ──► potential Memo 01 revision
-TODO #9 (TR1 research) ──► unblocks F3 public artifact
-TODO #10 (TR2 reviewers) ──► standing prerequisite for F1/F3/F4 closure
-TODO #11 (replacement-over-addition default) ──► SF or doctrine-note edit
-TODO #12 (Recursive uplift theory spec) ──► SF edit
-TODO #13 (Pre-evidence integration note) ──► standalone note
+TODO #9 (TR1 transferability + perspective-gap research) ──► unblocks F1, F3, F4 analytical improvement
+TODO #10 (TR2 legitimacy + practitioner-feasibility review) ──► standing prerequisite for F1/F3/F4 closure
+TODO #11 (first live reviewer recruited under packet) ──► validates reviewer packet + convention
+TODO #12 (replacement-over-addition default) ──► SF or doctrine-note edit
+TODO #13 (Recursive uplift theory spec) ──► SF edit
+TODO #14 (Pre-evidence integration note) ──► standalone note
 ```
 
 ---
@@ -167,7 +170,13 @@ TODO #13 (Pre-evidence integration note) ──► standalone note
 
 ### Session record — April 2026, after Exchange #21 Round 5
 
-Six thinking threads surfaced during a steward read-through of the Round 5 deliverables. Three of them share a single architectural answer (summarized at the bottom of this section).
+Six thinking threads surfaced during a steward read-through of the Round 5 deliverables. Status after April 2026 cleanup:
+
+- **Thread B (poetic principles + companion document)** — resolved. Adopted as [FOUNDATIONAL_COMMITMENTS.md](FOUNDATIONAL_COMMITMENTS.md). Thread archived in [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md#thread-b--poetic-principles--companion-document-resolved-as-foundational_commitmentsmd).
+- **Thread D (WHAT without HOW)** — auto-resolved by Thread B. Archived.
+- **Thread F packet + convention** — drafted. The packet ([REVIEWER_PACKET_TEMPLATE.md](docs/REVIEWER_PACKET_TEMPLATE.md)) and convention ([REVIEWER_AS_A_ROUND_CONVENTION.md](docs/REVIEWER_AS_A_ROUND_CONVENTION.md)) exist. First-use recruiting is now [TODO #11](#new-tracks-introduced-by-exchange-21-round-5). Thread archived; the still-open F2 (reviewer commitment ladder) is kept below.
+- **Thread E (sources vs. live humans)** — resolved as scoping; E1 applied to TR1, E2 applied to TR2 ([TODO #9](#new-tracks-introduced-by-exchange-21-round-5) and [TODO #10](#new-tracks-introduced-by-exchange-21-round-5)). Thread archived.
+- **Threads A and C** — still parked, below.
 
 ---
 
@@ -207,34 +216,6 @@ These are related but distinct. Combining them is a design choice, not a necessi
 
 ---
 
-#### Thread B — Poetic principles + "Bill of Rights"-style companion document
-
-**Question.** Can Principles stay poetic and short while the operational specificity (Round 5 v2 precision, mechanism requirements, anti-misuse conditions) lives in a companion document? Triggered by Round 4 challenge 1d (audience portability — Principle 5 v2 tripled the word count).
-
-**Strong yes.** This is already where Round 5 implicitly landed ("technical material moved to a companion doctrine note"). Naming it as a project-wide architectural decision is the move.
-
-**The actual gap in the project's document structure.**
-
-| Document | Character | Purpose | Status |
-|---|---|---|---|
-| `PRINCIPLES.md` | Poetic, short, outcome-level | What the project commits to | Exists |
-| **Companion — name TBD** | Operational-specificity per principle; non-negotiable outcomes; conditions; caveats; anti-misuse clauses | What the commitment binds us to; what counts as meeting it | **Missing** |
-| `SYSTEMS_FRAMEWORK.md` | Mechanism-connected; failure modes; leverage | How systems interact | Exists |
-| `agent/doctrine/` (optional new directory) | Adopted operational frameworks (bounded-governance doctrine, etc.) | How specific commitments get instantiated | Missing |
-
-**Candidate names for the companion.** `FOUNDATIONAL_COMMITMENTS.md`, `PRINCIPLES_COMMENTARY.md`, `PRINCIPLES_COMPANION.md`, or literally `BILL_OF_RIGHTS.md` if the analogy is wanted. The U.S. Bill of Rights analogy is structurally apt: Principles set the frame; the companion specifies the non-negotiable content.
-
-**What this does to Round 5 v2 Principle 5.** Splits cleanly:
-
-- *Principle 5 (poetic):* ~3–4 sentences, commitment-level. Close to current text, possibly with one phrase added about inclusiveness + bounded rules.
-- *Companion §5:* operational specification — what *inclusive* means, what *bounded* means, the form-list, the reference-class limitation, the tradition-naming.
-
-This is strictly better than the monolithic Principle 5 v2 text Round 5 produced.
-
-**Recommended next move if pursued.** Promote to a project-level decision as a single-round exchange *before* F1 opens. F1 then operates under the split: Principle 5 stays poetic; precision lands in the companion. Probably a net simplification of F1.
-
----
-
 #### Thread C — Adversarial protocol outside steward-anchored context ("Red Team Run")
 
 **Question.** Is there a protocol extension that breaks out of steward-context convergence bias within the AI pipeline? Triggered by [Round 4 bias disclosure](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#adversarial-review--round-4-agent).
@@ -260,123 +241,23 @@ This is strictly better than the monolithic Principle 5 v2 text Round 5 produced
 
 ---
 
-#### Thread D — Can we argue WHAT without HOW?
+#### Thread F-tail — Reviewer commitment ladder
 
-**Question.** [Round 4 standing question 1 finding](agent/exchanges/government-overreach-ownership-ratchet-exchange.md) said practitioner feasibility of Round 3's deliverables is *weak* because they carry no implementation pathway. Is it possible to argue WHAT we want to accomplish without prescribing HOW?
+**Question.** Beyond a one-shot packet, does the project want a ladder of reviewer engagement — single-review / multi-deliverable standing reviewer / project advisor?
 
-**Honest answer: mostly yes, with one important exception.**
+**Status.** The [Reviewer Packet Template](docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](docs/REVIEWER_AS_A_ROUND_CONVENTION.md) currently cover only the one-shot case. Multi-deliverable and advisory relationships require different attribution, different consent scope, and different coordination load. Not urgent until at least one one-shot review has been completed under the packet (TODO #11).
 
-*Clean cases.* Principles like "dignity is unconditional" or "no class of people should become structurally excluded" are pure WHAT. They constrain the space of acceptable HOWs without prescribing any particular one.
-
-*The exception.* Some outcomes are *literally meaningless* without a minimum mechanism. "Accountability" is the cleanest example. If an institution has no mechanism for being held accountable — no elections, no oversight, no complaint pathway — then "accountable to those it affects" is vacuous. You cannot commit to the WHAT without committing to the *existence* of some HOW, even if not a specific one. U.S. Bill of Rights solved this with "due process" — specifies WHAT but requires that *some* HOW exists or the WHAT is void.
-
-**The clean separation.**
-
-| Layer | Specifies | Example |
-|---|---|---|
-| Principle | WHAT | "Critical systems require institutions accountable to those they affect" |
-| Foundational Commitment (companion, per Thread B) | WHAT + minimum mechanism properties | "Accountability requires *some* mechanism for affected parties to surface complaints, *some* mechanism for response, *some* mechanism for evaluation" |
-| Doctrine | Functional requirements without naming particular forms | "Element 7 + Element 10 must include a constituent-feedback pathway with triggered remediation" |
-| Systems Framework | Mechanism form choices and their tradeoffs | "Rapid triage vs. slow consensus vs. amendment voting vs. standing ombudsman — tradeoffs" |
-| Proposal | Specific instantiation | Thread A's P-### |
-
-**This is the same structure Thread B proposes, arriving from the opposite direction.** Thread B says "keep principles poetic; put precision in a companion." Thread D says "principles can be WHAT-only if we accept some HOWs exist somewhere else." Both describe the same architectural decision.
-
-**Recommended next move if pursued.** Decide Thread B; Thread D is the theoretical justification for Thread B's structure. If Thread B is adopted, Thread D is automatically resolved.
+**Recommended next move if pursued.** After TODO #11's first review cycle is complete, draft a short ladder document — three tiers with clear scope and commitments per tier — as a companion to the reviewer packet. Can slot into `docs/` alongside the existing reviewer-focused documents.
 
 ---
 
-#### Thread E — Sources vs. live humans (revised framing of TR2)
+### How the remaining threads connect
 
-**Question.** Have I been over-stating the need for live external reviewers? The project has proven it can fetch and digest source material efficiently. Could targeted third-sweep source expansion close the "missing perspectives" gap instead?
+After the April 2026 cleanup, the live threads are **A** (rapid-feedback mechanism proposal), **C** (Red Team Run protocol), and **F-tail** (reviewer commitment ladder). They are independent of each other.
 
-**Partial concession: source expansion can close most of the *documentable* gap.**
-
-| Missing perspective I named | Source-based remediation available |
-|---|---|
-| Global South constitutional scholars | Upendra Baxi, Sunil Khilnani, Carlos Santiago Nino, Mahmood Mamdani |
-| Community organizer perspective | Frances Fox Piven, Saul Alinsky, Marshall Ganz, Arundhati Roy, Jane McAlevey |
-| Non-Western institutional traditions | Partha Chatterjee, Ashis Nandy, James C. Scott, Elinor Ostrom's cross-cultural work |
-| AI-safety-skeptical technologists | Vitalik Buterin (d/acc), Noah Smith (differential acceleration), parts of open-source movement |
-| Practitioner tacit knowledge | Harder — some memoirs exist; much is unpublished |
-| Beneficiaries of bounded-rule regimes | Ethnographic work exists (Lipsky, Soss, Brodkin, Moynihan); less direct voice |
-
-**What sources cannot fill.**
-
-1. *Dialogic negation.* A source tells you what it says. A live human can respond to *your specific argument* with a counter-argument the source could not generate.
-2. *Unknown unknowns.* Source selection is ours. Sources that would disrupt our framing are the ones we are least likely to select. A live human asks questions we do not know to ask.
-3. *Tacit practitioner knowledge.* What actually breaks in implementation; what workarounds exist; third-order effects. Mostly unwritten.
-4. *Legitimacy.* Different from analytical improvement. Project artifacts that shape public commitments benefit from *having been seen* by people outside the author's context, regardless of whether reviewers improved the analysis.
-
-**Revised recommendation (updates TR1 and TR2).**
-
-- *For F1 and F3 analytical improvement:* third research sweep on Global South institutional scholarship, community-organizer theory, non-Western legal tradition. Cheap; closes items 1–3.
-- *For F4 analytical improvement:* source-side remediation on d/acc, differential acceleration, frontier-developer-employee writing. Cheap.
-- *For F1, F3, F4 legitimacy (separately from analytical improvement):* at least one live reviewer. Irreducible case.
-- *For practitioner-feasibility claims anywhere:* live practitioners. Not substitutable.
-
-**What this changes in the roadmap.**
-
-- TR1 (bounded-governance transferability research sweep) should be broadened to include the perspective gaps above.
-- TR2 (external human reviewer commitment) should be narrowed to (a) practitioner feasibility for F3/F4 and (b) legitimacy review for F1/F3/F4 public artifacts.
-
-Neither change is made yet — this is parked pending steward decision.
-
----
-
-#### Thread F — Onboarding external human reviewers at our pace
-
-**Question.** If TR2 is real, how do we actually invite and onboard people when we move in hours-to-days and they will take weeks?
-
-**Honest answer: we do not try to match our pace. We give them narrow scope + async format.**
-
-**Onboarding friction is real.** Project corpus is ~21 exchanges, 51 source digests, four normative documents, growing. Asking any external reviewer to catch up before contributing is unrealistic and signals project dysfunction.
-
-**Structure that works.**
-
-| Element | Design | Why |
-|---|---|---|
-| Scope | One deliverable, one question, one-week response window | Keeps ask tractable |
-| Packet | 1-page project intro + specific deliverable (2–5 pages) + 3 focused questions + "ignore everything else" | Respects reviewer time |
-| Format | Async written; any length; framing-level critique allowed | Enables genuine critique, not just content |
-| Integration | Their contribution → its own numbered round in the exchange, attributed (with consent); agents' response → separate subsequent round | Preserves voice; no AI-laundering; permanent record |
-| Steward role | Invites; mediates; decides what to carry forward | Same as any exchange |
-| Consent + attribution | Explicit upfront — quoted / cited / anonymous at their choice | Legitimacy requires it |
-| Selection | Relationally recruited first; cold outreach secondary | Exchange #17 showed cold outreach is hard |
-
-**Project already has.** [Practitioner Outreach Template](docs/PRACTITIONER_OUTREACH_TEMPLATE.md); [Content Provenance Standard](docs/CONTENT_PROVENANCE.md); Exchange #17's entry-trust findings.
-
-**Project does not have.**
-
-1. A **reviewer packet template** — project one-pager + framing-question template in a reusable form.
-2. A **"reviewer as a round" exchange convention** — documented pattern for integrating a human-written contribution as a specifically-numbered round with clear authorship, distinct from the Practitioner Outreach Template which covers recruiting.
-3. A **reviewer commitment ladder** — one-shot async review / multi-deliverable standing reviewer / project advisor. Different asks for different levels.
-
-**Entry-trust risk.** Biggest practical risk: reviewer round 1 goes poorly and the reviewer is lost. Mitigation: first thing reviewer sees is the deliverable + question, not the exchange corpus. Round 1 must be scoped small enough to succeed.
-
-**Pace.** We move in hours-to-days. A practitioner reviewing Principle 5 v2 takes 1–2 weeks. That is fine. Our pace on everything else does not slow; their review lands as a round whenever it arrives; Round N+1 (integration) happens after. F1, F3, F4 are the exchanges where this async insertion pattern applies.
-
-**Hard constraint: no reviewer compensation budget.** Caps recruitable population to people whose professional interest or personal conviction gets them to the table. Taiwan's vTaiwan had government/philanthropic backing; we do not. Recruiting plan must be realistic.
-
-**Recommended next move if pursued.** Draft (a) reviewer packet template and (b) "reviewer as a round" exchange convention; park both in `docs/`. Add a TR2-b item: "Draft reviewer-onboarding packet and reviewer-as-a-round convention before F1/F3/F4 open." Small amount of writing; removes the biggest practical barrier.
-
----
-
-### How the threads connect
-
-Three of them share a single architectural answer:
-
-- **Thread A** (rapid complaint / amendment mechanism) — a specific HOW candidate.
-- **Thread B** (poetic principles + companion) — the document-structure decision.
-- **Thread D** (WHAT without HOW) — the theoretical justification.
-
-All three are variations on: *the project needs a layer between `PRINCIPLES.md` and `SYSTEMS_FRAMEWORK.md` that operationalizes commitments without prescribing particular mechanisms.* Thread A is a mechanism the companion layer could require without naming; Thread D is that same layering described abstractly; Thread B is the project-structure consequence.
-
-**Highest-leverage single move across the six threads: decide Thread B.** Deciding Thread B clarifies F1 (Principle 5 revision), makes F3 placement obvious (new companion or sibling doctrine file), creates structural home for Thread A's proposal, retrospectively explains why Round 5 v2 Principle 5 felt heavy, and automatically resolves Thread D.
-
-Threads C and F are process additions that pair well — if adopted together, the project gets (a) a cross-context adversarial capability and (b) a reliable external-reviewer onboarding path. Both are small amounts of writing.
-
-Thread E updates the framing of what TR1 and TR2 should actually ask for, without requiring any new work beyond what is already roadmapped.
+- Thread A is a concrete proposal-catalog entry whose home was clarified by the FOUNDATIONAL_COMMITMENTS.md adoption (§5 names rapid-complaint-to-remediation as an acceptable mechanism form). Pursuing A now is a direct writing task.
+- Thread C is a protocol addition independent of the other threads; useful regardless of sequencing.
+- Thread F-tail is a small follow-on to the reviewer instrument already in place; best addressed after the first live-reviewer cycle (TODO #11) produces lessons.
 
 ---
 
@@ -385,23 +266,17 @@ Thread E updates the framing of what TR1 and TR2 should actually ask for, withou
 | # | Decision | Cost if pursued | Unblocks |
 |---|---|---|---|
 | A1 | Add P-### "Rapid Constituent Feedback-to-Remediation Pathway" to Proposal Catalog | Small | F3 mechanism-library |
-| B1 | Adopt the poetic-principles + companion-document architecture | Small (decision) + Medium (drafting) | F1, F3, future principle-level work |
-| B2 | Pick the companion document name | Trivial | B1 |
 | C1 | Draft Red Team Run protocol (fourth sibling to Adversarial / Coherence / Historical-Parallel) | Small | Higher-confidence future syntheses |
-| D1 | Accept Thread D's layering as project-level convention | Trivial if B1 is adopted | Resolves Round 4 challenge 1a on implementation-pathway |
-| E1 | Broaden TR1 (TODO #9) to include perspective-gap source sweep | Trivial (roadmap edit) | F1, F3, F4 analytical improvement |
-| E2 | Narrow TR2 (TODO #10) to practitioner-feasibility + legitimacy-review only | Trivial (roadmap edit) | Clearer scope for F1/F3/F4 reviewer recruitment |
-| F1 | Draft reviewer packet template + "reviewer as a round" convention | Small | All external-reviewer work |
-| F2 | Draft reviewer commitment ladder | Trivial | Reviewer recruitment scoping |
+| F-tail | Draft reviewer commitment ladder | Trivial | Reviewer recruitment scoping beyond one-shot |
 
-None of these are done. Each is a one-sentence steward decision away from becoming actionable. Items A1, C1, and F1 are writing tasks; everything else is a framing decision.
+Resolved in the April 2026 cleanup (archived, with pointers from above): B1/B2 (FOUNDATIONAL_COMMITMENTS.md adopted and named), D1 (auto-resolved by B), E1/E2 (applied to TODOs #9 and #10), F-packet (packet and convention drafted; live-use recruitment is now TODO #11).
 
 ---
 
 ### Next-session pickup
 
-If I come back to this cold and can only do one thing: **Thread B (B1 + B2).** Deciding on the companion document and picking its name unlocks the most downstream work across F1, F3, and Thread A.
+If I come back to this cold and can only do one thing: **TODO #11.** Use the [Reviewer Packet Template](docs/REVIEWER_PACKET_TEMPLATE.md) to recruit one live reviewer for F3 (or F1, or F4). The packet and convention are provisional until they have survived a live cycle, and the TR2 commitment is vacuous without one recruited reviewer.
 
-If I have a second slot: **Thread F (F1).** Draft the reviewer packet and "reviewer as a round" convention. It is a small writing task that removes the biggest practical barrier to TR2.
+If I have a second slot: **Thread C (C1).** Draft the Red Team Run protocol. Small writing task; slots in alongside the three existing protocols; raises confidence on future syntheses.
 
-If I have a third slot: **Thread E (E1 + E2).** Update TR1 and TR2 framing in the TODO list so the research sweep and reviewer scoping are both realistic about what each can achieve.
+If I have a third slot: **Thread A (A1).** Add the Rapid Constituent Feedback-to-Remediation Pathway to the Proposal Catalog as a P-### entry, cross-referenced into FOUNDATIONAL_COMMITMENTS.md §5's mechanism-form table as a concrete instance.

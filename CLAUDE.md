@@ -19,6 +19,7 @@ is markdown.
 
 - Exchanges live in `agent/exchanges/` and must be registered in `_EXCHANGE_INDEX.md`.
 - Process protocols live in `agent/process/`.
+- Adopted operational frameworks (project doctrine) live in `agent/doctrine/` and must be registered in `_DOCTRINE_INDEX.md`. The directory is currently empty by design — see the index for the criteria a document must meet to be promoted into it.
 - Proposals live in `proposals/PROPOSAL_CATALOG.md`.
 - The `docs/` directory holds project-level policy documents (e.g. Content Provenance Standard).
 - Content provenance labels (`human`, `collaborative`, `ai-generated, steward-curated`, `ai-generated`) are defined in `docs/CONTENT_PROVENANCE.md` and should appear on all public-facing documents.

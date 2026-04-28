@@ -48,6 +48,7 @@ These include:
 - [formation-docs/SOURCE_REGISTRY.md](../../formation-docs/SOURCE_REGISTRY.md)
 - `agent/exchanges/**`
 - `agent/process/**`
+- `agent/doctrine/**` — adopted operational frameworks (see [Doctrine Index](../doctrine/_DOCTRINE_INDEX.md))
 - [README.md](../../README.md) and similar project-authored guidance files
 - [ROADMAP.md](../../ROADMAP.md) — internal project management, not published on the website
 

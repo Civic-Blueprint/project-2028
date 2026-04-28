@@ -72,6 +72,50 @@ These findings continue to inform all downstream work and should not be forgotte
 
 ---
 
+## Resolved thinking threads — April 2026 cleanup
+
+The Notes & open thinking threads section of the live roadmap originally carried six threads (A–F) surfaced during the post-Round 5 read-through. Four of them were resolved in the April 2026 cleanup and are recorded here for traceability. Threads A and C remain in the live roadmap as items in the Decision parking lot; Thread F-tail (the reviewer commitment ladder follow-on) also remains live.
+
+### Thread B — Poetic principles + companion document (resolved as FOUNDATIONAL_COMMITMENTS.md)
+
+**Question.** Can Principles stay poetic and short while the operational specificity (mechanism requirements, conditions, caveats, anti-misuse clauses) lives in a companion document?
+
+**Resolution.** Adopted. The companion document is [FOUNDATIONAL_COMMITMENTS.md](FOUNDATIONAL_COMMITMENTS.md), structured per-principle to match the Round 5 v2 pattern from Exchange #21. §5 (critical-systems governance) is populated in full from the Round 5 deliverable; the other sections are placeholders to be populated as their dedicated exchanges complete. [PRINCIPLES.md](PRINCIPLES.md) carries a cross-reference to the companion; [README.md](README.md) adds the companion to Core documents. The decision parking-lot items B1 (adopt the architecture) and B2 (pick the name) are both resolved.
+
+**What this changed downstream.** F1 (Principle 5 revision) now operates under the split: the principle itself stays short; operational specificity lands in Commitment 5 of the companion. Thread D is auto-resolved. Thread A gains a concrete home (the companion §5 mechanism-form table names rapid-complaint-to-remediation as an acceptable mechanism form without prescribing it).
+
+### Thread D — Can we argue WHAT without HOW (resolved by Thread B adoption)
+
+**Question.** Is it possible for the project to commit to outcomes without prescribing implementation mechanism?
+
+**Resolution.** Auto-resolved by Thread B. The companion document's "On the relationship to mechanism" section formalizes the layered separation — Principles (WHAT), Foundational Commitments (WHAT + minimum mechanism properties), Systems Framework / Doctrine (HOW with tradeoffs), Proposals (concrete instances). This is the project-level convention that Thread D proposed and that Thread B's structure now embodies.
+
+### Thread E — Sources vs. live humans (resolved as E1/E2 scoping)
+
+**Question.** Was the original TR2 framing over-stating the need for live external reviewers relative to what targeted source-expansion could close?
+
+**Resolution.** Adopted as scoping, not as cancellation:
+
+- *E1 applied.* [Live roadmap TODO #9 (TR1)](ROADMAP.md#new-tracks-introduced-by-exchange-21-round-5) is broadened to include perspective-gap source sweep (Global South constitutional scholarship; community-organizer theory; non-Western institutional traditions; AI-safety-skeptical technologists) alongside the original transferability sweep.
+- *E2 applied.* [Live roadmap TODO #10 (TR2)](ROADMAP.md#new-tracks-introduced-by-exchange-21-round-5) is narrowed to what sources cannot provide: dialogic negation, unknown-unknowns, tacit practitioner knowledge, and legitimacy. Analytical-improvement review is handled by TR1; live review is reserved for the irreducible cases.
+
+**What sources could close** (handled now under TR1): Global South constitutional scholars (Baxi, Khilnani, Nino, Mamdani); community organizers (Piven, Alinsky, Ganz, McAlevey, Roy); non-Western institutional traditions (Chatterjee, Nandy, Scott, Ostrom cross-cultural); AI-safety-skeptical technologists (d/acc, differential acceleration, open-source movement); ethnographic work on bounded-rule regimes (Lipsky, Soss, Brodkin, Moynihan).
+
+**What live reviewers are still required for** (handled under TR2 + TODO #11): dialogic negation of specific project arguments; unknown-unknowns from standpoints the steward cannot imagine; tacit practitioner knowledge; legitimacy (artifacts having been *seen* by people outside the author's context).
+
+### Thread F-packet — Reviewer packet + Reviewer-as-a-Round convention (resolved)
+
+**Question.** What instrument makes it tractable for a live reviewer to contribute at the project's pace?
+
+**Resolution.** Two artifacts drafted and parked in `docs/`:
+
+- [REVIEWER_PACKET_TEMPLATE.md](docs/REVIEWER_PACKET_TEMPLATE.md) — the per-invitation packet template. Designed for one reviewer, one deliverable, one week, ~2–4 hour total time ask. Scoped per Thread E: three review types (legitimacy, practitioner-feasibility, perspective-gap) with corresponding focused-question sets. Includes orientation section, the verbatim deliverable, the questions, how-the-review-will-be-used section, attribution/consent/provenance section, and honest reviewer-expectations section. Target: recruit *one* live reviewer to start.
+- [REVIEWER_AS_A_ROUND_CONVENTION.md](docs/REVIEWER_AS_A_ROUND_CONVENTION.md) — the integration convention for the reviewer's contribution. Specifies round structure, immutability after publication, the agent response round that follows, downstream citation format, pre-publication reviewer review rights, and the post-publication note from steward back to reviewer. Counters voice collapse, asymmetric response, attribution drift, and extractive review.
+
+**What this leaves live.** TODO #11 (use the packet to recruit the first live reviewer). The packet and convention are provisional until they have survived a live cycle; lessons from first use fold back into both documents' changelogs. Thread F-tail (reviewer commitment ladder) remains live for post-first-cycle work.
+
+---
+
 ## Archive conventions
 
 - Items move here when their status becomes "complete," "satisfied," or "superseded."
