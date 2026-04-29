@@ -88,6 +88,9 @@ The project is built on four interconnected documents:
 - **[Source Digests](sources/README.md)**  
   Curated reference documents for external media, interviews, and commentary that intersect with the project's analysis. Source digests capture thematic parsing, research context, and project-mapping in a permanent form that multiple exchanges can reference without duplicating context.
 
+- **[Feedback Records](feedback/README.md)**  
+  Preserved transcripts and structured notes from real interactions between the project and people who have engaged with its public surfaces — the verbatim words practitioners use when responding to the project's work, captured with explicit privacy conventions so future exchanges can reason from evidence rather than from memory.
+
 ## Internal project management
 
 These documents support steward coordination and are not published on the website:

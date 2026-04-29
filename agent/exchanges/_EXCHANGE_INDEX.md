@@ -256,6 +256,17 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 22. [Entry-Trust Failure with a Domain-Expert Practitioner — Exchange](entry-trust-domain-expert-practitioner-exchange.md)
+
+|  |  |
+|---|---|
+| **Question** | What would have made a domain-expert practitioner — whose attempt to open a childcare center was nearly bankrupted by municipal-permitting failure — say *"yes, I see what this is, here's what I'd add"* instead of *"no clue what any of it says... too high definition to understand"* — and what does answering that imply for the project's communication architecture, its outreach design, and its first-stop public surfaces? |
+| **Depends on** | [Feedback Record — Childcare Licensing Practitioner, April 2026](../../feedback/feedback-childcare-licensing-practitioner-2026-04.md) (anchor), [Exchange #8](#8-voice-synthesis-accessibility-and-engagement--feature-exploration) (deferred plain-language work pending real-user data; this exchange supplies that data), [Exchange #17](#17-first-practitioner-critique-and-ai-content-provenance--exchange) (entry-trust as highest-strategic-weight layer; Priority 6/7 post-critique pathway), [Exchange #14](#14-permitting-stack-recursive-uplift--exchange) and [Exchange #16](#16-starting-proposal-comparative-review--p-004p-107-vs-p-053) (the practitioner's domain is structurally adjacent to the housing permitting stack the project's lead proof-of-usefulness work targets), [Principles](../../PRINCIPLES.md) (§1, §2, §10, §14), [Problem Map](../../PROBLEM_MAP.md) (§3, §13), [Roadmap](../../ROADMAP.md) (Recommendations 2 and 4), [Friedberg digest Steward Observation 3](../../sources/source-modern-wisdom-1084-friedberg-digest.md), [Stewart/Acemoglu/Autor digest Cluster 8](../../sources/source-weekly-show-stewart-ai-future-of-work-digest.md). |
+| **Produced** | Exchange opened. Anchor feedback record preserved with privacy protections in new `feedback/` directory. Central question framed in terms of practitioner experience rather than steward-preferred solutions. Six initial tensions captured: artifact vs. entry path, lexical vs. architectural fix, reconciliation with Exchange #8 deferral, manipulation guardrail, generic vs. domain-specific entry, re-engagement ethics. Five working hypotheses queued for Round 1 testing including the architectural-Layer-0/1 hypothesis as the leading candidate. Six starter questions captured for next round. Epistemic-status table established. |
+| **Status** | Active discussion. |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -334,6 +345,17 @@ Core Documents (Principles, Problem Map, Systems Framework)
         └─► #21 F2 / F4 follow-ups (when opened)
               ◄── reinforces direction-of-technology framing,
                   collective-dividend ownership category, frontier-AI worked example
+
+  Feedback Record: Childcare Licensing Practitioner (April 2026)
+        │
+        └─► #22 Entry-Trust Failure with a Domain-Expert Practitioner
+              ◄── Anchor feedback record + #8 (deferred plain-language work)
+              ◄── #17 (entry-trust layer + Priority 6/7 pathway)
+              ◄── #14 / #16 (permitting-domain practitioner adjacency)
+              ◄── Principles §1/§2/§10/§14 + PM §3/§13
+              ◄── Friedberg digest Steward Observation 3
+                  + Stewart/Acemoglu/Autor digest Cluster 8 (meritocracy critique)
+              (cognitive-resolution mismatch as a distinct entry-trust failure mode)
 ```
 
 ---
@@ -353,3 +375,4 @@ Several exchanges produced or depend on documents in the [civicblueprint.org](ht
 | #12 (Housing Parallel Test) | [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md) — public memo whose housing claims this exchange tests |
 | #17 (Practitioner Critique & AI Provenance) | `website/src/components/Hero.tsx`, `website/src/components/MemoFeature.tsx`, `website/src/app/docs/[...slug]/page.tsx` — website orientation and provenance legibility surfaces targeted by this exchange |
 | #20 (Social Slop & Information Integrity) | [Website Phase 2 Brief](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/WEBSITE_PHASE_2_BRIEF.md), [Homepage Copy Draft Phase 2](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/HOMEPAGE_COPY_DRAFT_PHASE_2.md) — Phase 2 alignment narrative whose convergence claim this exchange stress-tests from the information-integrity angle |
+| #22 (Entry-Trust Failure — Domain-Expert Practitioner) | [Website Phase 2 Brief](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/WEBSITE_PHASE_2_BRIEF.md), [Homepage Copy Draft Phase 2](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/HOMEPAGE_COPY_DRAFT_PHASE_2.md) — exchange's findings will likely feed Phase 2 layer-zero / layer-one design once produced |
