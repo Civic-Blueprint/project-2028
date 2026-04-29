@@ -553,6 +553,157 @@ The adversarial bottom line:
 
 ---
 
+## Round 4 — Constructive synthesis: what to actually do, given honest uncertainty
+
+The steward arrived at this round saying, accurately, "I agreed most with the adversarial review, and I'm left feeling confused. Where do we go from here?" That is the right place to be after a working adversarial round. The protocol is doing its job. The constructive task in Round 4 is not to dissolve that confusion by picking a winner. It is to convert it into a small, parallel work plan that produces evidence on the things the exchange genuinely disagrees about, while doing the things the exchange already agrees on.
+
+### Step 1: separate what the exchange agrees on from what it does not
+
+If you strip out the rhetoric, the four rounds actually agree on more than they look like they do. Surfacing the agreement first stops the next decision from feeling like "pick one of the four rounds."
+
+**The exchange agrees on:**
+
+1. The practitioner gave the project a real, valuable, candid signal in a warm relational channel.
+2. The relationship is intact. She is a renewable resource the project has not lost.
+3. Whatever else is true, the project should not respond by polishing prose to feel less AI-generated. Disclosure stays where it is.
+4. Trust is built by visible competence, not by communication strategy. That came from the project's own framework before this exchange started, and every round in this exchange has reinforced it.
+5. A homepage rewrite right now would be premature. Whatever the project does next should produce evidence first.
+6. Re-engaging *this specific practitioner* is an ethical question that needs its own care, not a side effect of any test.
+
+**The exchange does not yet agree on:**
+
+A. Whether the failure is mainly an entry-surface / recognition problem or an effort-calibration / artifact-audience problem.
+B. How much weight the phrase *"too high definition"* should carry as a mechanism diagnosis.
+C. Whether the right next test is a recognition-paragraph variant set, a bounded useful domain artifact, or both.
+D. Whether a warm-channel signal should be routed through the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) at all.
+E. Whether the current `MemoFeature` works for any external reader category.
+
+The confusion is real, but it is also localized. It is in (A)–(E), not in (1)–(6). That makes it tractable.
+
+### Step 2: pick the unit of decision the project can actually make
+
+The exchange has been arguing as if the project must choose between hypotheses. It does not. With one practitioner, in one warm channel, against five live disagreements, the project does not have enough evidence to choose. Trying to choose is what the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) calls "false consensus."
+
+The right unit of decision is therefore not "which hypothesis is correct?" It is "what is the smallest set of moves that produces evidence on more than one hypothesis at once, while honoring the things the exchange agrees on?"
+
+That is the question Round 4 answers.
+
+### Step 3: a small parallel work plan
+
+Round 4 proposes five moves. They are deliberately small, sequenced for low irreversibility, and each is anchored in something the project already committed to in [Exchange #17](first-practitioner-critique-ai-provenance-exchange.md) or the [Roadmap](../../ROADMAP.md). None of them require resolving the open disagreements first.
+
+#### Move 1 — Write the bounded useful childcare-licensing artifact (Round 3's strongest constructive move)
+
+A one-page, plain-language map of how opening a childcare center actually flows through municipal and state offices in a representative U.S. context. Not the project's framework. Not an analysis. A description of the path: who you talk to, in what order, where the typical stalls happen, who can stop you, who can't restart you. Cite sources. Mark uncertainties.
+
+Why this move:
+
+- It directly tests Round 3's strongest claim — that the project should produce something useful in the practitioner's domain before asking her to evaluate cross-domain theory.
+- It satisfies [Principle 9](../../PRINCIPLES.md#9-institutions-should-be-designed-for-competence-and-trust-not-theater) and [Problem Map §13](../../PROBLEM_MAP.md#13-institutional-distrust-is-becoming-a-governing-condition) at the project's own scale: trust through visible competence, not through better invitations.
+- It is the first artifact the project would have whose value to a domain practitioner does not depend on her first accepting the project's framework.
+- It also feeds [Exchange #14](permitting-stack-recursive-uplift-exchange.md) and the `P-004 / P-107` permitting work materially. Even if the entry-trust hypothesis were entirely wrong, this artifact would still pay for itself in the proposal lane.
+- It is small enough to draft in one work session.
+
+What it does *not* do: it does not replace the memo and it does not reframe the homepage. It is a sibling artifact, not a replacement.
+
+#### Move 2 — Draft the three recognition paragraphs anyway, but treat them as Move 1's *cover sheet*, not as the experiment
+
+Write the three recognition-paragraph variants Round 2 proposed (childcare-flavored, permitting-flavored, cross-domain). But do not send them as the test. Treat them as a one-paragraph framing for Move 1.
+
+Why this move:
+
+- It preserves Round 1 and Round 2's instinct that *something* lower-resolution is needed before the memo, without giving that instinct more evidential weight than it has earned.
+- It directly answers Round 3's worry that recognition paragraphs in isolation test mirroring rather than usefulness. Pairing them with a useful artifact stops them from being a standalone test of the project's empathy.
+- It produces three pieces of writing the project will need anyway for outreach copy and for the Phase 2 homepage work.
+
+What this move does not do: it does not commit the project to a "first-encounter path" as architecture. The recognition paragraphs are operational copy here, not structural decisions.
+
+#### Move 3 — Run a low-formality test, *not* through the Reviewer Packet
+
+Show Move 1 + Move 2 to two or three practitioners in the warm-relationship channel, in the same register the original outreach used. No packet. No round-attribution convention. No formal consent ladder. Just: "I made this. Does it match what you saw? What did I get wrong?"
+
+Why this move:
+
+- It honors Round 3's category-mistake objection. Round 3 was right that formalizing a warm channel can destroy the very candor the project needs.
+- It still produces structured evidence. The project records (a) whether the artifact is recognized as accurate, (b) whether anyone uses it (forwards it, corrects it, asks for more), and (c) whether anyone independently uses "high definition"-class language about the original memo when given this as a comparison point.
+- It tests effort calibration directly. If practitioners engage with Move 1 in the same channel that bounced the memo, that is evidence the failure was about ask size and artifact-audience, not just about resolution.
+- It explicitly defers Reviewer Packet first-use. [TODO #11](../../ROADMAP.md) should be triggered by a different recruitment, in a different channel, where the formality fits. That decision is independent of this exchange.
+
+#### Move 4 — Disambiguate failure modes in [Exchange #17](first-practitioner-critique-ai-provenance-exchange.md) Priority 2's clearance-rate metric
+
+Exchange #17 already adopted "track entry-trust clearance rate as a first-order metric." Round 3 argued that one number cannot distinguish between AI-texture detection, resolution mismatch, effort calibration, and wrong-mode-of-address. Update the metric so that whenever the project records a bounce, it records the apparent failure mode and the channel:
+
+| Recorded field | Examples |
+|---|---|
+| Failure mode | AI-texture / resolution-mismatch / effort / wrong-audience / unknown |
+| Channel | warm-relational / professional-network / public-organic |
+| Artifact tested | memo / recognition-paragraph / domain-artifact / homepage |
+
+Why this move:
+
+- It is the smallest possible operational change that makes the next several practitioner contacts comparable instead of anecdotal.
+- It is the only move on this list that directly attacks the n=1 problem the exchange has been honestly worried about throughout.
+- It costs almost nothing.
+
+#### Move 5 — Re-engage *this practitioner* only after Moves 1–3 produce something worth showing her, and only with the explicit out the opening tension required
+
+Opening tension 6 said the project must establish a re-engagement protocol *before* re-engagement happens. Round 4 endorses that and adds one specific constraint: re-engagement should not happen with a recognition paragraph alone, because Round 3 was right that recognition without usefulness can feel hollow or even subtly manipulative once the second touch is intentional.
+
+Re-engagement should look approximately like this, from the steward only, in the same warm channel:
+
+> "Hey — I took your feedback seriously. I rewrote one specific thing as a one-pager about how childcare licensing actually flows in a real city, not as a theory. If you ever feel like skimming it and telling me what I got wrong about your experience, that would be useful. If not, we are good either way and I will not keep nudging."
+
+That message respects her time, makes the prior bounce a feature rather than something to recover from, anchors the second touch in something with potential use-value, and explicitly preserves her right to disengage. It does not ask her to evaluate the framework. It does not ask her to read the memo. It asks her about *her* domain, which is the only thing she has actually consented to be asked about.
+
+### Step 4: what these five moves do and do not commit the project to
+
+This is where Round 4 has to be most honest with the steward. The temptation, having gotten through three rounds of disagreement, is to claim that this synthesis "solves" the exchange. It does not. What it does is:
+
+| It commits the project to | It does not commit the project to |
+|---|---|
+| Producing one bounded useful childcare-licensing artifact (Move 1) | A "first-encounter path" as a permanent architectural feature of the website |
+| Treating recognition paragraphs as operational copy, not as evidence-bearing tests in isolation (Move 2) | The recognition-paragraph experiment as originally framed in Round 2 |
+| Running a low-formality test in the warm channel (Move 3) | First use of the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) — that goes to a different recruitment under [TODO #11](../../ROADMAP.md) |
+| Sharpening Exchange #17 Priority 2's clearance-rate metric (Move 4) | A larger redesign of [Exchange #17](first-practitioner-critique-ai-provenance-exchange.md)'s priorities |
+| Designing a careful re-engagement (Move 5) | Re-engaging this specific practitioner before there is something worth showing her |
+
+The honest claim is narrower than any single round in this exchange has implied: with one warm-channel data point, the project should produce one small useful artifact, run one small low-formality test, sharpen one already-adopted metric, and write one careful re-engagement message. Then it should look at what those produce before designing anything bigger.
+
+### Step 5: what each disagreement gets resolved by, and when
+
+To make the open questions feel less like floating anxiety, here is when each one would actually move:
+
+| Open disagreement | What would update it | Earliest plausible time |
+|---|---|---|
+| (A) Entry-surface vs. effort-calibration vs. artifact-audience | Move 3's results (does Move 1 land in the same channel that bounced the memo?) | One outreach cycle |
+| (B) Weight of "too high definition" | Move 4's accumulated bounce records over the next 3–5 contacts | Three to five contacts |
+| (C) Recognition paragraph vs. bounded artifact as the right test | Move 3 (paired) plus the next non-warm-channel contact | One to two outreach cycles |
+| (D) Reviewer Packet appropriateness for warm channels | First non-warm Reviewer Packet use under [TODO #11](../../ROADMAP.md) | Independent track |
+| (E) Whether `MemoFeature` works for any external reader | Substantive engagement (or not) from the next analytical-mode reader who reaches it without warm referral | Ongoing, low-cost |
+
+None of these requires the steward to decide between hypotheses now. Each of them gets meaningfully cheaper to answer once Moves 1–4 have run.
+
+### Step 6: what this round is *not* claiming
+
+To keep the same epistemic discipline the rest of the exchange has tried to hold:
+
+- It is not claiming Move 1 will land. It is claiming that producing Move 1 is the highest-information-yield move the project can make next, even if it does not land.
+- It is not claiming the exchange is now ready to close. It is claiming the exchange is ready to step out of pure deliberation and into a small experimental cycle whose results should be brought back here in a future round.
+- It is not claiming the practitioner will respond. The five moves are valuable even if she does not, because they convert a single data point into reusable infrastructure (an artifact, a metric refinement, and a re-engagement template) that survives any individual relationship.
+- It is not overturning Round 3. Round 3's diagnosis remains live. Move 1 is the project taking Round 3 seriously rather than waving it off.
+
+### Step 7: a one-line summary for the steward
+
+If the steward needs to compress this round to one line:
+
+> Build the one-page childcare-licensing flow first, send it back into the warm channel with no packet and no theory, sharpen the bounce-mode metric, and only re-engage this practitioner once that artifact exists.
+
+Everything else in this round is the structure that gets you there honestly.
+
+**Round 4 provenance:** `[ai-generated, steward-curated]`. This round responds to a steward statement that the adversarial round felt most correct and that they were left in honest confusion about next steps. It deliberately resists picking a winner among Rounds 1–3, instead converting the disagreement into a small parallel work plan whose moves are each anchored in commitments the project has already made in [Exchange #17](first-practitioner-critique-ai-provenance-exchange.md) and the [Roadmap](../../ROADMAP.md). It is constructive in form but treats Round 3 as the strongest live finding from the prior rounds.
+
+---
+
 ## What this exchange is *not*
 
 To prevent scope creep:
@@ -564,7 +715,7 @@ To prevent scope creep:
 
 ---
 
-## Epistemic status (opening through Round 3)
+## Epistemic status (opening through Round 4)
 
 | Claim | Confidence | Basis | What would change this |
 |---|---|---|---|
@@ -574,7 +725,9 @@ To prevent scope creep:
 | Re-engaging this practitioner ethically would produce useful additional signal. | Speculative | Inference from the warm, constructive register of her response. | Refusal or non-response to a careful re-engagement; or an indication from the practitioner that further requests would be unwelcome. |
 | The fix is primarily architectural (layered surfaces) rather than primarily lexical (rewriting existing prose more simply). | Contested | The "high definition" metaphor and the Exchange #17 entry-trust framing point toward architecture, but Round 3 argues the phrase is too warm-channel and underspecified to separate architecture from wording, length, or effort cost. | A plain-language rewrite alone, with no architectural change, that succeeds with comparable practitioners; or multiple independent reports using similar "resolution mismatch" language after controlling for ask size. |
 | The current `MemoFeature` is approximately right for self-selected analytical readers and approximately wrong for warm-relationship referrals. *(Round 2)* | Speculative | Reading of `Hero.tsx` and `MemoFeature.tsx` against the practitioner's verbatim response suggests evaluator-posture assumptions, but no external reader group has yet been shown to engage substantively with the current surface. | A self-selected analytical reader engaging productively with the current entry surface, or repeated failure from that group too. |
-| The right next test is a small recognition-paragraph experiment routed through the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md), not a homepage rewrite. *(Round 2)* | Contested | It is a low-cost falsification attempt, but Round 3 argues it may optimize for recognition rather than usefulness and that formalizing the warm-referral channel may increase friction. | Head-to-head comparison of recognition-paragraph testing against a bounded useful artifact or evidence that the packet does not reduce warm-channel candor or response rates. |
+| The right next test is a small recognition-paragraph experiment routed through the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md), not a homepage rewrite. *(Round 2)* | Superseded by Round 4 | Round 3 challenged the packet routing and the standalone recognition test; Round 4 keeps recognition paragraphs as operational copy paired with a bounded useful artifact and explicitly defers Reviewer Packet first-use to a different, non-warm-channel recruitment under [TODO #11](../../ROADMAP.md). | Evidence from Move 3 that the bounded artifact does not produce more substantive feedback than recognition paragraphs alone would have. |
+| The highest-information-yield next move is to produce a one-page bounded useful childcare-licensing flow artifact, paired with recognition-paragraph framing copy, tested in the same warm channel without the Reviewer Packet, while sharpening Exchange #17 Priority 2's clearance-rate metric to record failure mode and channel. *(Round 4)* | Working hypothesis | It is the smallest move that produces evidence on more than one open disagreement at once (entry-surface vs. effort-calibration vs. artifact-audience), is anchored in [Principle 9](../../PRINCIPLES.md#9-institutions-should-be-designed-for-competence-and-trust-not-theater) and [Problem Map §13](../../PROBLEM_MAP.md#13-institutional-distrust-is-becoming-a-governing-condition), and feeds [Exchange #14](permitting-stack-recursive-uplift-exchange.md) regardless of how this exchange resolves. | Move 1 fails to land in the warm channel even when ask size is small, suggesting the binding constraint is upstream of any artifact the project can produce; or the cumulative bounce-mode data after 3–5 contacts converges on a single failure mode that this plan does not target. |
+| Re-engaging this specific practitioner should happen only after Move 1 exists, in the warm channel, with an explicit out, and not via a recognition paragraph alone. *(Round 4)* | Working hypothesis | Round 3's manipulation-guardrail concern applied to a second touch; opening tension 6 already required a re-engagement protocol designed before re-engagement; Move 1 gives the second touch something with potential use-value rather than a more-empathic-feeling restatement of the same theory. | Practitioner indication (direct or indirect) that further outreach is unwelcome, or evidence from comparable warm channels that even a useful artifact does not recover engagement after a "no clue" bounce. |
 
 ---
 
