@@ -188,6 +188,106 @@ The strongest optimistic conclusion is that the project may be closer than this 
 
 ---
 
+## Round 2 — Constructive voice: the project already has the right instruments; they assume the wrong reader
+
+Round 1 named a missing recognition layer and proposed a small layer test before any broader rewrite. Round 2 takes one step back and tries to be honest about something Round 1 did not foreground: this project is not actually short of practitioner-engagement design. It already has a lot of infrastructure aimed at exactly this problem. The constructive question for Round 2 is therefore not "what new thing should we build?" but "why did none of the existing instruments catch this practitioner, and what does that tell us?"
+
+### What is already in place
+
+A walk through what the project has already produced for this exact category of risk:
+
+1. **A four-level [Content Provenance Standard](../../docs/CONTENT_PROVENANCE.md)** that puts a `collaborative` callout directly on the homepage `Hero` and on the `MemoFeature` panel.
+2. **An entry-trust diagnosis from [Exchange #17](first-practitioner-critique-ai-provenance-exchange.md)** — five priorities adopted (outreach redesign, clearance-rate tracking, weak-claim review, provenance hygiene, accelerate Recommendation 4) plus Round 6's two additional priorities (post-critique pathway and critique→proposal-pipeline) that are currently waiting on a steward decision in [ROADMAP TODO #3](../../ROADMAP.md).
+3. **An explicit acknowledgment that disclosure is not a trust strategy** ([Exchange #17 Round 5](first-practitioner-critique-ai-provenance-exchange.md)). The project has already concluded that what builds trust is "bounded, visible, useful results," not labels.
+4. **A [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) and ["Reviewer-as-a-Round" convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md)** ([TODO #11](../../ROADMAP.md)). These exist for live external review and have not yet been used.
+5. **A homepage that has been substantially redesigned** since [Exchange #17](first-practitioner-critique-ai-provenance-exchange.md) — `Hero` carries a one-paragraph identity statement plus a project-context provenance callout, and `MemoFeature` self-orients with "Civic Blueprint is an open project mapping where systems drift from the commitments societies already say they share."
+
+So the project is not naive about this risk. The puzzle is that this practitioner still bounced.
+
+### What the existing surface actually presents to her
+
+Reading `MemoFeature.tsx` as if I were arriving via `civicblueprint.org/#memo`, what I see in the first viewport is:
+
+- One identity sentence: "Civic Blueprint is an open project mapping where systems drift from the commitments societies already say they share."
+- An eyebrow: "Start With One Concrete Example."
+- A heading: "The fastest way to evaluate this project is not to read every document."
+- A lead: "It is to test whether the framework can produce a better read of real drift than generic policy summaries can."
+- A sub-headline: "Two Test Cases, One Framework: What Housing Permitting and AI Governance Reveal About Institutional Capacity."
+- A bulleted list of "Key test questions" (where does institutional capacity show up as execution failure, etc.).
+- A `collaborative` provenance pill with a link to the standard.
+
+That is a surface designed for someone who has already decided they are evaluating an analytical project. Every word assumes evaluator posture. Nothing on it says, in the practitioner's own domain language, "here is something you might recognize from your own life."
+
+For a federal HHS practitioner who is professionally in evaluator mode, that surface is probably fine. For a domain-expert childcare-licensing practitioner reached via a personal text from someone she trusts, it is asking the wrong first question. She is not yet in evaluator mode. She is in "what is this and why are you sending it to me" mode. The current surface skips that step.
+
+That is a more specific diagnosis than Round 1 reached. Round 1 said the project lacks a recognition layer. Round 2 narrows it: the project lacks a recognition layer *for non-evaluator practitioners*. The existing surface is approximately right for self-selected analytical readers. It is not right for warm-relationship referrals.
+
+### Why this matters for what was already decided
+
+This reframes some of [Exchange #17](first-practitioner-critique-ai-provenance-exchange.md)'s priorities slightly without overturning them.
+
+| Exchange #17 priority | What this practitioner episode adds |
+|---|---|
+| 1. Redesign the outreach ask (lower-effort, more bounded, embedded provenance disclosure) | Confirmed and refined: "lower-effort" is not enough by itself; the ask must also locate the practitioner inside her own domain before it asks anything of her. |
+| 2. Track entry-trust clearance rate as first-order metric | Reinforced. This is now a second case of entry-trust failure with a different mechanism. The clearance-rate metric needs to disambiguate failure modes (AI-texture vs. resolution mismatch vs. effort calibration vs. wrong-mode-of-address). |
+| 3. Review Exchanges #7 and #12 for likely substantive pushback | Unchanged. Still important, still untriggered because no one has cleared the trust barrier yet. |
+| 4. Keep provenance as principled hygiene | Confirmed — and confirmed in the way [Exchange #17 Round 4](first-practitioner-critique-ai-provenance-exchange.md) predicted: this practitioner did not mention provenance at all, in either direction. The standard is doing its principled job; it is not doing trust work, exactly as predicted. |
+| 5. Accelerate Recommendation 4 (fast-feedback validation case) | Confirmed. The trust strategy is performance, not surface. This episode does not change that, but it does suggest one design constraint on the validation case: it must be presentable in a domain-recognizable form. |
+| 6. Design the post-critique practitioner pathway (pending) | Reinforced as urgent. The pathway should explicitly carry a "non-evaluator entry" branch. Right now both Priority 6's draft language and the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) are written for someone who has agreed to review. The childcare licensing practitioner had not agreed to review. She had agreed to read a text. |
+| 7. Connect critique to proposal pipeline (pending) | Reinforced and refined. The natural bridge for *this* practitioner is not a "review the proposal" ask. It is a "would you tell me what was hardest about opening the center" ask whose answers feed proposal review later. Practitioner-as-source comes before practitioner-as-reviewer. |
+
+### A simpler way to say what is missing
+
+The project has a strong "evaluator path." It needs a parallel "first-encounter path."
+
+The evaluator path is the current homepage stack: identity statement, key test questions, the memo, the framework, the provenance standard, the Reviewer Packet, the Reviewer-as-a-Round convention. All of this works once a reader has decided to evaluate.
+
+The first-encounter path would be different in kind:
+
+- It does not lead with "the fastest way to evaluate this project."
+- It leads with one domain-recognizable observation in the practitioner's own world.
+- It asks one question whose answer is from her life, not from her assessment of the project.
+- It treats the memo, the framework, and the provenance standard as optional depth that exists if she chooses to look.
+
+Notice that this is not a tagline and not a marketing fix. It is closer to what [Exchange #17 Round 3](first-practitioner-critique-ai-provenance-exchange.md) called "audience-specific entry points." That round suggested the project may need different first surfaces for different reader types. Round 2 of this exchange is naming one of those types specifically: the warm-relationship referral who has not yet adopted evaluator posture.
+
+### A constraint Round 1 did not name explicitly
+
+[Exchange #17 Round 4](first-practitioner-critique-ai-provenance-exchange.md) raised a real risk that any first-encounter surface needs to honor: disclosure that becomes camouflage. A first-encounter surface designed to feel domain-native to a childcare licensing practitioner could easily slide into using her language to make the project feel like an ally, before the project has actually demonstrated it is one. That would be exactly the manipulation pattern [Exchange #8](voice-synthesis-accessibility-engagement-exchange.md) named.
+
+The way to honor that constraint:
+
+1. The first-encounter surface must still carry the same provenance disclosure the rest of the surface carries. No domain-warm copy without `collaborative` legible at the same depth.
+2. The first-encounter surface must still link openly to the full memo and to the standard, without softening either. A reader who clicks through must hit the same uncompromised analytical depth.
+3. The first-encounter surface must not promise more than the project has demonstrated. "We think childcare licensing and housing permitting break in similar ways and we are trying to find out if that is true" is honest. "We have a framework that explains what went wrong with your center" is not.
+
+If those three conditions hold, the first-encounter path is not manipulation. It is matching the resolution of the entry to the resolution of the reader, while leaving every accountability mechanism in place.
+
+### What I would propose for Round 3 (without committing the project)
+
+A single, low-cost test that would tell us whether the diagnosis is right:
+
+1. **Draft one childcare-licensing-flavored recognition paragraph** of about three sentences. It names a pattern she would recognize (split between zoning, fire marshal, building department, state licensing, and accreditation, where "no one office can move you forward and any one office can stop you"), names what the project is investigating, and asks one question.
+2. **Draft one housing-permitting-flavored recognition paragraph** of similar length and structure.
+3. **Draft one cross-domain recognition paragraph** that names the shared structural pattern without locking into one domain.
+4. **Show all three to one or two practitioners in the warm-referral channel** with the explicit framing: "I am trying to figure out whether any of these describes the kind of thing you have run into. None of them is the project itself. They are an attempt to see whether I can describe the problem in a way that is recognizable." Use the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md) as the consent and round-attribution wrapper, even though this is a smaller surface than they were originally drafted for. That gives this exchange a chance to be the first live use of those instruments, which would also satisfy a piece of [TODO #11](../../ROADMAP.md).
+5. **Use the same clearance-rate metric Exchange #17 Priority 2 specified.** Before sending the memo, did the recognition paragraph land? If yes, which one. If no, where did it bounce.
+
+That is a small enough experiment to run without disrupting any other workstream, and it produces a falsifiable result inside the time horizon the practitioner herself volunteered ("love to help where I can").
+
+### What this round is not claiming
+
+To stay honest at the same epistemic level as the opening:
+
+- It is not claiming that adding a first-encounter surface will recover *this* practitioner specifically. Re-engagement is a separate ethical question this exchange already flagged in opening tension 6 and Round 3 should treat that as its own problem, not as a side effect of designing the surface.
+- It is not claiming that the project's analytical surface is wrong for analytical readers. The MemoFeature panel is a competent evaluator surface. The argument is that it is not the only surface the project needs, not that it should be replaced.
+- It is not claiming a single recognition paragraph would solve the trust problem. [Exchange #17 Round 5](first-practitioner-critique-ai-provenance-exchange.md) already established that trust is performance work, and the [Roadmap](../../ROADMAP.md) Recommendation 4 / Exchange #16 path is where that work lives. A first-encounter surface lowers the threshold for someone to *enter* the trust relationship the project then has to earn.
+- It is not claiming the surface should be domain-specific *only*. The cross-domain variant is in the test on purpose, because part of what we want to learn is whether domain-anchored framing actually helps or whether the more general pattern statement is what people recognize.
+
+**Round 2 provenance:** `[ai-generated, steward-curated]`. This round was drafted after reading the live `Hero` and `MemoFeature` components in the website repo, the [Content Provenance Standard](../../docs/CONTENT_PROVENANCE.md), [Exchange #17](first-practitioner-critique-ai-provenance-exchange.md) Rounds 1–6, the [Roadmap](../../ROADMAP.md) (especially TODOs #3 and #11), the [Reviewer Packet Template](../../docs/REVIEWER_PACKET_TEMPLATE.md), and the [Memo 01](../../memos/proof-of-usefulness-memo-01.md) opening. It builds on Round 1 of this exchange rather than restating it, and is a constructive design response — not a transcript of practitioner language beyond the verbatim feedback already preserved in the anchor record.
+
+---
+
 ## What this exchange is *not*
 
 To prevent scope creep:
@@ -199,7 +299,7 @@ To prevent scope creep:
 
 ---
 
-## Epistemic status (opening through Round 1)
+## Epistemic status (opening through Round 2)
 
 | Claim | Confidence | Basis | What would change this |
 |---|---|---|---|
@@ -208,6 +308,8 @@ To prevent scope creep:
 | The project's current public surfaces lack a Layer 0 / Layer 1 a practitioner can stop at and still get something useful. | Working hypothesis | Architectural inspection of current artifacts; the metaphor "high definition" suggests resolution-mismatch rather than vocabulary failure. | A direct test in which a comparable practitioner sees the existing artifacts and engages substantively, undermining the layer-gap claim. |
 | Re-engaging this practitioner ethically would produce useful additional signal. | Speculative | Inference from the warm, constructive register of her response. | Refusal or non-response to a careful re-engagement; or an indication from the practitioner that further requests would be unwelcome. |
 | The fix is primarily architectural (layered surfaces) rather than primarily lexical (rewriting existing prose more simply). | Hypothesis, more plausible than its alternatives | The "high definition" metaphor; the Exchange #17 finding that entry trust is a layer above content evaluation. | A plain-language rewrite alone, with no architectural change, that succeeds with comparable practitioners. |
+| The current `MemoFeature` is approximately right for self-selected analytical readers and approximately wrong for warm-relationship referrals. *(Round 2)* | Working hypothesis | Reading of `Hero.tsx` and `MemoFeature.tsx` against the practitioner's verbatim response; the surface assumes evaluator posture from the first heading onward. | A warm-referral practitioner engaging substantively with the current surface, or evidence that evaluator-mode practitioners also bounce on the same surface (which would shift the diagnosis from "wrong audience mode" to "wrong surface for everyone"). |
+| The right next test is a small recognition-paragraph experiment routed through the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md), not a homepage rewrite. *(Round 2)* | Working hypothesis | Smallest experiment that would falsify either hypothesis (architectural vs. lexical, domain-specific vs. generic) before any larger work; the Reviewer Packet and convention exist and have not yet been used live, so this satisfies [TODO #11](../../ROADMAP.md) at the same time. | Evidence that recognition-paragraph testing produces no useful discrimination between hypotheses, or that the warm-referral channel is too small to generate sufficient signal at this scale. |
 
 ---
 
