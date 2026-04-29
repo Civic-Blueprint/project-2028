@@ -111,6 +111,83 @@ The exchange should test these explicitly rather than assume them:
 
 ---
 
+## Round 1 — Constructive voice: the outreach worked, but the entry surface did not
+
+The most constructive reading of this episode is not "the project failed to reach a practitioner." It is almost the opposite: the relational outreach worked well enough that a relevant practitioner opened the link, tried to read, responded honestly, and stayed warm. That is a valuable asset. The failure is narrower and therefore more usable: the current first artifact did not give her a low-resolution, domain-recognizable handle before asking her to enter the full memo.
+
+The steward's outreach prompt has several things to preserve:
+
+1. **It is personal and non-institutional.** "You came to mind" is doing real work. It tells the practitioner she is not being mined for generic validation; she is being asked because her experience matters.
+2. **It frames the project through an actual pain point.** "Housing/permitting struggle to deliver" is close enough to childcare licensing that the bridge is plausible.
+3. **It asks for disconfirmation.** "Where does it feel off or oversimplified?" gives permission to criticize, which is exactly the posture this project needs.
+4. **It keeps the ask optional.** "No pressure" protects the relationship and reduces the risk that the practitioner experiences the project as extractive.
+
+But the prompt also reveals the likely entry-path problem. It asks the practitioner to "pressure-test the idea" by going straight to the memo. That skips the thing the practitioner needed first: a simple statement of what she was being asked to recognize. The prompt says, in effect: "Please evaluate this analytical artifact." A better first pass would say: "Here is the one concrete claim I think your experience can confirm or falsify."
+
+### The useful diagnosis
+
+This case strengthens the architectural hypothesis over the purely lexical one.
+
+The practitioner was not merely saying "these words are too hard." Her phrase, "too high definition to understand," sounds like a resolution problem: too much detail before the shape is visible. A plain-language rewrite may help, but if it is still a complete memo as the first stop, it may simply become a lower-vocabulary version of the same entry failure.
+
+The project likely needs a **recognition layer** before the memo:
+
+> "We think a lot of public systems fail not because nobody cares, but because the path from good intent to actual delivery is broken across too many handoffs. Childcare licensing and housing permitting may be different domains, but they often fail in the same pattern: the person trying to build something useful gets trapped between agencies, forms, timelines, and rules that no one actor fully controls."
+
+That is not final copy. It is the kind of layer the current path appears to be missing. A practitioner can agree, disagree, or correct it without reading the full memo.
+
+### What I would change before the next outreach
+
+Do not abandon the existing prompt. Keep its warmth and its permission structure. Change the object of review.
+
+Instead of sending the memo as the first thing to pressure-test, send a three-part entry:
+
+1. **A one-paragraph recognition claim.** Domain-specific if possible. For this practitioner, the bridge should name childcare licensing directly before mentioning housing permitting.
+2. **One concrete question.** For example: "Does this describe what happened when you tried to open a childcare center, or is the pattern wrong?"
+3. **The memo as optional depth.** The memo should become "if this basic claim feels right or wrong, here is the longer version," not the first required surface.
+
+A revised version of the outreach could look like:
+
+> "The short version is: I am testing whether childcare licensing and housing permitting break in a similar way. Not because people in the system do not care, but because the process is split across too many offices, timelines, forms, and veto points, so nobody can make the whole thing work for the person trying to build something useful.
+>
+> Does that match what you experienced when you tried to open the center, or am I forcing the comparison?
+>
+> I have a longer memo here if useful, but you do not need to read it to answer that question."
+
+That version gives her something answerable before asking for document review. It also makes the memo subordinate to the practitioner's own experience, which is the right hierarchy for this stage.
+
+### What this means for the exchange
+
+Round 1 should treat the outreach as partially successful evidence:
+
+- **Relationship layer:** working.
+- **Trust posture:** mostly working; the ask was warm, optional, and criticism-friendly.
+- **Recognition layer:** missing or too weak.
+- **Document layer:** too deep as a first stop.
+
+That implies the next test should not be "can we make the memo simpler?" It should be "can we create a domain-specific recognition layer that earns one substantive practitioner response before the memo appears?"
+
+This also suggests adding a **Pass 0** to the structured practitioner critique pathway:
+
+> Before asking whether the analysis is true, ask whether the practitioner can tell what claim they are being asked to evaluate.
+
+Pass 0 is not a dumbed-down version of the project. It is a respect mechanism. It prevents the project from making practitioners pay the cognitive cost of discovering the question before they can answer it.
+
+### Constructive recommendation
+
+Proceed with a small layer test, not a broad rewrite.
+
+1. Draft two or three recognition-layer variants: one generic, one childcare-specific, one permitting-specific.
+2. Show each to either this practitioner or a comparable practitioner before sending the full memo.
+3. Ask only: "What do you think this is claiming, and does it match anything you have seen?"
+4. Use the answer to decide whether the failure is domain framing, layer architecture, or memo prose.
+
+The strongest optimistic conclusion is that the project may be closer than this feedback first appeared to suggest. The person did not reject the project. She rejected the first-resolution artifact. That is fixable if the project treats comprehension as part of the delivery system, not as polish applied after the serious work is done.
+
+**Round 1 provenance:** `[ai-generated, steward-curated]`. This round responds to a steward-supplied outreach prompt and the preserved practitioner feedback record. It is a constructive design response, not a transcript of practitioner language beyond the quoted feedback already captured above.
+
+---
+
 ## What this exchange is *not*
 
 To prevent scope creep:
@@ -122,7 +199,7 @@ To prevent scope creep:
 
 ---
 
-## Epistemic status (opening round)
+## Epistemic status (opening through Round 1)
 
 | Claim | Confidence | Basis | What would change this |
 |---|---|---|---|
