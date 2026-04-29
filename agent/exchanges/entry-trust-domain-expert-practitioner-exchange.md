@@ -288,6 +288,271 @@ To stay honest at the same epistemic level as the opening:
 
 ---
 
+## Round 3 — Adversarial review
+
+> **Role:** Designated adversarial contributor per the [Adversarial Review Protocol](../process/adversarial-review-protocol.md). Operating under **Option A (reduced context)** + **Option B (assertions to test)** + **Option C (domain-specific lens)**.
+>
+> **Reduced context (Option A):** Reviewing from the [feedback record](../../feedback/feedback-childcare-licensing-practitioner-2026-04.md), the exchange opening, the current `Hero` / `MemoFeature` entry surface in the website repo, and the core project commitments in [Principles](../../PRINCIPLES.md) (§9, §10, §14), [Problem Map](../../PROBLEM_MAP.md) (§3, §4, §13), [Systems Framework](../../SYSTEMS_FRAMEWORK.md) (§4 public institutions and state capacity). Not taking the constructive rounds as established.
+>
+> **Assertions to test (Option B):**
+>
+> 1. This is mainly an entry-surface / recognition-layer failure.
+> 2. "Too high definition" is strong evidence for an architectural problem rather than a lexical or effort-calibration problem.
+> 3. The practitioner is clearly part of the target audience for the current public artifact, not just for downstream permitting proposals.
+> 4. The current `MemoFeature` is roughly right for analytical readers and mainly wrong for warm-relationship referrals.
+> 5. A recognition-paragraph test routed through the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) is the best next move.
+>
+> **Domain-specific lens (Option C):** Reviewing from the perspective of a frontline public-systems practitioner / implementation researcher who has seen many outside analyses mistake "I recognize that pain" for "this tool is useful to me."
+
+---
+
+### Top-line adversarial challenge
+
+Rounds 1 and 2 may be converging too quickly on a story that is flattering to the project:
+
+> the practitioner basically shares the project's analysis, but the entry surface was at the wrong resolution.
+
+That story may be true. It may also be the most project-comforting interpretation available.
+
+The harder alternative is:
+
+> the project has not yet earned the right to ask this practitioner to evaluate an abstract cross-domain framework at all, and the failure may sit as much in relevance calibration, effort calibration, and the project's own abstraction choices as in the entry surface.
+
+That is a more threatening diagnosis because it says the problem is not merely that the reader could not see the shape. The problem may be that the project has not shown why *this shape* is worth the reader's time.
+
+---
+
+### 1. The exchange may be overstating "target audience"
+
+The opening says this practitioner is exactly the audience the project's permitting-stack analysis is built to serve. That is true in one sense and unproven in another.
+
+It is true that she has lived experience of a directly relevant failure mode. She is clearly relevant to `P-004 / P-107`-type work.
+
+What is *not* yet established is that she is the right audience for the current public artifact stack:
+
+- a homepage oriented around formation-document convergence,
+- a memo comparing housing permitting with AI governance,
+- and a framework that speaks in terms like institutional capacity, recursive uplift, and democratic-process mismatch.
+
+Those are not the same thing.
+
+A person can be highly relevant to a downstream reform proposal while still being a poor fit for the current proof-of-usefulness artifact. The exchange keeps treating "adjacent lived experience" and "natural first reader of the artifact" as if they were equivalent. They are not.
+
+The adversarial claim is not that she is irrelevant. It is that the exchange has collapsed two distinct questions:
+
+1. **Who should help test the permitting proposal?**
+2. **Who should be expected to engage with the current memo-and-framework stack?**
+
+The project may be right about the first and wrong about the second.
+
+If so, the exchange is diagnosing a communication failure where part of the issue may actually be **artifact-audience mismatch**. That is not a small distinction. A better recognition layer cannot fix an artifact that is aimed at the wrong reader in the first place.
+
+---
+
+### 2. "Too high definition" may be less diagnostic than the exchange assumes
+
+Rounds 1 and 2 give that phrase a great deal of analytical weight. There is some reason to do that; it is an unusual metaphor. But the adversarial case is that the exchange may be overreading politeness as precision.
+
+This was a warm personal exchange. In that context, people often reach for softened language rather than exact diagnosis. "Too high definition" may simply be a friendly way of saying:
+
+- too detailed,
+- too abstract,
+- too long,
+- too much theory too fast,
+- or "I do not want to do the work required to parse this right now."
+
+The exchange has been careful to keep lexical vs. architectural hypotheses open in principle. In practice, though, Rounds 1 and 2 clearly lean architectural. The danger is that the project now treats a single metaphor as if it were a user-research finding.
+
+That is not a strong enough basis for design confidence.
+
+The adversarial alternative is more austere:
+
+> "Too high definition" is evidence of friction, not of its mechanism.
+
+It does not tell us whether the friction came from vocabulary, abstraction level, length, time-cost, domain mismatch, analytic posture mismatch, or some combination. The constructive rounds are right to generate hypotheses from the phrase. They are not yet justified in leaning on it as if it picks the winner.
+
+---
+
+### 3. The "evaluator path vs. first-encounter path" distinction may be analytically neat and empirically unearned
+
+Round 2's cleanest claim is that the current `MemoFeature` is roughly right for self-selected analytical readers and roughly wrong for warm-relationship referrals.
+
+That may be the most vulnerable claim in the exchange so far.
+
+Why? Because the project has no actual evidence that the current `MemoFeature` works for analytical readers either. No practitioner has yet been shown to clear the trust-and-comprehension threshold and then engage substantively with the framework. The exchange is inferring adequacy from the surface's internal coherence and from its fit with the project's own analytical culture.
+
+That is exactly the kind of convergence artifact the protocol exists to challenge.
+
+From outside the project's frame, `MemoFeature` may also be wrong for analytical readers:
+
+- It still leads with an abstract project identity sentence.
+- It still asks the reader to adopt the project's preferred evaluative framing ("test whether the framework can produce a better read of real drift").
+- It still jumps quickly into "institutional capacity" language that may not mean much to an external reader without prior buy-in.
+- It still offers no concrete promise of usefulness before asking for attention.
+
+In other words, the distinction between "works for evaluators" and "fails for warm referrals" may simply be a way of preserving confidence in the current artifact despite having no evidence that it works for anyone outside the project.
+
+The adversarial alternative is harsher but cleaner:
+
+> The project does not yet know whether the current entry surface works for *any* external reader category.
+
+If that is true, then the Round 2 bifurcation into evaluator path vs. first-encounter path may be premature systematizing.
+
+---
+
+### 4. The recognition-paragraph experiment may optimize for agreement while weakening the real test
+
+Round 2's proposed next move is attractive because it is small, low-cost, and humane. But it may also create a false positive.
+
+If the project writes a childcare-specific recognition paragraph that says, in effect:
+
+> opening a center means dealing with zoning, fire, building, licensing, accreditation, and no one office can move you forward while any one office can stop you,
+
+the practitioner may well respond: "yes, exactly."
+
+But what has been validated if she does?
+
+Possibly only that:
+
+- the project can mirror back a pain pattern she already knows,
+- and that this mirroring is legible.
+
+That is not nothing. But it is much weaker than validating that the project's framework is useful, or that the housing/childcare analogy holds, or that the public artifact stack is now appropriately designed.
+
+The danger is that the experiment confuses three different accomplishments:
+
+1. **Recognition:** "You described my pain in words I recognize."
+2. **Trust:** "I believe you are engaging honestly."
+3. **Usefulness:** "Your framework or proposal helps me see or act differently."
+
+A recognition paragraph can succeed at (1) while doing very little for (2) and almost nothing for (3).
+
+Worse, it may cross into the manipulation guardrail in a subtler way than Round 2 acknowledges: not by hiding provenance, but by presenting the most emotionally recognizable slice of the practitioner's experience first, thereby making the project feel more grounded than the actual framework yet warrants.
+
+The adversarial claim is not that recognition testing is wrong. It is that the exchange is at risk of treating it as a decisive experiment when it may only be a test of mirroring skill.
+
+---
+
+### 5. The Reviewer Packet may be the wrong instrument for this channel
+
+Round 2 tries to reuse the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md) so the same experiment also advances [ROADMAP TODO #11](../../ROADMAP.md).
+
+That is efficient. It may also be a category mistake.
+
+The packet was designed for live external review: a person knowingly stepping into a reviewer role. This practitioner has not done that. She replied to a personal outreach text with candid friction feedback. Trying to route that kind of warm, low-cost, candid exchange into a formal reviewer instrument may do at least three bad things:
+
+1. **Raise the activation energy.** What was easy to answer as a text message becomes "a process."
+2. **Change the social meaning of the interaction.** The practitioner may feel she is being enrolled into a project workflow she never opted into.
+3. **Reduce candor.** Formal review instruments often produce more careful, less honest, and less human responses than low-stakes conversation does.
+
+That matters because the whole value of this episode is that the candor arrived before protocol. Turning the next touchpoint into protocol may destroy the very condition that made the signal usable.
+
+The project has already recognized elsewhere that trust is not built by communication theater. The same caution should apply internally: a formally elegant instrument is not always the right human instrument.
+
+---
+
+### 6. The exchange may still be underweighting effort calibration
+
+Exchange #17's adversarial round already made this point in the AI-provenance case, and it applies here too.
+
+The project may be explaining too much through communication architecture because communication architecture is the variable most under its control. But the simplest explanation may remain:
+
+> almost no one wants to read a cross-domain analytical memo from a friend unless the immediate payoff is obvious and small.
+
+That does not make the practitioner's feedback trivial. It means the base-rate problem is doing more work than the exchange is letting it do.
+
+If the ask itself was miscalibrated, then many downstream interpretations become less secure:
+
+- "no clue" may partly mean "I did not spend enough time with this to develop a clue,"
+- "too high definition" may partly mean "too much effort for this channel,"
+- and the bounce may tell us as much about **ask size** as about **artifact resolution**.
+
+The exchange opening does name entry path vs. artifact as a tension. But the constructive rounds drift away from that humility and toward the artifact. The adversarial case is that **effort calibration belongs back near the center**.
+
+---
+
+### 7. A stronger next test may be a bounded useful artifact, not a better intro paragraph
+
+If [Principle 9](../../PRINCIPLES.md#9-institutions-should-be-designed-for-competence-and-trust-not-theater) and [Problem Map §13](../../PROBLEM_MAP.md#13-institutional-distrust-is-becoming-a-governing-condition) are taken seriously, then trust is built by visible usefulness, not by clearer invitations alone.
+
+That suggests a more adversarial alternative to Round 2's next step:
+
+Instead of:
+
+- "Can we write a better recognition paragraph?"
+
+test:
+
+- "Can we make one small artifact in this practitioner's actual domain that is useful enough to correct, react to, or argue with?"
+
+Examples:
+
+- a one-page childcare-licensing bottleneck map,
+- a short sequence diagram of the offices and veto points involved in opening a center,
+- a two-column note comparing "what the process is supposed to do" vs. "where people actually get stuck,"
+- or one sharply bounded proposal fragment that asks "what would break here?"
+
+That kind of artifact does three things the recognition paragraph does not:
+
+1. It asks less abstraction of the practitioner.
+2. It tests usefulness rather than just recognition.
+3. It begins to satisfy the project's own competence-through-visible-performance standard.
+
+This is closer to the project the core documents say Civic Blueprint wants to be: one that produces tools or analyses with visible use-value, not only better entry surfaces into theoretical artifacts.
+
+The adversarial claim is therefore:
+
+> the exchange may be one step too early in the stack. The better next move may be not a lower-resolution introduction to the memo, but a smaller domain artifact that can stand on its own.
+
+That would still inform website and outreach design later, but it would do so by testing usefulness directly rather than by testing introduction quality first.
+
+---
+
+### 8. Missing perspectives that could change the conclusions
+
+The exchange is still light on several perspectives the protocol specifically asks for:
+
+- **A frontline local-government licensing worker.** They may tell a very different story about where the friction sits and whether the project's framing is recognizable.
+- **A childcare operator who did *not* nearly open a center.** Someone who bounced even earlier may not recognize the project's abstraction at all.
+- **A practitioner outside the steward's warm-relationship channel.** Warmth may be masking sharper negative reactions.
+- **A non-US practitioner.** The project keeps generalizing from U.S. municipal permitting dynamics, but childcare regulation and local-state capacity vary widely across contexts.
+
+Their inclusion could change the exchange in a more fundamental way than either constructive round has admitted: they might show that the issue is not "wrong resolution," but "wrong object," "wrong comparison," or "wrong first proof-of-usefulness lane."
+
+---
+
+### Adversarial synthesis
+
+The constructive rounds may be right that the project needs a lower-resolution, domain-recognizable first encounter. But they have not yet earned the confidence with which they increasingly talk that way.
+
+The protocol's job is to name where agreement may be more artifact than evidence. Here, the likely convergence artifacts are:
+
+1. **Project-internal tractability bias.** Entry-surface design is easier to change than artifact strategy, so the exchange gravitates there.
+2. **Interpretive generosity toward a warm phrase.** "Too high definition" is being treated as more diagnostic than the evidence warrants.
+3. **Implicit confidence in the current artifact stack.** The exchange keeps preserving the memo and evaluator path as basically sound without outside evidence that they work.
+4. **Efficiency bias.** The recognition-paragraph + Reviewer Packet proposal is appealing partly because it advances multiple roadmap items at once. Efficient does not mean right.
+
+The adversarial bottom line:
+
+> The exchange has not yet shown that the main problem is entry resolution. It has only shown that one practitioner, in a warm channel, did not convert from personal invitation to abstract-framework evaluation. That is an important signal. It is not yet a narrow diagnosis.
+
+---
+
+### Epistemic status of this round's challenges
+
+| Assertion challenged | Adversarial assessment | Basis | What would resolve this |
+|---|---|---|---|
+| This is mainly an entry-surface / recognition-layer failure | Contested | The practitioner may be relevant to the proposal lane without being the natural reader for the current artifact stack; effort calibration and artifact-audience mismatch remain live alternatives. | A comparable practitioner engaging with a smaller domain artifact but not with the current entry surface, or conversely engaging with the current surface once the ask is resized. |
+| "Too high definition" strongly favors the architectural hypothesis | Contested | Warm-channel politeness makes the phrase suggestive but not mechanism-diagnostic; it may bundle abstraction, length, lexical density, and effort cost. | Multiple practitioners independently using similar "resolution mismatch" language, or a test that isolates architecture from wording and effort size. |
+| The current `MemoFeature` is approximately right for analytical readers | Speculative | No external reader category has yet been shown to clear the threshold and engage substantively; the claim currently rests on project-internal judgment. | Substantive external engagement from self-selected analytical readers, or repeated failure from that group too. |
+| A recognition-paragraph test is the best next move | Contested | It may test mirroring skill more than usefulness and may produce false positives. A bounded useful artifact could be a stronger test of competence and reader value. | Head-to-head comparison: recognition paragraph vs. bounded domain artifact, measuring which produces more substantive, corrective feedback. |
+| Routing this experiment through the Reviewer Packet is a gain | Contested | Formalizing a warm-referral channel may raise friction, alter the social meaning of the interaction, and reduce candor. | Evidence that practitioners in warm channels engage just as readily and honestly under the packet as under informal outreach. |
+| The practitioner is clearly the target audience for the current public artifact | Working hypothesis, overstated in the exchange | She is clearly relevant to downstream permitting work, but that does not automatically make her the right first reader for the current memo/framework stack. | Evidence that similarly situated practitioners do in fact use the current public artifact productively, or a steward decision that the proof-of-usefulness artifact is intentionally aimed elsewhere. |
+
+**Round 3 provenance:** `[ai-generated, steward-curated]`. This round follows the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) and is intentionally framed to challenge the strongest claims emerging from the exchange opening and the first two rounds. It draws on the core project commitments, the anchor feedback record, and the current memo-entry surface, but does not treat prior constructive rounds as established.
+
+---
+
 ## What this exchange is *not*
 
 To prevent scope creep:
@@ -299,17 +564,17 @@ To prevent scope creep:
 
 ---
 
-## Epistemic status (opening through Round 2)
+## Epistemic status (opening through Round 3)
 
 | Claim | Confidence | Basis | What would change this |
 |---|---|---|---|
 | The practitioner experienced an entry-trust failure distinct from Exchange #17's. | Established by the feedback record | Direct verbatim transcript; absence of AI-texture complaint; presence of a resolution-mismatch complaint. | Evidence that the practitioner's response was performative, not genuine — unlikely given the relational context but not impossible. |
 | She is a domain-relevant target audience for the project. | Established | Lived experience of municipal childcare licensing failure; structural similarity to the housing permitting case. | Re-evaluation of whether the project's permitting-stack work is actually intended to serve people in her role. |
-| The project's current public surfaces lack a Layer 0 / Layer 1 a practitioner can stop at and still get something useful. | Working hypothesis | Architectural inspection of current artifacts; the metaphor "high definition" suggests resolution-mismatch rather than vocabulary failure. | A direct test in which a comparable practitioner sees the existing artifacts and engages substantively, undermining the layer-gap claim. |
+| The project's current public surfaces lack a Layer 0 / Layer 1 a practitioner can stop at and still get something useful. | Contested | Architectural inspection of current artifacts; the metaphor "high definition" suggests resolution-mismatch rather than vocabulary failure, but Round 3 argues effort calibration and artifact-audience mismatch remain live alternatives. | A direct test in which comparable practitioners engage with the current artifact once ask size is reduced, or a smaller domain artifact succeeds where the current entry surface fails. |
 | Re-engaging this practitioner ethically would produce useful additional signal. | Speculative | Inference from the warm, constructive register of her response. | Refusal or non-response to a careful re-engagement; or an indication from the practitioner that further requests would be unwelcome. |
-| The fix is primarily architectural (layered surfaces) rather than primarily lexical (rewriting existing prose more simply). | Hypothesis, more plausible than its alternatives | The "high definition" metaphor; the Exchange #17 finding that entry trust is a layer above content evaluation. | A plain-language rewrite alone, with no architectural change, that succeeds with comparable practitioners. |
-| The current `MemoFeature` is approximately right for self-selected analytical readers and approximately wrong for warm-relationship referrals. *(Round 2)* | Working hypothesis | Reading of `Hero.tsx` and `MemoFeature.tsx` against the practitioner's verbatim response; the surface assumes evaluator posture from the first heading onward. | A warm-referral practitioner engaging substantively with the current surface, or evidence that evaluator-mode practitioners also bounce on the same surface (which would shift the diagnosis from "wrong audience mode" to "wrong surface for everyone"). |
-| The right next test is a small recognition-paragraph experiment routed through the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md), not a homepage rewrite. *(Round 2)* | Working hypothesis | Smallest experiment that would falsify either hypothesis (architectural vs. lexical, domain-specific vs. generic) before any larger work; the Reviewer Packet and convention exist and have not yet been used live, so this satisfies [TODO #11](../../ROADMAP.md) at the same time. | Evidence that recognition-paragraph testing produces no useful discrimination between hypotheses, or that the warm-referral channel is too small to generate sufficient signal at this scale. |
+| The fix is primarily architectural (layered surfaces) rather than primarily lexical (rewriting existing prose more simply). | Contested | The "high definition" metaphor and the Exchange #17 entry-trust framing point toward architecture, but Round 3 argues the phrase is too warm-channel and underspecified to separate architecture from wording, length, or effort cost. | A plain-language rewrite alone, with no architectural change, that succeeds with comparable practitioners; or multiple independent reports using similar "resolution mismatch" language after controlling for ask size. |
+| The current `MemoFeature` is approximately right for self-selected analytical readers and approximately wrong for warm-relationship referrals. *(Round 2)* | Speculative | Reading of `Hero.tsx` and `MemoFeature.tsx` against the practitioner's verbatim response suggests evaluator-posture assumptions, but no external reader group has yet been shown to engage substantively with the current surface. | A self-selected analytical reader engaging productively with the current entry surface, or repeated failure from that group too. |
+| The right next test is a small recognition-paragraph experiment routed through the [Reviewer Packet](../../docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md), not a homepage rewrite. *(Round 2)* | Contested | It is a low-cost falsification attempt, but Round 3 argues it may optimize for recognition rather than usefulness and that formalizing the warm-referral channel may increase friction. | Head-to-head comparison of recognition-paragraph testing against a bounded useful artifact or evidence that the packet does not reduce warm-channel candor or response rates. |
 
 ---
 
