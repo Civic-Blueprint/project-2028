@@ -140,9 +140,9 @@ If you're new to the project, start with the core documents ([Principles](../../
 |  |  |
 |---|---|
 | **Question** | Should the framework explicitly shift from an "AI governance" frame to an "AI commonwealth" frame centered on ownership, access, and public infrastructure, or preserve governance as the primary frame and incorporate these ideas more narrowly? |
-| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md) |
-| **Produced** | Exchange opened. Initial questions captured around governance vs. commonwealth framing, timeline urgency, what counts as commonwealth infrastructure in AI, and whether existing public artifacts need reframing. |
-| **Status** | Active discussion. |
+| **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md), [Source Digest — Stewart/Acemoglu/Autor (Weekly Show)](../../sources/source-weekly-show-stewart-ai-future-of-work-digest.md), [AI Governance Practice digest](../../sources/source-ai-governance-practice-digest.md) |
+| **Produced** | Exchange opened. Initial questions captured around governance vs. commonwealth framing, timeline urgency, what counts as commonwealth infrastructure in AI, and whether existing public artifacts need reframing. **April 2026:** External evidence base added — the Stewart/Acemoglu/Autor digest provides the pro-worker AI directional frame, the data-extraction-economy critique, and a concrete commonwealth-style policy package (UBC + labor/capital tax rebalance + pro-worker R&D + wage insurance) ready to feed Round 1. |
+| **Status** | Active discussion. External evidence curated; Round 1 not yet conducted. |
 
 ---
 
@@ -323,6 +323,17 @@ Core Documents (Principles, Problem Map, Systems Framework)
               ◄── #7 (recursive uplift) + #9 (debt legitimacy)
               ◄── ARP + HPTP
               (adversarial challenge to Principle 5 + ownership question)
+
+  Source Digest: The Weekly Show (Stewart / Acemoglu / Autor)
+        │
+        ├─► #11 AI Commonwealth vs. AI Governance (Round 1 input)
+        │     ◄── Source Digest + AI Governance Practice digest
+        │     ◄── Principles §3/§6/§10 + PM §6/§12/§14
+        │     (pro-worker AI; data-extraction economy; UBC + tax rebalance)
+        │
+        └─► #21 F2 / F4 follow-ups (when opened)
+              ◄── reinforces direction-of-technology framing,
+                  collective-dividend ownership category, frontier-AI worked example
 ```
 
 ---

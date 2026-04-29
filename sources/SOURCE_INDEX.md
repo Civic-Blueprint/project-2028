@@ -5,7 +5,7 @@ provenance: "collaborative"
 
 # Source Index
 
-> **Status (April 2026):** Active. This index tracks curated source digests in `sources/` that feed the [Government Overreach, Ownership as Transition, and the Ratchet Problem exchange](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) and adjacent exchanges. Sources are grouped by sub-debate and viewpoint to make it easy to assemble balanced evidence bases for Round 2 and subsequent rounds. As of April 2026, 51 digests are catalogued (the originating Friedberg anchor + 50 curated references across two research sweeps).
+> **Status (April 2026):** Active. This index tracks curated source digests in `sources/` that feed the [Government Overreach, Ownership as Transition, and the Ratchet Problem exchange](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md), the [AI Commonwealth vs. AI Governance exchange](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md), and adjacent exchanges. Sources are grouped by sub-debate and viewpoint to make it easy to assemble balanced evidence bases for Round 2 and subsequent rounds. As of April 2026, 52 digests are catalogued (the originating Friedberg anchor + 50 curated references across two research sweeps + 1 second steward-anchor digest from *The Weekly Show* with Acemoglu and Autor).
 >
 > **Scope:** This index intentionally favors peer-reviewed work, major investigative journalism, reputable think-tank analysis (across the political spectrum), named-expert essays, and freely available book chapters or summaries. Paywalled or speculative material is excluded unless explicitly noted.
 >
@@ -77,6 +77,7 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Social-democratic / progressive | [Bartels, *Unequal Democracy* (2008/2016)](source-bartels-unequal-democracy-digest.md) | Partisan differentials + unenlightened-voter information gap. |
 | Heterodox / institutional | [Ostrom, *Governing the Commons* (1990) + Nobel Lecture](source-ostrom-governing-commons-digest.md) | Polycentric governance as alternative to both state and market capture. |
 | Institutional / direct-democracy | [Swiss Direct Democracy (referendum, initiative, Frey empirics)](source-swiss-direct-democracy-digest.md) | Mechanism evidence on direct-democratic override of capture; primary input for entrenchment element of bounded-governance design. (also in Sub-debate 8) |
+| Social-democratic / institutional | [Stewart, Acemoglu & Autor — *AI & The Future of Work*](source-weekly-show-stewart-ai-future-of-work-digest.md) | Direction-of-technology framing; tech-corporate concentration as a capture mechanism distinct from beneficiary-bloc capture. (also in Sub-debates 4, 6, 7, 8) |
 
 ## 4. Abundance, post-scarcity, and the future of ownership
 
@@ -89,6 +90,7 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Heterodox / humanist | [Keynes, "Economic Possibilities for Our Grandchildren" (1930)](source-keynes-grandchildren-digest.md) | Canonical humanist abundance essay; transition framing of ownership. |
 | Heterodox / ecological | [Raworth, *Doughnut Economics* (2017)](source-raworth-doughnut-digest.md) | Social floor + ecological ceiling as safe operating space. |
 | Heterodox / existential-safety | [AI Catastrophic-Risk Literature (Bengio, Russell, Bostrom, IDAIS)](source-ai-existential-risk-digest.md) | Ecological-ceiling analog for AI capability; anti-catastrophe-narrow framing. (also in Sub-debates 7, 8) |
+| Social-democratic / pro-worker AI | [Stewart, Acemoglu & Autor — *AI & The Future of Work*](source-weekly-show-stewart-ai-future-of-work-digest.md) | Pro-worker AI direction; UBC + labor/capital tax rebalance + pro-worker R&D as concrete commonwealth-style policy package. (also in Sub-debates 3, 6, 7, 8) |
 
 ## 5. Social democracy vs. command economics vs. minimal-state models
 
@@ -108,6 +110,7 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Social-democratic / empirical health economics | [Cooper, Papanicolas, Anderson et al., Healthcare Prices](source-chetty-healthcare-prices-digest.md) | "It's the prices, stupid"; U.S. concentration and administrative overhead. |
 | Heterodox / sector-decomposition | [Bowen, Archibald-Feldman, Gordon-Hedlund, Bennett Hypothesis](source-bowen-college-cost-digest.md) | Competing explanations for college tuition inflation. |
 | Pro-market / supply-side-empirical | [Glaeser & Gyourko + Hsieh-Moretti, Housing Supply](source-glaeser-gyourko-housing-digest.md) | Zoning-as-regulation as a real case of government-driven price inflation. |
+| Heterodox / labor-economics | [Stewart, Acemoglu & Autor — *AI & The Future of Work*](source-weekly-show-stewart-ai-future-of-work-digest.md) | Productivity-pay decoupling since 1980 as a design choice rather than a law of nature; Baumol cost-disease handling and tax-policy bias toward automation. (also in Sub-debates 3, 4, 7, 8) |
 
 ## 7. Fear-based framing and policy risk
 
@@ -118,6 +121,7 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Mixed / policy case study | [German Energiewende and Nuclear Phaseout](source-germany-energiewende-digest.md) | Real-world case of precautionary policy with measurable risk-risk costs. |
 | Expert-letter / catastrophic-risk | [AI Catastrophic-Risk Literature (Bengio, Russell, Bostrom, IDAIS)](source-ai-existential-risk-digest.md) | Applied test case for Sunstein anti-catastrophe framework. (also in Sub-debates 4, 8) |
 | Regulatory practice / live case | [AI Governance Practice (EU AI Act, SB 1047/SB 53, U.S. EO sequence, NIST)](source-ai-governance-practice-digest.md) | Empirical record of 2024–2026 regulatory choices; tests whether anti-catastrophe-narrow is politically available. (also in Sub-debate 8) |
+| Social-democratic / anti-doom counterweight | [Stewart, Acemoglu & Autor — *AI & The Future of Work*](source-weekly-show-stewart-ai-future-of-work-digest.md) | Explicitly pushes back on AI doom-only framing while taking displacement risk seriously; "uncertainty is a bad reason for complacency" formulation. (also in Sub-debates 3, 4, 6, 8) |
 
 ## 8. Bounded-governance design, fiscal rules, and institutional anti-ratchet mechanisms
 
@@ -136,14 +140,16 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Historical contraction cluster | [Fiscal Consolidation Cases (Canada 1990s, Sweden 1990s, NZ 1984)](source-fiscal-consolidation-cases-digest.md) | Institutional rule architecture (Swedish expenditure ceiling + surplus target) as bounded-governance benchmark. (also in Sub-debates 1, 3, 5) |
 | Regulatory practice / applied design | [AI Governance Practice (EU AI Act, SB 1047/SB 53, U.S. EO sequence, NIST)](source-ai-governance-practice-digest.md) | Live test of the bounded-governance design package on frontier AI. (also in Sub-debate 7) |
 | Institutional / direct-democracy entrenchment | [Swiss Direct Democracy](source-swiss-direct-democracy-digest.md) | Entrenchment mechanism in the bounded-governance design package; Frey's political-economy findings. (also in Sub-debate 3) |
+| Pro-worker / regulation-is-possible | [Stewart, Acemoglu & Autor — *AI & The Future of Work*](source-weekly-show-stewart-ai-future-of-work-digest.md) | China-as-existence-proof regulatory argument; concrete pro-worker AI policy package (UBC, labor/capital tax rebalance, wage insurance) usable in F4 frontier-AI worked example. (also in Sub-debates 3, 4, 6, 7) |
 
 ---
 
-## Cross-cutting: the steward's anchor digest
+## Cross-cutting: the steward's anchor digests
 
 | Digest | Source | Role |
 |---|---|---|
-| [Modern Wisdom #1084: David Friedberg](source-modern-wisdom-1084-friedberg-digest.md) | Podcast interview, April 13, 2026 | Originating adversarial material for Exchange #[government-overreach]; preserves the full thematic spread of Friedberg's argument. |
+| [Modern Wisdom #1084: David Friedberg](source-modern-wisdom-1084-friedberg-digest.md) | Podcast interview, April 13, 2026 | Originating adversarial material for Exchange #21 (Government Overreach, Ownership & Ratchet); preserves the full thematic spread of Friedberg's argument. |
+| [The Weekly Show with Jon Stewart: Acemoglu & Autor](source-weekly-show-stewart-ai-future-of-work-digest.md) | Podcast interview, April 22, 2026 | Steward-anchored complement to Friedberg. Where Friedberg locates the obstacle to abundance in government overreach, Acemoglu and Autor locate it in concentrated tech-corporate ownership and the direction of technological development. Reinforces the "direction is a design choice" frame; primary input for Exchange #11 (AI Commonwealth) Round 2 and Exchange #21 F4 (frontier-AI worked example). |
 
 ---
 

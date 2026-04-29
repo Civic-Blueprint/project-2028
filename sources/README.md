@@ -35,11 +35,12 @@ As the corpus grows, browse the [Source Index](SOURCE_INDEX.md) to find digests 
 
 ## Current corpus
 
-As of April 2026, the directory contains 51 source digests:
+As of April 2026, the directory contains 52 source digests:
 
 - One originating adversarial anchor (the Modern Wisdom #1084 Friedberg digest).
 - 43 curated reference digests from the first research sweep (April 2026), covering the eight sub-debates identified in the Government Overreach exchange.
 - 7 curated reference digests from the second research sweep (April 2026), closing the five residual data gaps identified at the end of Round 2 of that exchange: Argentina under Milei; historical fiscal consolidation cases (Canada 1990s, Sweden 1990s, NZ 1984); AI catastrophic-risk literature; AI governance practice (EU AI Act, California SB 1047/SB 53, U.S. EO sequence, NIST AI RMF); cooperative and platform-cooperative ownership forms; sovereign wealth funds (Norway GPFG, Alaska Permanent Fund); Swiss direct democracy.
+- One second steward-anchor digest (April 2026): *The Weekly Show with Jon Stewart — AI & The Future of Work*, an interview with Daron Acemoglu and David Autor that complements the Friedberg digest. Where Friedberg locates the obstacle to abundance in government overreach, Acemoglu and Autor locate it in concentrated tech-corporate ownership and the direction of technological development. This digest is the primary external evidence base for the [AI Commonwealth vs. AI Governance exchange](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md) Round 1.
 
 Viewpoint coverage is balanced across pro-market/libertarian, social-democratic/progressive, and heterodox/institutional positions so that exchange rounds can draw on sympathetic and skeptical evidence for each sub-debate. The ownership taxonomy developed in Round 2 is empirically grounded after the second sweep (cooperatives and SWFs as concrete instances), the AI-governance sub-debate is empirically and theoretically supported by paired digests (existential-risk literature + regulatory practice), and the bounded-governance design package in Sub-debate 8 has real-world case grounding (Argentina, Canada, Sweden, NZ, Switzerland).
 
