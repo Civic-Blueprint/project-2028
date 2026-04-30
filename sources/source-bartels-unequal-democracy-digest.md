@@ -85,7 +85,7 @@ The differential compounding over decades accounts for a large share of the post
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Fourth empirical leg of the democratic-capture framework.
-- **Problem Map:** [Domain 10 (Wealth concentration)](../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 10 (Wealth and power concentration)](../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). Bartels documents the concentration-to-process transmission empirically: §10's concentration shows up in §15's responsiveness gap.
 - **Principles:** Tests [Principle 4 (accountability, legibility, reversibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) — if voters cannot hold distributional outcomes accountable because they are unaware of them, then legibility (public-facing distributional transparency) becomes a core democratic accountability requirement.
 - **Round 2 use:** Primary citation for the argument that distributional transparency is a constitutive democratic requirement.
 

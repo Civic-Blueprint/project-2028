@@ -71,7 +71,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 13 (Institutional capacity), Domain 14 (Concentrated private power), Domain 15 (Democratic process), Layer 4 (Meta-conditions — institutional design as a binding constraint on reform pace).
+- **Problem Map:** Domain 4 (Institutional capacity), Domain 10 (Wealth and power concentration), Domain 15 (Democratic process), Layer 4 (Meta-conditions — institutional design as a binding constraint on reform pace).
 - **Principles:** [§4 (Power must remain accountable, legible, and reversible)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible); [§5 (Critical systems require public-interest governance)](../PRINCIPLES.md#5-critical-systems-require-public-interest-governance); [§17 (Collective power must be exercised within principled constraints)](../PRINCIPLES.md#17-collective-power-must-be-exercised-within-principled-constraints).
 - **Active exchanges:** [Exchange #21 (Government Overreach, Ownership & Ratchet)](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) — Platner's "design-feature-as-leverage-point" reading is symmetric to but not identical to the bounded-governance doctrine's framing of Senate-style entrenchment as anti-ratchet architecture. The two readings can both be true (the same design feature can protect elites *and* later be wielded for reform), and the contrast may sharpen the doctrine.
 
@@ -102,7 +102,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 13 (Institutional capacity), Domain 15 (Democratic process), Domain 14 (Concentrated private power — donor-capture mechanism).
+- **Problem Map:** Domain 4 (Institutional capacity), Domain 15 (Democratic process), Domain 10 (Wealth and power concentration — donor-capture mechanism).
 - **Principles:** [§9 (Institutions should be designed for competence and trust, not theater)](../PRINCIPLES.md#9-institutions-should-be-designed-for-competence-and-trust-not-theater); [§4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible).
 - **Active exchanges:** [Exchange #21 (Government Overreach, Ownership & Ratchet)](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) — the diagnosis structurally parallels Friedberg's "California is a high-tax / low-delivery system" critique from the [Friedberg digest](source-modern-wisdom-1084-friedberg-digest.md), but locates the failure in donor capture (Platner) rather than in revealed expansionary preferences (Friedberg). Both can be partial readings of the same outcome.
 
@@ -136,7 +136,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 13 (Institutional capacity), Domain 15 (Democratic process), Domain 4 (Regulatory architecture and rule-of-law constraints), Layer 3 (Coordination — political will as a binding constraint distinct from analytical clarity).
+- **Problem Map:** Domain 4 (Institutional capacity, including regulatory architecture and rule-of-law constraints), Domain 15 (Democratic process), Layer 3 (Coordination — political will as a binding constraint distinct from analytical clarity).
 - **Principles:** [§5](../PRINCIPLES.md#5-critical-systems-require-public-interest-governance); [§17](../PRINCIPLES.md#17-collective-power-must-be-exercised-within-principled-constraints) (the court-packing example sits at the *edge* of this principle — willingness to wield collective power up to but inside the boundary of constitutional process).
 - **Active exchanges:** [Exchange #21 (Round 5 v2 doctrine)](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) — the FDR move is a historical instance of *bounded-but-aggressive* constitutional politics that the doctrine's "ratchet-acknowledged" framing now needs to be able to evaluate. The court-packing-as-leverage move is the FDR analog of the same v2 question: *what is legitimate use of constitutional pressure when the courts block accountable institutional reform?* The cluster could feed F1 (Principle 5 revision) or F3 (bounded-governance doctrine as public artifact).
 
@@ -168,7 +168,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 6 (Work), Domain 7 (Housing), Domain 8 (Healthcare), Domain 9 (Education), Domain 10 (Inequality), Domain 13 (Institutional capacity), Domain 15 (Democratic process).
+- **Problem Map:** Domain 5 (Housing), Domain 6 (Healthcare), Domain 7 (Education and opportunity pathways), Domain 9 (Family support systems), Domain 10 (Wealth and power concentration), Domain 4 (Institutional capacity), Domain 15 (Democratic process).
 - **Principles:** [§2 (Essential needs should not be held hostage to avoidable scarcity)](../PRINCIPLES.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity) — the Economic Bill of Rights is the canonical 20th-century articulation of this principle; [§7 (Freedom requires both liberty and material stability)](../PRINCIPLES.md#7-freedom-requires-both-liberty-and-material-stability); [§17](../PRINCIPLES.md#17-collective-power-must-be-exercised-within-principled-constraints).
 - **Active exchanges:** [Exchange #21](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) — the cluster strengthens the historical-precedent base for the v2 ownership taxonomy's "rights-grounded" reading of essential-needs provision; [Exchange #11 (AI Commonwealth)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md) — the "Economic Bill of Rights" template is a candidate framework for translating the AI-commonwealth concept into a public-facing rights-and-mechanisms artifact.
 
@@ -200,7 +200,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 4 (Regulatory architecture), Domain 13 (Institutional capacity), Domain 15 (Democratic process).
+- **Problem Map:** Domain 4 (Institutional capacity, including regulatory architecture), Domain 15 (Democratic process).
 - **Principles:** [§4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible); [§9](../PRINCIPLES.md#9-institutions-should-be-designed-for-competence-and-trust-not-theater); [§13 (Pluralism and self-determination are strengths, not obstacles)](../PRINCIPLES.md#13-pluralism-and-self-determination-are-strengths-not-obstacles).
 - **Active exchanges:** [Exchange #14 (Permitting Stack Recursive Uplift)](../agent/exchanges/permitting-stack-recursive-uplift-exchange.md) — Platner's planning-board account is a first-person instance of the recursive-uplift mechanism the exchange is examining; [Exchange #22 (Entry-Trust)](../agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md) — the "material realities of policy" framing is structurally similar to the practitioner-resolution framing in #22's Round 4 artifacts (the [Denver childcare-licensing flow](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/CHILDCARE_LICENSING_FLOW_DENVER.md) is exactly the kind of bounded, useful, material artifact Platner's planning-board lesson points toward).
 
@@ -232,7 +232,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 3 (Information ecosystems), Domain 13 (Institutional capacity), Domain 15 (Democratic process).
+- **Problem Map:** Domain 3 (Information ecosystems), Domain 4 (Institutional capacity), Domain 15 (Democratic process).
 - **Principles:** [§4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible); [§14 (Truth and evidence must be protected as public goods)](../PRINCIPLES.md#14-truth-and-evidence-must-be-protected-as-public-goods).
 - **Active exchanges:** [Exchange #8 (Voice Synthesis & Engagement)](../agent/exchanges/voice-synthesis-accessibility-engagement-exchange.md) — directly relevant to the exchange's adopted tension statement *"Engagement is part of the reform chain; manipulation is engagement that breaks faith with the reader"* and to the candidate unnamed tension *"Truth-preserving mobilization vs. attention-capturing persuasion."* Platner's "I'm not full of shit" formulation is a first-person articulation of the same distinction the exchange surfaced; [Exchange #20 (Social Slop)](../agent/exchanges/social-slop-information-integrity-exchange.md) — the "smelling the meeting" diagnostic is a domain-specific instance of the social-slop-detection question.
 
@@ -260,7 +260,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 3 (Information ecosystems), Domain 13 (Institutional capacity), Domain 15 (Democratic process).
+- **Problem Map:** Domain 3 (Information ecosystems), Domain 4 (Institutional capacity), Domain 15 (Democratic process).
 - **Principles:** [§4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible); [§13 (Pluralism)](../PRINCIPLES.md#13-pluralism-and-self-determination-are-strengths-not-obstacles); [§14](../PRINCIPLES.md#14-truth-and-evidence-must-be-protected-as-public-goods).
 - **Active exchanges:** [Exchange #8 (Voice / Engagement)](../agent/exchanges/voice-synthesis-accessibility-engagement-exchange.md) — the Rosetta-Stone framing maps directly onto the *deferred* communication-stack work the exchange identified; the legibility hypothesis the exchange adopted is structurally identical to what Stewart is describing. [Exchange #22 (Entry-Trust)](../agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md) — Round 1 / Round 2 / Round 4 of #22 produced "resolution mismatch" as a named failure mode of communication across audience registers; Stewart's Rosetta-Stone framing is the affirmative case of the same phenomenon Round 1 of #22 examined as failure.
 
@@ -295,7 +295,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 3 (Information ecosystems), Domain 13 (Institutional capacity), Domain 15 (Democratic process), Layer 4 (Meta-conditions — community embeddedness as a structural variable).
+- **Problem Map:** Domain 3 (Information ecosystems), Domain 13 (Institutional distrust), Domain 15 (Democratic process), Layer 4 (Meta-conditions — community embeddedness as a structural variable).
 - **Principles:** [§1 (Dignity is inherent and unconditional)](../PRINCIPLES.md#1-dignity-is-inherent-and-unconditional); [§13 (Pluralism)](../PRINCIPLES.md#13-pluralism-and-self-determination-are-strengths-not-obstacles).
 - **Active exchanges:** Adjacent to the [Social Slop exchange (#20)](../agent/exchanges/social-slop-information-integrity-exchange.md) — Platner's account inverts the slop-information-integrity story by describing the protective conditions that resist captured-attention dynamics rather than the conditions that produce them. Both readings illuminate the same phenomenon from different sides.
 
@@ -328,7 +328,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 13 (Institutional capacity), Domain 14 (Concentrated private power), Domain 15 (Democratic process).
+- **Problem Map:** Domain 4 (Institutional capacity), Domain 10 (Wealth and power concentration), Domain 15 (Democratic process).
 - **Principles:** [§4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible); [§17 (Collective power)](../PRINCIPLES.md#17-collective-power-must-be-exercised-within-principled-constraints).
 - **Active exchanges:** [Exchange #21 (Government Overreach)](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) — Round 5 v2's bounded-governance doctrine names "broad-based coalition with material participation" as one of the ten doctrine elements; Platner's organizing-first framing is a first-person articulation of the same architectural commitment. [Exchange #22 (Entry-Trust)](../agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md) — Round 4's emphasis on bounded useful artifacts as warm-channel entry tools is structurally compatible with Platner's "infrastructure-as-binding-constraint" framing.
 
@@ -361,7 +361,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 2 (Capital allocation), Domain 12 (AI governance), Domain 14 (Concentrated private power), Domain 9 (Tax design).
+- **Problem Map:** Domain 2 (Money, credit, and capital allocation), Domain 11 (AI and compute power concentration), Domain 10 (Wealth and power concentration, including tax-design questions).
 - **Principles:** [§4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible); [§5](../PRINCIPLES.md#5-critical-systems-require-public-interest-governance); [§6 (Gains from automation should strengthen society)](../PRINCIPLES.md#6-the-gains-from-automation-should-strengthen-society-not-destabilize-it); [§10 (The future should be built in the open)](../PRINCIPLES.md#10-the-future-should-be-built-in-the-open).
 - **Active exchanges:** [Exchange #11 (AI Commonwealth vs. AI Governance)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md) — the cluster reinforces Cluster 6 of the prior Stewart digest with a *concrete contemporary instance* of tech-financial political coordination; [Exchange #21](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) F4 (frontier-AI worked example) — the Karp-personal-donation pattern is a candidate empirical anchor for the F4 exchange when it opens.
 
@@ -395,7 +395,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 13 (Institutional capacity), Domain 14 (Concentrated private power), Domain 15 (Democratic process).
+- **Problem Map:** Domain 4 (Institutional capacity), Domain 10 (Wealth and power concentration), Domain 15 (Democratic process).
 - **Principles:** [§4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible); [§5](../PRINCIPLES.md#5-critical-systems-require-public-interest-governance); [§9](../PRINCIPLES.md#9-institutions-should-be-designed-for-competence-and-trust-not-theater); [§17](../PRINCIPLES.md#17-collective-power-must-be-exercised-within-principled-constraints).
 - **Active exchanges:** [Exchange #21 (Government Overreach, Ownership & Ratchet)](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) — Platner's "good government, not no government" framing is a direct counterposition to Friedberg's "government overreach as the obstacle to abundance" framing in the originating digest. The two readings constitute the central tension the v2 doctrine attempts to resolve. The cluster is the most direct external validation, from a non-academic, working-politician source, of the project's bounded-governance synthesis direction.
 

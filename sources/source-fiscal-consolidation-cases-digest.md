@@ -161,7 +161,7 @@ Canada's case is the most directly relevant to the United States because of stru
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Primary case set for Exchange Question #4 (historical parallel test on democratic tax/scope contraction).
-- **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). The fiscal-consolidation cases test §4 and §15 simultaneously: whether institutions can absorb the demands of credible adjustment, and whether the democratic process can authorize politically costly reform on the timeline the underlying fiscal arithmetic requires.
 - **Principles:** Directly engages [Principle 4 (reversibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) and informs the anti-ratchet bounding of [Principle 5](../PRINCIPLES.md#5-critical-systems-require-public-interest-governance).
 - **Round 3 use:** Historical anchor for the bounded-governance design package; Sweden's rules architecture specifically informs the design recommendations in Sub-debate 8.
 

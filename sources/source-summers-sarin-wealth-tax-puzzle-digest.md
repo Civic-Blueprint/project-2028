@@ -77,7 +77,7 @@ copyright_notice: "This material may be protected by copyright. Excerpts are inc
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). The Summers-Sarin line is a valuable middle option: a way to raise meaningful revenue from high-income households without the administrative novelty (or the precedent-concern Friedberg raises) of wealth taxation.
-- **Problem Map:** [Domain 10 (Wealth and power concentration)](../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond), [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it).
+- **Problem Map:** [Domain 10 (Wealth and power concentration)](../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond), [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it). Summers and Sarin name a §4 binding constraint on §10 remediation: the administrative-capacity gap that determines whether wealth-tax proposals deliver the revenue their advocates project.
 - **Principles:** Direct fit with [Principle 4 (accountable, legible, reversible power)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) — the tax-gap closure strategy is about making existing obligations legible and enforceable.
 - **Round 2 use:** Present Summers-Sarin and Saez-Zucman as a two-hypothesis test. The project does not need to resolve which is right; it can note that the enforcement path is available even under conservative revenue estimates.
 

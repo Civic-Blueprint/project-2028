@@ -139,7 +139,7 @@ Corroborated by IMF April 2026 review statements and INDEC monthly releases. The
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Primary case for Exchange Question #6 and the Round 2 data gap on contemporary democratic contraction.
-- **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it), [Domain 13 (Institutional distrust)](../PROBLEM_MAP.md#13-institutional-distrust-is-becoming-a-governing-condition), and [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). The Milei reforms are a live test of all three: an institutional-capacity reset attempted under conditions of advanced institutional distrust, with the §15 question (whether democratic process can authorize the speed and scale of change required) front and center.
 - **Principles:** Engages [Principle 4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) (reversibility) and [Principle 5](../PRINCIPLES.md#5-critical-systems-require-public-interest-governance) (bounded public-interest governance).
 - **Round 3 use:** Grounds the historical-parallel-test section on democratic contraction with a live 2023–2026 case.
 

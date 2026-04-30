@@ -131,7 +131,7 @@ Bruno Frey's comparative work, drawing on inter-cantonal variation in direct-dem
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Primary reference for the entrenchment-mechanism component of the bounded-governance design package, Sub-debate 8. Partial reference for Sub-debate 3 on democratic-capture responses.
-- **Problem Map:** [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). Switzerland's direct-democracy mechanisms are the most-studied existing institutional answer to §15's "speed or scale required" question — instructive for both their successes and their boundary conditions.
 - **Principles:** Directly engages [Principle 4 (accountability, legibility, reversibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) and [Principle 17 (collective power within principled constraints)](../PRINCIPLES.md#17-collective-power-must-be-exercised-within-principled-constraints).
 - **Round 3 use:** Supports the entrenchment element of the bounded-governance design recommendations.
 

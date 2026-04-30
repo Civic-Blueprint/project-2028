@@ -79,7 +79,7 @@ copyright_notice: "The Cato Policy Analysis version is openly distributed by Cat
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Directly relevant to Question 3 of Round 2 priorities (democracy as capture). Adds an electorate-belief mechanism to Friedberg's beneficiary-bloc mechanism.
-- **Problem Map:** [Domain 3 (Information ecosystems)](../PROBLEM_MAP.md#3-information-ecosystems-fragment-attention-and-narrow-the-shared-reality-needed-to-coordinate), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 3 (Information ecosystems)](../PROBLEM_MAP.md#3-information-ecosystems-are-fragmented-and-easily-manipulated), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). Caplan's rational-irrationality framework names a class of §15 failures that are not downstream of §3 manipulation alone — voters with very low decision stakes can rationally indulge biases, which constrains how much §3 reform can buy on its own.
 - **Principles:** Tests [Principle 14 (truth and evidence must be protected as public goods)](../PRINCIPLES.md#14-truth-and-evidence-must-be-protected-as-public-goods). If voter beliefs are systematically biased, §14's emphasis on truth-infrastructure matters more — not less — for democratic capture-resistance.
 - **Round 2 use:** Use to force the exchange to separate "beneficiary-bloc capture" from "belief-systematic capture." The project's answers to each will differ.
 

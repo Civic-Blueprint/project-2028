@@ -88,7 +88,7 @@ copyright_notice: "This material may be protected by copyright. Excerpts are inc
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Direct counterweight to the Cato digest for Round 2 Question 2 (property-rights philosophy).
-- **Problem Map:** [Domain 10 (Wealth and power concentration)](../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond) — Saez & Zucman provide the empirical base for the concentration claim.
+- **Problem Map:** [Domain 10 (Wealth and power concentration)](../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond) — Saez and Zucman provide the empirical base for the concentration claim, and their administrative-design proposals address the §4 institutional-capacity question that Summers-Sarin name.
 - **Principles:** Tests [Principle 2 (essential needs)](../PRINCIPLES.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity) and [Principle 17 (principled constraints on collective power)](../PRINCIPLES.md#17-collective-power-must-be-exercised-within-principled-constraints). The ownership taxonomy the Round 1 agent proposes (personal / productive / chokepoint) maps onto wealth composition at the top: a disproportionate share of top-percentile wealth is in financial claims on public firms (chokepoint-adjacent) rather than personal property.
 - **Round 2 use:** Pair with Cato and Summers-Sarin for a three-way methodological comparison; pair with Scheve-Stasavage for the political-history dimension.
 

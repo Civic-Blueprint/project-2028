@@ -68,7 +68,7 @@ copyright_notice: "This material may be protected by copyright. Excerpts are inc
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Supplies the cross-country empirical basis for Round 2 Question 1 ("Are there credible historical examples of democratic societies that *reduced* government scope after major expansions?"). The answer, per OECD data, is yes — multiple.
-- **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). The OECD revenue statistics are the empirical anchor for any §4/§15 claim about how the U.S. revenue mix differs structurally from peer democracies — a precondition for any honest scenario analysis.
 - **Principles:** Supports the case that [Principle 5 (public-interest governance)](../PRINCIPLES.md#5-critical-systems-require-public-interest-governance) can be designed with bounded, reversible scope — because other OECD democracies have demonstrated that reversal.
 - **Round 2 use:** Essential input for the Historical Parallel Test. Pair with country-specific case studies (Sweden 1990s, Ireland 1990s–2000s, Canada 1993–1998) in future digests.
 

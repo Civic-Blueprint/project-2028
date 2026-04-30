@@ -91,7 +91,7 @@ copyright_notice: "Swiss Federal Finance Administration publishes primary materi
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Primary positive case study for Sub-debate 8.
-- **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). The Swiss debt brake is the most-studied successful instance of a constitutional fiscal constraint, providing the empirical anchor for §4 (institutional capacity to enforce a long-horizon rule) and §15 (whether democratic process can authorize binding self-restraint).
 - **Principles:** Directly supports [Principle 4 (accountability, legibility, reversibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible). The debt brake is a real-world instance of the reversibility commitment operationalized as compensation-obliged escape clauses.
 - **Round 2 use:** Central positive case study. Shows that bounded-governance fiscal rules are not utopian and can be designed for effective operation over multi-decadal periods.
 

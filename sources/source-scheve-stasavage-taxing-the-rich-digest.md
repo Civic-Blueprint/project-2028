@@ -77,7 +77,7 @@ copyright_notice: "This material may be protected by copyright. Excerpts are inc
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Essential political-economy frame for Round 2 Question 2 (property-rights philosophy). Shifts the wealth-tax debate from revenue estimation to fairness-norm identification.
-- **Problem Map:** [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform) — explains a structural reason why democratic polities in the post-Cold-War period have not reassembled the mid-century progressive tax coalition.
+- **Problem Map:** [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required) — Scheve and Stasavage's compensatory-fairness account explains a structural reason why democratic polities in the post-Cold-War period have not reassembled the mid-century progressive tax coalition.
 - **Principles:** Tests [Principle 17 (principled constraints on collective power)](../PRINCIPLES.md#17-collective-power-must-be-exercised-within-principled-constraints). The principle implies that use of coercive fiscal instruments requires an articulable fairness norm; Scheve-Stasavage identifies which norms have and have not worked historically.
 - **Round 2 use:** Use to pressure both sides of the wealth-tax debate to name their fairness norm rather than treating the question as purely technical.
 

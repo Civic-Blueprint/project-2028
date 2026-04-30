@@ -101,7 +101,7 @@ copyright_notice: "Primary sources are freely available via official agency and 
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Central case study for Sub-debate 7.
-- **Problem Map:** [Domain 9 (Ecological overshoot)](../PROBLEM_MAP.md#9-ecological-overshoot-is-accelerating), [Domain 14 (Technological risk management)](../PROBLEM_MAP.md#14-transformative-technology-is-arriving-faster-than-its-governance).
+- **Problem Map:** [Domain 12 (Ecological systems)](../PROBLEM_MAP.md#12-ecological-systems-are-under-stress-that-constrains-every-other-domain), [Domain 1 (Energy and critical infrastructure)](../PROBLEM_MAP.md#1-energy-and-critical-infrastructure-are-too-constrained-for-a-resilient-abundant-future). Energiewende is the clearest single-country natural experiment in deliberate large-scale energy-system reorientation under §12 ecological pressure, and its mixed results are central evidence for §1's "constrained for a resilient, abundant future" framing.
 - **Principles:** Tests [Principle 4 (accountability, legibility, reversibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) — the phaseout was not legible in its full risk-balance and proved nearly impossible to reverse.
 - **Round 2 use:** Primary case study for the general argument that bounded-governance design needs to include structural protections against availability-cascade precaution.
 

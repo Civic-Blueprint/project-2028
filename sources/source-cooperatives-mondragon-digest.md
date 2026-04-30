@@ -150,7 +150,7 @@ copyright_notice: "Mondragón Corporation's public reporting is available. Acade
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Empirical grounding for the "transitional productive" ownership category in the Round 2 ownership taxonomy.
-- **Problem Map:** [Domain 2 (Money, credit, and capital allocation)](../PROBLEM_MAP.md#2-money-credit-and-capital-allocation-steer-the-economy-in-ways-most-people-cannot-see-or-influence), [Domain 10 (Wealth and power concentration)](../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond).
+- **Problem Map:** [Domain 2 (Money, credit, and capital allocation)](../PROBLEM_MAP.md#2-money-credit-and-capital-allocation-steer-the-economy-in-ways-most-people-cannot-see-or-influence), [Domain 10 (Wealth and power concentration)](../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond). Mondragón is one of the few sustained at-scale natural experiments in worker-owned governance, providing evidence on whether §2's capital-allocation patterns and §10's concentration dynamics can be redirected by ownership-structure changes alone.
 - **Principles:** Directly engages [Principle 2](../PRINCIPLES.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity), [Principle 5](../PRINCIPLES.md#5-critical-systems-require-public-interest-governance), [Principle 6](../PRINCIPLES.md#6-the-gains-from-automation-should-strengthen-society-not-destabilize-it).
 - **Round 3 use:** Ownership-taxonomy case material; particularly relevant for any follow-up exchange on ownership doctrine or platform-economy policy.
 

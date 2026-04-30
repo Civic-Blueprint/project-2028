@@ -84,7 +84,7 @@ copyright_notice: "Sunstein's working-paper versions are freely available via Ch
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Primary source for Sub-debate 7.
-- **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 14 (Technological risk management)](../PROBLEM_MAP.md#14-transformative-technology-is-arriving-faster-than-its-governance).
+- **Problem Map:** [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it), [Domain 11 (AI and compute power concentration)](../PROBLEM_MAP.md#11-ai-and-compute-power-are-concentrating-faster-than-governance-can-respond), [Domain 12 (Ecological systems)](../PROBLEM_MAP.md#12-ecological-systems-are-under-stress-that-constrains-every-other-domain). Sunstein's precautionary-principle critique addresses the §4/§11/§12 question of how risk-management institutions should reason about catastrophic-but-uncertain outcomes — a question that maps directly onto how §11 AI/compute risks and §12 ecological tail risks should be governed.
 - **Principles:** Supports [Principle 4 (accountability, legibility, reversibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) — risk-risk analysis is the legibility requirement for precaution.
 - **Round 2 use:** Primary anchor for the distinction between legitimate anti-catastrophe regulation and illegitimate availability-cascade regulation. Central for framing AI and biotech governance in the project's forthcoming work.
 

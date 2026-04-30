@@ -91,7 +91,7 @@ copyright_notice: "This material may be protected by copyright. Excerpts are inc
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Primary empirical counterweight to the Round 1 concession on the ratchet's universality. The Nordic comparison (Round 2 Question 3) is best grounded via Lindert.
-- **Problem Map:** [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform). Lindert's finding that suffrage drives spending (not the other way around) supports the project's position that democratic process is a prerequisite for reform, not a capture mechanism.
+- **Problem Map:** [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). Lindert's finding that suffrage drives spending (not the other way around) supports the project's position that democratic process is a prerequisite for reform, not a capture mechanism.
 - **Principles:** Supports [Principle 2 (essential needs)](../PRINCIPLES.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity) and [Principle 6 (automation should strengthen society)](../PRINCIPLES.md#6-the-gains-from-automation-should-strengthen-society-not-destabilize-it) — mature welfare-state design is consistent with growth.
 - **Round 2 use:** Grounds the "Sweden vs. Venezuela" test (Question 3) in actual economic-history evidence rather than rhetorical stipulation.
 

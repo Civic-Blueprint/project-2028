@@ -81,7 +81,7 @@ copyright_notice: "Rodrik's working-paper and JEP versions are freely available 
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Central methodological source for how to handle Sub-debate 5 without collapsing into false universalism.
-- **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). Rodrik's trilemma names the structural constraint underlying §15: hyper-globalization narrows the policy space within which democratic process can convert public need into institutional action.
 - **Principles:** Supports [Principle 4 (accountability, legibility, reversibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) by reframing policy-reversibility as a function of institutional context rather than universal rule.
 - **Round 2 use:** Primary citation for the methodological claim that the project's synthesis must be institutionally specific, and for the trilemma as a framing of why pure-market-plus-democracy is unstable.
 

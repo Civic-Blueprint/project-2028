@@ -71,7 +71,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 2 (Capital allocation), Domain 13 (Institutional capacity)
+- **Problem Map:** Domain 2 (Money, credit, and capital allocation), Domain 4 (Institutional capacity)
 - **Principles:** Principle 4 (Accountable power), Principle 9 (Competence and trust)
 - **Structural pattern:** Reform dependency loop — the pension system requires revenue, but the revenue base is fleeing because of the pension system
 - **Active exchanges:** Adjacent to [Exchange #9 (Debt Legitimacy)](../agent/exchanges/debt-legitimacy-odious-debt-exchange.md)
@@ -104,7 +104,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 13 (Institutional capacity) — accountability feedback loops
+- **Problem Map:** Domain 4 (Institutional capacity) — accountability feedback loops
 - **Principles:** Principle 4 (Accountable, legible, reversible power), Principle 9 (Competence, not theater)
 - **Structural pattern:** Institutions without performance feedback become self-reinforcing
 
@@ -136,7 +136,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 2 (Capital allocation), Domain 15 (Democratic process)
+- **Problem Map:** Domain 2 (Money, credit, and capital allocation), Domain 15 (Democratic process), Domain 10 (Wealth and power concentration)
 - **Principles:** Principle 5 (Public-interest governance) — Friedberg argues the *opposite* direction: that the government is overreaching, not under-governing. This surfaces a tension the project should grapple with.
 - **Structural pattern:** Where does the boundary between legitimate taxation and property-rights erosion lie? The project's Principle 5 commits to public-interest governance of critical systems but does not define the limit.
 - **Active exchanges:** Adjacent to [Exchange #9 (Debt Legitimacy)](../agent/exchanges/debt-legitimacy-odious-debt-exchange.md)
@@ -200,7 +200,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 4 (Healthcare), Domain 5 (Housing), Domain 7 (Education)
+- **Problem Map:** Domain 6 (Healthcare), Domain 5 (Housing), Domain 7 (Education and opportunity pathways)
 - **Principles:** Direct challenge to Principle 5 (Public-interest governance). Friedberg's argument is that the design failure *is* government involvement itself. The project diagnoses these as design failures to be corrected; Friedberg says the design failure is irreparable when government is the designer.
 - **Structural question:** Can public-interest governance be designed to maintain price discipline, or does government funding inherently distort markets?
 - **Protocol candidate:** Historical Parallel Test — comparing sectors with different governance models
@@ -293,7 +293,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 3 (Information ecosystems), Domain 12 (AI governance)
+- **Problem Map:** Domain 3 (Information ecosystems), Domain 11 (AI and compute power concentration)
 - **Principles:** Principle 3 (AI must augment agency)
 - **Active exchanges:** [Exchange #11 (AI Commonwealth vs. AI Governance)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md), [Exchange #20 (Social Slop and Information Integrity)](../agent/exchanges/social-slop-information-integrity-exchange.md)
 - **Structural question:** Is the anti-AI narrative an instance of the Social Slop mechanism (fragment extraction → threat reframing → outcome erasure)?
@@ -431,7 +431,7 @@ The following thematic clusters are explicitly queued for future exchanges. Each
 |---|---|---|---|
 | **1** | 3, 4, 5, 6, 7 + Steward Obs. 1 | Government Overreach, Ownership as Transition, and the Ratchet Problem — Exchange | This digest, Principles, Problem Map, Exchange #9 |
 | **2** | 8, 10, 11 | Fear-Based Framing as Reform Blocker — Exchange | This digest, Exchange #20, Exchange #8, Problem Map §3 |
-| **3** | 1, 2 | California as Case Study for Institutional Capacity Failure | This digest, Problem Map §13, Exchange #14 |
+| **3** | 1, 2 | California as Case Study for Institutional Capacity Failure | This digest, Problem Map §4, Exchange #14 |
 | **4** | 9 + Steward Obs. 2 + Steward Obs. 3 | Abundance-First Communication Strategy — Reframing the Problem Map as a Progress Map | This digest, Exchange #8, Exchange #21, Phase 2 Website Brief, Homepage Copy Draft Phase 2 |
 
 ---
@@ -440,7 +440,7 @@ The following thematic clusters are explicitly queued for future exchanges. Each
 
 | Document | Relationship |
 |---|---|
-| [Problem Map](../PROBLEM_MAP.md) | Clusters touch Domains 2, 3, 4, 5, 7, 12, 13, 15 |
+| [Problem Map](../PROBLEM_MAP.md) | Clusters touch Domains 2, 3, 4, 5, 6, 7, 10, 11, 15 |
 | [Principles](../PRINCIPLES.md) | Clusters challenge or intersect Principles 2, 3, 4, 5, 6, 9, 14 |
 | [Systems Framework](../SYSTEMS_FRAMEWORK.md) | Price distortion thesis (Cluster 5) and democracy-as-capture (Cluster 6) challenge the framework's governance-design assumptions |
 | [Roadmap](../ROADMAP.md) | Cluster 6 should inform Recommendation 6 (recursive uplift revision) |

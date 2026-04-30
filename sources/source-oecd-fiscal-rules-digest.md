@@ -99,7 +99,7 @@ copyright_notice: "All three databases are publicly available. Excerpts are incl
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Core comparative-evidence source for Sub-debate 8.
-- **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). Fiscal rules are the canonical example of pre-committing institutional capacity to constrain future democratic process — the empirical record shows when this bargain holds and when it fails.
 - **Principles:** Supports [Principle 4 (accountability, legibility, reversibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) — IFIs are the legibility infrastructure; fiscal rules are the reversibility infrastructure.
 - **Round 2 use:** Best single evidence base for empirically-grounded design choices in bounded-governance proposals.
 

@@ -85,7 +85,7 @@ copyright_notice: "Law-review articles on sunset clauses are typically available
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Central design-source for Sub-debate 8.
-- **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). Sunset clauses are an institutional-design tool for keeping §15's "convert public need into action" capacity from ratcheting in only one direction.
 - **Principles:** Directly supports [Principle 4 (accountability, legibility, reversibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible). Sunsets are the most widely-used reversibility instrument in modern legislation.
 - **Round 2 use:** Primary source for the design of sunset-plus-review mechanisms. Cautionary reference for why naive sunsets are insufficient.
 

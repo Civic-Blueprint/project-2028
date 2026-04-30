@@ -284,7 +284,7 @@ If the answer to democratic capture is to shift power toward owners, technocrats
  
 **3b. The relevant question is not whether democracy self-corrects automatically. It is whether it can be designed to self-correct conditionally.**
  
-That is a harder, more honest question, and it matches the project's language better. Democracy is not a magic prerequisite for reform. It is an unstable meta-condition that can degrade, be captured, and sometimes be renewed. The project should probably revise its framing in [Problem Map Domain 15](../../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform) to make this ambivalence more explicit.
+That is a harder, more honest question, and it matches the project's language better. Democracy is not a magic prerequisite for reform. It is an unstable meta-condition that can degrade, be captured, and sometimes be renewed. The project should probably revise its framing in [Problem Map Domain 15](../../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required) to make this ambivalence more explicit.
  
 This is also where [Exchange #7](proof-of-usefulness-feedback-timescale-review.md) matters. The Roadmap already acknowledges that visible competence does not automatically create trust, and trust does not automatically create a reform sequence. That same caution belongs here. A more competent state will not by itself solve majority-interest capture. But neither will state withdrawal automatically produce abundance. The missing variable in both stories is **institutional design under conditions of conflicting incentives**.
  

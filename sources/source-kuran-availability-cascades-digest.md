@@ -91,7 +91,7 @@ copyright_notice: "Both authors' working-paper versions are freely available. Ex
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Foundational mechanism for Sub-debate 7.
-- **Problem Map:** [Domain 14 (Technological risk management)](../PROBLEM_MAP.md#14-transformative-technology-is-arriving-faster-than-its-governance), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 3 (Information ecosystems)](../PROBLEM_MAP.md#3-information-ecosystems-are-fragmented-and-easily-manipulated), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). Kuran and Sunstein's availability-cascade mechanism is one of the cleanest theoretical accounts of how §3's fragmented and manipulable information ecosystem distorts §15's capacity to convert public need into proportionate institutional action.
 - **Principles:** Supports [Principle 4 (accountability, legibility, reversibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) — specifically the reversibility commitment, since cascade-driven regulation is structurally hard to reverse.
 - **Round 2 use:** Primary source for the institutional-design implications of precautionary-regulation ratchets.
 

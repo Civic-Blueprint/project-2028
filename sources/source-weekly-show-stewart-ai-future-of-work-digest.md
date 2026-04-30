@@ -72,7 +72,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 12 (AI governance), Layer 4 (Meta-conditions — uncertainty as a structural feature)
+- **Problem Map:** Domain 11 (AI and compute power concentration), Layer 4 (Meta-conditions — uncertainty as a structural feature)
 - **Principles:** Principle 3 (AI must augment agency)
 - **Active exchanges:** [Exchange #11 (AI Commonwealth vs. AI Governance)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md) — the "decision window is unusually compressed" claim in Issue #10 is the steward-side version of Acemoglu's "uncertainty is a bad reason to be complacent."
 
@@ -105,7 +105,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 6 (Work and labor), Domain 13 (Institutional capacity to support transitions)
+- **Problem Map:** Domain 7 (Education and opportunity pathways — the labor-transition channel), Domain 4 (Institutional capacity to support transitions)
 - **Principles:** Principle 6 (Gains from automation should strengthen society) — Engel's Pause is the canonical case where they did *not*
 - **Protocols:** Strong candidate for the [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md). The China shock is already a published-source-confirmed case relevant to Principle 6.
 - **Existing source overlap:** This cluster reinforces material in the [Acemoglu & Robinson digest](source-acemoglu-robinson-why-nations-fail-digest.md) and [Bartels digest](source-bartels-unequal-democracy-digest.md), and gives the project a sharper handle on how transitions fail.
@@ -139,7 +139,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 6 (Work and labor)
+- **Problem Map:** Domain 7 (Education and opportunity pathways), Domain 10 (Wealth and power concentration — distributional effects of automation)
 - **Principles:** Principle 6 (Gains from automation), Principle 10 (Distributive design)
 - **Active exchanges:** [Exchange #11 (AI Commonwealth vs. AI Governance)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md) — the bifurcation pattern strengthens the case that *governance alone* is insufficient if ownership and access stay concentrated.
 
@@ -170,7 +170,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 6 (Work), Domain 12 (AI governance), Domain 7 (Education and credentialing)
+- **Problem Map:** Domain 7 (Education and opportunity pathways — including credentialing), Domain 11 (AI and compute power concentration)
 - **Principles:** Principle 3 (AI must augment agency) — the "extend expertise of non-elite workers" formulation is a sharper articulation than the project's current Principle 3 language
 - **Active exchanges:** [Exchange #11 (AI Commonwealth vs. AI Governance)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md) — pro-worker AI is a concrete, falsifiable form of the "AI commonwealth" frame the steward submission proposed
 - **Direct opportunity:** Acemoglu/Autor/Johnson's five-policy package (equalize labor/capital tax rates; update workplace surveillance regulations; fund human-complementary research; create AI center of expertise in government; assess human-complementary tech for public education and healthcare) maps almost cleanly onto Problem Map domains 6, 12, 13 and is the kind of *specific, actionable* program the steward declaration asked for
@@ -203,7 +203,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 12 (AI governance), Domain 14 (Concentrated private power), Layer 4 (Meta-conditions — ideological framing as a constraint on reform)
+- **Problem Map:** Domain 11 (AI and compute power concentration), Domain 10 (Wealth and power concentration), Layer 4 (Meta-conditions — ideological framing as a constraint on reform)
 - **Principles:** Principle 4 (Accountable, legible, reversible power), Principle 14 (Truth and evidence)
 - **Active exchanges:** [Exchange #11 (AI Commonwealth vs. AI Governance)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md) — AGI-as-ideology directly supports the issue's claim that "governance" alone misses the ownership/control question; [Exchange #20 (Social Slop)](../agent/exchanges/social-slop-information-integrity-exchange.md) — adjacent in that ideological framing shapes which AI questions are even askable in the public discourse
 
@@ -239,7 +239,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 12 (AI governance), Domain 14 (Concentrated private power), Domain 2 (Capital allocation)
+- **Problem Map:** Domain 11 (AI and compute power concentration), Domain 10 (Wealth and power concentration), Domain 2 (Money, credit, and capital allocation)
 - **Principles:** Principle 6 (Gains from automation should strengthen society), Principle 10 (Distributive design), Principle 14 (Truth and evidence as public goods — the "expertise laundering" claim has direct implications)
 - **Active exchanges:** [Exchange #11 (AI Commonwealth vs. AI Governance)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md) — *the enclosure frame is the strongest external articulation yet of why governance alone is insufficient*. The "data extraction economy vs. pro-worker AI requires data markets" tension is the pivotal mechanism the project's commonwealth analysis can adopt directly.
 - **Adjacent source coverage:** Reinforces and extends the [Sovereign Wealth Funds digest](source-sovereign-wealth-funds-digest.md) (collective-dividend ownership), the [Cooperatives/Mondragón digest](source-cooperatives-mondragon-digest.md) (transitional-productive ownership), and [Sandel's market-morality digest](source-sandel-market-morality-digest.md) (moral limits of markets)
@@ -280,7 +280,7 @@ Stewart's framing: "I love the idea of giving people some ownership over the ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 6 (Work), Domain 2 (Capital allocation), Domain 9 (Tax design), Domain 13 (Institutional capacity)
+- **Problem Map:** Domain 7 (Education and opportunity pathways), Domain 2 (Money, credit, and capital allocation), Domain 10 (Wealth and power concentration — tax-design and distributional questions), Domain 4 (Institutional capacity)
 - **Principles:** Principle 6 (Gains from automation), Principle 10 (Distributive design)
 - **Active exchanges:** [Exchange #11 (AI Commonwealth vs. AI Governance)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md) — UBC + labor/capital tax rebalance + pro-worker R&D funding is a *concrete* commonwealth policy package that the exchange's open question on "what counts as commonwealth infrastructure" can directly engage; [Exchange #21 (Government Overreach, Ownership & Ratchet)](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) — Acemoglu's explicit anti-UBI / pro-UBC position adds a sixth ownership category (collective-dividend) that Round 2/3 already established
 - **Proposal catalog adjacency:** The project's `P-053` (Federal Skills-First Hiring) and the existing labor-and-capital proposal cluster overlap with this package; future steward review may want to flag wage insurance and labor/capital tax rebalance as candidate proposals if not already present
@@ -313,7 +313,7 @@ Stewart's framing: "I love the idea of giving people some ownership over the ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 6 (Work), Domain 10 (Inequality), Domain 15 (Democratic process)
+- **Problem Map:** Domain 7 (Education and opportunity pathways), Domain 10 (Wealth and power concentration), Domain 15 (Democratic process)
 - **Principles:** Principle 6 (Gains from automation), Principle 10 (Distributive design), Principle 13 (Pluralism — meritocracy as a constraint on pluralism)
 - **Active exchanges:** [Exchange #21 (Government Overreach, Ownership & Ratchet)](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) — the productivity-pay gap is empirical evidence for the "design choice, not law of nature" frame the v2 doctrine adopted; the meritocracy critique adds a sixth democratic-capture mechanism (status-legitimation capture) the Round 2 inventory does not yet include
 - **Friedberg digest cross-link:** Friedberg's Cluster 11 (negative partisanship) and this cluster's meritocracy-and-populism thesis are *complementary* explanations for the same political phenomenon — Friedberg locates the cause in tribal information dynamics; Acemoglu/Sandel locate it in the lived experience of being a meritocratic "loser." Both can be true.
@@ -348,7 +348,7 @@ Stewart's framing: "I love the idea of giving people some ownership over the ind
 
 ### Project 2028 mapping
 
-- **Problem Map:** Domain 12 (AI governance), Domain 14 (Concentrated private power), Domain 4 (Regulatory capture)
+- **Problem Map:** Domain 11 (AI and compute power concentration), Domain 10 (Wealth and power concentration), Domain 4 (Institutional capacity — including regulatory-capture risk)
 - **Principles:** Principle 4 (Accountable, legible, reversible power)
 - **Active exchanges:** [Exchange #11 (AI Commonwealth vs. AI Governance)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md) — the "regulation is possible, the threat to leave is bluff" claim directly counters one of the strongest objections to commonwealth-style intervention; [Exchange #21 (Government Overreach, Ownership & Ratchet)](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) — the *China-as-existence-proof* move (regulation works, even if we reject this implementation) is structurally identical to the Round 2 use of Argentina (contraction is possible) — symmetric argument forms applied to opposite directional claims
 - **Adjacent source coverage:** Reinforces [AI Governance Practice digest](source-ai-governance-practice-digest.md) (EU AI Act, SB 53 as functional examples); challenges [Andreessen Techno-Optimist digest](source-andreessen-techno-optimist-digest.md) (the regulation-is-impossible framing)

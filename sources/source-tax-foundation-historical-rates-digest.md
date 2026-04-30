@@ -71,7 +71,7 @@ copyright_notice: "This material may be protected by copyright. Excerpts and sum
 ## Project 2028 mapping
 
 - **Exchange:** Directly relevant to [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Supplies the empirical scaffold for the "income-tax ratchet" question (Question 4 in Round 2 priorities).
-- **Problem Map:** [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform). Bracket creep and withholding are examples of quiet-default institutional design — the opposite of "legibility" called for in [Principle 4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible).
+- **Problem Map:** [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required) and [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it). Bracket creep and withholding are examples of quiet-default institutional design — the opposite of "legibility" called for in [Principle 4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible).
 - **Protocol:** Empirical input for the [Historical Parallel Test Protocol](../agent/process/historical-parallel-test-protocol.md).
 - **Use in Round 2:** Pair with [Higgs 1985](source-higgs-crisis-ratchet-digest.md) as the theoretical frame and with a heterodox counter-example (e.g., New Zealand 1984 or Argentina 2023–2025) to stress-test the ratchet.
 

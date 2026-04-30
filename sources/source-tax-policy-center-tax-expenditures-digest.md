@@ -64,7 +64,7 @@ copyright_notice: "This material may be protected by copyright. Excerpts are inc
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Relevant both to the ratchet question (tax expenditures exhibit an unreviewed accumulation dynamic) and to bounded-governance design (their reform would be a concrete sunset/review test case).
-- **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it). Tax expenditures illustrate Principle 4's legibility failure directly.
+- **Problem Map:** [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it). Tax expenditures illustrate [Principle 4](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible)'s legibility failure directly: a category of fiscal action that is functionally identical to spending but processed through a separate, much-less-scrutinized institutional channel.
 - **Principles:** Direct application of [Principle 4 (accountable, legible, reversible power)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible).
 - **Exchange #14 (Permitting Stack):** If the project wants a second forward-motion example alongside permitting, a "tax-expenditure sunset" proposal is a visible bounded-governance demonstration in a policy area with engaged constituencies on both sides.
 

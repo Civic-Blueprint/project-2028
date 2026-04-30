@@ -1,15 +1,17 @@
 ---
 title: Coherence Audit — April 2026
-description: Coherence checklist produced under the Coherence Audit Protocol after the discovery of a stale Principle 5 anchor in the Stewart/Platner source digest.
+description: Two-pass coherence audit produced under the Coherence Audit Protocol. Pass 1 originated from a stale Principle 5 anchor in the Stewart/Platner source digest; Pass 2 was triggered by Pass 1's verification step and addressed PROBLEM_MAP.md hallucinations and a real cross-document drift between PRINCIPLES.md §5 and FOUNDATIONAL_COMMITMENTS.md §5.
 provenance: "collaborative"
 audit_date: 2026-04-29
-audit_trigger: "Stale anchor (`#5-inclusive-institutions-with-bounded-rules`) discovered while creating `sources/source-weekly-show-stewart-platner-digest.md`. Steward requested full audit before resuming Platner-digest follow-up planning."
+audit_trigger: "Pass 1 — stale anchor (`#5-inclusive-institutions-with-bounded-rules`) discovered while creating `sources/source-weekly-show-stewart-platner-digest.md`. Pass 2 — programmatic-extraction sweep of all anchors against core normative documents at the end of Pass 1, which surfaced parallel hallucinations against PROBLEM_MAP.md and a real §5 vocabulary drift between PRINCIPLES.md and FOUNDATIONAL_COMMITMENTS.md."
 audit_scope: "project-2028, civicblueprint.org, external-formation-docs"
+audit_passes: 2
+audit_status: "complete (Pass 1 + Pass 2 closed; Finding P2-2 carried forward as open until ROADMAP F1)"
 ---
 
 # Coherence Audit — April 2026
 
-> **Status:** First pass complete and revised. Findings recorded below using the [Coherence Audit Protocol §5](../coherence-audit-protocol.md#5-output) format. **Initial diagnosis was wrong on Findings #1–#3 and has been corrected** — see the revision note below.
+> **Status:** Two passes complete. Pass 1 (PRINCIPLES.md anchor hallucinations) is recorded immediately below. Pass 2 (PROBLEM_MAP.md anchor hallucinations + a real cross-document drift between PRINCIPLES.md §5 and FOUNDATIONAL_COMMITMENTS.md §5) was triggered by Pass 1's verification step and is recorded in its own section further down. Both passes share a root cause — a single early bulk-authoring pass for source digests cited anchors and section titles that had never existed in any commit of the target documents.
 >
 > **Trigger:** While creating [`sources/source-weekly-show-stewart-platner-digest.md`](../../../sources/source-weekly-show-stewart-platner-digest.md), four references to a Principle 5 anchor (`#5-inclusive-institutions-with-bounded-rules`) failed verification — the current PRINCIPLES.md anchor is `#5-critical-systems-require-public-interest-governance`. The steward requested a full coherence audit per the [Coherence Audit Protocol](../coherence-audit-protocol.md) before deciding how to proceed with Platner-digest follow-up exchanges.
 >
@@ -69,11 +71,73 @@ The original audit framed this as a multi-stage decision tree. The corrected dia
 
 ---
 
+---
+
+## Pass 2 — PROBLEM_MAP.md hallucinations and PRINCIPLES.md ↔ FOUNDATIONAL_COMMITMENTS.md §5 drift
+
+> **Trigger:** While extracting and verifying every `PRINCIPLES.md#...` anchor in use across the repo at the end of Pass 1, the same programmatic-extraction approach was applied to `PROBLEM_MAP.md`, `SYSTEMS_FRAMEWORK.md`, and `FOUNDATIONAL_COMMITMENTS.md` to confirm Pass 1 was not missing parallel issues in adjacent core documents. PROBLEM_MAP.md surfaced a much larger version of the same hallucination class, and FOUNDATIONAL_COMMITMENTS.md surfaced a real cross-document drift on §5.
+
+### Pass 2 scope
+
+| Document | Anchors used across repo | Hallucinated | Outcome |
+|---|---|---|---|
+| `SYSTEMS_FRAMEWORK.md` | 0 | n/a | No anchors used; nothing to audit. Body-text descriptive references to "Systems Framework §X" not used either. |
+| `FOUNDATIONAL_COMMITMENTS.md` | 2 (`#9-...`, `#4-...`) | 0 | Both valid. Surface area is small. |
+| `PROBLEM_MAP.md` | 17 distinct anchors, 101 total occurrences | 14 distinct anchors, 91 occurrences | Same authoring failure as Pass 1; bounded entirely to source digests. |
+| `PRINCIPLES.md` ↔ `FOUNDATIONAL_COMMITMENTS.md` §5 | n/a (cross-document) | n/a (real drift, not hallucination) | Two core normative documents disagree on the title of Principle 5. Tracked under ROADMAP F1. Flag-only resolution. |
+
+### Pass 2 coherence checklist
+
+| # | Type | Class | Artifact A | Artifact B | Issue | Suggested resolution |
+|---|---|---|---|---|---|---|
+| P2-1 | Hallucinated reference | Project-authored analysis (source digests) | [`PROBLEM_MAP.md`](../../../PROBLEM_MAP.md) | ~50 source digest files in [`sources/`](../../../sources/) | 91 of 94 non-Platner `PROBLEM_MAP.md#...` anchor occurrences across the digest corpus do not resolve against any commit of `PROBLEM_MAP.md`. The hallucinated phrasings invent both anchors AND domain titles (e.g. digests cite "Domain 1 (Housing)" with anchor `#1-housing-has-decoupled-from-wages`, but PM §1 is currently "Energy and critical infrastructure" and housing is §5). Phantom titles — "Housing has decoupled from wages," "Education has inflated faster than it has improved," "Childcare is financially inaccessible to most working families," "Post-scarcity future," "Institutional capacity has decayed," "Work and purpose are decoupling," "Transformative technology is arriving," "Information ecosystems fragment attention," "Ecological overshoot is accelerating," "Urbanization is squeezing labor mobility" — appear in zero commits of `PROBLEM_MAP.md`. Same authoring failure class and same files as Pass 1 Findings #1–#3. | **Fix by re-authoring per digest.** Re-author each digest's `PROBLEM_MAP` mapping against the actual current `PROBLEM_MAP.md` domain set, fixing both anchors and body-text "Domain N (Topic)" descriptions. The non-digest exchanges that cite PM anchors ([`government-overreach-ownership-ratchet-exchange.md`](../../exchanges/government-overreach-ownership-ratchet-exchange.md) and [`entry-trust-domain-expert-practitioner-exchange.md`](../../exchanges/entry-trust-domain-expert-practitioner-exchange.md)) use only valid anchors and require no edits. |
+| P2-2 | Drift | Core normative documents | [`PRINCIPLES.md`](../../../PRINCIPLES.md) §5 (line 89): "Critical systems require public-interest governance" | [`FOUNDATIONAL_COMMITMENTS.md`](../../../FOUNDATIONAL_COMMITMENTS.md) §5 (line 82): "Critical systems require inclusive institutions with bounded rules" | Two core normative documents disagree on the title of Principle/Commitment 5. FC §5 cites [Exchange #21 Round 5 Deliverable 1 (v2)](../../exchanges/government-overreach-ownership-ratchet-exchange.md#deliverable-1--revised-principle-5-text-v2) as its source; the v2 vocabulary was adopted into FC at FC creation time (commit `d13d18f`) but never propagated to `PRINCIPLES.md`. This is a **partially-adopted recommendation**, not a hallucination. The original Pass 1 finding #4 (the Platner digest's stale `#5-inclusive-institutions-with-bounded-rules` anchor) is downstream of this drift — the digest-authoring agent saw the FC vocabulary and used it as a `PRINCIPLES.md` anchor. | **Flag-only.** Resolution gated on [ROADMAP TODO #1 F1](../../../ROADMAP.md#high-priority-unblocks-multiple-workstreams), which is the open follow-up that would close the drift by either updating `PRINCIPLES.md` §5 to match FC §5 or walking back FC §5 to match `PRINCIPLES.md` §5. Until F1 spawns and resolves, both vocabularies stay live. The audit does not preempt the steward decision. |
+| P2-3 | No issue (verified) | Coordination | `SYSTEMS_FRAMEWORK.md` | All `*.md` files in repo | Programmatic extraction of `SYSTEMS_FRAMEWORK.md#...` anchor occurrences across the repo returned zero matches. Body-text descriptive references to "Systems Framework §X" are also not used. Surface area for SF anchor drift is empty. | **Accept.** No fix needed. Future digests should still follow the authoring guard if they ever cite SF sections. |
+| P2-4 | No issue (verified) | Coordination | `FOUNDATIONAL_COMMITMENTS.md` | All `*.md` files in repo | Two distinct anchor occurrences (`#9-institutions-should-be-designed-for-competence-and-trust-not-theater` and `#4-power-must-remain-accountable-legible-and-reversible`), both verified against current FC headings. | **Accept.** |
+
+### Reference: current `PROBLEM_MAP.md` domain set (the re-authoring target)
+
+For Pass 2 re-authoring:
+
+```
+1. Energy and critical infrastructure are too constrained for a resilient, abundant future
+2. Money, credit, and capital allocation steer the economy in ways most people cannot see or influence
+3. Information ecosystems are fragmented and easily manipulated
+4. Institutional capacity is too weak for the demands placed on it
+5. Housing is constrained where it should be abundant
+6. Healthcare is too often rationed by price, complexity, and access
+7. Education and opportunity pathways are uneven, rigid, and bottlenecked
+8. Food systems are efficient in some ways, but fragile in others
+9. Family support systems are misaligned with modern life
+10. Wealth and power are concentrating faster than governance can respond
+11. AI and compute power are concentrating faster than governance can respond
+12. Ecological systems are under stress that constrains every other domain
+13. Institutional distrust is becoming a governing condition
+14. Talent is systematically routed away from public-interest systems
+15. Democratic process cannot convert public need into institutional action at the speed or scale required
+```
+
+Phantom domain phrasings the re-authoring eliminates: `housing-has-decoupled-from-wages`, `healthcare-costs-are-inflating-faster-than-wages`, `education-has-inflated-faster-than-it-has-improved`, `childcare-is-financially-inaccessible-to-most-working-families`, `urbanization-is-squeezing-labor-mobility`, `ecological-overshoot-is-accelerating`, `a-post-scarcity-future-is-increasingly-possible-and-is-not-being-prepared-for`, `work-and-purpose-are-decoupling-faster-than-our-institutions-can-absorb`, `institutional-capacity-has-decayed-faster-than-the-problems-requiring-it`, `transformative-technology-is-arriving-faster-than-its-governance`, `information-ecosystems-fragment-attention-and-narrow-the-shared-reality-needed-to-coordinate`.
+
+### Pass 2 resolution rules applied
+
+- **P2-1** (PROBLEM_MAP hallucinations): **Fix by re-authoring** per digest. Same protocol as Pass 1 Findings #1–#3.
+- **P2-2** (PRINCIPLES.md ↔ FC §5 drift): **Flag-only**, gated on ROADMAP F1.
+- **P2-3, P2-4** (SF and FC anchor health): **Accept.** No issues found.
+
+### Pass 2 remediation summary (closed at audit time)
+
+- **P2-1 closed.** Every `PROBLEM_MAP.md#...` anchor used anywhere in the repo now resolves to a real current heading. The 13 distinct anchors in use map 1:1 onto the actual current 15-domain set (no use of §8 Food, §14 Talent — the digest corpus does not currently substantively engage either, which is itself a useful signal for future-sweep planning). Body-text "Domain N (Topic)" references were re-authored alongside the anchors so the paraphrase always faithfully summarizes the actual current §N. The lone non-digest phantom (in [`government-overreach-ownership-ratchet-exchange.md`](../../exchanges/government-overreach-ownership-ratchet-exchange.md) Round 5 narrative) was also fixed.
+- **P2-2 carried forward.** Recorded as a flag-only finding. No edits to either core normative document. Open until ROADMAP TODO #1 F1 resolves.
+- **Authoring guard extended.** [`sources/README.md`](../../../sources/README.md) authoring guard was rewritten to cover all four core normative documents (PRINCIPLES, FOUNDATIONAL_COMMITMENTS, PROBLEM_MAP, SYSTEMS_FRAMEWORK) with a per-document verification table and an explicit caveat about the §5 cross-document drift.
+
+---
+
 ## Items deferred to next audit
 
 - **Alignment-memo deeper check.** This pass verified that every entry in [`formation-docs/SOURCE_REGISTRY.md`](../../../formation-docs/SOURCE_REGISTRY.md) has a matching folder in `external-formation-docs/documents/`. It did **not** verify that each `analysis/principle-maps/*.md` memo's interpretive claims still match the retained excerpt in the corresponding `external-formation-docs/documents/*` folder. That is the protocol's "lightweight corpus-integrity check" and should run on its own cadence — likely after the next formation-doc analysis update or after F1 changes the comparison target (PRINCIPLES.md §5 vocabulary).
-- **PROBLEM_MAP.md and SYSTEMS_FRAMEWORK.md anchor scan.** This pass focused on PRINCIPLES.md anchors because the originating finding was a Principle 5 anchor. A parallel pass against PROBLEM_MAP.md and SYSTEMS_FRAMEWORK.md anchors across the corpus is a reasonable next-audit scope, especially if either core document is revised.
 - **Filename typo `iniital-systems-framework-review.md`.** Renaming would require updating every link to Exchange #2 across the project. Cost > benefit alone, but if a broader URL-cleanup pass is ever run, this should ride along.
+- **PRINCIPLES.md §5 vs FOUNDATIONAL_COMMITMENTS.md §5 drift (P2-2).** Carries forward as an open finding until ROADMAP F1 resolves it.
 
 ---
 
@@ -81,9 +145,8 @@ The original audit framed this as a multi-stage decision tree. The corrected dia
 
 Per [Coherence Audit Protocol §1](../coherence-audit-protocol.md#1-trigger), the next full audit should run when any of the following occurs:
 
-- ROADMAP TODO #1 F1 lands (PRINCIPLES.md §5 revision integrated).
-- A new exchange opens that consumes the Platner digest (resolves Finding #5).
-- The steward decides on §2/§3 interpretive resolutions (Findings #2, #3).
+- ROADMAP TODO #1 F1 lands (resolves the §5 drift between PRINCIPLES.md and FOUNDATIONAL_COMMITMENTS.md).
+- A new exchange opens that consumes the Platner digest (resolves Pass 1 Finding #5).
 - A core normative document is substantively revised.
 - Approximately 3–5 new exchanges have completed since this audit.
 

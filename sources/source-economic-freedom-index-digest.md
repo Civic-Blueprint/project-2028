@@ -91,7 +91,7 @@ copyright_notice: "Both indexes publish rankings and underlying data freely. Exc
 ## Project 2028 mapping
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Central data source for Sub-debate 5 and for refuting the Venezuela reductio.
-- **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
+- **Problem Map:** [Domain 4 (Institutional capacity)](../PROBLEM_MAP.md#4-institutional-capacity-is-too-weak-for-the-demands-placed-on-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-cannot-convert-public-need-into-institutional-action-at-the-speed-or-scale-required). Economic-freedom indices operationalize one half of the §4/§15 question (the constraint side) without resolving the other half (the legitimate-collective-action side); their analytic value to the project is exactly that they make the trade-off visible.
 - **Principles:** Supports [Principle 4 (reversibility, accountability, legibility)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) — the indexes essentially measure a bundled operationalization of these properties.
 - **Round 2 use:** Best single citation for the claim "institutional quality, not government scale, is the decisive variable." Also useful for the meta-point that even libertarian-leaning data does not support Friedberg's framing.
 
