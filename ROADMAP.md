@@ -45,7 +45,7 @@ description: Forward-looking steward decisions and open project tracks. Complete
 
 10. **TR2 — External human reviewer commitment for F1, F3, F4 (legitimacy + practitioner feasibility only).** (Narrowed per Thread E.) Analytical-improvement review is handled by source expansion under TR1; live human review is reserved for what sources cannot provide — dialogic negation, unknown-unknowns, tacit practitioner knowledge, and legitimacy. **Instruments now available:** [Reviewer Packet Template](docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](docs/REVIEWER_AS_A_ROUND_CONVENTION.md). Commitment: at least one external human reviewer, invited under the packet, participates in each of F1, F3, F4 before those exchanges are closed. F2 and F6 close on F1/F3 reviewer input. F5 folds into the existing [Exchange #17 practitioner critique](agent/exchanges/first-practitioner-critique-ai-provenance-exchange.md) lane. See also TODO #11 below for the first recruit.
 
-11. **Use the Reviewer Packet to recruit the first live reviewer.** The packet and the convention are drafted but have not yet been used against a live invitation. Target: recruit *at least one* live reviewer for F1, F3, or F4 (preferred order F3 → F1 → F4 based on where legitimacy review has the highest marginal value). First-use notes should be folded back into both documents' changelogs; the packet and convention are provisional until they have survived a live cycle. Steward judgment required: which relationship to recruit from, and which review type to request. See the [Reviewer Packet "First use" section](docs/REVIEWER_PACKET_TEMPLATE.md#first-use).
+11. **Use the Reviewer Packet to recruit the first live reviewer.** The packet and the convention are drafted but have not yet been used against a live invitation. Target: recruit _at least one_ live reviewer for F1, F3, or F4 (preferred order F3 → F1 → F4 based on where legitimacy review has the highest marginal value). First-use notes should be folded back into both documents' changelogs; the packet and convention are provisional until they have survived a live cycle. Steward judgment required: which relationship to recruit from, and which review type to request. See the [Reviewer Packet "First use" section](docs/REVIEWER_PACKET_TEMPLATE.md#first-use).
 
 12. **Adopt the "replacement over addition" default for bounded-governance proposals.** Round 5 promoted Round 4's challenge 4a (the AI package is a regulatory ratchet) from local finding to project-level default: any bounded-governance proposal that is net-additive rather than replacement-and-sunset must carry an explicit justification (asymmetric-risk, irreducible coordination, explicit exception). This belongs in Systems Framework or a dedicated doctrine note.
 
@@ -54,6 +54,8 @@ description: Forward-looking steward decisions and open project tracks. Complete
 13. **Recommendation 6 (revise the internal description of recursive uplift).** Not yet started. The three-layer decomposition (execution / trust / sequence) from Exchange #7 needs to be written into [SYSTEMS_FRAMEWORK.md](SYSTEMS_FRAMEWORK.md) or a dedicated theory-specification note. Informed by: Exchange #12 (housing literature offers no support for Layer 2 cascade); Exchange #17 (entry-trust as load-bearing); Exchange #21 Round 5 (bounded-governance doctrine as the proposed architecture under which recursive-uplift claims sit).
 
 14. **Recommendation 5 (publish the pre-evidence integration note).** Partially started. Content provenance is live; evidence-interpretation commitments are not yet published as a dedicated note.
+
+15. **Run [Exchange #22](agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md) Round 4 Move 3 — warm-channel test of the childcare-licensing one-pager.** _Steward-owned, no agent action required._ The agent-side artifacts called for at the end of [Round 4](agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md) are in place: Move 1 as [`civicblueprint.org/docs/CHILDCARE_LICENSING_FLOW_DENVER.md`](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/CHILDCARE_LICENSING_FLOW_DENVER.md) (with Move 2's three recognition paragraphs as its inline cover section), Move 4 as the in-place [Priority 2 amendment](agent/exchanges/first-practitioner-critique-ai-provenance-exchange.md) on Exchange #17, and Move 5 as the drafted-but-unsent [re-engagement template](docs/RE_ENGAGEMENT_TEMPLATE_CHILDCARE_2026_04.md). What remains is steward judgment about _when_ and _to whom_ in the warm channel to send the one-pager, and recording each response (or non-response) under the sharpened Priority 2 metric. **Explicitly does not consume [TODO #11](#new-tracks-introduced-by-exchange-21-round-5)** — Reviewer Packet first-use is a different recruitment lane.
 
 ---
 
@@ -150,6 +152,7 @@ TODO #11 (first live reviewer recruited under packet) ──► validates review
 TODO #12 (replacement-over-addition default) ──► SF or doctrine-note edit
 TODO #13 (Recursive uplift theory spec) ──► SF edit
 TODO #14 (Pre-evidence integration note) ──► standalone note
+TODO #15 (#22 Round 4 Move 3 warm-channel test) ──► steward-owned; records into sharpened Exchange #17 Priority 2 metric
 ```
 
 ---
@@ -164,7 +167,7 @@ TODO #14 (Pre-evidence integration note) ──► standalone note
 
 ## Notes & open thinking threads
 
-> **Purpose:** a single place to park open architectural questions and thinking threads that have not yet been decided. Items here are *not* committed project direction. When one of them graduates to a decision, move it up into the TODOs or active-tracks section; when it is declined, archive it with a short rationale.
+> **Purpose:** a single place to park open architectural questions and thinking threads that have not yet been decided. Items here are _not_ committed project direction. When one of them graduates to a decision, move it up into the TODOs or active-tracks section; when it is declined, archive it with a short rationale.
 >
 > **How to use:** each thread records the question, the honest analysis, where the work would live in the project, and the recommended next move if the steward wants to pursue it. Pick up any thread cold without needing the chat transcript.
 
@@ -182,37 +185,37 @@ Six thinking threads surfaced during a steward read-through of the Round 5 deliv
 
 #### Thread A — Rapid constituent feedback / XRP-style amendment voting
 
-**Question.** The Round 5 v2 Principle 5 commits to institutions "accountable to those it affects." What *mechanism* makes that commitment real? Could something like XRP ledger amendment voting, or a phone-based rapid complaint pathway with automated triage and public escalation, operationalize it for bounded-governance institutions? Triggered by [Round 5 Principle 5 text](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#deliverable-1--revised-principle-5-text-v2).
+**Question.** The Round 5 v2 Principle 5 commits to institutions "accountable to those it affects." What _mechanism_ makes that commitment real? Could something like XRP ledger amendment voting, or a phone-based rapid complaint pathway with automated triage and public escalation, operationalize it for bounded-governance institutions? Triggered by [Round 5 Principle 5 text](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#deliverable-1--revised-principle-5-text-v2).
 
 **What the idea actually is (two mechanisms, not one).**
 
-- *Complaint triage* — rapid, one-way, individual grievance → institution → response. Like civic 311 or a digital ombudsman.
-- *Amendment voting* — slow, two-way, collective decision → system change. Like XRP's 80%-validator-over-2-weeks or Swiss referendums.
+- _Complaint triage_ — rapid, one-way, individual grievance → institution → response. Like civic 311 or a digital ombudsman.
+- _Amendment voting_ — slow, two-way, collective decision → system change. Like XRP's 80%-validator-over-2-weeks or Swiss referendums.
 
 These are related but distinct. Combining them is a design choice, not a necessity.
 
 **Real-world prior art.**
 
-| Instance | Mechanism | Failure mode |
-|---|---|---|
-| Taiwan vTaiwan / Polis (Audrey Tang) | Consensus-finding on policy via structured online deliberation | Low participation; elite-skewed users |
-| Estonia rahvakogu / e-petitions | Digital petition threshold → parliamentary consideration | Vexatious / astroturf petitions |
-| UK petitions.parliament.uk | 10k signatures → response; 100k → debate | Symbolic rather than binding |
-| XRP ledger amendments | Validator (UNL) supermajority over 2 weeks | Curated validator list is a trust assumption democracies cannot make |
-| iNaturalist / SeeClickFix | Citizen reporting → automated triage → municipal routing | Skews to wealthy neighborhoods |
+| Instance                             | Mechanism                                                      | Failure mode                                                         |
+| ------------------------------------ | -------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Taiwan vTaiwan / Polis (Audrey Tang) | Consensus-finding on policy via structured online deliberation | Low participation; elite-skewed users                                |
+| Estonia rahvakogu / e-petitions      | Digital petition threshold → parliamentary consideration       | Vexatious / astroturf petitions                                      |
+| UK petitions.parliament.uk           | 10k signatures → response; 100k → debate                       | Symbolic rather than binding                                         |
+| XRP ledger amendments                | Validator (UNL) supermajority over 2 weeks                     | Curated validator list is a trust assumption democracies cannot make |
+| iNaturalist / SeeClickFix            | Citizen reporting → automated triage → municipal routing       | Skews to wealthy neighborhoods                                       |
 
-**The hard part.** Automated triage is tractable for well-bounded complaint types (potholes, permit delays, specific benefit denials). It is *not* tractable for general-purpose governance complaints — NLP classifiers drift under adversarial input, escalation thresholds become gaming targets, and the human-review queue is the actual constraint. Every system in the table above hits the same wall: bottleneck is human reviewer capacity, not the frontend.
+**The hard part.** Automated triage is tractable for well-bounded complaint types (potholes, permit delays, specific benefit denials). It is _not_ tractable for general-purpose governance complaints — NLP classifiers drift under adversarial input, escalation thresholds become gaming targets, and the human-review queue is the actual constraint. Every system in the table above hits the same wall: bottleneck is human reviewer capacity, not the frontend.
 
 **Where it belongs.**
 
-- *Not* in Principle 5. Principle-level language should not prescribe a particular mechanism.
-- *Yes* in the bounded-governance doctrine as a worked mechanism under Element 7 (transparency + reporting) and Element 10 (guarded technocratic layer).
-- *Yes* as a Proposal Catalog entry in its own right (cross-cuts PM Domains §3 information, §13 democratic process, §15 institutional capacity).
-- *Possibly* an exchange topic if the goal is to stress-test the "automated triage as capture target" question.
+- _Not_ in Principle 5. Principle-level language should not prescribe a particular mechanism.
+- _Yes_ in the bounded-governance doctrine as a worked mechanism under Element 7 (transparency + reporting) and Element 10 (guarded technocratic layer).
+- _Yes_ as a Proposal Catalog entry in its own right (cross-cuts PM Domains §3 information, §13 democratic process, §15 institutional capacity).
+- _Possibly_ an exchange topic if the goal is to stress-test the "automated triage as capture target" question.
 
 **Connection to Round 4.** This mechanism likely has to exist (in some form) for the doctrine's authenticity conditions to be meetable. A bounded-governance architecture without constituent-feedback plumbing is the architecture most vulnerable to Hungary-style adopt-and-hollow.
 
-**Recommended next move if pursued.** Add a P-### Proposal Catalog entry — candidate title *"Rapid Constituent Feedback-to-Remediation Pathway for Bounded-Governance Institutions"* — and flag it as a candidate mechanism in F3 (doctrine public artifact). Do not modify Principle 5.
+**Recommended next move if pursued.** Add a P-### Proposal Catalog entry — candidate title _"Rapid Constituent Feedback-to-Remediation Pathway for Bounded-Governance Institutions"_ — and flag it as a candidate mechanism in F3 (doctrine public artifact). Do not modify Principle 5.
 
 ---
 
@@ -224,14 +227,14 @@ These are related but distinct. Combining them is a design choice, not a necessi
 
 **Candidate: "Red Team Run" protocol.**
 
-| Step | Mechanism | Why it helps |
-|---|---|---|
-| 1 | Run on a different model family (Claude/GPT ↔ Gemini/Llama) | Different training-data profile; different safety-tuning biases |
-| 2 | Reduced source corpus — strip steward-selected digests; replace with agent-selected digests from neighboring domains | Breaks source-selection bias |
-| 3 | Deliberately different prompt frame — "these are assertions; propose the strongest alternative framing that leads to different conclusions" | Inverts extend-and-refine default |
-| 4 | Forbid cross-reading of the original exchange | Prevents convergence toward steward framing |
-| 5 | Apply synthetic stakeholder panels — 8–12 personas drawn from distributions that do not match the steward's | Stand-in for missing perspectives (with epistemic caveat: still LLM-generated) |
-| 6 | Output: divergence report — same conclusions / different conclusions / unreplicable claims | Makes convergence legible rather than assumed |
+| Step | Mechanism                                                                                                                                   | Why it helps                                                                   |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 1    | Run on a different model family (Claude/GPT ↔ Gemini/Llama)                                                                                 | Different training-data profile; different safety-tuning biases                |
+| 2    | Reduced source corpus — strip steward-selected digests; replace with agent-selected digests from neighboring domains                        | Breaks source-selection bias                                                   |
+| 3    | Deliberately different prompt frame — "these are assertions; propose the strongest alternative framing that leads to different conclusions" | Inverts extend-and-refine default                                              |
+| 4    | Forbid cross-reading of the original exchange                                                                                               | Prevents convergence toward steward framing                                    |
+| 5    | Apply synthetic stakeholder panels — 8–12 personas drawn from distributions that do not match the steward's                                 | Stand-in for missing perspectives (with epistemic caveat: still LLM-generated) |
+| 6    | Output: divergence report — same conclusions / different conclusions / unreplicable claims                                                  | Makes convergence legible rather than assumed                                  |
 
 **Honest limit.** This is mitigation, not cure. All frontier LLMs share training data and RLHF profiles. Claude-Red-Team vs. Claude-Main is closer to each other than either is to a practitioner in Mumbai. Synthetic personas remain steward-imaginable. The protocol reduces bias; it does not eliminate it.
 
@@ -263,11 +266,11 @@ After the April 2026 cleanup, the live threads are **A** (rapid-feedback mechani
 
 ### Decision parking lot — items pending steward judgment
 
-| # | Decision | Cost if pursued | Unblocks |
-|---|---|---|---|
-| A1 | Add P-### "Rapid Constituent Feedback-to-Remediation Pathway" to Proposal Catalog | Small | F3 mechanism-library |
-| C1 | Draft Red Team Run protocol (fourth sibling to Adversarial / Coherence / Historical-Parallel) | Small | Higher-confidence future syntheses |
-| F-tail | Draft reviewer commitment ladder | Trivial | Reviewer recruitment scoping beyond one-shot |
+| #      | Decision                                                                                      | Cost if pursued | Unblocks                                     |
+| ------ | --------------------------------------------------------------------------------------------- | --------------- | -------------------------------------------- |
+| A1     | Add P-### "Rapid Constituent Feedback-to-Remediation Pathway" to Proposal Catalog             | Small           | F3 mechanism-library                         |
+| C1     | Draft Red Team Run protocol (fourth sibling to Adversarial / Coherence / Historical-Parallel) | Small           | Higher-confidence future syntheses           |
+| F-tail | Draft reviewer commitment ladder                                                              | Trivial         | Reviewer recruitment scoping beyond one-shot |
 
 Resolved in the April 2026 cleanup (archived, with pointers from above): B1/B2 (FOUNDATIONAL_COMMITMENTS.md adopted and named), D1 (auto-resolved by B), E1/E2 (applied to TODOs #9 and #10), F-packet (packet and convention drafted; live-use recruitment is now TODO #11).
 
