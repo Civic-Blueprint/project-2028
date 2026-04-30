@@ -85,7 +85,7 @@ copyright_notice: "The 2024 Nobel committee summary is public. Book excerpts are
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Foundational comparative-political-economy source for Sub-debates 5 and 8.
 - **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
-- **Principles:** Supports [Principle 4 (accountable, legible, reversible power)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) — the principle is, in Acemoglu-Robinson language, the institutional-inclusiveness condition for sustained prosperity. Supports [Principle 1 (human dignity)](../PRINCIPLES.md#1-human-dignity-is-non-negotiable) by reframing "rights" in institutional terms.
+- **Principles:** Supports [Principle 4 (accountable, legible, reversible power)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) — the principle is, in Acemoglu-Robinson language, the institutional-inclusiveness condition for sustained prosperity. Supports [Principle 1 (dignity is inherent and unconditional)](../PRINCIPLES.md#1-dignity-is-inherent-and-unconditional) by reframing "rights" in institutional terms.
 - **Round 2 use:** Primary citation for the reframe "the question is not state-vs-market but inclusive-vs-extractive institutions." Central counterargument to Friedberg's Venezuela comparisons.
 
 ---

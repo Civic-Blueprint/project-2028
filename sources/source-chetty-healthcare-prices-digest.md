@@ -83,7 +83,7 @@ copyright_notice: "Publisher-free working-paper versions circulate for most pape
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Central decomposition evidence for Sub-debate 6.
 - **Problem Map:** [Domain 2 (Healthcare)](../PROBLEM_MAP.md#2-healthcare-costs-are-inflating-faster-than-wages), [Domain 10 (Wealth concentration)](../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond).
-- **Principles:** Directly relevant to [Principle 1 (dignity)](../PRINCIPLES.md#1-human-dignity-is-non-negotiable) — healthcare affordability is a dignity precondition.
+- **Principles:** Directly relevant to [Principle 1 (dignity is inherent and unconditional)](../PRINCIPLES.md#1-dignity-is-inherent-and-unconditional) — healthcare affordability is a dignity precondition. Also directly engages [Principle 2 (essential needs should not be held hostage to avoidable scarcity)](../PRINCIPLES.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity) — healthcare is on the principle's enumerated list of essential needs, and Chetty's diagnosis (price concentration, not subsidy) bears directly on what counts as "avoidable" scarcity.
 - **Round 2 use:** Best single citation for the claim that U.S. healthcare prices are driven by market concentration and fragmentation rather than by government subsidy; key data for any sector-specific reform proposals.
 
 ---

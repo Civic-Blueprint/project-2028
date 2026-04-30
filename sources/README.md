@@ -33,6 +33,17 @@ Example: `source-modern-wisdom-1084-friedberg-digest.md`
 
 As the corpus grows, browse the [Source Index](SOURCE_INDEX.md) to find digests grouped by sub-debate and viewpoint. The index tracks all digests that have been written in support of the [Government Overreach / Ownership Ratchet exchange](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) and adjacent exchanges.
 
+## Authoring guard — quote actual principle titles
+
+When a digest claims a principle linkage in its **Project 2028 mapping** section (or anywhere in body text), the author **must** quote the principle's actual current title from [`PRINCIPLES.md`](../PRINCIPLES.md), not paraphrase it from memory or summary. This rule exists because the [April 2026 coherence audit](../agent/process/audits/coherence-audit-2026-04.md) found that **17 of the first 50 source digests** had cited principle titles and anchors that *had never existed in any commit of `PRINCIPLES.md`* — phantom phrasings like "Principle 2 (common inheritance)" and "Principle 3 (human purpose)" that were invented at digest-authoring time. The fix was to re-author every affected principle-mapping section against the actual principle text. To prevent the same failure mode going forward:
+
+1. **Open `PRINCIPLES.md` and copy the principle's H2 heading verbatim.** The H2 text is the authoritative title and the basis for the anchor. Do not paraphrase from prior digests, prior exchanges, or memory.
+2. **Generate the anchor from the heading.** The anchor is the heading lowercased, with non-alphanumerics removed, words joined by hyphens, and the leading number prefixed (GitHub Flavored Markdown rules). Example: `## 2. Essential needs should not be held hostage to avoidable scarcity` → `#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity`.
+3. **Match the digest's claim against the principle's actual content.** If the source's substance does not fit the principle's actual scope, pick a different principle — do not bend the principle's description to fit the source. Citing a misaligned principle is a [Hallucinated reference](../agent/process/coherence-audit-protocol.md#3-issue-types) under the Coherence Audit Protocol.
+4. **The same rule applies to `FOUNDATIONAL_COMMITMENTS.md`, `PROBLEM_MAP.md`, and `SYSTEMS_FRAMEWORK.md`.** Quote actual current section titles; generate anchors mechanically; do not paraphrase from memory.
+
+A digest's body text may use a short paraphrase for readability (e.g. "Principle 2 (essential needs)"), but the link target and the substantive claim must be grounded in the actual principle text. The short paraphrase should be a faithful summary of the actual title, not a different concept smuggled in.
+
 ## Current corpus
 
 As of April 2026, the directory contains 53 source digests:

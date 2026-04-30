@@ -108,7 +108,7 @@ The chart plots U.S. consumer price changes from January 1998 through (most rece
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Essential evidence for Sub-debate 6.
 - **Problem Map:** [Domain 1 (Housing)](../PROBLEM_MAP.md#1-housing-has-decoupled-from-wages), [Domain 2 (Healthcare)](../PROBLEM_MAP.md#2-healthcare-costs-are-inflating-faster-than-wages), [Domain 3 (Education)](../PROBLEM_MAP.md#3-education-has-inflated-faster-than-it-has-improved), [Domain 5 (Childcare)](../PROBLEM_MAP.md#5-childcare-is-financially-inaccessible-to-most-working-families).
-- **Principles:** Tests [Principle 1 (dignity)](../PRINCIPLES.md#1-human-dignity-is-non-negotiable) — if government interventions intended to support dignity actually produce unaffordability, the interventions need redesign.
+- **Principles:** Tests [Principle 2 (essential needs should not be held hostage to avoidable scarcity)](../PRINCIPLES.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity) — the chart's diverging-cost categories (healthcare, housing, education, childcare) are exactly the principle's enumerated essential needs, and the principle requires explaining whether the divergence is "avoidable" or structural. Also tests [Principle 1 (dignity is inherent and unconditional)](../PRINCIPLES.md#1-dignity-is-inherent-and-unconditional) — if interventions intended to support dignity actually produce unaffordability, the interventions need redesign.
 - **Round 2 use:** Primary empirical anchor for Sub-debate 6. Must be paired with Baumol and with healthcare-specific studies to produce a complete diagnostic.
 
 ---

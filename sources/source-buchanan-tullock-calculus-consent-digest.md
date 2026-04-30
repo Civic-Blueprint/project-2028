@@ -83,7 +83,7 @@ copyright_notice: "The Liberty Fund edition is free. Excerpts are included for a
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Central for bounded-governance design (Round 2). The two-level framework is arguably *the* theoretical anchor the project has been implicitly reaching for.
 - **Problem Map:** [Domain 13 (Institutional capacity)](../PROBLEM_MAP.md#13-institutional-capacity-has-decayed-faster-than-the-problems-requiring-it), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
-- **Principles:** Directly relevant to [Principle 1 (human dignity)](../PRINCIPLES.md#1-human-dignity-is-non-negotiable) (constitutive-level guarantee) and [Principle 4 (accountable, legible, reversible power)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) (operational-level reversibility).
+- **Principles:** Directly relevant to [Principle 1 (dignity is inherent and unconditional)](../PRINCIPLES.md#1-dignity-is-inherent-and-unconditional) (constitutive-level guarantee) and [Principle 4 (accountable, legible, reversible power)](../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) (operational-level reversibility).
 - **Round 2 use:** The single most important source for the project's design of stopping-points, supermajority requirements for constitutive changes, and the distinction between durable commitments and revisable policies.
 
 ---

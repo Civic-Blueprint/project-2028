@@ -1,6 +1,6 @@
 # Coherence Audit Protocol
 
-> **Status:** Proposed (April 2026). Originated from the [Review Protocol Design Exploration](../exchanges/review-protocol-design-exploration.md), where both the open exploration and adversarial review passes agreed that internal coherence checking is a maintenance need the project cannot afford to leave informal.
+> **Status:** Active (April 2026). Originated from the [Review Protocol Design Exploration](../exchanges/review-protocol-design-exploration.md), where both the open exploration and adversarial review passes agreed that internal coherence checking is a maintenance need the project cannot afford to leave informal. **First audit run:** [Coherence Audit — April 2026](audits/coherence-audit-2026-04.md), triggered by a stale Principle 5 anchor surfaced during the creation of the Stewart/Platner source digest. Subsequent audits live in `audits/` alongside this protocol.
 
 ---
 
@@ -129,6 +129,7 @@ Classify each finding using the narrowest accurate label:
 - **Contradiction:** two project-authored documents actively disagree
 - **Drift:** one document has evolved past another on a shared topic
 - **Broken reference:** a link, section reference, or dependency path is stale or wrong
+- **Hallucinated reference:** a citation, anchor, or quoted phrasing was never valid — the cited title, section, or attribution does not exist in any version of the target document's git history. Distinct from Drift (which assumes a prior valid state) and Broken reference (which assumes the reference was once correct and has since gone stale). Hallucinated references are a known failure mode of agent-authored artifacts that cite documents the agent has not loaded or has summarized rather than read.
 - **Terminological inconsistency:** a shared term carries different meanings or scopes
 - **Unincorporated recommendation:** an exchange recommended a change that has not been adopted, deferred, or explicitly declined
 - **Source-handling error:** a retained source is stored, labeled, or linked in a way that violates the sourcing boundary
@@ -136,6 +137,8 @@ Classify each finding using the narrowest accurate label:
 - **Interpretive overreach:** an analysis memo or synthesis artifact claims more than the source text supports
 - **Source-analysis mismatch:** metadata, retained text, and project-authored analysis no longer describe the same source basis
 - **Canonical-source drift:** the cited canonical source, version, or retained excerpt basis has changed or become uncertain without the corpus acknowledging it
+
+> **Note on hallucinated references.** When this type appears, do **not** resolve it by picking the "closest" valid reference and silently substituting it. The original claim was made against a phantom target; the substance of the claim must be re-evaluated against the *actual* target before any anchor or attribution is rewritten. A hallucinated reference is also a signal to check whether the same authoring pass produced other hallucinations elsewhere in the same artifact.
 
 ### 4. Process
 
@@ -177,8 +180,9 @@ Suggested format:
 |---|---|---|---|---|---|---|
 | 1 | Drift | Project-authored analysis | `ROADMAP.md` | `formation-docs/README.md` | Roadmap still treats the corpus as local while the README describes a two-repo split | Update roadmap wording |
 | 2 | Broken reference | Project-authored analysis | `formation-docs/analysis/...` | `external-formation-docs` | Retained-text link still points to the old local path | Update memo link |
-| 3 | Translation-status error | Retained source corpus + analysis | `_source-meta.yaml` | alignment memo | Memo calls a translation expert-reviewed but metadata still says AI translated | Lower memo confidence or update metadata after verification |
-| 4 | Interpretive overreach | Project-authored analysis | alignment memo | retained source text | Memo claims a source encodes a value the cited clause does not clearly support | Revise memo classification or notes |
+| 3 | Hallucinated reference | Project-authored analysis | source digest | `PRINCIPLES.md` | Digest cites "Principle 2 (common inheritance)" with anchor `#2-the-inheritance-of-humanity-belongs-to-all-of-humanity`; that title and anchor have never existed in any commit of `PRINCIPLES.md` | Re-author the principle-mapping against the actual current principle titles; do not silently substitute the closest valid anchor |
+| 4 | Translation-status error | Retained source corpus + analysis | `_source-meta.yaml` | alignment memo | Memo calls a translation expert-reviewed but metadata still says AI translated | Lower memo confidence or update metadata after verification |
+| 5 | Interpretive overreach | Project-authored analysis | alignment memo | retained source text | Memo claims a source encodes a value the cited clause does not clearly support | Revise memo classification or notes |
 
 ### 6. Resolution rules
 

@@ -80,7 +80,7 @@ copyright_notice: "The Cato Policy Analysis version is openly distributed by Cat
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Directly relevant to Question 3 of Round 2 priorities (democracy as capture). Adds an electorate-belief mechanism to Friedberg's beneficiary-bloc mechanism.
 - **Problem Map:** [Domain 3 (Information ecosystems)](../PROBLEM_MAP.md#3-information-ecosystems-fragment-attention-and-narrow-the-shared-reality-needed-to-coordinate), [Domain 15 (Democratic process)](../PROBLEM_MAP.md#15-democratic-process-is-too-distorted-to-convert-public-need-into-sustained-reform).
-- **Principles:** Tests [Principle 14 (truth and evidence as public goods)](../PRINCIPLES.md#14-truth-and-evidence-must-be-maintained-as-public-goods). If voter beliefs are systematically biased, Principle 14's emphasis on truth-infrastructure matters more — not less — for democratic capture-resistance.
+- **Principles:** Tests [Principle 14 (truth and evidence must be protected as public goods)](../PRINCIPLES.md#14-truth-and-evidence-must-be-protected-as-public-goods). If voter beliefs are systematically biased, §14's emphasis on truth-infrastructure matters more — not less — for democratic capture-resistance.
 - **Round 2 use:** Use to force the exchange to separate "beneficiary-bloc capture" from "belief-systematic capture." The project's answers to each will differ.
 
 ---

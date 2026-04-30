@@ -93,7 +93,7 @@ copyright_notice: "NBER working papers and JEP articles are freely available. Bo
 
 - **Exchange:** [Government Overreach, Ownership as Transition, and the Ratchet Problem](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md). Sector-specific decomposition for Sub-debate 6.
 - **Problem Map:** [Domain 3 (Education)](../PROBLEM_MAP.md#3-education-has-inflated-faster-than-it-has-improved), [Domain 10 (Wealth concentration)](../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond).
-- **Principles:** Supports [Principle 1 (dignity)](../PRINCIPLES.md#1-human-dignity-is-non-negotiable) and [Principle 3 (human purpose)](../PRINCIPLES.md#3-human-purpose-is-the-point-of-civilization).
+- **Principles:** Supports [Principle 1 (dignity is inherent and unconditional)](../PRINCIPLES.md#1-dignity-is-inherent-and-unconditional) and [Principle 2 (essential needs should not be held hostage to avoidable scarcity)](../PRINCIPLES.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity) — education is on the principle's enumerated list of essential needs. Also relevant to [Principle 8 (no class of people should become structurally excluded)](../PRINCIPLES.md#8-no-class-of-people-should-become-structurally-excluded) — sustained college-cost inflation operates as a long-run access barrier whose distributional incidence falls disproportionately on those without family wealth.
 - **Round 2 use:** Central evidence for the claim that the Perry chart does *not* support a simple "less government" story even when the Bennett Hypothesis is partially vindicated.
 
 ---
