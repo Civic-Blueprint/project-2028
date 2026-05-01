@@ -192,6 +192,26 @@ The riff's claim is that the load-bearing choice is the strategic decision. If t
 
 **Provisional read** (steward to confirm or override): the load-bearing choice should probably be Model B — workstreams as primary, identity as the framing wrapper, network as the supporting evidence — because the Phase 3 user the digest describes already knows who they are, and what they need from the site is *a way to plug in*, not a way to be told what to believe. The corollary is that Phase 3's success hinges on the project's ability to actually keep workstreams live and responsive at the cadence Model B demands. That is a real cost.
 
+### 4.5 Live signal — the tuned reviewer ask as a Phase 3 prototype
+
+On April 30, 2026, the steward prepared to recruit the first live external reviewer for [Exchange #23 (Principle 5 Revision / F1)](../exchanges/principle-5-revision-exchange.md). The reviewer profile was not a conventional expert profile: a politically engaged, historically literate, community-rooted person with limited prior Project 2028 context, a young family, frustration with the country's direction, and possible bridges into government-adjacent networks. The ask was therefore tuned away from domain expertise and toward **perspective-gap + audience-portability review**: does this language sound real, trustworthy, shareable, and movement-worthy to a serious person outside the project?
+
+The steward's immediate reaction to the phone script for that ask is itself a Phase 3 signal:
+
+> This script is amazing. It's clear, and the way I read it was passionate. I got excited just reading through it knowing that I'm about to use it. This specifically tuned ask for this individual could definitely be used for one of the workstreams of the Phase 3 front door.
+
+That reaction should not be treated as generic encouragement. It identifies a concrete Phase 3 workstream: **tuned invitation scripts / reviewer asks as movement-entry infrastructure**. The script works because it does not lead with the corpus. It leads with a person, a relationship, a specific kind of help the project needs, and a bounded next action. That is the Model B pattern in miniature: "here is what we are doing; here is where you fit."
+
+Candidate workstream shape for the eventual Phase 3 brief:
+
+- **Who you are / why you** — a tailored standpoint paragraph, not a generic "join us" pitch.
+- **What the project is asking from you** — one bounded contribution, framed in plain language.
+- **Why your standpoint matters** — a specific explanation of what this person can see that the project cannot see from inside its own corpus.
+- **How your contribution will be used** — clear provenance, consent, attribution, and follow-up loop.
+- **What happens next** — a real workstream surface, not a newsletter signup.
+
+This is adjacent to, but distinct from, the [Reviewer Packet Template](../../docs/REVIEWER_PACKET_TEMPLATE.md). The packet is the formal instrument. The phone script is the **relational bridge** that makes the formal instrument usable by a normal person in a warm channel. Phase 3 likely needs both.
+
 ---
 
 ## 5. What the front door must not do
@@ -296,6 +316,7 @@ These are the decisions the riff is *not* making. The list is the queue for the 
 
 ### 9.4 Practitioner-outreach surfaces already operating in Phase-3-shaped register
 
+- [docs/REVIEWER_PACKAGE_PRINCIPLE_5_F1_2026_04.md](../../docs/REVIEWER_PACKAGE_PRINCIPLE_5_F1_2026_04.md) — first live F1 reviewer package; paired with the phone-script pattern captured in §4.5 as a candidate Phase 3 invitation workstream.
 - [docs/RE_ENGAGEMENT_TEMPLATE_CHILDCARE_2026_04.md](../../docs/RE_ENGAGEMENT_TEMPLATE_CHILDCARE_2026_04.md)
 - [feedback/feedback-childcare-licensing-practitioner-2026-04.md](../../feedback/feedback-childcare-licensing-practitioner-2026-04.md)
 - [docs/PRACTITIONER_OUTREACH_TEMPLATE.md](../../docs/PRACTITIONER_OUTREACH_TEMPLATE.md)
