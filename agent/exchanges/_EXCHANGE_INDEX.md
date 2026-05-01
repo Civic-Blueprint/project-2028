@@ -267,6 +267,17 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 23. [Principle 5 Revision — Exchange (F1)](principle-5-revision-exchange.md)
+
+| | |
+|---|---|
+| **Question** | Does the [Exchange #21 Round 5 v2 Principle 5 text](government-overreach-ownership-ratchet-exchange.md#deliverable-1--revised-principle-5-text-v2) survive one more adversarial pass and one external human reviewer round, and what is the v3 text that should replace [PRINCIPLES.md §5](../../PRINCIPLES.md#5-critical-systems-require-public-interest-governance) and reconcile it with [FOUNDATIONAL_COMMITMENTS.md §5](../../FOUNDATIONAL_COMMITMENTS.md#5-critical-systems-require-inclusive-institutions-with-bounded-rules)? |
+| **Depends on** | [Exchange #21](#21-government-overreach-ownership-as-transition-and-the-ratchet-problem--exchange) (the v2 text under review), [PRINCIPLES.md §5 (current)](../../PRINCIPLES.md#5-critical-systems-require-public-interest-governance) and [FOUNDATIONAL_COMMITMENTS.md §5 (v2-derived)](../../FOUNDATIONAL_COMMITMENTS.md#5-critical-systems-require-inclusive-institutions-with-bounded-rules) (the drift this exchange resolves), [April 2026 Coherence Audit Pass 2 (finding P2-2)](../process/audits/coherence-audit-2026-04.md#pass-2--problem_mapmd-hallucinations-and-principlesmd--foundational_commitmentsmd-5-drift), [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Reviewer Packet Template](../../docs/REVIEWER_PACKET_TEMPLATE.md), [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md), [ROADMAP TODOs #1, #10, #11](../../ROADMAP.md). |
+| **Produced** | Round 1 complete: input under review reproduced verbatim; what the v2 text was responding to (the four Round 4 axes integrated in Round 5); the §5 drift to be resolved; round plan (R2 adversarial under Options A+C; R3 external review per the Reviewer Packet; R4 response round producing v3 text and clause-by-clause changelog; R5 steward voice edit + integration into PRINCIPLES.md and FOUNDATIONAL_COMMITMENTS.md at the same commit). Round 2 complete: adversarial review found v2 directionally stronger than current §5 but not integration-ready; central finding is that v2 overburdens `PRINCIPLES.md` by trying to carry principle, doctrine, tradition genealogy, examples, and research debt in one section. Round 2 recommends a shorter and more modular v3; an artifact-boundary rule before drafting; converting the reference-class caveat into an operational constraint; naming inclusive/bounded tradeoffs; guarding against hollow oversight/participation theater; and using Round 3 to test audience portability or hollow-adoption risk. |
+| **Status** | Active; Round 2 complete; Rounds 3–5 reserved. Steward action pending on F1-O1 (review-type) and F1-O2 (reviewer recruitment) before Round 3 can run. |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -334,6 +345,14 @@ Core Documents (Principles, Problem Map, Systems Framework)
               ◄── #7 (recursive uplift) + #9 (debt legitimacy)
               ◄── ARP + HPTP
               (adversarial challenge to Principle 5 + ownership question)
+              │
+              └─► #23 Principle 5 Revision (F1)
+                    ◄── #21 Round 5 v2 deliverable + Coherence Audit P2-2
+                    ◄── ARP + Reviewer Packet + Reviewer-as-a-Round Convention
+                    ◄── ROADMAP TODOs #1, #10, #11
+                    (adversarial pass + first live external-review round
+                     → v3 text → integration into PRINCIPLES.md §5
+                       and FOUNDATIONAL_COMMITMENTS.md §5)
 
   Source Digest: The Weekly Show (Stewart / Acemoglu / Autor)
         │

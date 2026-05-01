@@ -128,7 +128,7 @@ Phantom domain phrasings the re-authoring eliminates: `housing-has-decoupled-fro
 ### Pass 2 remediation summary (closed at audit time)
 
 - **P2-1 closed.** Every `PROBLEM_MAP.md#...` anchor used anywhere in the repo now resolves to a real current heading. The 13 distinct anchors in use map 1:1 onto the actual current 15-domain set (no use of §8 Food, §14 Talent — the digest corpus does not currently substantively engage either, which is itself a useful signal for future-sweep planning). Body-text "Domain N (Topic)" references were re-authored alongside the anchors so the paraphrase always faithfully summarizes the actual current §N. The lone non-digest phantom (in [`government-overreach-ownership-ratchet-exchange.md`](../../exchanges/government-overreach-ownership-ratchet-exchange.md) Round 5 narrative) was also fixed.
-- **P2-2 carried forward.** Recorded as a flag-only finding. No edits to either core normative document. Open until ROADMAP TODO #1 F1 resolves.
+- **P2-2 carried forward.** Recorded as a flag-only finding. No edits to either core normative document. Open until ROADMAP TODO #1 F1 resolves. **F1 spawned April 30, 2026 as [Exchange #23 — Principle 5 Revision](../../exchanges/principle-5-revision-exchange.md);** P2-2 closes when that exchange's Round 5 lands the v3 text in PRINCIPLES.md and FOUNDATIONAL_COMMITMENTS.md at the same commit.
 - **Authoring guard extended.** [`sources/README.md`](../../../sources/README.md) authoring guard was rewritten to cover all four core normative documents (PRINCIPLES, FOUNDATIONAL_COMMITMENTS, PROBLEM_MAP, SYSTEMS_FRAMEWORK) with a per-document verification table and an explicit caveat about the §5 cross-document drift.
 
 ---
@@ -137,7 +137,7 @@ Phantom domain phrasings the re-authoring eliminates: `housing-has-decoupled-fro
 
 - **Alignment-memo deeper check.** This pass verified that every entry in [`formation-docs/SOURCE_REGISTRY.md`](../../../formation-docs/SOURCE_REGISTRY.md) has a matching folder in `external-formation-docs/documents/`. It did **not** verify that each `analysis/principle-maps/*.md` memo's interpretive claims still match the retained excerpt in the corresponding `external-formation-docs/documents/*` folder. That is the protocol's "lightweight corpus-integrity check" and should run on its own cadence — likely after the next formation-doc analysis update or after F1 changes the comparison target (PRINCIPLES.md §5 vocabulary).
 - **Filename typo `iniital-systems-framework-review.md`.** Renaming would require updating every link to Exchange #2 across the project. Cost > benefit alone, but if a broader URL-cleanup pass is ever run, this should ride along.
-- **PRINCIPLES.md §5 vs FOUNDATIONAL_COMMITMENTS.md §5 drift (P2-2).** Carries forward as an open finding until ROADMAP F1 resolves it.
+- **PRINCIPLES.md §5 vs FOUNDATIONAL_COMMITMENTS.md §5 drift (P2-2).** Carries forward as an open finding. F1 spawned April 30, 2026 as [Exchange #23](../../exchanges/principle-5-revision-exchange.md); P2-2 will close when Exchange #23 Round 5 integrates the v3 text into both documents.
 
 ---
 
