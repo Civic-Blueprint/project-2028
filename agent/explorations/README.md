@@ -1,6 +1,9 @@
 # Explorations
 
-> **Status:** Active convention as of April 2026. First exploration: [Phase 3 Front Door Riff](phase-3-front-door-riff.md).
+> **Status:** Active convention as of April 2026. Current explorations:
+>
+> - [Phase 3 Front Door Riff](phase-3-front-door-riff.md) — first exploration; movement-building front door direction (April 29, 2026, open).
+> - [Reciprocity and Decolonial Frame Riff](reciprocity-and-decolonial-frame-riff.md) — frame-check riff prompted by relayed practitioner feedback (Chance, pseudonymous); tests whether `PRINCIPLES.md` and `PROBLEM_MAP.md` survive serious engagement with reciprocity, gift-economy, Land Back, decolonial methodology, affect, Disability Justice, an absolute-language critique, a sycophancy critique, and a peers-in-the-field relational model grounded in Chance's [Multi-Agent Coordination Framework](https://github.com/chancestarseeker/multi-agent-coordination-framework) (May 1, 2026, open).
 
 ## What lives here
 
