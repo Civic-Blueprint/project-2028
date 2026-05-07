@@ -116,10 +116,10 @@ The records remain visible to anyone reading the GitHub repo directly, which is 
 
 ---
 
-## Status (April 2026)
+## Status (May 2026)
 
-Initial directory. One record present:
+One record present:
 
-- [`feedback-childcare-licensing-practitioner-2026-04.md`](feedback-childcare-licensing-practitioner-2026-04.md) — anchors [Exchange #22 (Entry-Trust Failure with a Domain-Expert Practitioner)](../agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md).
+- [`feedback-childcare-licensing-practitioner-2026-04.md`](feedback-childcare-licensing-practitioner-2026-04.md) — anchors [Exchange #22 (Entry-Trust Failure with a Domain-Expert Practitioner)](../agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md). **Updated 2026-05-07** with an unsolicited substantive follow-up from the practitioner (Katelynn): a five-issue enumeration of the original childcare-center licensing failure plus a documented sign-permitting episode. `consent_state` transitioned `not_obtained → attributed` (first name only; steward elected to keep location and specific officials redacted, more privacy-protective than the practitioner offered). See the record's Consent log for details.
 
 The Exchange #17 anchor case (federal-context practitioner) is not yet retroactively captured here; the original conversation is preserved inline in the exchange itself. If the project later adopts the convention of duplicating those transcripts into `feedback/` for symmetry, that should be a deliberate steward decision rather than an automatic backfill.

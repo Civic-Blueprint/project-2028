@@ -789,6 +789,8 @@ The constructive response is not to abandon the three-layer distinction but to i
 > | `artifact_tested` | `memo` / `recognition-paragraph` / `domain-artifact` / `homepage`                          |
 >
 > This makes the next several practitioner contacts comparable rather than anecdotal and is the only Priority-2 change required to absorb the [Exchange #22](entry-trust-domain-expert-practitioner-exchange.md) finding without reopening the rest of Round 5's priority list.
+>
+> **Priority 2 record — May 2026 (Exchange #22 Round 5 follow-up signal) — provenance: `[ai-generated, steward-curated]`.** On 2026-05-07 the same Exchange #22 practitioner (Katelynn) re-engaged the steward _unprompted_ in the warm-relational channel with substantive operational content about the original failure (a five-issue enumeration plus a documented sign-permitting episode). This event does not fit the `failure_mode` schema because it is not a bounce; it is an unsolicited substantive return. Recorded as: `failure_mode = n/a (substantive-return-unsolicited)`, `channel = warm-relational`, `artifact_tested = none (Move 1 not yet shown)`. The schema is left unchanged for now; if a second comparable substantive-return event is observed, the schema gains a `substantive-return` value at that point. Source: [Exchange #22 Round 5](entry-trust-domain-expert-practitioner-exchange.md#round-5--unsolicited-practitioner-follow-up-may-2026) and the updated [feedback record](../../feedback/feedback-childcare-licensing-practitioner-2026-04.md).
 
 ---
 
