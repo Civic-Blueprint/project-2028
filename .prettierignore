@@ -1,4 +1,12 @@
 # Project-2028 is a markdown-only repository.
-# Prettier reformats tables into fixed-width columns, producing noisy diffs
-# and degrading source readability. Ignore everything.
+#
+# Prettier reformats tables into fixed-width padded columns, which makes
+# long-text rows span thousands of characters, harms source readability,
+# and produces noisy diffs on every edit. The house style is compact tables
+# (single-space padding around pipes; `---` separators regardless of header
+# width). Do not run Prettier, markdownlint --fix, mdformat, or any other
+# markdown table formatter against files in this repo.
+#
+# See CLAUDE.md ("Do NOT run Prettier...") for the table-style convention.
+# Ignore everything.
 *

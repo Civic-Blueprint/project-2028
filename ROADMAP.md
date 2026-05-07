@@ -6,7 +6,7 @@ description: Forward-looking steward decisions and open project tracks. Complete
 
 > **Purpose:** This document shows only what needs steward attention next. Completed items are moved to [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md) so the live roadmap stays clean and scannable.
 >
-> **Last updated:** April 2026, after the [FOUNDATIONAL_COMMITMENTS.md](FOUNDATIONAL_COMMITMENTS.md) companion document (Thread B) and the [Reviewer Packet](docs/REVIEWER_PACKET_TEMPLATE.md) + [Reviewer-as-a-Round Convention](docs/REVIEWER_AS_A_ROUND_CONVENTION.md) (Thread F) were adopted. TR1/TR2 framing has been updated to match the Thread E scoping. Threads B, D, and F-packet have been archived; see [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md). Prior entry: [Exchange #21 Round 5](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-5) adversarial-review integration.
+> **Last updated:** May 2026, after [Exchange #22 Round 5](agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md#round-5--unsolicited-practitioner-follow-up-may-2026) recorded an unsolicited substantive follow-up from the childcare-licensing practitioner. TODO #15 (Move 3 warm-channel test) gained a recipient note (a different comparable practitioner); TODO #16 (Move 6 friction-pattern addendum to the Denver flow) was added. **Prior entry (April 2026):** [FOUNDATIONAL_COMMITMENTS.md](FOUNDATIONAL_COMMITMENTS.md) companion document (Thread B) and the [Reviewer Packet](docs/REVIEWER_PACKET_TEMPLATE.md) + [Reviewer-as-a-Round Convention](docs/REVIEWER_AS_A_ROUND_CONVENTION.md) (Thread F) were adopted. TR1/TR2 framing has been updated to match the Thread E scoping. Threads B, D, and F-packet have been archived; see [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md). Earlier entry: [Exchange #21 Round 5](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-5) adversarial-review integration.
 
 ---
 
@@ -201,13 +201,13 @@ These are related but distinct. Combining them is a design choice, not a necessi
 
 **Real-world prior art.**
 
-| Instance                             | Mechanism                                                      | Failure mode                                                         |
-| ------------------------------------ | -------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Taiwan vTaiwan / Polis (Audrey Tang) | Consensus-finding on policy via structured online deliberation | Low participation; elite-skewed users                                |
-| Estonia rahvakogu / e-petitions      | Digital petition threshold → parliamentary consideration       | Vexatious / astroturf petitions                                      |
-| UK petitions.parliament.uk           | 10k signatures → response; 100k → debate                       | Symbolic rather than binding                                         |
-| XRP ledger amendments                | Validator (UNL) supermajority over 2 weeks                     | Curated validator list is a trust assumption democracies cannot make |
-| iNaturalist / SeeClickFix            | Citizen reporting → automated triage → municipal routing       | Skews to wealthy neighborhoods                                       |
+| Instance | Mechanism | Failure mode |
+| --- | --- | --- |
+| Taiwan vTaiwan / Polis (Audrey Tang) | Consensus-finding on policy via structured online deliberation | Low participation; elite-skewed users |
+| Estonia rahvakogu / e-petitions | Digital petition threshold → parliamentary consideration | Vexatious / astroturf petitions |
+| UK petitions.parliament.uk | 10k signatures → response; 100k → debate | Symbolic rather than binding |
+| XRP ledger amendments | Validator (UNL) supermajority over 2 weeks | Curated validator list is a trust assumption democracies cannot make |
+| iNaturalist / SeeClickFix | Citizen reporting → automated triage → municipal routing | Skews to wealthy neighborhoods |
 
 **The hard part.** Automated triage is tractable for well-bounded complaint types (potholes, permit delays, specific benefit denials). It is _not_ tractable for general-purpose governance complaints — NLP classifiers drift under adversarial input, escalation thresholds become gaming targets, and the human-review queue is the actual constraint. Every system in the table above hits the same wall: bottleneck is human reviewer capacity, not the frontend.
 
@@ -232,14 +232,14 @@ These are related but distinct. Combining them is a design choice, not a necessi
 
 **Candidate: "Red Team Run" protocol.**
 
-| Step | Mechanism                                                                                                                                   | Why it helps                                                                   |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 1    | Run on a different model family (Claude/GPT ↔ Gemini/Llama)                                                                                 | Different training-data profile; different safety-tuning biases                |
-| 2    | Reduced source corpus — strip steward-selected digests; replace with agent-selected digests from neighboring domains                        | Breaks source-selection bias                                                   |
-| 3    | Deliberately different prompt frame — "these are assertions; propose the strongest alternative framing that leads to different conclusions" | Inverts extend-and-refine default                                              |
-| 4    | Forbid cross-reading of the original exchange                                                                                               | Prevents convergence toward steward framing                                    |
-| 5    | Apply synthetic stakeholder panels — 8–12 personas drawn from distributions that do not match the steward's                                 | Stand-in for missing perspectives (with epistemic caveat: still LLM-generated) |
-| 6    | Output: divergence report — same conclusions / different conclusions / unreplicable claims                                                  | Makes convergence legible rather than assumed                                  |
+| Step | Mechanism | Why it helps |
+| --- | --- | --- |
+| 1 | Run on a different model family (Claude/GPT ↔ Gemini/Llama) | Different training-data profile; different safety-tuning biases |
+| 2 | Reduced source corpus — strip steward-selected digests; replace with agent-selected digests from neighboring domains | Breaks source-selection bias |
+| 3 | Deliberately different prompt frame — "these are assertions; propose the strongest alternative framing that leads to different conclusions" | Inverts extend-and-refine default |
+| 4 | Forbid cross-reading of the original exchange | Prevents convergence toward steward framing |
+| 5 | Apply synthetic stakeholder panels — 8–12 personas drawn from distributions that do not match the steward's | Stand-in for missing perspectives (with epistemic caveat: still LLM-generated) |
+| 6 | Output: divergence report — same conclusions / different conclusions / unreplicable claims | Makes convergence legible rather than assumed |
 
 **Honest limit.** This is mitigation, not cure. All frontier LLMs share training data and RLHF profiles. Claude-Red-Team vs. Claude-Main is closer to each other than either is to a practitioner in Mumbai. Synthetic personas remain steward-imaginable. The protocol reduces bias; it does not eliminate it.
 
@@ -271,11 +271,11 @@ After the April 2026 cleanup, the live threads are **A** (rapid-feedback mechani
 
 ### Decision parking lot — items pending steward judgment
 
-| #      | Decision                                                                                      | Cost if pursued | Unblocks                                     |
-| ------ | --------------------------------------------------------------------------------------------- | --------------- | -------------------------------------------- |
-| A1     | Add P-### "Rapid Constituent Feedback-to-Remediation Pathway" to Proposal Catalog             | Small           | F3 mechanism-library                         |
-| C1     | Draft Red Team Run protocol (fourth sibling to Adversarial / Coherence / Historical-Parallel) | Small           | Higher-confidence future syntheses           |
-| F-tail | Draft reviewer commitment ladder                                                              | Trivial         | Reviewer recruitment scoping beyond one-shot |
+| # | Decision | Cost if pursued | Unblocks |
+| --- | --- | --- | --- |
+| A1 | Add P-### "Rapid Constituent Feedback-to-Remediation Pathway" to Proposal Catalog | Small | F3 mechanism-library |
+| C1 | Draft Red Team Run protocol (fourth sibling to Adversarial / Coherence / Historical-Parallel) | Small | Higher-confidence future syntheses |
+| F-tail | Draft reviewer commitment ladder | Trivial | Reviewer recruitment scoping beyond one-shot |
 
 Resolved in the April 2026 cleanup (archived, with pointers from above): B1/B2 (FOUNDATIONAL_COMMITMENTS.md adopted and named), D1 (auto-resolved by B), E1/E2 (applied to TODOs #9 and #10), F-packet (packet and convention drafted; live-use recruitment is now TODO #11).
 
