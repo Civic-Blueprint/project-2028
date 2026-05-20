@@ -6,7 +6,7 @@ description: Forward-looking steward decisions and open project tracks. Complete
 
 > **Purpose:** This document shows only what needs steward attention next. Completed items are moved to [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md) so the live roadmap stays clean and scannable.
 >
-> **Last updated:** May 2026, after [Exchange #22 Round 5](agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md#round-5--unsolicited-practitioner-follow-up-may-2026) recorded an unsolicited substantive follow-up from the childcare-licensing practitioner. TODO #15 (Move 3 warm-channel test) gained a recipient note (a different comparable practitioner); TODO #16 (Move 6 friction-pattern addendum to the Denver flow) was added. **Prior entry (April 2026):** [FOUNDATIONAL_COMMITMENTS.md](FOUNDATIONAL_COMMITMENTS.md) companion document (Thread B) and the [Reviewer Packet](docs/REVIEWER_PACKET_TEMPLATE.md) + [Reviewer-as-a-Round Convention](docs/REVIEWER_AS_A_ROUND_CONVENTION.md) (Thread F) were adopted. TR1/TR2 framing has been updated to match the Thread E scoping. Threads B, D, and F-packet have been archived; see [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md). Earlier entry: [Exchange #21 Round 5](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-5) adversarial-review integration.
+> **Last updated:** May 20, 2026 (evening CT). The reciprocity-and-decolonial-frame riff advanced to v5: OQ#6 was narrowed per steward pushback that the v3 framing overstated the project's lack of reciprocity (see riff §1.1.quater). The OQ#6 line in the [*Frame-level inquiries in flight*](#frame-level-inquiries-in-flight) section was updated accordingly; no other ROADMAP content changed. **Prior entry (May 20, 2026 mid-afternoon CT):** A new *Frame-level inquiries in flight* subsection was added to the *Notes & open thinking threads* register, surfacing the two open riffs ([Phase 3 Front Door](agent/explorations/phase-3-front-door-riff.md) and [Reciprocity and Decolonial Frame](agent/explorations/reciprocity-and-decolonial-frame-riff.md)) that ROADMAP.md did not previously reference, along with a preserved north-star integration paragraph. No TODOs changed in either of these updates. **Prior entry (May 2026):** [Exchange #22 Round 5](agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md#round-5--unsolicited-practitioner-follow-up-may-2026) recorded an unsolicited substantive follow-up from the childcare-licensing practitioner. TODO #15 (Move 3 warm-channel test) gained a recipient note (a different comparable practitioner); TODO #16 (Move 6 friction-pattern addendum to the Denver flow) was added. **Prior entry (April 2026):** [FOUNDATIONAL_COMMITMENTS.md](FOUNDATIONAL_COMMITMENTS.md) companion document (Thread B) and the [Reviewer Packet](docs/REVIEWER_PACKET_TEMPLATE.md) + [Reviewer-as-a-Round Convention](docs/REVIEWER_AS_A_ROUND_CONVENTION.md) (Thread F) were adopted. TR1/TR2 framing has been updated to match the Thread E scoping. Threads B, D, and F-packet have been archived; see [ROADMAP_ARCHIVE.md](ROADMAP_ARCHIVE.md). Earlier entry: [Exchange #21 Round 5](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#round-5) adversarial-review integration.
 
 ---
 
@@ -175,6 +175,57 @@ TODO #16 (#22 Round 5 Move 6 friction-pattern addendum) ──► agent-side; ex
 > **Purpose:** a single place to park open architectural questions and thinking threads that have not yet been decided. Items here are _not_ committed project direction. When one of them graduates to a decision, move it up into the TODOs or active-tracks section; when it is declined, archive it with a short rationale.
 >
 > **How to use:** each thread records the question, the honest analysis, where the work would live in the project, and the recommended next move if the steward wants to pursue it. Pick up any thread cold without needing the chat transcript.
+
+### Frame-level inquiries in flight
+
+> **Purpose:** the rest of this notes register holds *architectural* and *protocol* threads — discrete questions with proposed mechanisms. This subsection holds something different: *frame-level inquiries* that may reshape the project's principles, scope, or relational model rather than add to its mechanism list. These live upstream of the TODOs and the active tracks. They originated in the explorations directory ([`agent/explorations/`](agent/explorations/)) and are surfaced here so the steward and any future reader can see them without having to find the riffs.
+>
+> **Status (May 2026):** Two open riffs are holding frame-level work that ROADMAP.md does not otherwise reference. Neither has graduated to a TODO or an exchange yet, but both have produced open questions that may eventually shape multiple downstream artifacts. The riffs themselves remain in `agent/explorations/` as the historical record; this section is the navigation aid.
+
+#### Riff — Phase 3 Front Door
+
+[`agent/explorations/phase-3-front-door-riff.md`](agent/explorations/phase-3-front-door-riff.md) (April 29, 2026, open).
+
+**What it holds.** A pre-artifact strategic direction for the project's *movement-building front door* — the shift from Phase 2's *"look at the alignment evidence"* posture to a Phase 3 *"we are people working on this; are you one of us; what can you do?"* invitation. Surfaces three candidate models (identity-first, organizing-platform, network-first) and lists seven open questions that need to settle before a Phase 3 brief is drafted.
+
+**Why it's here, not in active tracks.** The riff is deferred-by-design until its open questions settle. It has dependencies on TODO #1 (which F1–F6 spawn, and in what order) and on the Reciprocity / Decolonial riff below (because Phase 3's *abundant future* framing is one of the words the abundance-disambiguation question would touch). If the steward chooses to draft the Phase 3 brief, the riff becomes either a new active track or a [civicblueprint.org](https://github.com/Civic-Blueprint/civicblueprint.org) `docs/WEBSITE_PHASE_3_BRIEF.md`.
+
+#### Riff — Reciprocity and Decolonial Frame
+
+[`agent/explorations/reciprocity-and-decolonial-frame-riff.md`](agent/explorations/reciprocity-and-decolonial-frame-riff.md) (May 1, 2026, now at v4 as of May 20).
+
+**What it holds.** A frame-check riff downstream of relayed practitioner feedback (Chance, pseudonymous) that asked the project to begin again from a different frame — reciprocity, gift economy, decolonization, ableism, Land Back, affect — before cross-referencing what survives. v2 added Chance's second-pass critique (absolute-language overuse, AI-model sycophancy, humans-as-participants-not-arbiters). v3 added a §3.7 disambiguation of *abundance* as plural across six frames, prompted by the steward re-reading the riff alongside the [Friedberg digest](sources/source-modern-wisdom-1084-friedberg-digest.md). v4 (May 20) retired Path D per Chance's refusal to have his framework adopted by other projects yet, while preserving §2.7 and §3.6 as analytical content.
+
+**Live open questions** (verbatim labels; full text in the riff's [§9](agent/explorations/reciprocity-and-decolonial-frame-riff.md#9-open-questions-for-the-next-session)):
+
+- OQ#1 — Which path (A, B, or C, or some combination)?
+- OQ#2 — Is Chance willing to be a named participant for purposes other than framework adoption?
+- OQ#5 — Who would the project recruit to lead a Principles Re-Grounding exchange under Path B?
+- OQ#6 — What is the project's protocol for offered reciprocity to the specific communities whose vocabulary it draws on? *(Narrowed in riff v5 from a broader v3 framing; see riff §1.1.quater.)*
+- OQ#7 — What is the right artifact for engaging Disability Justice scholarship at the same depth this riff engages Kimmerer?
+- OQ#10 — Narrow vs. broad reading of [Principle 3](PRINCIPLES.md#3-ai-must-augment-agency-not-replace-democratic-accountability)?
+- OQ#11 — Absolute-language audit cadence and scope?
+- OQ#12 — Sycophancy as an ongoing observable, not a one-time disclaimer?
+- OQ#13 — Abundance disambiguation: exchange or in-corpus audit?
+
+**Why it's here, not in active tracks.** Most of these open questions are upstream of decisions that would themselves spawn TODOs. They are frame-level rather than action-level. OQ#1 + OQ#2 are gating: until they settle, drafting any downstream artifact (Principles Re-Grounding exchange, Frame Audit Protocol, Disability Justice exploration v1, Abundance Disambiguation exchange) is premature. OQ#12 is the exception — it is immediately actionable as a participant-level practice without waiting for anything.
+
+#### North star — current honest read
+
+The riffs together opened a question the ROADMAP did not previously have a place for: *whether the project's underlying north star has shifted, or has been clarified in a way the steward now has to integrate.* The honest paragraph the agent and steward landed on in a May 20 conversation, preserved here so it survives future chat-context resets:
+
+> Did I lose the north star, or did I learn the north star was partial in a way I now have to integrate, and the integration is painful?
+>
+> Read (confidence ~0.7): the original north star is still mostly intact. The shape of it has just become clearer. The steward started with *abundance + coordination toward better systems*. What's been added is:
+>
+> - **Which abundance** (riff §3.7 — the six frames: techno-capitalist, social-democratic, gift-economy, Land Back, Disability Justice, field-coordination)
+> - **What scope** (Path C — the project speaks from inside late-Western-modern-state conditions, in honest engagement with other traditions, for an audience that reads in that register)
+> - **What relational shape internally** (riff §3.6 + §6 — even if Path D's architecture isn't available, the disciplines are)
+> - **What the project owes** (a narrower version of OQ#6 — specifically to the communities whose vocabulary the project draws on, not "the project gives back nothing")
+
+This paragraph is preserved as a working integration, not a settled answer. The steward may reframe it after further philosophical reflection; if so, the new framing should land in the riff and the updated read should overwrite this block here. The point of preserving it is so the integration is recoverable without re-reading the entire conversation history.
+
+---
 
 ### Session record — April 2026, after Exchange #21 Round 5
 
