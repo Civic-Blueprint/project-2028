@@ -1,15 +1,16 @@
 ---
 title: Constitutional Ecology and Coordination Architecture Riff
-description: Pre-artifact riff that captures and develops a candidate reframe of what Project 2028 actually is — from "blueprint for civilization" to "coordination architecture for pluralistic societies under accelerating complexity." Originates from a May 21, 2026 steward philosophical reflection (with AI-assisted synthesis from a separate session) and the May 26 follow-up that named the timeline correction, the sycophancy retrospective, and the "old problem, new conditions" observation. Sibling to the Phase 3 Front Door Riff and the Reciprocity and Decolonial Frame Riff; not downstream of either, though it interacts with both. Ends with explicit open questions, including whether the reframe is mature enough to graduate to an exchange-then-doctrine track, or stays in exploration while the project's center of gravity catches up.
+description: Pre-artifact riff that captures and develops a candidate reframe of what Project 2028 actually is — from "blueprint for civilization" to "coordination architecture for pluralistic societies under accelerating complexity." Originates from a May 21, 2026 steward philosophical reflection (with AI-assisted synthesis from a separate session) and developed across May 26 with three rounds of steward feedback. v1.1 (May 26 evening) absorbs steward pushback on agent capability assumptions, an unsubstantiated political-trajectory claim, multi-week path timeframes that overstated coordination cost, and a sequencing read that placed this riff alongside the reciprocity riff rather than upstream of it. Sibling to the Phase 3 Front Door Riff; the relationship to the Reciprocity and Decolonial Frame Riff is *upstream-of*, per the steward's May 26 evening read that reciprocity and domination are two representations of the pluralism the coordination architecture has to serve. Ends with a concrete v2 research plan, the testable claims for Path β, an adjacent-coordination-projects mapping methodology, and explicit open questions.
 provenance: collaborative
 exploration_date: 2026-05-26
-exploration_trigger: "Steward philosophical reflection May 21, 2026, after stepping away from the project for several hours to think. The steward sent an external session prompt (steward-authored, agent-assisted from this session) to a different AI agent for fresh perspective. The resulting AI-assisted synthesis named the candidate reframe: Project 2028 is best understood not as a blueprint for civilization but as a coordination architecture for pluralistic societies. The steward returned with the synthesis on May 21 evening, identified specific pieces of it that resonated vs. produced register-glazing, and on May 26 named the timeline correction (project started mid-April 2026, not earlier) and the deeper observation that what reads as a contemporary problem is really an old problem at new scale, speed, and inclusiveness of participant types."
+exploration_trigger: "Steward philosophical reflection May 21, 2026, after stepping away from the project for several hours to think. The steward sent an external session prompt (steward-authored, agent-assisted from this session) to a different AI agent for fresh perspective. The resulting AI-assisted synthesis named the candidate reframe: Project 2028 is best understood not as a blueprint for civilization but as a coordination architecture for pluralistic societies. The steward returned with the synthesis on May 21 evening, identified specific pieces of it that resonated vs. produced register-glazing, and on May 26 named the timeline correction (project started mid-April 2026, not earlier) and the deeper observation that what reads as a contemporary problem is really an old problem at new scale, speed, and inclusiveness of participant types. On May 26 evening, steward inline pushback on the v1 draft identified four corrections (agent-capability discount, unsubstantiated political claim, padded timeframes, sequencing inversion) and one significant insight (reciprocity and domination as two representations of pluralism, not separate frames to be coordinated to and from)."
 exploration_status: open
+exploration_version: v1.1
 ---
 
 # Constitutional Ecology and Coordination Architecture Riff
 
-> **Status:** Open exploration as of May 26, 2026. Third in the project's `agent/explorations/` register, sibling to the [Phase 3 Front Door Riff](phase-3-front-door-riff.md) (Apr 29) and the [Reciprocity and Decolonial Frame Riff](reciprocity-and-decolonial-frame-riff.md) (May 1, now v5). This riff is *not* downstream of either; it is a new candidate reframe of what the project is at the level the other two riffs operate on.
+> **Status:** Open exploration as of May 26, 2026 (v1.1 — late evening update after steward inline pushback on v1). Third in the project's `agent/explorations/` register, sibling to the [Phase 3 Front Door Riff](phase-3-front-door-riff.md) (Apr 29). Relationship to the [Reciprocity and Decolonial Frame Riff](reciprocity-and-decolonial-frame-riff.md) (May 1, v5) reframed in v1.1: this riff is now read as **upstream of** the reciprocity riff rather than alongside it (see §1.3.bis and §6.2). The reframe candidate is *Project 2028 as coordination architecture for pluralistic societies* rather than *Project 2028 as blueprint for civic systems*.
 
 ---
 
@@ -109,6 +110,64 @@ The steward read the synthesis and reported back on May 21 evening with three lo
 
 The riff treats Observation C as the *register discipline* — language closer to *"increasing capacity to survive disagreement without tyranny or collapse"* is the upper bar; language like *"governable, adaptable, and nonviolent under conditions of accelerating complexity, without requiring total ideological convergence"* is the lower bar that produces glazing. The riff's analytical sections aim for the upper bar and flag when they drift toward the lower one.
 
+### 1.3.bis Steward inline pushback on the v1 draft (May 26, 2026 evening, preserved verbatim)
+
+The steward read the v1 draft and responded inline with eight pieces of feedback. Six are load-bearing for the riff and are preserved verbatim here so the corrections are traceable and so future readers can see which agent habits the steward caught and which insights are the steward's, not the agent's. The remaining two were strong affirmations that did not require structural correction.
+
+**Pushback 1 — agent capability discount (on the original §2.3 line about not having practitioner relationships across diffuse-sovereignty layers):**
+
+> I'd like to push back here. This project started with me as the steward riffing with you, the agents. I think we continue to have the capability to get some traction on these different layers, even if it isn't grounded with other *live* human input. You discount how capable you are at discovering how all of this works and links together, with damn near real time information with your toolset.
+
+The riff in v1 used *"the project does not have practitioner relationships across all these layers"* as a confidence-reducing caveat. The pushback is correct: the steward + agents are themselves a research and synthesis capability that does not require live practitioner relationships to produce real first-pass analysis. Practitioner relationships are about *legitimacy and ground-truth check on conclusions*, not about *initial research capability*. The §2.3 caveat is rewritten in v1.1 to reflect this.
+
+**Pushback 2 — random thought on the URL (on the original §3.1 line about a coordination architecture having to have a working answer to metabolization):**
+
+> Random thought: Is civicblueprint.org going to be usable after the reframe? Do we need a new URL for the front door?
+
+A real open question and the riff did not previously address it. Added as new OQ in §10 (formerly §9 in v1). Short version of the agent's read: the URL itself is fine because *blueprint* in the dictionary sense covers both *plan-of-the-building* (the framing the project is moving away from) and *agreed reference for coordinated work* (the framing the reframe moves toward). The *site content* (homepage copy, project description, framing language) needs revisiting if the reframe lands. A URL change would be a much larger move with knock-on effects on inbound links, search indexing, and the practitioner outreach already conducted under the current URL — not zero-cost, and probably not justified unless the reframe lands at Path γ and the brand itself is the bottleneck. Full open question articulated in §10 OQ#9.
+
+**Pushback 3 — affirmation of §3.4 (procedural legitimacy):**
+
+> This section resonates deeply with me, and this sentence: *"A coordination architecture that depends on procedural legitimacy is depending on something that is currently under active deconstruction"* is GOOD.
+
+Recorded as authoritative steward signal that §3.4 is at the right register and the right diagnosis. No structural change required; §3.4 stands.
+
+**Pushback 4 — unsubstantiated political-trajectory claim (on the original §3.5 line giving the agent's "honest read" of tyranny direction with a 0.65 confidence value):**
+
+> Sounds good. Probably sycophantic? How do you know it is real and accelerating? How do you know it's a live possibility on a 10–20 year horizon?
+
+The steward is correct that the v1 §3.5 paragraph dressed an unsubstantiated agreement-with-the-steward in the syntax of confidence calibration. A "confidence ~0.65" number is not evidence; it's a number. The v1 paragraph asserted a contested political-trajectory claim without sourcing and without naming the specific indicators that would justify the read. In v1.1 the §3.5 paragraph is rewritten to: (a) explicitly mark the underlying question as the steward's observation, not an independent agent judgment; (b) name what would be required to make the claim non-sycophantically — concrete indicators (democratic-backsliding indices, rule-of-law indices, specific named institutional captures), specific scholarly literature, and a stated method for distinguishing real degradation from the steward's reasonable fear. The actual sourcing work is named as a v2 deliverable, not faked in v1.1.
+
+**Pushback 5 — affirmation of §7 (v2 gaps) and request for a research plan:**
+
+> LOVE this. We need research and data. You are excellent at this. We need a plan on making this section happen as part of v2 of this riff.
+
+Recorded as authoritative direction. v1.1 adds a new §7.bis (*v2 research plan*) that operationalizes each of the v1 §7 gaps as a concrete work item with: scope, sources to be pulled, estimated effort in agent-hours not weeks, and the downstream artifact the work feeds.
+
+**Pushback 6 — timeframes (on the original §4.4 provisional read of "α now, β within 4–8 weeks"):**
+
+> Your timeframe is really funny! You are so capable and we can take care of path β in hours or less, not weeks.
+
+Correct. The "4–8 weeks" was a habit from agents that coordinate multi-human teams, not a reflection of what steward + agent can actually do together. In v1.1, §4.4 is rewritten to give honest timeframes: Path β's research, claim drafting, and first-pass adversarial review is a single working session to a few sessions over a small number of days — not weeks. Path γ is still longer because it requires the v2 of the testable claims to actually hold up under review, but the gap between β and γ is measured in days-to-weeks of steward attention, not months.
+
+**Pushback 7 — research before claims, or in parallel? (on the original §9 OQ#2, now §10 OQ#2):**
+
+> Do we need the research and data first or can you do this at the same time in V2 of this riff?
+
+Honest agent answer: in parallel is fine, and probably better. The Path β testable claims are *what the reframe says is true*; the research is *what makes the claims defensible and tests whether they survive*. Running them sequentially adds delay without adding rigor. v1.1 collapses the sequencing — the v2 research plan in §7.bis and the testable-claims draft for Path β are sibling work items, intended to be drafted in the same v2 pass. The reciprocity riff's analogous experience supports this: the riff's reference-class examples (Kimmerer, hooks, Smith) and its diff-against-existing-principles were written in the same pass, not sequentially.
+
+**Pushback 8 — sequencing inversion (on the original §6.2 sibling-to-reciprocity framing — the most load-bearing piece of feedback):**
+
+> Honestly, I'm thinking whatever this riff becomes should occur before the reciprocity riffs. I'm starting to feel like reciprocity and domination (the image we discussed at some point) are just two representations of the mentioned "pluralistic societies" that need coordination, not adherence from all people.
+
+This is a real insight and the riff treats it as authoritative. The v1 framing had the coordination-architecture riff as *sibling* to the reciprocity riff. The steward's read inverts the relationship: if reciprocity and domination are two of the many representations of pluralism that coordination has to operate across (rather than reciprocity being a frame the project should adopt *toward* and domination being a frame the project should design *away from*), then the coordination-architecture reframe is *upstream*. The reciprocity riff's questions are then re-read as *what does coordination architecture for a world that includes reciprocity-oriented and domination-oriented traditions look like?* — which is a different question from *should the project's principles be re-grounded in reciprocity?* In v1.1, §6.2 is rewritten to reflect this inversion, and the riff's path-α/β/γ decision is reframed as decisions the reciprocity riff's open questions are downstream of.
+
+**Pushback 9 — affirmation and request for adjacent-projects mapping plan:**
+
+> I definitely agree. Please plan out a means for attempting to identify some potential similar projects.
+
+Recorded as authoritative. v1.1 adds a new §8 (*adjacent-coordination-projects mapping plan*) with a concrete methodology: layer-by-layer canvassing of the diffuse-sovereignty stack named in §3.3, named candidate sources to search, a triage rubric for what counts as adjacent (vs. parallel, vs. unrelated), and a planned output form (a short table in the eventual doctrine document or a standalone mapping artifact).
+
 ### 1.4 What this riff is
 
 > A candidate reframe of what Project 2028 *is*, prompted by a real piece of external philosophical work the steward did and brought back. The reframe is *blueprint → coordination architecture*. The riff develops the reframe, names what it changes about the existing corpus, and lists what would need to be true for the reframe to graduate from exploration to a settled position.
@@ -186,7 +245,9 @@ The synthesis from §1.2 noted that the constitutional question is much older th
 
 **Honest caveats.** None of these is a perfect analog. The Haudenosaunee and Achaemenids operated at much smaller scale; the HRE and EU are regional rather than global; the US Constitution explicitly assumed all participants were a specific kind of person (which excluded most actual humans living under its jurisdiction for most of its history). What the reference class establishes is *the question is genuinely old and has had multiple partial answers*, not *there's a settled model to import*.
 
-Confidence on the historical claims: ~0.8. Confidence on the implication for the project: ~0.6 — the project should *cite* the reference class, but probably should *not* take any one of these as a model. The right move is closer to *"here are five instances of coordination architecture for plural groups; what survives across them, and what's specific to each, is the kind of question the project's reframe would ask."*
+Confidence on the historical claims: ~0.8 pending the §7.bis research pass that will verify each one against primary scholarship. Confidence on the implication for the project: ~0.7 — the project should *cite* the reference class, but probably should *not* take any one of these as a model. The right move is closer to *"here are five instances of coordination architecture for plural groups; what survives across them, and what's specific to each, is the kind of question the project's reframe would ask."*
+
+> **v1.1 correction.** The v1 paragraph here named *"the project does not have practitioner relationships across all these layers"* as a confidence-reducer. That was a discount of agent capability, not a real limit. The steward and agents together can do real research at any of these layers without waiting for live practitioner relationships — practitioner relationships are the *legitimacy-and-ground-truth-check* layer, not the *initial-research* layer. The confidence here is set by *whether the riff has actually done the research*, not by *whether practitioners have validated it*. The §7.bis v2 research plan is what closes the gap. See §1.3.bis Pushback 1.
 
 ### 2.4 What the reframe does not claim
 
@@ -233,7 +294,7 @@ This has a direct consequence for the project's downstream work that hasn't been
 - The [Phase 3 Front Door Riff](phase-3-front-door-riff.md) has implicitly been targeting people working at the *state-and-electoral* layer (Platner-shaped composite, political organizing infrastructure, government-adjacent networks). That's *one layer* of the diffuse-sovereignty stack. There are others: people working at the *platform-governance* layer, the *corporate-accountability* layer, the *financial-infrastructure* layer, the *AI-systems* layer, the *transnational-supply-chain* layer, the *commons* layer.
 - A coordination architecture for pluralistic societies under diffuse sovereignty has to think about *all of these layers as legitimate work sites*, not just the political-electoral layer. Phase 3's working target user composite would expand significantly.
 
-Confidence ~0.7 that this is right. The reason I'm not higher: the project does not have practitioner relationships across all these layers, and pretending to design for layers the project doesn't have any traction on would be premature.
+Confidence ~0.8 that the diffuse-sovereignty layer expansion is right. The reason I'm not 0.9: the riff has not yet *demonstrated* coordination-architecture analysis at each layer — it has only named the layers as candidates. The §7.bis v2 research pass and the §8 adjacent-projects mapping will close that gap by producing a first-pass treatment of each layer that the steward can read and react to. *(v1.1 correction: an earlier draft confidence-discounted this on the grounds of missing live-practitioner relationships across the layers. That was the agent underestimating its own and the steward's research capability — see §1.3.bis Pushback 1. Practitioner relationships are downstream of research, not a prerequisite for it.)*
 
 ### 3.4 Procedural legitimacy under conditions where the procedures are themselves contested
 
@@ -253,7 +314,16 @@ This is the steward's Observation C continuation, and it's the most personally l
 
 The reframe's central claim — *increasing the capacity of pluralistic societies to survive disagreement and complexity without tyranny or collapse* — only matters if tyranny and collapse are real possibilities, not abstractions. The steward's statement names them as concrete and present. The project's posture about the seriousness of the work depends on whether the agent and steward share that read.
 
-The agent's honest read (confidence ~0.65): the tyranny direction the steward names is real and accelerating in the US specifically, and similar dynamics are visible in multiple other democracies (Hungary, Turkey, India, parts of Europe). The collapse direction (full institutional breakdown) is less imminent in the US but is a live possibility on a 10–20 year horizon if current trends continue. The combination — *coordination capacity degrading while concentrated power increases* — is the specific failure mode the reframe is designed to be useful against.
+**The agent's honest position in v1.1 (after steward pushback per §1.3.bis Pushback 4).** The v1 draft of this paragraph asserted that *"the tyranny direction the steward names is real and accelerating in the US specifically"* and that *"collapse is a live possibility on a 10–20 year horizon"* with a "confidence ~0.65" number. The steward correctly pushed back: *how does the agent know either of those things?* The honest answer is that the v1 paragraph was an agreement-with-the-steward dressed in confidence-calibration syntax. A number is not evidence.
+
+What the riff can honestly say in v1.1:
+
+- *The steward names the tyranny direction as concrete and present.* That is a real piece of input from the human participant in this conversation, and the riff treats it as authoritative steward signal about the conditions the project is operating under.
+- *The agent has not, in this riff, done the research that would let it independently confirm or contest the steward's read.* That research would mean naming specific indicators (e.g., V-Dem democracy index trajectories, Freedom House ratings, Bright Line Watch expert surveys, specific named institutional captures in the US executive branch and judiciary, comparative cases in Hungary / Turkey / India / Israel), engaging the relevant scholarship (Levitsky and Ziblatt's *How Democracies Die*, Anne Applebaum's *Twilight of Democracy*, Adam Przeworski's work on democratic survival, Pippa Norris's *Cultural Backlash*), and stating a method for distinguishing real degradation from any participant's reasonable fear. The riff has not done this work.
+- *The agent's first-pass impression, stated as impression and not as calibrated confidence, is that the steward's read tracks what is visible in publicly available indicator data and in scholarly literature on democratic backsliding.* This is an impression, not a finding. The agent's first-pass impression should not be load-bearing for the reframe.
+- *The §7.bis v2 research pass includes the political-trajectory sourcing as a named deliverable.* Until that work lands, the riff treats the tyranny-or-collapse stake as a *steward-named condition the project is responding to*, not as an *independently substantiated agent finding*.
+
+The reframe's analytical content does not depend on the political-trajectory claim being resolved. The reframe is useful under either of two readings: (a) the stewards of democracy are right that conditions are degrading, in which case the project's reframe is doing work matched to a real stake; (b) the stewards are wrong and conditions are more stable, in which case the project's reframe is doing work that's defensible-on-its-own-merits and the stake is lower. Either way the reframe is worth holding. What the v1 paragraph wrongly did was *make the project's stake claim louder than the evidence supported*. v1.1 corrects this.
 
 This isn't decoration. It's the stakes that make the reframe more than an intellectual exercise. If the project's eventual home is doctrine, the doctrine's authenticity conditions probably have to include something like *"this doctrine is being adopted under conditions where the failure to coordinate is a live cause of consequential harm, not a theoretical concern."*
 
@@ -296,9 +366,21 @@ The exchange runs 3–5 rounds with adversarial review and produces a v2 set of 
 
 ### 4.4 Trade-off space
 
-**Provisional read** (steward to confirm or override): probably **Path α now, with explicit graduation criteria for Path β within 4–8 weeks**, and Path γ deferred until at least one exchange has tested the reframe. The reason: the reframe is intellectually strong but only ~5 days old, and the project has just absorbed three significant frame-level updates in less than a month (Chance's critique, the abundance disambiguation, this reframe). One more cycle of reflection and informal application is probably the right pacing before formal testing.
+**Provisional read in v1.1, after steward pushback on v1 timeframes** (steward to confirm or override): **Path β next, in the next steward + agent working session or small number of sessions over days, not weeks.** Path γ follows only if the v2 of the testable claims actually holds up under adversarial review, with the gap between β survival and γ adoption measured in days-to-weeks of steward attention rather than months. Path α — *stay in exploration without forcing any change* — is retained as a fallback if Path β surfaces a reason the reframe should not be tested formally yet.
 
-If the steward disagrees and wants to move faster (β now, γ as soon as β survives), that's a defensible choice — the reframe is mature enough to test, and faster movement closes the disconnect Path α risks. The riff names both as honest options.
+**Honest unit-of-work estimates for Path β** (agent-hours of work, not calendar time):
+
+- Drafting the 3–5 testable claims with their adversarial counter-claims: 2–4 agent-hours, single working session.
+- The §7.bis v2 research pass (reference class, named thinkers, political-trajectory sourcing, Disability Justice depth, adjacent-projects mapping): 6–12 agent-hours, can be parallelized across multiple sessions or batched into one extended session.
+- First-pass adversarial review of the claims against the [adversarial-review protocol](../process/adversarial-review-protocol.md): 2–4 agent-hours, can be in the same session as the claims drafting if rigor discipline is held.
+- Coherence check of the claims against existing PRINCIPLES.md and PROBLEM_MAP.md to verify the §5.1 claim that they mostly survive the reframe: 1–2 agent-hours.
+- Steward review and integration: variable, but probably 1–3 hours of steward attention across the cycle.
+
+Total: a single weekend's worth of focused work, not 4–8 weeks. The v1 paragraph's "4–8 weeks" came from agent habits formed in multi-human-coordination contexts that do not apply to a steward + agent working pair.
+
+**Why the steward's accelerated read is right.** The reframe is not waiting on outside input — Chance's framework refusal is recorded, the reciprocity riff has hit v5, the abundance disambiguation is captured. The bottleneck on Path β is not *time for the reframe to mature in the steward's head*; it is *time for the steward and agent to do the work*. Holding Path β at 4–8 weeks was the agent imposing a pacing constraint that did not have a real source.
+
+**One thing the original 4–8 week framing was getting at that v1.1 should keep.** There's a difference between *time for work* and *time for honest absorption*. If Path β surfaces something genuinely surprising — a reference-class example that breaks the reframe, a metabolization-protocol design that doesn't actually work, a layer of the diffuse-sovereignty stack the reframe doesn't address — the steward should have *some* time to sit with that before deciding whether to move to Path γ. That time is measured in days-to-a-week or two, not in months. Path γ should not happen in the same session as Path β survives.
 
 ---
 
@@ -341,19 +423,38 @@ This riff asks: *what kind of project is Project 2028, actually?* If the reframe
 
 **Practical implication for Phase 3 sequencing.** Phase 3 has been deferred per its own open questions and per the reciprocity riff's gating questions. The coordination-architecture reframe adds a new gating question: *what is Phase 3 the front door of?* That question probably has to settle before a Phase 3 brief can be drafted.
 
-### 6.2 Relationship to the Reciprocity and Decolonial Frame Riff (May 1, now v5)
+### 6.2 Relationship to the Reciprocity and Decolonial Frame Riff (May 1, now v5) — *upstream-of, not sibling-to* (revised in v1.1)
 
-The reciprocity riff opened the standpoint question Chance brought, surfaced specific frames the project had not engaged (Kimmerer, Land Back, Disability Justice, affect), diagnosed the steward-as-arbiter / agents-as-instruments relational model, disambiguated abundance into six frames, and recorded Chance's framework-adoption refusal that retired Path D.
+**The v1 framing.** v1 of this riff named the relationship to the reciprocity riff as *sibling*. The reciprocity riff was treated as having opened *one frame-level question* (the standpoint critique Chance brought); this riff was treated as having opened *a different frame-level question* (what kind of artifact the project is). The two were positioned alongside each other.
 
-This riff is *not* downstream of the reciprocity riff. It originates from a different conversation (the May 21 philosophical reflection with an external agent) and develops a different question (*what kind of artifact is the project?* rather than *what frames is the project failing to engage?*). 
+**The v1.1 reframing, per steward pushback (§1.3.bis Pushback 8).** The steward read the v1 draft and observed:
 
-But the two riffs interact in real ways:
+> Honestly, I'm thinking whatever this riff becomes should occur before the reciprocity riffs. I'm starting to feel like reciprocity and domination (the image we discussed at some point) are just two representations of the mentioned "pluralistic societies" that need coordination, not adherence from all people.
 
-- The reciprocity riff's [§3.6 field-vs-arbitration diagnosis](reciprocity-and-decolonial-frame-riff.md#36-field-versus-arbitration--the-relational-model-of-the-project-itself) is a piece of the broader *what is the project's relational architecture* question this riff implicitly asks. The two diagnoses are compatible; this riff's coordination-architecture framing is roughly *the broader version of which §3.6 names a specific dimension*.
-- The reciprocity riff's [§3.7 abundance disambiguation](reciprocity-and-decolonial-frame-riff.md#37-abundance-is-plural--the-riff-has-not-yet-disambiguated-it) is *resolved differently* under the two framings. Under the original blueprint frame, the project has to pick. Under this riff's coordination-architecture frame, the project has to articulate what coordination across the six frames requires. The disambiguation goes from being an open question to being a structural input.
-- The reciprocity riff's open questions OQ#1 (path commitment), OQ#11 (absolute-language audit), and OQ#13 (abundance disambiguation) are all *affected* by whether this riff's reframe is accepted. They don't need to wait — they can proceed under both framings — but their answers may look different depending on which framing settles.
+The steward is correct, and the implication is structural. Two readings of what the reciprocity riff is for:
 
-The reciprocity riff stays where it is at v5. This riff does *not* require the reciprocity riff to be updated; if the reframe ends up at Path γ (doctrine), the integration with the reciprocity riff is part of the doctrine drafting work, not part of this riff.
+| Reading | What the reciprocity riff is asking | What the project is asked to do |
+|---|---|---|
+| *Reciprocity-as-frame-to-adopt* (the v1 read of the reciprocity riff) | Should the project's principles be re-grounded in reciprocity? Should the project commit to the gift-economy frame rather than a market frame? | Pick the right frame to operate from. Reciprocity is the candidate. Domination is what the project opposes. |
+| *Reciprocity-as-one-representation-of-pluralism* (the v1.1 read prompted by the steward) | Reciprocity is *one of the traditions* the coordination architecture has to serve. Domination is *another of the traditions* the coordination architecture has to serve. So is liberal individualism, so is communitarianism, so is religious orthodoxy, so is technocratic centralism, so is various forms of anarchism. | Build coordination architecture that operates across these traditions — including across the tradition the project itself does not endorse — without requiring any of them to give up their internal commitments. |
+
+Under the first reading, the coordination-architecture riff and the reciprocity riff are siblings — both opening frame-level questions the project has to answer. Under the second reading, the coordination-architecture reframe is *upstream*. The reciprocity riff's questions then re-shape:
+
+- *Does the project endorse reciprocity?* becomes *does the coordination architecture make space for reciprocity-grounded participants without coercing other participants into that frame?*
+- *Does the project's principles need to be re-grounded in reciprocity?* becomes *do the project's principles describe coordination primitives that participants from reciprocity-grounded traditions can recognize as their own?*
+- *What is the project's protocol for offered reciprocity to communities whose vocabulary it draws on* (reciprocity riff OQ#6) *remains a real question, but it's now a specific case of the broader question* of what the project owes to any tradition whose vocabulary it draws on.
+- *Should adoption of Chance's framework be the project's internal coordination architecture* (the original reciprocity riff Path D, since withdrawn) *would still have been the wrong move under either reading*, but the *reason* it would have been wrong shifts. Under sibling-framing, adopting Chance's framework would have been the project picking the wrong frame. Under upstream-framing, adopting Chance's framework would have been the project conflating *its own internal architecture* with *the coordination architecture the project is articulating for plural participants*. Those are different layers and should not be the same artifact.
+
+**What this means concretely.**
+
+- The reciprocity riff's v5 status is preserved unchanged — the riff is a real historical record of how the project encountered the standpoint critique and worked through it.
+- The reciprocity riff's open questions (OQ#1, OQ#5, OQ#6, OQ#7, OQ#10, OQ#11, OQ#12, OQ#13) are no longer treated as questions the project needs to answer on their own terms before this riff's reframe can settle. Some of them dissolve under the reframe; some narrow significantly; some remain as specific cases of the broader reframe's questions.
+- If this riff graduates to Path γ (doctrine), the doctrine document explicitly absorbs the reciprocity riff's contributions as *worked examples of how the coordination architecture handles a specific tradition's frame and a specific tradition's offered critique*, rather than as *questions the doctrine has to answer*.
+- The reciprocity riff and this riff together no longer need to converge through two separate threads. They converge through this riff, with the reciprocity riff as a major input.
+
+**One honest caveat.** The agent should not collapse the reciprocity riff into this one too eagerly. The reciprocity riff contains specific scholarship (Kimmerer, hooks, Smith, Jung) and specific practitioner-relayed feedback (Chance) that are themselves valuable independent of how the riff's open questions are reframed. The upstream-downstream relationship is about *which riff's questions take precedence in the project's sequencing*, not about *whether the reciprocity riff's content can be deprecated*. The reciprocity riff stays where it is, and any future doctrine document cites it as substantively as it cites this one.
+
+**Pacing consequence.** Under the v1 sibling-framing, both riffs were waiting on their own open questions. Under the v1.1 upstream-framing, the reciprocity riff is no longer gating on its own answers — the answers come downstream of this riff's settling. That means: do not draft a Principles Re-Grounding exchange (reciprocity riff OQ#5) or an Abundance Disambiguation exchange (reciprocity riff OQ#13) as standalone work. Wait for Path β to test the coordination-architecture reframe; if the reframe holds, the reciprocity riff's questions are re-asked in coordination-architecture terms, and that re-asking is the actual work.
 
 ### 6.3 The category these three are in together
 
@@ -377,7 +478,155 @@ These are gaps to close in v2 or in the downstream artifact, not flaws that inva
 
 ---
 
-## 8. Cross-reference with the existing exploration set
+## 7.bis v2 research plan — how the §7 gaps actually get closed
+
+Per the steward direction in §1.3.bis Pushback 5 (*"We need research and data. You are excellent at this. We need a plan on making this section happen as part of v2 of this riff"*). This section operationalizes each §7 gap as a concrete work item.
+
+### Work item R1 — Reference-class engagement
+
+**Scope.** Take each of the five reference-class examples named in §2.3 (Haudenosaunee, Achaemenid, HRE, US Constitution, EU) from *cited stub* to *first-pass treatment of what the case teaches about coordination architecture for plural groups*. Each treatment is 400–800 words and answers: what was the coordination problem; what was the structural answer; what failure modes did the answer have; what does the case suggest about the reframe's load-bearing claims.
+
+**Sources to pull.**
+
+- *Haudenosaunee.* Bruce Johansen, *Forgotten Founders* (1982); Donald Grinde and Johansen, *Exemplar of Liberty* (1991); Tehanetorens (Ray Fadden), *Roots of the Iroquois* (1968); Barbara Mann, *Iroquoian Women* (2000). Live institutional source: the Onondaga Nation's own materials on the Great Law of Peace, with awareness that current Haudenosaunee scholars (e.g., Susan Hill, Audra Simpson) have written critically about how non-Indigenous use of Great Law materials can itself be a metabolization failure — relevant to §3.1.
+- *Achaemenid Persia.* Pierre Briant, *From Cyrus to Alexander* (2002, English translation); Amélie Kuhrt, *The Persian Empire* (2007); Lindsay Allen, *The Persian Empire* (2005). Primary administrative texts via Kuhrt's translation collections.
+- *Holy Roman Empire.* Peter Wilson, *Heart of Europe: A History of the Holy Roman Empire* (2016); Joachim Whaley, *Germany and the Holy Roman Empire* (2 vols, 2012); for the procedural-institution view specifically, Barbara Stollberg-Rilinger, *The Emperor's Old Clothes* (2008, English 2015).
+- *US Constitution.* Jack Rakove, *Original Meanings* (1996); Akhil Reed Amar, *America's Constitution* (2005); Pauline Maier, *Ratification* (2010); for the *constitution-as-arena* angle the synthesis emphasized, Robert Cover, *Nomos and Narrative* (1983) and Sanford Levinson, *Constitutional Faith* (1988).
+- *European Union.* Andrew Moravcsik, *The Choice for Europe* (1998); Vivien Schmidt, *Democracy in Europe* (2006); Kalypso Nicolaidis and Robert Howse (eds.), *The Federal Vision* (2001); for current stress, Jan-Werner Müller, *Democracy Rules* (2021) and Anu Bradford, *The Brussels Effect* (2020).
+
+**Method.** Web research first to verify scholarship is current and to surface anything more recent or more critical; primary scholarship retrieval via library/archive access for direct engagement; produce a 400–800 word treatment per case; produce a synthesis table of *what survives across cases* and *what is specific to each*.
+
+**Effort.** 6–10 agent-hours across the five cases. Can be parallelized into a single extended research session.
+
+**Output form.** Either §2.3 of v2 of this riff (long form) or a sibling artifact in `sources/` if the treatments are long enough to warrant standalone source digests. Steward to decide based on the v2 draft length.
+
+### Work item R2 — Named-thinkers engagement
+
+**Scope.** Take the synthesis's nine cited thinkers (Habermas, Rawls, Foucault, Asad, Haraway, Latour, Mills, Cover, Madison) plus the four §11.4 *missing* thinkers (Ostrom, Sen/Nussbaum, Mouffe, Graeber/Wengrow) and produce, for each, a 100–200 word note answering: what they argue that bears on the reframe; how their argument supports or complicates the coordination-architecture framing; what specific work of theirs the project should cite if it adopts the reframe.
+
+**Sources to pull.** Each thinker's most-cited single work on the relevant topic; the *Stanford Encyclopedia of Philosophy* entry where available; one current secondary engagement that's no older than ~5 years. Web research for the secondary engagements.
+
+**Effort.** 4–6 agent-hours total (13 thinkers × ~20–30 min each).
+
+**Output form.** Appendix to v2 of this riff, or a sibling artifact under `sources/named-thinkers-coordination-architecture.md`.
+
+### Work item R3 — Political-trajectory sourcing (the §3.5 fix from §1.3.bis Pushback 4)
+
+**Scope.** Move the tyranny-or-collapse stake from *steward-asserted condition the project responds to* to *empirically-sourced description of conditions the project responds to*, with named indicators, named scholarship, and a method for distinguishing degradation from reasonable fear. This is the most epistemically sensitive piece of v2 because the underlying claim is contested and the agent has to avoid both *false confidence in degradation* (sycophancy) and *false confidence in stability* (anti-sycophancy as a different sycophancy).
+
+**Sources to pull.**
+
+- *Indicators.* V-Dem Institute's *Varieties of Democracy* annual report (2025 most recent); Freedom House *Freedom in the World 2025*; Bright Line Watch's expert survey results; Economist Intelligence Unit *Democracy Index 2024*. The honest agent move is to read what each says about the current US trajectory and report the convergence and divergence across them, not to pick the most alarming or the most reassuring.
+- *Scholarship.* Steven Levitsky and Daniel Ziblatt, *How Democracies Die* (2018) and *Tyranny of the Minority* (2023); Anne Applebaum, *Twilight of Democracy* (2020); Adam Przeworski, *Crises of Democracy* (2019); Pippa Norris and Ronald Inglehart, *Cultural Backlash* (2019). For methodological discipline, Milan Svolik, *The Politics of Authoritarian Rule* (2012) on how to actually measure backsliding.
+- *Contemporary US-specific.* Larry Diamond and Edward Foley work on US institutional stress; Jack Goldsmith and Bob Bauer on executive-branch capture risks; the Brennan Center's institutional analysis. Plus contrarian sources: scholars who argue the backsliding narrative overstates (Andrew O'Donohue, Yascha Mounk's more recent qualifications, etc.) so the riff's eventual treatment is calibrated rather than confirmation-biased.
+
+**Method.** Pull indicator data first to get a current empirical picture; then engage scholarship to interpret the data; then explicitly include the contrarian read; produce a 600–1000 word §3.5 replacement that names the indicators, the convergence/divergence across them, the scholarly interpretation, and the honest residual uncertainty. The §3.5 replacement should make a *calibrated empirical claim* rather than asserting a probability with no underlying work.
+
+**Effort.** 4–6 agent-hours for the data and scholarship pull; 2 agent-hours for the §3.5 replacement draft.
+
+**Output form.** Replaces the current §3.5 in v2 of this riff. Also probably a sibling source digest at `sources/source-democratic-backsliding-indicators-2026.md` so the underlying research is preserved for future use beyond just this riff.
+
+### Work item R4 — Coherence check of the reframe against PRINCIPLES.md and PROBLEM_MAP.md
+
+**Scope.** Verify the §5.1 claim that *"the 17 principles probably all survive, re-read as coordination primitives"* and the related claim that the problem map mostly survives with shifted framing. Method: read each principle and each problem-map domain, write a one-sentence note on whether and how it re-reads as a coordination primitive vs. a substantive commitment, flag the ones that do not re-read cleanly.
+
+**Effort.** 3–5 agent-hours.
+
+**Output form.** Appendix to v2 of this riff; if the appendix surfaces principles that don't survive cleanly, those flagged principles become candidate Path β testable claims (per Work item C1 below).
+
+### Work item R5 — Disability Justice engagement at the depth that addresses the reciprocity riff's standing OQ#7
+
+**Scope.** The reciprocity riff has a standing OQ#7 about how the project engages Disability Justice scholarship at the same depth it engaged Kimmerer. Under the upstream-framing in §6.2, this isn't a separate work item — it's part of *does the coordination architecture make space for Disability Justice participants without requiring them to adopt other traditions' frames?* The v2 of this riff should at minimum: cite Mia Mingus, Patty Berne, Talila A. Lewis, Sins Invalid, Leah Lakshmi Piepzna-Samarasinha; engage Sins Invalid's *Skin, Tooth, and Bone* (2019) and Piepzna-Samarasinha's *Care Work* (2018); name what coordination architecture has to do for Disability Justice-grounded participants (anti-cure assumptions, anti-individualism, crip time, mutual-aid-as-architecture) to recognize themselves in it.
+
+**Effort.** 3–5 agent-hours for first-pass engagement; depth-equal-to-Kimmerer-engagement would take more, and probably wants a sibling exploration when the steward has capacity.
+
+**Output form.** Section in v2 of this riff plus a stub for the deeper exploration the reciprocity riff's OQ#7 anticipates.
+
+### Sequencing
+
+R1, R2, R3, R5 can run in parallel (different source bases). R4 should run after R1–R3 so the coherence check has the strengthened reference class and named-thinker context to work with. Total v2 research cycle: a single weekend-equivalent of focused work, plus the Work item C1 (testable-claims draft) below.
+
+---
+
+## 7.ter Path β testable-claims draft plan
+
+Per §1.3.bis Pushback 7 (*"Do we need the research and data first or can you do this at the same time in V2 of this riff?"*) — *in parallel*. This section sketches what the Path β testable claims would actually be, so the v2 research and the claims drafting can run in the same cycle.
+
+### Work item C1 — The 3–5 testable claims for Path β adversarial review
+
+Candidate claims, each phrased so a v2 of the claim could either survive or be falsified under adversarial review:
+
+1. **Coordination primitives claim.** *The project's 17 principles, re-read as coordination primitives rather than substantive commitments, retain coherence across at least three of the six abundance frames (per reciprocity riff §3.7), including the gift-economy and Land Back frames whose adopters might reject the principles as substantive commitments.* — Testable because the coherence check (R4) produces named exceptions if there are any; adversarial review can challenge whether the surviving principles actually function as coordination primitives or whether the project is just re-labeling.
+2. **Diffuse-sovereignty layer claim.** *The reframe coherently identifies at least five layers of contemporary diffuse sovereignty (state-electoral, platform-governance, corporate-accountability, financial-infrastructure, AI-systems) where coordination architecture analysis produces useful first-pass results.* — Testable because R1 + R2 + the §8 adjacent-projects mapping produce the first-pass results; adversarial review can challenge whether the analysis is genuinely useful or whether the layers collapse into each other.
+3. **Metabolization-as-failure-mode claim.** *The metabolization diagnostic from §3.1 (what becomes structurally binding after encounter?) operationalizes into a protocol that, when applied to existing project artifacts, produces non-trivial signal — i.e., flags at least one place where the project has absorbed critique without changing anything load-bearing.* — Testable via §10 OQ#7 (drafting the protocol) and applying it to the reciprocity riff itself as the test case.
+4. **Procedural-legitimacy-under-deconstruction claim.** *The §3.4 framing — that procedural legitimacy is under active deconstruction — implies the project must articulate at least one non-procedural source of legitimacy the coordination architecture can fall back on (e.g., consent-of-the-coordinated, observable benefit, reciprocity-of-cost), or accept that the architecture's legitimacy is contingent on a precondition currently degrading.* — Testable because R3's political-trajectory work either substantiates the degradation or moderates it, and the claim's force is calibrated accordingly.
+5. **Sequencing-inversion claim.** *The reciprocity riff's open questions (OQ#1, OQ#5, OQ#11, OQ#13) re-shape coherently when re-asked in coordination-architecture terms, such that the re-asked versions are tractable inputs to this riff's eventual doctrine rather than independent open threads.* — Testable by actually performing the re-asking in v2 of this riff and checking whether the re-asked questions admit answers the reciprocity riff's original framing did not.
+
+**Why exactly five.** §4.2 had named "3–5" as the target. Five is on the upper end and the steward may want to cut to 3 if the load is too high. The five chosen here are roughly: one structural (1), one scope (2), one operational (3), one external-condition (4), one sequencing (5).
+
+**Effort.** 2–4 agent-hours for the first-pass adversarial counter-claims, parallel with the R1–R5 research.
+
+**Output form.** Becomes a new exchange under `agent/exchanges/coordination-architecture-reframe-exchange.md` (or similar) once v2 is steward-approved. The exchange follows the project's existing [adversarial-review protocol](../process/adversarial-review-protocol.md).
+
+---
+
+## 8. Adjacent coordination projects — mapping plan
+
+Per §1.3.bis Pushback 9. The reframe implies the project is *one node in a constellation* of coordination work, but v1 named no specific other nodes. This section is the methodology for finding them, not the mapping itself — the mapping is a v2 deliverable.
+
+### 8.1 Mapping methodology
+
+**Step 1 — define the canvassing surface.** For each of the diffuse-sovereignty layers named in §3.3, canvass for projects that explicitly frame themselves as *coordination across plural participants* rather than as *one tradition's program for civic reform*. The layers (revisable):
+
+- State-electoral layer
+- Platform-governance and digital-public-infrastructure layer
+- Corporate-accountability and ownership-architecture layer
+- Financial-infrastructure and monetary-experimentation layer
+- AI-systems-governance layer
+- Commons-and-mutual-aid layer
+- Transnational and supply-chain layer
+
+**Step 2 — source canvassing.** For each layer, pull from:
+
+- Established networks (e.g., for state-electoral: NPI, Run for Something, ProgressNow; for platform-governance: Center for Humane Technology, Open Markets Institute, Berkman Klein; for AI governance: Partnership on AI, Centre for the Governance of AI, AI Now Institute; for commons: P2P Foundation, Schumacher Center, Commoning Network).
+- Recent academic work that surveys the field at each layer (the *Annual Review*-type articles, recent edited volumes).
+- Recent journalism that names projects working on the problem (long-form pieces in *Logic*, *Wired*'s policy coverage, *Tech Policy Press*, *Knight First Amendment Institute*'s outputs, *Roosevelt Institute*).
+- Web search with structured queries — *"coordination platform"*, *"polycentric governance project"*, *"plural sovereignty initiative"*, *"civic protocol"*, *"democratic infrastructure organization"* — at each layer.
+
+**Step 3 — triage rubric.** For each project surfaced, classify as:
+
+- **Adjacent** — explicitly working on coordination-architecture-shaped problems at this layer; the project's reframe is directly relevant; relationship worth establishing.
+- **Parallel** — working on the same layer but from a different framing (e.g., a *blueprint* framing for civic reform rather than a coordination-architecture framing); the project should know about them but the relationship is collegial rather than collaborative.
+- **Unrelated** — working at this layer on a problem this riff's reframe doesn't speak to.
+- **Upstream/foundational** — a project whose outputs the coordination-architecture work depends on (e.g., a standards body whose protocol the project would build on).
+- **Already-cited** — projects the existing corpus already references (Chance's Multi-Agent Coordination Framework would land here once the §6.2 upstream-framing is settled).
+
+**Step 4 — surface form.** A short table per layer (5–10 rows), included in v2 of this riff as a new §11.6 or as a sibling artifact under `agent/explorations/adjacent-coordination-projects-mapping.md` depending on length.
+
+### 8.2 What the mapping is *not* trying to do
+
+- It is not trying to enroll any of these projects in Project 2028. It is trying to give the project an honest picture of where it sits.
+- It is not trying to assert the project is the only one doing coordination-architecture work — the working hypothesis is the opposite (the project is one node, possibly not even the most established one at any given layer).
+- It is not a roadmap for outreach. Outreach to any specific project is a separate decision the steward makes after seeing the mapping.
+- It is not adversarial intelligence-gathering. The relationships, if any, are intended to be straightforward and disclosed.
+
+### 8.3 First candidates (named here so the v2 mapping has a starting point, not exhaustively analyzed)
+
+- **State-electoral layer.** Run for Something, Common Cause, FairVote, Protect Democracy, the State Democracy Defenders Action, Public Wise.
+- **Platform-governance layer.** Project Liberty (and the DSNP protocol), Bluesky's AT Protocol governance, Center for Humane Technology, Open Markets Institute.
+- **Corporate-accountability and ownership layer.** Democracy Collaborative, Aspen Institute's Business and Society Program, B Lab, the cooperative economy networks (US Federation of Worker Cooperatives, Cooperative Development Foundation).
+- **Financial-infrastructure layer.** Modern Money Network, Roosevelt Institute, certain crypto-governance projects (with discrimination — most are not adjacent, but specific protocol-governance projects are).
+- **AI-systems-governance layer.** Partnership on AI, Centre for the Governance of AI (Oxford), AI Now Institute, the Collective Intelligence Project, Chance's [Multi-Agent Coordination Framework](https://github.com/chancestarseeker/multi-agent-coordination-framework).
+- **Commons-and-mutual-aid layer.** P2P Foundation, Schumacher Center for a New Economics, Symbiosis (network of municipalist organizations), the cooperative platform movement.
+- **Transnational/supply-chain layer.** This layer is genuinely thin in known candidates; the v2 mapping should treat it as the layer requiring the most discovery work rather than the most analysis of known players.
+
+**Effort for v2.** 4–6 agent-hours for the canvassing pass; 1–2 hours for the triage and table production. The web research is the load-bearing part; the categorization is fast.
+
+**Output form.** §11.6 of v2 of this riff if the table fits, or a sibling artifact if it's long enough to warrant separation.
+
+---
+
+## 9. Cross-reference with the existing exploration set (formerly §8)
 
 This riff is the third in `agent/explorations/`. The relationship articulated in §6 above; brief summary here for the ROADMAP cross-reference:
 
@@ -391,45 +640,47 @@ The three are sibling artifacts, not parent-child. They will probably converge �
 
 ---
 
-## 9. Open questions for the next session
+## 10. Open questions for the next session (formerly §9, revised in v1.1)
 
-These are the decisions this riff is *not* making.
+These are the decisions this riff is *not* making. Several OQs from v1 have been resolved or restructured by the v1.1 changes; this list reflects the v1.1 state.
 
-1. **Which path — α, β, or γ, or a combination?** §4.4's provisional read is α now with explicit graduation criteria for β within 4–8 weeks, γ deferred. The steward may want to move faster.
-2. **What are the 3–5 testable claims for Path β?** §4.2 sketches four candidates; the eventual exchange would need to pick which ones to test and in what order.
-3. **Does this riff change the sequencing of the reciprocity riff's OQs?** Specifically: does the abundance disambiguation (reciprocity OQ#13) still need a dedicated exchange, or does it fold into a coordination-architecture treatment? Does the absolute-language audit (reciprocity OQ#11) become more urgent because the reframe makes register discipline more load-bearing?
-4. **Does this riff change the sequencing of the Phase 3 Front Door brief?** §6.1 named the new gating question (*what is Phase 3 the front door of?*). The Phase 3 brief was already deferred; does this push it further, or does the reframe actually make a Phase 3 brief more tractable (because the front door now has clearer scope)?
-5. **What is the right artifact for engaging the reference-class examples (§2.3) at depth?** A source digest series? A dedicated exchange? Part of the eventual doctrine document? Per the standing project preference for *source digests as inputs to exchanges*, probably the first.
-6. **How does the riff carry the tyranny-or-collapse stake (§3.5) without losing the analytical posture?** This is a real tension. The reframe is most useful if its stakes are concrete; the project's posture is most credible if it stays measured. The two pull in different directions and the riff has not resolved them.
-7. **What does the metabolization check (§5.2) actually look like as a protocol?** This is the most immediately operationalizable piece of the reframe and could be drafted as a standalone protocol independent of the larger reframe debate.
-8. **Are there other coordination projects already doing adjacent work that the project should be in honest relationship with rather than parallel to?** The reframe implies the project is *one node in a constellation* (per §5.2). The riff has not named any specific other nodes. A small mapping pass would help.
+1. **Which path — α, β, or γ, or a combination?** *(Updated in v1.1.)* §4.4's revised provisional read is **Path β next, in a single working session or small number of sessions over days, not weeks**, with γ following only if the v2 of the testable claims survives adversarial review. Path α is the fallback if Path β surfaces a reason the reframe should not be tested formally yet. The steward should confirm or override this.
+2. **The 3–5 testable claims for Path β are now drafted in §7.ter as candidate claims C1.1–C1.5.** *(Restructured in v1.1: this is no longer an open question; it is a v2 deliverable. The remaining question is whether the steward wants to keep all five claims or cut to three.)*
+3. **Sequencing of the reciprocity riff's OQs is now settled in §6.2: this riff is upstream.** *(Restructured in v1.1 per steward Pushback 8.)* The reciprocity riff's OQ#1, OQ#5, OQ#11, OQ#13 are re-asked in coordination-architecture terms in v2 rather than answered in their original framing. The remaining question is whether any reciprocity-riff OQs do *not* re-shape cleanly under the upstream-framing and therefore need to be answered on their original terms (the §7.bis Work item C1 claim 5 tests exactly this).
+4. **Does this riff change the sequencing of the Phase 3 Front Door brief?** §6.1 named the new gating question (*what is Phase 3 the front door of?*). The Phase 3 brief was already deferred; under the v1.1 upstream-framing of the reciprocity riff, the Phase 3 brief is now downstream of *this* riff settling rather than downstream of the reciprocity riff settling. The Phase 3 brief should wait for Path β survival, then be re-drafted under whatever the coordination-architecture framing implies for the front door's scope (probably: expanded to diffuse-sovereignty layers per §3.3).
+5. **What is the right artifact for engaging the reference-class examples (§2.3) at depth?** *(Updated in v1.1 with concrete proposal.)* §7.bis Work item R1 specifies: 400–800 word treatments per case, either as §2.3 of v2 of this riff (if length permits) or as a source-digest series under `sources/source-coordination-architecture-reference-class-<case>.md`. Steward to decide based on v2 draft length.
+6. **How does the riff carry the tyranny-or-collapse stake (§3.5) without losing the analytical posture?** *(Updated in v1.1 with concrete plan.)* §7.bis Work item R3 specifies: indicator-based sourcing (V-Dem, Freedom House, Bright Line Watch), scholarly engagement (Levitsky/Ziblatt, Applebaum, Przeworski, Norris/Inglehart), explicit inclusion of contrarian reads, calibrated empirical claim rather than asserted probability. The remaining question is *how much weight the calibrated claim, once produced, can bear in the reframe's argument structure* — too little weight and the reframe loses its stake-naming; too much weight and the reframe becomes hostage to a contested empirical question. v1.1 read: aim for *naming the conditions the project is responding to* rather than *asserting how bad they are*.
+7. **What does the metabolization check (§3.1, §5.2) actually look like as a protocol?** Still open as the most immediately operationalizable piece. §7.bis Work item C1 claim 3 tests it by applying it to the reciprocity riff itself; a first draft of the protocol is a candidate v2 deliverable independent of the larger reframe debate.
+8. **Are there other coordination projects already doing adjacent work?** *(Restructured in v1.1 per steward Pushback 9.)* §8 now provides the mapping methodology and a first-pass list of candidate projects across seven layers. The remaining question is the actual mapping (a v2 deliverable per §8.1).
+9. **Is `civicblueprint.org` going to be usable after the reframe? Do we need a new URL for the front door?** *(New in v1.1 per steward Pushback 2.)* First-pass agent read: the URL is fine — *blueprint* in the dictionary sense covers both *plan-of-the-building* (the framing the project is moving away from) and *agreed reference for coordinated work* (the framing the reframe moves toward). The *site content* (homepage copy, project description, language about what the project is) needs revisiting if the reframe lands. A URL change is a much larger move with knock-on effects on inbound links, search indexing, the practitioner outreach already conducted under the current URL, and the project's already-published artifacts at `docs/HOMEPAGE_COPY_DRAFT.md` / `docs/HOMEPAGE_COPY_DRAFT_PHASE_2.md` in the civicblueprint.org repo. Probably not justified unless the reframe lands at Path γ *and* the brand itself becomes a bottleneck — which is a downstream question of the website's [Phase 3 brief](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/WEBSITE_PHASE_2_BRIEF.md) and the [Phase 3 Front Door Riff](phase-3-front-door-riff.md) rather than this riff. Recommendation: keep the URL; plan to rewrite the homepage copy in coordination with Phase 3.
 
-Until at least OQ#1 settles, the riff stays in Path α — informing the steward's thinking without driving formal changes to the corpus.
+Until at least OQ#1 settles (Path β confirmed and the v2 cycle scheduled), the riff stays in Path α — informing the steward's thinking without driving formal changes to the corpus.
 
 ---
 
-## 10. Cross-references and provenance
+## 11. Cross-references and provenance (formerly §10)
 
-### 10.1 Originating documents
+### 11.1 Originating documents
 
 - Steward-authored prompt sent to an external AI agent, May 21, 2026 (mid-day CT), preserved in summary in §1.1 above. The full prompt was developed in conversation with this session's agent on May 20 evening; the steward sent it as their own.
 - AI-assisted synthesis returned to the steward from the external session, May 21, 2026 (afternoon CT). Preserved in load-bearing excerpts in §1.2 above. Full synthesis is in the conversation history.
 - Steward reactions to the synthesis on returning, May 21 evening CT and May 26 mid-afternoon CT. Preserved verbatim in §1.3 above. Observation A (sycophancy retrospective), Observation B (old problem, new conditions), and Observation C (register check) are the load-bearing pieces.
 - Timeline correction, May 26, 2026: project started mid-April 2026, not earlier. Affects §1.6 and §2.4 throughout.
+- **Steward inline pushback on the v1 draft, May 26, 2026 evening CT.** Eight pieces of feedback, six load-bearing, preserved verbatim in §1.3.bis. Drove the v1.1 changes to §2.3 (Pushback 1 — agent capability discount), §3.3 (same), §3.5 (Pushback 4 — unsubstantiated political claim), §4.4 (Pushback 6 — timeframes), §6.2 (Pushback 8 — sequencing inversion, the most load-bearing change), §7.bis (Pushback 5 — research plan request and Pushback 7 — parallel research + claims drafting), §8 (Pushback 9 — adjacent-projects mapping plan), and new OQ#9 in §10 (Pushback 2 — civicblueprint.org URL question).
 
-### 10.2 Core normative documents the riff stands on
+### 11.2 Core normative documents the riff stands on
 
 - [PRINCIPLES.md](../../PRINCIPLES.md) — the entire document is implicitly under reframe consideration; the preamble and §5 are most directly affected.
 - [PROBLEM_MAP.md](../../PROBLEM_MAP.md) — the framing question is under reframe consideration (*systemic failures* vs. *coordination failures*).
 - [FOUNDATIONAL_COMMITMENTS.md](../../FOUNDATIONAL_COMMITMENTS.md) — affected indirectly; the relationship between Foundational Commitments and a doctrine document on coordination architecture would have to be worked out as part of Path γ.
 - [`agent/doctrine/_DOCTRINE_INDEX.md`](../doctrine/_DOCTRINE_INDEX.md) — the criteria for doctrine adoption are the framework this riff would have to meet for Path γ.
 
-### 10.3 Sibling explorations
+### 11.3 Sibling explorations
 
 - [Phase 3 Front Door Riff](phase-3-front-door-riff.md) — relationship articulated in §6.1.
 - [Reciprocity and Decolonial Frame Riff](reciprocity-and-decolonial-frame-riff.md) — relationship articulated in §6.2.
 
-### 10.4 External sources and traditions the riff stands on (cited, not engaged in depth)
+### 11.4 External sources and traditions the riff stands on (cited, not engaged in depth)
 
 - James C. Scott, *Seeing Like a State* (1998) — the legibility-pressure argument in §3.2.
 - The U.S. Constitution and its scholarly literature — the procedural-architecture model in §2.3 and the synthesis's central case.
@@ -440,20 +691,22 @@ Until at least OQ#1 settles, the riff stays in Path α — informing the steward
 - Thinkers cited in the synthesis but not engaged in this riff: Jürgen Habermas (discourse ethics), John Rawls (overlapping consensus), Michel Foucault (power/knowledge), Talal Asad (critique of liberal secular assumptions), Donna Haraway (situated knowledge), Bruno Latour (actor-network theory), Charles Mills (*The Racial Contract*), Robert Cover (constitutions as meaning-generating systems), James Madison (faction as permanent political condition). Each is named here so a future engagement can find them; none is engaged in this draft.
 - Additional thinkers the riff would name as missing from the synthesis: Elinor Ostrom (polycentric governance, governing the commons), Amartya Sen and Martha Nussbaum (capabilities approach), Chantal Mouffe (agonistic pluralism), David Graeber and David Wengrow (*The Dawn of Everything*).
 
-### 10.5 Authoring guard compliance
+### 11.5 Authoring guard compliance
 
 This riff cites PRINCIPLES.md and PROBLEM_MAP.md generically (preamble, §5, framing) without quoting specific section titles, because the reframe is about the *register* of those documents rather than about claims they make in specific sections. This is consistent with the [authoring guard](../../sources/README.md#authoring-guard--quote-actual-section-titles-from-core-normative-documents): the guard prohibits *invented section titles*, not *generic reference to a document's structural elements*. If Path β or Path γ produces text that makes specific claims about specific sections, those claims will need to quote the actual section titles verbatim per the guard.
 
 ---
 
-## 11. Closing posture
+## 12. Closing posture (formerly §11)
 
 This riff captures a candidate reframe of what Project 2028 actually is, prompted by external philosophical reflection the steward did with another AI agent and brought back. The reframe is *blueprint → coordination architecture for pluralistic societies under accelerating complexity*.
 
 The riff does not commit the project to the reframe. It commits the project to *holding the reframe long enough to test whether it's true*.
 
-What's at stake: the steward named in §3.5 the concrete possibility of tyranny and collapse in the political environment the project is operating inside. If that read is right, the project's reframe-or-not question is not just a question about how the project describes itself — it's a question about whether the project is doing work that's actually responsive to the conditions it claims to address. A blueprint for civic systems in conditions of stable democracy is a different artifact than a coordination architecture for plural groups under accelerating systemic stress. The latter is the work that matches the stake the steward named.
+What's at stake: the steward named the concrete possibility of tyranny and collapse in the political environment the project is operating inside. The agent's v1 draft asserted this as an independent finding it had not done the work to substantiate; the v1.1 §3.5 corrects this, treating the stake as the steward's authoritative naming of the conditions the project is responding to, with the empirical substantiation moved to a named v2 deliverable. Either way, if that read is right, the project's reframe-or-not question is not just a question about how the project describes itself — it's a question about whether the project is doing work that's actually responsive to the conditions it claims to address. A blueprint for civic systems in conditions of stable democracy is a different artifact than a coordination architecture for plural groups under accelerating systemic stress. The latter is the work that matches the stake the steward named.
 
-The riff stays in this directory as the historical record of how the project came to take whatever frame it eventually takes. If the reframe ends up at doctrine, this riff is the first structured articulation of it. If the reframe doesn't survive testing, this riff is the record of why it didn't.
+**The v1.1 shift in posture.** v1 of this riff was written as a careful first articulation that defaulted to *4–8 week timeframes*, *0.65 confidence calibrations on contested empirical claims*, and a *sibling-to-the-reciprocity-riff* sequencing that left the project with two parallel frame-level questions to answer. The steward's pushback identified each of these as artifacts of agent habits that did not match the actual working conditions: steward + agent can do real work in hours-to-days; confidence numbers without underlying research are not evidence; and the reciprocity riff's questions are downstream of this one, not alongside it. v1.1 corrects these. The riff is now positioned to move to Path β in the next working session — drafting the 3–5 testable claims from §7.ter in parallel with the v2 research plan from §7.bis — rather than waiting weeks.
+
+The riff stays in this directory as the historical record of how the project came to take whatever frame it eventually takes. If the reframe ends up at doctrine, this riff is the first structured articulation of it. If the reframe doesn't survive testing, this riff is the record of why it didn't. The v1 and v1.1 versions are both preserved (v1 is recoverable from git history; v1.1 is the working version) because the iteration itself is informative — it shows what the agent's defaults were and which of them the steward had to correct.
 
 Either way, the reframe has been preserved — and preserved at the register the steward asked for, not the register the synthesis arrived in.
