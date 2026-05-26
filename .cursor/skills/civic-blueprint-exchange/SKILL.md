@@ -23,16 +23,34 @@ The file must open with a status block in this exact format:
 ```markdown
 # [Exchange Title]
 
-> **Status ([Month] [Year]):** [Active discussion | Complete exchange | Superseded by [link]]. [One sentence on what this file captures.]
+> **Status ([Month] [Year]):** [status value]. [One sentence on what this file captures.]
 >
 > **Why this exchange:** [2-3 sentences explaining what question prompted this exchange and why it matters now. Reference the specific prior exchange or document that raised the question.]
 ```
 
 The status block must:
+
 - Include the current month and year
-- State whether this is active, complete, or superseded
+- Use one of the status values from the vocabulary below — pick the narrowest accurate value
 - Explain *why this exchange is happening now* — what changed, what question was raised, what prior decision is being revisited
 - Link to the specific prior exchange or document that motivated it
+
+#### Status vocabulary
+
+The same value must appear in the exchange's entry in [`_EXCHANGE_INDEX.md`](agent/exchanges/_EXCHANGE_INDEX.md); the [Coherence Audit Protocol](agent/process/coherence-audit-protocol.md) §4 verifies that the two agree, and the [Adversarial Review Protocol](agent/process/adversarial-review-protocol.md) §3 epistemic-status table determines when a synthesis qualifies as `Adversarially-tested synthesis`.
+
+| Value | Meaning | Example |
+| --- | --- | --- |
+| `Active discussion` | The exchange is open and rounds may still be added; no synthesis pass has been performed. | Exchange #9 (Debt Legitimacy and Odious Debt) |
+| `Active; Round N complete; Rounds N+1–M reserved` | Multi-round exchange in progress with an explicit round plan. Use when later rounds are planned but reserved (e.g., reviewer round + response round + integration). | Exchange #23 (Principle 5 Revision) |
+| `Synthesized` | All planned rounds plus steward synthesis are complete; decisions recorded; substantive outputs carried into core documents, ROADMAP, or downstream exchanges. | Exchange #7 (Proof-of-Usefulness — Feedback Timescale Review), Exchange #8 (Voice Synthesis & Accessibility) |
+| `Adversarially-tested synthesis` | The synthesis has additionally been passed through the [Adversarial Review Protocol](agent/process/adversarial-review-protocol.md), with wins integrated into a v2 deliverable. Stronger than `Synthesized`. | Exchange #21 (Government Overreach / Ownership / Ratchet) |
+| `Complete exchange` | No further rounds are planned and findings are documented. Distinct from `Synthesized` when the exchange did not produce steward-actionable deliverables (e.g., a pure protocol-design exploration). | Exchange #4 (Principles Adversarial Review), Exchange #5 (Review Protocol Design Exploration) |
+| `Reopened` | The exchange was previously `Synthesized` or `Complete exchange` and has been opened again with a new round. Must name the round number that reopened it. | Exchange #17 (First Practitioner Critique — Round 6 added) |
+| `Superseded by [link]` | The exchange's central question or output has been replaced by a later exchange or document. The link is mandatory. | (None at time of writing) |
+| `Incorporated` | The exchange's recommendations have been fully absorbed into core documents and no follow-up tracking remains. Rare — most synthesized exchanges keep follow-up items in ROADMAP rather than disappearing. | Exchange #1 (Problem Map Review — Priority Follow-Up) |
+
+If none of these values fit, **do not invent a new one inline**. Talk with the steward about whether the corpus needs another status type, and update this skill plus `_EXCHANGE_INDEX.md` in the same change so the vocabulary and the corpus stay in sync.
 
 ### 2. Dependency declaration
 
@@ -57,7 +75,7 @@ After creating the exchange file, **immediately** update `agent/exchanges/_EXCHA
 | **Question** | [The central question this exchange addresses] |
 | **Depends on** | [Links to prior exchanges and documents] |
 | **Produced** | [What the exchange has produced so far — decisions, open questions, document changes] |
-| **Status** | [Active discussion | Complete exchange | Superseded] |
+| **Status** | [one value from the Status vocabulary in §1] |
 ```
 
 2. Update the "Dependency graph (visual summary)" ASCII diagram to include the new exchange and its dependency links.
