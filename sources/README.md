@@ -9,6 +9,8 @@ This directory contains **source digests**: curated reference documents that cap
 
 Source digests are **not exchanges**. They do not contain structured agent-steward discussion. They are permanent reference artifacts — analogous to retained formation documents in `external-formation-docs`, but for media, interviews, commentary, and other non-formation-document source material.
 
+The discipline by which digests are produced, verified, and indexed is the [Research Protocol](../agent/process/research-protocol.md) — specifically its T1 (programmatic sweep) and T2 (targeted gap-close) scope tiers. The Research Protocol's §4 verification pass is the prevention side of the [authoring guard](#authoring-guard--quote-actual-section-titles-from-core-normative-documents) failures the [April 2026 coherence audit](../agent/process/audits/coherence-audit-2026-04.md) surfaced.
+
 ## Purpose
 
 The project frequently encounters external analysis, commentary, and argument that intersects with its domains. Some of this material is rich enough to warrant systematic capture: the claims, the evidence cited, the rhetorical structure, and what independent sources say about the underlying assertions.

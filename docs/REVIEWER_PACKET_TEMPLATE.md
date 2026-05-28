@@ -278,6 +278,7 @@ Thank you for reading this far.
 - The [Adversarial Review Protocol](../agent/process/adversarial-review-protocol.md) runs inside the agent-steward exchanges.
 - The [Coherence Audit Protocol](../agent/process/coherence-audit-protocol.md) checks internal consistency.
 - The [Historical Parallel Test Protocol](../agent/process/historical-parallel-test-protocol.md) grounds proposals against historical cases.
+- The [Research Protocol](../agent/process/research-protocol.md) governs how evidence the reviewer encounters in the packet (and in the linked deliverable's research grounding) was sourced and verified, so a reviewer who wants to spot-check the evidence base can do so against a known discipline.
 - **This packet + the [Reviewer-as-a-Round Convention](REVIEWER_AS_A_ROUND_CONVENTION.md) are the external-human-reviewer instrument.** They exist because — per [Roadmap Thread E (archived)](../ROADMAP_ARCHIVE.md#thread-e--sources-vs-live-humans-resolved-as-e1e2-scoping) — the agent process is strong at source-mediated review and weak at dialogic negation, unknown-unknowns, tacit practice, and legitimacy. This instrument targets those specific gaps.
 
 ## First use
