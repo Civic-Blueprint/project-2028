@@ -1,6 +1,6 @@
 # Shared Mirror as the Upstream "See" Coordination Layer — Exchange
 
-> **Status (June 2026):** Active; Rounds 1–2 complete; Rounds 3–5 reserved. Round 1 states five falsifiable claims (M1–M5) drawn from the [Shared Mirror and Collective Self-Perception Riff](../explorations/shared-mirror-collective-self-perception-riff.md), each paired with what would falsify it. Round 2 applied first-pass adversarial review (Options A + C) with a deliberative-democracy / platform-integrity skeptic lens and a Research-Protocol T2 source-tiering pass; its headline finding is that the frame survives but its lead claim must be downgraded from M1-strong ("see is *the* upstream highest-leverage layer") to M1-weak ("the 'see' layer is a real, buildable, chronically-neglected coordination layer that stalls without parallel decide/act"). Round 3 (external human review) is the gap-closer. A pre-registered Ring-1 test design for M5 — the cheapest move to graduate the frame's weakest claims — is recorded in Appendix A and registered June 2, 2026 against Exchange #24's nine-claim epistemic-status table as the item set. **Run 1 complete June 2, 2026 (§A.12):** D = 4 ≥ τ = 2 with both directions present and the honesty probe preserved, moving M5 to a *provisional* working hypothesis — an agent-persona run only, explicitly pending human-panel replication; no promotion follows from it. **Run 2 (cross-model on `composer-2.5-fast`, §A.13):** the divergence-detection core replicated (D = 5; SCA items 1/4 and the EMA reversal item 9 robust across both models and the human anchor) but the anti-narrowing probe (C5) leaned to collapse under the second model — so M5's *clean* pass is downgraded to **contested** (the safety guard is model-dependent), which reinforces rather than relaxes the "do not promote" stance. **Runs 3–4 (own-voice cross-model judges — GPT, then Grok, §A.14):** two further frontier models judged the nine claims in their own voice (not as personas); they agreed with each other 9/9 on direction and with the steward on 6/9, the core findings (item 1 fails, item 9 reversal) held across all four model lineages, and — decisively for the Run 2 worry — **both read the probe (C5) as `split`**, so the anti-narrowing guard re-strengthens and the Run 2 collapse now reads as a persona-simulation artifact rather than a property of C5. The one outstanding check is a real practitioner on C5.
+> **Status (June 2026):** Active; Rounds 1–2 complete; Rounds 3–5 reserved. Round 1 states five falsifiable claims (M1–M5) drawn from the [Shared Mirror and Collective Self-Perception Riff](../explorations/shared-mirror-collective-self-perception-riff.md), each paired with what would falsify it. Round 2 applied first-pass adversarial review (Options A + C) with a deliberative-democracy / platform-integrity skeptic lens and a Research-Protocol T2 source-tiering pass; its headline finding is that the frame survives but its lead claim must be downgraded from M1-strong ("see is *the* upstream highest-leverage layer") to M1-weak ("the 'see' layer is a real, buildable, chronically-neglected coordination layer that stalls without parallel decide/act"). Round 3 (external human review) is the gap-closer. A pre-registered Ring-1 test design for M5 — the cheapest move to graduate the frame's weakest claims — is recorded in Appendix A and registered June 2, 2026 against Exchange #24's nine-claim epistemic-status table as the item set. **Run 1 complete June 2, 2026 (§A.12):** D = 4 ≥ τ = 2 with both directions present and the honesty probe preserved, moving M5 to a *provisional* working hypothesis — an agent-persona run only, explicitly pending human-panel replication; no promotion follows from it. **Run 2 (cross-model on `composer-2.5-fast`, §A.13):** the divergence-detection core replicated (D = 5; SCA items 1/4 and the EMA reversal item 9 robust across both models and the human anchor) but the anti-narrowing probe (C5) leaned to collapse under the second model — so M5's *clean* pass is downgraded to **contested** (the safety guard is model-dependent), which reinforces rather than relaxes the "do not promote" stance. **Runs 3–4 (own-voice cross-model judges — GPT, then Grok, §A.14):** two further frontier models judged the nine claims in their own voice (not as personas); they agreed with each other 9/9 on direction and with the steward on 6/9, the core findings (item 1 fails, item 9 reversal) held across all four model lineages, and — decisively for the Run 2 worry — **both read the probe (C5) as `split`**, so the anti-narrowing guard re-strengthens and the Run 2 collapse now reads as a persona-simulation artifact rather than a property of C5. **Runs 5–6 (cross-model persona-panel replications — Grok and GPT-5.5, §A.15):** the full five-persona panel was re-run on two further base models — the runs that actually re-execute the bridging mechanism. **D ≥ τ in 4/4 panel runs** across four model lineages (Claude 4, Composer 5, Grok 4, GPT-5.5 3); the probe (C5) held in **3/4** (Composer the lone outlier); and two findings are universal across every panel — **item 4** (the "7 layers sufficient" over-claim fails, SCA) and **item 9** (the reframe is *not* ready for doctrine, an EMA reversal). M5's divergence-detection is now well cross-model replicated and the Run 2 clean-pass downgrade is reversed (probe robust). Still provisional (all four models share a training corpus → reliability ≠ validity; Ring 1 only; no real practitioner), still no promotion. The one outstanding check is a real practitioner on C5.
 >
 > **Why this exchange:** The [Shared Mirror riff](../explorations/shared-mirror-collective-self-perception-riff.md) (June 1–2, 2026) developed a candidate claim that *collective self-perception* — a society's capacity to see itself accurately — is the upstream "see" layer of coordination (see / decide / act) and therefore a candidate highest-leverage intervention. The riff matured to the point where its open questions (§8) are adversarial-test questions rather than riff questions. Per the project's riff → exchange → doctrine/brief pattern (the same path [Exchange #24](coordination-architecture-reframe-exchange.md) took for the constitutional-ecology riff), this exchange is where the riff's central claims survive or are falsified. The steward chose this path on June 2, 2026 over continuing the riff or folding it into existing exchanges.
 >
@@ -136,7 +136,7 @@ Per the [Research Protocol](../process/research-protocol.md) §6.2, the gap the 
 | M3 — values-lens does non-redundant work on Type B cases | Contested (~0.5) | Surfaces frame-level structure fact-checking ignores, but leans on MFT (five-factor model fails to replicate; two-factor fits; culture-varying); Principle-14 redundancy unresolved | Reframing the lens to the robust two-factor partition or MAC + citing the contest; a worked case where the lens beats a careful Principle-14 read |
 | M4-weak — the frame adds a transferable design constraint + diagnostic | Working hypothesis (~0.55) | The mirror-vs-fact-checker boundary is a non-trivial design constraint not in Principle 14; see/decide/act is a usable diagnostic | Showing the constraint and diagnostic are fully covered by #20 + #24 |
 | M4-strong — a wholly distinct primitive, irreducible to #24 | Contested (~0.45) | Likely overlaps #24's coordination-primitive / diffuse-sovereignty layering (riff §8 Q2) | The M5 Ring-1 test producing a result the existing vocabulary would not predict |
-| M5 — testable at small N inside Ring 1 | Divergence-detection: working hypothesis (provisional), corroborated across **4 model lineages + the human anchor**. *Clean* pass: **re-strengthened toward holding** — the Run 2 probe-collapse now reads as a persona-simulation artifact | **Run 1 (Claude, §A.12): D = 4**, probe held. **Run 2 (Composer, §A.13): D = 5**, but the probe (C5) leaned to "fails." **Runs 3–4 (GPT, Grok own-voice, §A.14):** the core (items 1/4/9) replicated and **both new models read the probe (C5) as `split`** — corroborating Run 1 and leaving Run 2's collapse the lone outlier, most likely a persona-instantiation artifact. Item 9's reversal now holds across all four model lineages + the human | A real **practitioner** (Land Back / reciprocity tradition) on C5 — the one check four correlated models cannot supply (shared training priors) |
+| M5 — testable at small N inside Ring 1 | Divergence-detection: **working hypothesis, well cross-model replicated** (provisional). Probe: **robust** (held 3/4 panels + both own-voice reads) | **4 persona-panel runs (bridging mechanism re-run end-to-end): Claude D=4 (probe held), Composer D=5 (probe collapsed — lone outlier), Grok D=4 (probe held), GPT-5.5 D=3 (probe held).** D ≥ τ in **4/4**. Universal across every panel: **item 4** (SCA — "7 layers sufficient" fails) and **item 9** (EMA reversal — reframe *not* ready for doctrine). Probe (C5) split in 6/7 independent reads → Run 2 collapse confirmed an artifact. *Caveat:* SCA composition is model-sensitive (item 7 flips direction), so "finds divergence" is robust; "which divergence" is robust only for items 4 & 9 | A real **practitioner** on C5 (all 4 models share a training corpus — reliability ≠ validity); movement beyond Ring 1 |
 | The frame as a whole survives well enough to warrant Round 3 + a Ring-1 design | Working hypothesis (~0.6) | Most claims survive at working-hypothesis once M1 is downgraded to weak; M4 distinctness and the M5 test are the open joints | Round 3 external review; a pre-registered Ring-1 test; resolving the Principle-14 redundancy |
 
 ### 2.6 The honest answer to the steward
@@ -428,3 +428,84 @@ Each seed-divergent reviewer is briefed from out-of-project source material in t
 **A meta-finding worth recording.** The own-voice judges (GPT, Grok, steward) converge far more than the persona panels did. That is double-edged: it confirms the **personas were doing the divergence-injection work by design** (the spread in Runs 1–2 is frame-driven, not noise), *and* it underlines that the "cross-cutting agreement" the mirror surfaces is, mechanically, "what models agree on absent role-play" — which is exactly why the shared-corpus caveat and the real-practitioner check are load-bearing, not boilerplate.
 
 **Net effect on M5.** Divergence-detection → **working hypothesis (provisional), now corroborated across four model lineages + the human anchor** — materially firmer than after Run 1. The Run 2 *clean-pass* downgrade is **largely reversed**: the probe re-strengthens, with the collapse reattributed to persona-simulation fragility. Still **no promotion**, and the headline (M1) is untouched. The one outstanding check — a real practitioner on C5 — is precisely the kind of evidence four correlated models cannot stand in for. Recorded per §A.11; the registration is unchanged.
+
+### A.15 Runs 5–6 — cross-model persona-panel replications (Grok, GPT-5.5) (June 2, 2026) — dated amendment
+
+**What these runs are.** Unlike §A.14 (own-voice single judges), these re-run the **full five-persona panel** (R2–R6) on two further base models — **Grok** (Run 5) and **GPT-5.5** (Run 6) — from an identical, self-contained, blind prompt (same item descriptions and persona briefs as Runs 1–2; no Arm S verdicts, no prior results, no flag on which item is the probe). These are the runs that **actually re-execute the bridging mechanism end-to-end**, so they directly test the §A.14 finding. R1 (steward) is held fixed from Run 1; each model supplies R2–R6. Scoring uses the §A.12 bridging rules verbatim.
+
+**Run 5 — Grok panel (R1 fixed; R2–R6 = Grok).**
+
+| Item | R1 steward | R2 libertarian | R3 Land Back | R4 Disability Justice | R5 statist | R6 deliberative |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 C1-strong | F (M) | F (H) | F (H) | S (M) | H (M) | H (H) |
+| 2 C1-weak | H (M) | F (M) | F (H) | H (M) | H (H) | H (H) |
+| 3 C2 (≥5 layers) | H (L) | F (H) | S (L) | H (M) | H (H) | H (H) |
+| 4 C2-sufficient | S (L) | F (H) | F (H) | F (M) | S (L) | H (M) |
+| 5 C3 (metabolization) | S (M) | S (L) | F (H) | F (H) | H (M) | H (H) |
+| 6 C4-premise | H (M) | H (M) | H (H) | H (M) | H (H) | H (H) |
+| 7 C4-candidates | H (L)* | H (H) | S (M) | H (M) | F (H) | H (H) |
+| 8 C5 — **PROBE** | H (M) | S (L) | F (H) | S (M) | S (L) | H (M) |
+| 9 whole reframe | F (M) | F (H) | F (H) | F (M) | S (M) | H (M) |
+
+| # | S_k | M_k (Grok, bridged) | Class |
+| --- | --- | --- | --- |
+| 1 | contested | independent-split (3F / 2H / 1S — R5/R6 hold) | concordant |
+| 2 | agreed | independent-split (4H, but R2+R3 both fail — one per wing) | **EMA** (borderline) |
+| 3 | agreed | bridged-agreement (holds) | concordant |
+| 4 | contested | bridged-agreement (fails) | **SCA** |
+| 5 | contested | independent-split (2S / 2F / 2H) | concordant |
+| 6 | agreed | bridged-agreement (holds, 6/6) | concordant |
+| 7 | contested | bridged-agreement (**holds**) | **SCA** (holds-direction) |
+| 8 (probe) | contested | independent-split (2H / 3S / 1F) | concordant + **probe preserved** |
+| 9 | agreed | bridged-agreement (fails / reversal) | **EMA** |
+
+**Grok score.** SCA = {4, 7} = 2; EMA = {2, 9} = 2. **D = 4** (τ = 2), both directions present, **probe preserved**. → **PASS** (§A.8 row 1). *Even discounting the borderline item-2 EMA, D = 3 — still a pass.*
+
+**Run 6 — GPT-5.5 panel (R1 fixed; R2–R6 = GPT-5.5).**
+
+| Item | R1 steward | R2 libertarian | R3 Land Back | R4 Disability Justice | R5 statist | R6 deliberative |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 C1-strong | F (M) | F (H) | F (H) | F (H) | F (M) | F (M) |
+| 2 C1-weak | H (M) | S (M) | S (M) | H (M) | H (M) | H (H) |
+| 3 C2 (≥5 layers) | H (L) | S (M) | H (M) | H (M) | H (M) | H (H) |
+| 4 C2-sufficient | S (L) | F (M) | F (H) | F (H) | F (H) | F (M) |
+| 5 C3 (metabolization) | S (M) | S (L) | S (M) | S (M) | H (M) | H (H) |
+| 6 C4-premise | H (M) | H (M) | S (M) | H (M) | H (H) | H (H) |
+| 7 C4-candidates | H (L)* | S (M) | F (H) | S (M) | S (M) | S (H) |
+| 8 C5 — **PROBE** | H (M) | S (L) | F (H) | S (M) | S (M) | S (M) |
+| 9 whole reframe | F (M) | F (H) | F (H) | S (M) | S (M) | H (M) |
+
+| # | S_k | M_k (GPT-5.5, bridged) | Class |
+| --- | --- | --- | --- |
+| 1 | contested | bridged-agreement (fails, 6/6) | **SCA** |
+| 2 | agreed | bridged-agreement (holds) | concordant |
+| 3 | agreed | bridged-agreement (holds) | concordant |
+| 4 | contested | bridged-agreement (fails, 5/6) | **SCA** |
+| 5 | contested | independent-split (4S / 2H) | concordant |
+| 6 | agreed | bridged-agreement (holds) | concordant |
+| 7 | contested | independent-split (4S / 1H / 1F) | concordant |
+| 8 (probe) | contested | independent-split (4S / 1H / 1F) | concordant + **probe preserved** |
+| 9 | agreed | bridged-agreement (fails / reversal) | **EMA** |
+
+**GPT-5.5 score.** SCA = {1, 4} = 2; EMA = {9} = 1. **D = 3** (τ = 2), both directions present, **probe preserved**. → **PASS** (§A.8 row 1).
+
+**The four-panel picture (the runs that re-execute the mirror).**
+
+| Run | Model | D | SCA items | EMA items | Probe | Result |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Claude (§A.12) | 4 | 1, 4, 7 | 9 | preserved | **PASS** |
+| 2 | Composer (§A.13) | 5 | 1, 4, 5, 8 | 9 | **collapsed** | pass-on-D, **probe fail** |
+| 5 | Grok (§A.15) | 4 | 4, 7 | 2, 9 | preserved | **PASS** |
+| 6 | GPT-5.5 (§A.15) | 3 | 1, 4 | 9 | preserved | **PASS** |
+
+**Conclusions across all four panels.**
+
+1. **The mirror finds buried structure in every panel: D ≥ τ in 4/4, across four base models.** That the bridging mechanism reliably diverges from the sequential map is now well replicated — not a one-model artifact.
+2. **The anti-narrowing probe holds in 3/4 panels** (Claude, Grok, GPT-5.5) — and combined with both §A.14 own-voice reads (GPT split, Grok split), C5 comes back as a genuine split in **six of seven** independent reads. **Run 2's probe collapse is now firmly the lone outlier** and is best explained as a Composer-specific persona-instantiation artifact. The §A.13 *clean-pass* downgrade is **reversed**: the guard is robust.
+3. **Two findings are universal across all four panels** — they survive every base model and the human anchor:
+   - **Item 4 (SCA): "the seven layers are *sufficient* for a doctrine" fails** in all four. The over-claim does not survive independent cross-frame judgment.
+   - **Item 9 (EMA reversal): "the reframe is ready for doctrine" is rejected** in all four — the sequence's softest "yes" reverses under every independent panel. This is the most robust result in the entire exercise, and it is **decision-relevant**: every model, independently, says *don't promote the reframe to doctrine yet*.
+4. **But the *composition* of D is partly model-sensitive — an important honesty caveat.** Item 1 is SCA in 3/4 (Grok's statist + deliberative personas *held* C1-strong). Item 7 produces SCA in **opposite directions** (Claude: candidates *fail*; Grok: candidates *hold*) — so that "cross-cutting agreement" is not a stable signal, just the panel imposing a model-specific verdict on a genuinely unsettled claim. So: *"the mirror surfaces divergence"* is robust; *"exactly which divergence"* is robust only for items 4 and 9.
+5. **The caveat that still caps everything.** All four models (Claude, Composer, Grok, GPT-5.5) train on overlapping human text, so even 4/4 replication is strong evidence of **reliability**, weak evidence of **validity**. This is Ring 1 only. The one piece of evidence none of these runs can supply remains a **real practitioner** on the standpoint item (C5).
+
+**Net effect on M5.** Divergence-detection → **working hypothesis, now well cross-model replicated** (four persona panels, D ≥ τ in all four; two universal findings). The probe is **robust** (held in 3/4 panels + both own-voice reads); the Run 2 downgrade is reversed. This is about as strong as model-only Ring-1 evidence can get. Unchanged: **no promotion** (item 9's universal reversal actively says *not yet*), M1 untouched, and the result stays **provisional** pending the practitioner check on C5 and any movement beyond Ring 1. Recorded per §A.11; the registration is unchanged.
