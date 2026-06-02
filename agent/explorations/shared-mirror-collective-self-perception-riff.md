@@ -16,6 +16,8 @@ exploration_status: open
 > **Update — v1.2 (June 2, 2026):** Capture pass folding in chat insights that post-dated v1.1: the three-assumptions framing of see/decide/act, with an explicit decision to keep Assumptions 1 (decide) and 2 (act) live rather than discarded (§3.3); the lying-mirror and internet-irony motivations (§4); and a boundary subsection distinguishing the mirror from fact-checking, with the Type A/B typology and the moral-foundations palette (§4.5). New open questions §8.8–§8.9; the prior §3.3 reframe is renumbered §3.4.
 >
 > **Update — v1.3 (June 2, 2026):** §4.4 now pairs the timeless worked examples with seven verified, origin-balanced current anchor cases (W4 fact-checks; Research-Protocol T3 illustrative grounding with §4.1 self-verification). Open question §8.7 is updated to ask whether to promote them to T2 source digests.
+>
+> **Update — v1.4 (June 2, 2026):** This riff has graduated to an exchange. Its central content is restated as five falsifiable claims (M1–M5) under structured test in [Exchange #25 — Shared Mirror as the Upstream "See" Coordination Layer](../exchanges/shared-mirror-see-layer-exchange.md) (Rounds 1–2 complete; Rounds 3–5 reserved — Round 2's adversarial pass downgraded the lead claim from M1-strong to M1-weak, finding that the "see" layer stalls without parallel decide/act), framed as downstream of [Exchange #24](../exchanges/coordination-architecture-reframe-exchange.md) and a generalization of [Exchange #20](../exchanges/social-slop-information-integrity-exchange.md). The riff remains the idea-layer source of record; the §8 open questions are mapped to the M1–M5 claims in the exchange's Round 1.
 
 ---
 
