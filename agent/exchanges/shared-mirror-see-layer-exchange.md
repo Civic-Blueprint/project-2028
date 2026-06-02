@@ -1,6 +1,6 @@
 # Shared Mirror as the Upstream "See" Coordination Layer — Exchange
 
-> **Status (June 2026):** Active; Rounds 1–2 complete; Rounds 3–5 reserved. Round 1 states five falsifiable claims (M1–M5) drawn from the [Shared Mirror and Collective Self-Perception Riff](../explorations/shared-mirror-collective-self-perception-riff.md), each paired with what would falsify it. Round 2 applied first-pass adversarial review (Options A + C) with a deliberative-democracy / platform-integrity skeptic lens and a Research-Protocol T2 source-tiering pass; its headline finding is that the frame survives but its lead claim must be downgraded from M1-strong ("see is *the* upstream highest-leverage layer") to M1-weak ("the 'see' layer is a real, buildable, chronically-neglected coordination layer that stalls without parallel decide/act"). Round 3 (external human review) is the gap-closer. A pre-registered Ring-1 test design for M5 — the cheapest move to graduate the frame's weakest claims — is recorded in Appendix A (drafted June 2, 2026, not yet run).
+> **Status (June 2026):** Active; Rounds 1–2 complete; Rounds 3–5 reserved. Round 1 states five falsifiable claims (M1–M5) drawn from the [Shared Mirror and Collective Self-Perception Riff](../explorations/shared-mirror-collective-self-perception-riff.md), each paired with what would falsify it. Round 2 applied first-pass adversarial review (Options A + C) with a deliberative-democracy / platform-integrity skeptic lens and a Research-Protocol T2 source-tiering pass; its headline finding is that the frame survives but its lead claim must be downgraded from M1-strong ("see is *the* upstream highest-leverage layer") to M1-weak ("the 'see' layer is a real, buildable, chronically-neglected coordination layer that stalls without parallel decide/act"). Round 3 (external human review) is the gap-closer. A pre-registered Ring-1 test design for M5 — the cheapest move to graduate the frame's weakest claims — is recorded in Appendix A and registered June 2, 2026 against Exchange #24's nine-claim epistemic-status table as the item set (run pending).
 >
 > **Why this exchange:** The [Shared Mirror riff](../explorations/shared-mirror-collective-self-perception-riff.md) (June 1–2, 2026) developed a candidate claim that *collective self-perception* — a society's capacity to see itself accurately — is the upstream "see" layer of coordination (see / decide / act) and therefore a candidate highest-leverage intervention. The riff matured to the point where its open questions (§8) are adversarial-test questions rather than riff questions. Per the project's riff → exchange → doctrine/brief pattern (the same path [Exchange #24](coordination-architecture-reframe-exchange.md) took for the constitutional-ecology riff), this exchange is where the riff's central claims survive or are falsified. The steward chose this path on June 2, 2026 over continuing the riff or folding it into existing exchanges.
 >
@@ -162,7 +162,7 @@ Round 1 stated five falsifiable claims drawn from the shared-mirror riff; Round 
 
 As with [Exchange #24](coordination-architecture-reframe-exchange.md), Round 2 is *first-pass* — its confidence numbers are upper bounds, and Round 3 (external human review) is what closes the agent-self-coherence gap. The steward holds whether to (i) commission Round 3 plus a pre-registered Ring-1 test design, (ii) hold the frame here at Round 2, or (iii) revise M1–M5 in light of these findings before proceeding. Either way, the exchange has done what a first adversarial pass should: it produced a sourced, falsifiability-checked, adversarially-reviewed assessment a future steward or reviewer can build on.
 
-On June 2, 2026 the steward chose to draft the Ring-1 test design — the move Round 2 named as the cheapest, most defensible next step and the one that lets M5 (and through it M4) graduate from *speculative*. That design is pre-registered as **Appendix A** below. It is a design, not a run: registering it before execution is the discipline that makes its result trustworthy.
+On June 2, 2026 the steward chose to draft the Ring-1 test design — the move Round 2 named as the cheapest, most defensible next step and the one that lets M5 (and through it M4) graduate from *speculative*. That design is pre-registered as **Appendix A** below. It is a design, not a run: registering it before execution is the discipline that makes its result trustworthy. The §A.10 registration block is now filled — the item set is Exchange #24's nine-claim epistemic-status table — so only the run remains.
 
 ---
 
@@ -239,14 +239,44 @@ Two independent mechanisms, both pre-registered:
 1. **Symmetric metric.** D counts EMA (which *reduces* apparent consensus) exactly as much as SCA (which increases it). A mirror earns no credit for agreement alone. A result that is *all* SCA and *no* EMA is treated as a **suspected narrowing failure**, not a success (§A.8 row 3) — because an honest mirror of a genuinely divided panel should sometimes reveal that *we agree less than the sequence implied*.
 2. **The expect-disagreement probe.** One of the K items is chosen at registration because the panel agrees *ex ante* that reviewers genuinely and legitimately differ on it (a real values tradeoff with no project-canonical answer — e.g., a liberty-vs-care case from the riff §4.4 lens). The mirror **must return `independent-split` on the probe.** If the bridging aggregation collapses the probe into false agreement, the narrowing failure is realized and M5 is falsified by clause (c) regardless of D. This operationalizes CAP §6 (*"Name the tension"*) as a pass/fail gate.
 
-### A.10 Registration block (fill in *before* running)
+### A.10 Registration block (registered June 2, 2026 — run pending)
 
-- **Item set (K):** _[list the 8–12 contested items + their source exchange/proposal — fixed here before the run]_
-- **The probe item:** _[which item; why it is genuine-disagreement]_
-- **Panel (N), incl. the ≥2 seed-divergent frames and ≥1 non-model anchor:** _[list]_
-- **τ:** _[default 2]_
-- **Arm S verdicts (S_k):** _[reconstructed from the source exchange, or run fresh — stated which]_
-- **Date registered / date run:** _[…]_
+**Item-set source: the [Exchange #24](coordination-architecture-reframe-exchange.md) §2.4 epistemic-status table.** *Why this source (plain version):* the test needs a set of contested claims that **already went through the normal sequential review**, so the "Arm S" map (how the back-and-forth process ranked them) already exists and is not invented after the fact — inventing it would let the result be tilted. Exchange #24 is the cleanest such case in the project: it ran Rounds 1–2 and produced a **nine-row table grading each claim** from *established* to *speculative*. That gives (a) a ready-made Arm S, (b) nine items — inside the K = 8–12 window, (c) a real spread of verdicts so the mirror can move a result in *either* direction, and (d) the bonus that #24 is the sibling exchange this one feeds. [Exchange #20 (Social Slop)](social-slop-information-integrity-exchange.md) was the other candidate but is an open single-author concept note with no rounds and no verdict table — its Arm S would have to be reconstructed by hand, the exact bias this pre-registration avoids.
+
+**The K = 9 items and their Arm S verdicts.** Pre-registered mapping rule (fixed here, before any run): a #24 disposition of *established* or *working hypothesis* → **`agreed`** (the sequence converged on "this stands"); *contested* or *speculative* → **`contested`** (the sequence did not converge).
+
+| # | Item (from #24 §2.4) | #24 disposition | Arm S (this test) |
+| --- | --- | --- | --- |
+| 1 | C1-strong — all 17 principles survive re-read as coordination primitives | Contested | contested |
+| 2 | C1-weak — ≥14 of 17 survive in some form | Working hypothesis | agreed |
+| 3 | C2 — ≥5 non-trivial diffuse-sovereignty layers | Working hypothesis | agreed |
+| 4 | C2-sufficient — the 7-layer set is adequate for a Path γ doctrine | Speculative | contested |
+| 5 | C3 — the metabolization diagnostic operationalizes into a working protocol | Speculative | contested |
+| 6 | C4-premise — procedural legitimacy is degrading | Established by evidence | agreed |
+| 7 | C4-candidates — the 3 non-procedural legitimacy sources are workable | Speculative | contested |
+| 8 | **C5 — sequencing inversion re-asks the reciprocity OQs without loss (PROBE)** | Contested | contested |
+| 9 | Whole reframe warrants Path γ doctrine drafting | Working hypothesis (weak) | agreed |
+
+→ **4 `agreed`, 5 `contested`.** EMA is observable on the 4 agreed items, SCA on the 5 contested ones, so the metric is not rigged toward one direction.
+
+**The probe item (§A.9 guard): item 8, C5.** Chosen because #24 itself flags it as *"philosophically rich and most politically risky… defensible but not innocent,"* explicitly standpoint-dependent (a Land Back or reciprocity-tradition reader receives it differently than a coordination-theorist). That is a genuine, legitimate values disagreement with no project-canonical answer — so the panel agrees *ex ante* it should stay split, and the mirror **must** return `independent-split` on it. If bridging collapses C5 into agreement, that is the narrowing failure and M5 fails by clause (c).
+
+**Panel (N = 6): four seed-divergent frames + one non-model anchor + one house-adjacent bridger.**
+
+| Reviewer | Frame | Role |
+| --- | --- | --- |
+| R1 | The steward | **non-model anchor** — human judgment against model-correlated priors |
+| R2 | Market-libertarian / Hayekian spontaneous-order | seed-divergent (skeptical of *designed* coordination) |
+| R3 | Land Back / Indigenous-sovereignty scholar | seed-divergent (the frame #24 flags as missing) |
+| R4 | Disability Justice organizer | seed-divergent (the frame #24 flags as missing) |
+| R5 | Centralized state-capacity / statist | seed-divergent (pro-strong-institution) |
+| R6 | Deliberative-democracy practitioner | house-adjacent bridger (the #25 Round 2 lens) |
+
+Each seed-divergent reviewer is briefed from out-of-project source material in their own tradition (per §A.6) *before* judging, so "cross-cutting" agreement means agreement that survives genuinely different starting frames — not house-frame convergence. **Reminder (§A.6):** R2–R6 as agent personas share a base model, so their independence is correlated by construction; a positive result is provisional pending a human-panel replication.
+
+**τ:** 2 (default).
+
+**Status:** registered June 2, 2026; **run pending.** Per §A.11 the result is recorded here as a dated amendment; this registration is not edited after the first run.
 
 ### A.11 Falsification map, scale, and what the result feeds
 
