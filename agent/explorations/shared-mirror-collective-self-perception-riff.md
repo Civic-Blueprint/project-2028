@@ -1,6 +1,6 @@
 ---
 title: Shared Mirror and Collective Self-Perception Riff
-description: Pre-artifact riff exploring whether a society's capacity for accurate collective self-perception ("the shared mirror") is an upstream coordination layer the project should name and design for. Develops a see/decide/act decomposition of coordination, locates the highest-leverage intervention in the "see" layer, connects it to Principle 14, Problem Map §3, and the Social Slop exchange (#20), and sketches candidate mechanisms and three candidate roles for the project, and grounds the values-lens method (§4.2) in a values stack and public worked examples (§4.3–§4.4). Captures the idea layer of a steward–AI dialogue; the personal substrate that seeded the originating analogy is deliberately excluded (see §1.2).
+description: Pre-artifact riff exploring whether a society's capacity for accurate collective self-perception ("the shared mirror") is an upstream coordination layer the project should name and design for. Develops a see/decide/act decomposition of coordination, locates the highest-leverage intervention in the "see" layer, connects it to Principle 14, Problem Map §3, and the Social Slop exchange (#20), and sketches candidate mechanisms and three candidate roles for the project, and grounds the values-lens method (§4.2) in a values stack and public worked examples (§4.3–§4.4), recovers the three-assumptions framing behind the see/decide/act layer (§3.3), and draws an explicit boundary between the mirror and fact-checking (§4.5). Captures the idea layer of a steward–AI dialogue; the personal substrate that seeded the originating analogy is deliberately excluded (see §1.2).
 provenance: collaborative
 exploration_date: 2026-06-01
 exploration_trigger: "Steward–AI dialogue, June 1, 2026. The steward opened from an observation that the project's value-authorship architecture appears structurally similar to how an individual authors values without either an inherited rulebook or pure subjectivity, and asked whether micro (personal) and macro (civic) are 'really the same thing at different scales.' The dialogue tested that analogy against spurious-correlation risk, reframed the shared property as reflexive self-authorship rather than scale, pushed on a bottom-up 'change the individuals' theory of change, and converged on collective self-perception (the shared mirror) as the candidate highest-leverage layer. By steward decision, the personal/biographical substrate that seeded the analogy is excluded from this document; the exclusion is itself treated as a finding about credibility-hardening (§1.2, §7)."
@@ -12,6 +12,8 @@ exploration_status: open
 > **Status:** Open exploration as of June 1, 2026. Fourth document in the project's [`agent/explorations/`](README.md) register, sibling to the [Constitutional Ecology and Coordination Architecture Riff](constitutional-ecology-and-coordination-architecture-riff.md) and generalizing the mechanism named in [Exchange #20 (Social Slop and Information Integrity)](../exchanges/social-slop-information-integrity-exchange.md). The riff asks whether *collective self-perception* — a society's capacity to see itself accurately — is a coordination layer the project should name, and whether it is upstream of the deciding and acting layers the coordination-architecture work already engages. No successor artifact is chosen; candidate next steps are in §8.
 >
 > **Update — v1.1 (June 2, 2026):** After steward triage of the originating dialogue's personal material — biographical and relational content excluded, the values framework and public worked examples retained — §4 gains a values stack (§4.3) and a worked-examples table (§4.4). Verified, origin-balanced current anchor cases, tiered under the [Research Protocol](../process/research-protocol.md), are a candidate addition not yet folded in.
+>
+> **Update — v1.2 (June 2, 2026):** Capture pass folding in chat insights that post-dated v1.1: the three-assumptions framing of see/decide/act, with an explicit decision to keep Assumptions 1 (decide) and 2 (act) live rather than discarded (§3.3); the lying-mirror and internet-irony motivations (§4); and a boundary subsection distinguishing the mirror from fact-checking, with the Type A/B typology and the moral-foundations palette (§4.5). New open questions §8.8–§8.9; the prior §3.3 reframe is renumbered §3.4.
 
 ---
 
@@ -98,7 +100,17 @@ A useful decomposition: any collective must **see together, decide together, and
 
 The deciding and acting failures are *structural* — they live in the interaction rules, not in the hearts of the participants. This is the precise sense in which changing individuals is necessary but not sufficient.
 
-### 3.3 The reframe: the leverage is the protocol between people
+### 3.3 The three machines began as three hidden assumptions
+
+The decomposition above was not reached top-down. The originating dialogue arrived at it by asking whether the "internet-like" breakthrough might be hiding inside an unexamined assumption — and three surfaced, each concealing a leverage point that opens only once the assumption is dropped:
+
+- **Assumption 1 — deciding together is just counting votes.** Drop it and aggregation stops looking impossible: deliberation toward comparable preferences (candidate ref: Black's single-peakedness, which dissolves the Condorcet cycle), intensity-expressing methods, sortition, liquid democracy (§5). Governs the **decide** machine.
+- **Assumption 2 — the free-rider problem cannot be beaten without coercion.** Drop it and contribution can be made the individually rational choice: self-governing-commons design (candidate ref: Ostrom), dominant assurance contracts (candidate ref: Tabarrok) (§5). Governs the **act** machine.
+- **Assumption 3 — a society perceives itself roughly accurately.** Drop it and the funhouse mirror becomes visible and, in principle, repairable (§4). Governs the **see** machine.
+
+The riff bets on **Assumption 3** because the "see" machine is upstream of the other two (§4). It does **not** treat Assumptions 1 and 2 as false: they are real, under-deployed leverage points the riff sets aside to keep its focus, and that prioritization is itself an open question (§8), not a silent deletion. Holding all three in view guards against a one-machine fix — a clearer mirror with no better way to decide or act may surface agreement it still cannot use.
+
+### 3.4 The reframe: the leverage is the protocol between people
 
 Both the steward's "change the individuals" and the riff's earlier counter ("there is no unified will to change") share a hidden assumption: that the unit of leverage is either the **individual node** or a **sovereign above the graph.** The historically powerful coordination breakthroughs were neither — they changed the **protocol/interface between individuals** (money, double-entry bookkeeping, common law, peer review, the internet's addressing layer, open-source workflows), leaving both human nature and the absence of a central will intact. This is the same move the [coordination-architecture reframe](constitutional-ecology-and-coordination-architecture-riff.md) is already circling: durable systems create *structured ways for disagreement to persist without collapse.* The candidate addition this riff makes is that **self-correction is the engine and accurate perception is its first stage** — which points at the "see" machine as the place to look first.
 
@@ -109,6 +121,11 @@ Both the steward's "change the individuals" and the riff's earlier counter ("the
 The riff's central candidate claim, offered as a leverage hypothesis and not a conclusion:
 
 > Of the three machines, **see-together is upstream.** A collective cannot decide or act well on a distorted picture of itself. Repairing collective self-perception is therefore a candidate highest-leverage intervention — and it is the layer most directly named by [Principle 14 (Truth and evidence must be protected as public goods)](../../PRINCIPLES.md#14-truth-and-evidence-must-be-protected-as-public-goods) and diagnosed by [Problem Map §3 (Information ecosystems are fragmented and easily manipulated)](../../PROBLEM_MAP.md#3-information-ecosystems-are-fragmented-and-easily-manipulated).
+
+Two framings from the originating dialogue motivate the bet; both are diagnostic motivation, not novelty claims (the underlying diagnosis is Problem Map §3):
+
+- **The lying-mirror point.** No amount of individual change helps a person — or a society — reasoning from a distorted image of itself. Repairing the mirror is therefore *prior to* "changing the individuals" (§3): therapy does not work in a funhouse.
+- **The internet irony.** The network that was supposed to *be* humanity's shared mirror has, under engagement optimization, become its principal distorter. The candidate breakthrough would be the correction of the very technology that was the last breakthrough — which is sobering rather than triumphant, because it means the leverage point and the obstacle are the same system.
 
 ### 4.1 How the shared mirror currently distorts
 
@@ -151,6 +168,22 @@ These are public-topic illustrations carrying no biographical content — which 
 
 The common pattern: the lens converts an *identity* question ("whose side") back into a *values* question ("what is protected, what is erased") — the "identity capture" distortion of §4.1 run in reverse. The broader aim these examples point to — helping people reason about competing values rather than inherit fixed rules — is the individual-scale version of what a shared mirror would do at civic scale: it does not tell people what to conclude; it makes the values structure of a dispute legible enough to reason about. This is the same restraint the capture-guard in §7 requires (reflect structure; do not pronounce verdicts). Pairing these timeless illustrations with **verified, origin-balanced current anchor cases**, tiered under the [Research Protocol](../process/research-protocol.md) per the [Exchange #20](../exchanges/social-slop-information-integrity-exchange.md) method, is a candidate next step (§8).
 
+### 4.5 What the mirror is — and what it is not (it is not a fact-checker)
+
+A standing risk: a perception corrective collapses into fact-checking — a new Snopes — and inherits the authority and tribal distrust that fact-checking already carries. The boundary that prevents this is the §7 capture-guard stated positively: **a fact-checker issues verdicts on discrete claims; a mirror reflects the structure of a conversation and lets people draw their own conclusions.** Adjudication versus reflection.
+
+The same boundary locates *where* each tool works, using the typology surfaced in the example exercise:
+
+| Class | What it is | What is erased | Whose job |
+| --- | --- | --- | --- |
+| Type A — fabrication | Fake quote, deepfake, misattribution | **Truth** — the thing did not happen | Fact-checkers; a verdict is appropriate |
+| Boundary — selective truncation | A real quote with the disqualifying part cut | **Context / completeness** | Either; a verdict is possible, but the repair is contextual |
+| Type B — true-but-framed | Accurate facts framed to activate one value and bury others | **Proportion, due process, or a competing value** — *not* truth | The mirror; there is no "False" to issue |
+
+Type B is the mirror's domain, and it is exactly where fact-checking cannot reach: nothing is factually false to rule on. The "which values" vocabulary is the moral-foundations palette (candidate lens, to tier under the [Research Protocol](../process/research-protocol.md)): care, fairness, liberty, loyalty, authority, sanctity. A mirror reads a Type B message for *which foundations are activated and which are erased*, and notes — without taking a side — that the distortion is structural and non-tribal: each side tends to over-weight characteristic foundations and drop proportion. The deepest case is not value-versus-value but **one word hiding two values** — "fairness" as equal-outcome versus procedural-merit, "freedom" as freedom-from versus freedom-to — which the lens dissolves from a values war into a definitions problem.
+
+Why the boundary is load-bearing rather than fastidious: the verdict model is precisely the one that *cannot* "break the millions," because half the audience rejects the referee — which is why fact-checking, by its own practitioners' accounts, is losing ground even as it scales. Reflection — *here is where you already agree; here is the value you and your opponent are both protecting* — is the only form with a chance at scale. Mature fact-checking already half-knows this: its recurring verdict, "contains an element of truth but ignores critical facts that would give a different impression," is the values lens applied to *facts*. The project's contribution is to extend the same move to *values* — the layer on which identity capture actually operates.
+
 ---
 
 ## 5. Candidate mechanisms (external, unverified at riff stage)
@@ -174,7 +207,7 @@ Named as candidates to investigate, not endorsements. All require source-tiering
 
 ## 6. Candidate roles for the project (three rings — paths, not a decision)
 
-Per the exploration convention, these are options to weigh, not a chosen path. The rings are nested: each outer ring depends on the one inside it.
+Per the exploration convention, these are options to weigh, not a chosen path. The rings are nested concentric scopes of who the mirror is pointed at — the project on *itself*, then its *participants*, then the *public* — and each outer ring depends on the one inside it.
 
 | Ring | What the project would be / do | Maturity | Main risk |
 | --- | --- | --- | --- |
@@ -209,3 +242,5 @@ The riff would be dishonest if the bet in §4 were not stress-tested. The strong
 5. Do the §5 candidate mechanisms survive a Research-Protocol source-tiering pass, especially the "see"-machine ones (bridging ranking, opinion-clustering)?
 6. Is the §1.2 author-decoupling discipline correct as stated, or does it conflict with the project's standpoint-transparency norm in a way that needs an explicit carve-out documented elsewhere?
 7. Should the §4.4 worked examples be paired with verified, origin-balanced current anchor cases (per the [Exchange #20](../exchanges/social-slop-information-integrity-exchange.md) method) before this riff advances — and does the candidate value set in §4.3 belong in the project at all, or does it duplicate [PRINCIPLES.md](../../PRINCIPLES.md)?
+8. Where exactly does the mirror rely on a shared factual substrate (proportion, base rates) without becoming an adjudicator — is the §4.5 verdict-versus-reflection boundary drawable in practice, or does any influential mirror drift toward fact-checking?
+9. The riff bets on Assumption 3 (see) and sets aside Assumptions 1 (decide) and 2 (act) (§3.3). Is that prioritization correct, or does a "see" repair stall without parallel "decide" and "act" moves?
