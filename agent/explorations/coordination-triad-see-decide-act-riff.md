@@ -5,14 +5,16 @@ provenance: collaborative
 exploration_date: 2026-06-02
 exploration_trigger: "Steward–AI dialogue, June 2, 2026, after the shared-mirror 'see' leg was developed (Shared Mirror riff) and tested to a resting point (Exchange #25: Rounds 1–2 + a 6-run Ring-1 cross-model test, routing decision = hold). The steward asked whether to 'zoom back out to include the three assumptions together — Mirror / Decide / Act' and whether to run a new exchange with all three; and, earlier in the same thread, named the protocol/process between the nodes — the discovery and breakthrough of these assumptions — as the new north star that feeds the Phase 3 front door. This riff holds the triad as a unified lens, develops the two undeveloped legs to first-pass, and surfaces the sequencing tension without resolving it."
 exploration_status: open
-exploration_version: v1
+exploration_version: v2
 ---
 
 # Coordination Triad — See / Decide / Act Riff
 
-> **Status:** Open exploration as of June 2, 2026. Fifth document in the project's [`agent/explorations/`](README.md) register. It is the steward's "zoom back out" move after one leg of the triad — the **see** layer (the shared mirror) — was developed in the [Shared Mirror and Collective Self-Perception Riff](shared-mirror-collective-self-perception-riff.md) and tested to a resting point in [Exchange #25](../exchanges/shared-mirror-see-layer-exchange.md). It holds the full **See / Decide / Act** triad as one lens, develops the two named-but-undeveloped legs (**decide**, **act**) to first-pass, and surfaces the sequencing tension the mirror exchange left live. It chooses no successor artifact; candidate paths are in §9 and open questions in §10.
+> **Status:** Open exploration as of June 2, 2026. Fifth document in the project's [`agent/explorations/`](README.md) register. It is the steward's "zoom back out" move after one leg of the triad — the **see** layer (the shared mirror) — was developed in the [Shared Mirror and Collective Self-Perception Riff](shared-mirror-collective-self-perception-riff.md) and tested to a resting point in [Exchange #25](../exchanges/shared-mirror-see-layer-exchange.md). It holds the full **See / Decide / Act** triad as one lens, develops the two named-but-undeveloped legs (**decide**, **act**) to first-pass, and surfaces the sequencing tension the mirror exchange left live. It chooses no successor artifact; candidate paths are in §9, the working claim set in §10, and open questions in §11.
 >
 > **What this riff is not.** It does **not** re-run, re-litigate, or re-grade the see leg — [Exchange #25](../exchanges/shared-mirror-see-layer-exchange.md) is at rest with a routing decision of *hold* and that result stands here unchanged. It does **not** assert that decide or act are solved: those legs are *first-pass and undeveloped* — candidate mechanisms, not validated findings. It does **not** promote the triad to doctrine or to a Phase 3 brief; per #25's §A.16, the most robust cross-model finding in the whole see-layer test was that *the coordination reframe is not ready for doctrine*, and that discipline binds the triad too.
+>
+> **Update — v2 (June 3, 2026):** Per a steward direction to develop the triad's claims *before* spawning an exchange, v2 adds a first-draft combined claim set (§10): per-leg claims for decide (D1–D5) and act (A1–A4); the see leg's M1–M5 imported from [#25](../exchanges/shared-mirror-see-layer-exchange.md) at status (not re-opened); and four triad-level claims (T1–T4) that are the load-bearing justification for a *combined* exchange — the steward's preferred Path C (§9). v2 also corrects the §1.1 north-star framing per a steward clarification: the "protocol between the nodes" was a *felt* sense of the north star, not a claim that it *is* the north star.
 
 ---
 
@@ -32,7 +34,7 @@ And earlier in the same thread:
 
 > the protocol/process/in between the nodes discovery and the breakthrough of these assumptions *is* the new north star that will feed into the phase 3 front door.
 
-The first framing sets this riff's job: hold the three assumptions as one object rather than three, and surface whether the right next move is one combined exchange, separate exchanges, or a hold. The second is a stronger claim — that the *triad itself* (the protocol between the nodes, made visible by breaking the three assumptions) is a candidate sharpening of the project's north star feeding the [Phase 3 Front Door Riff](phase-3-front-door-riff.md). The riff takes the first as its scope and treats the second as a candidate path (§9) and open question (§10), not as a settled adoption — because the one leg that has been tested resolved to *hold* (§3), and a north-star promotion built on an untested two-thirds of the frame would be premature on the project's own anti-over-claiming discipline.
+The first framing sets this riff's job: hold the three assumptions as one object rather than three, and surface whether the right next move is one combined exchange, separate exchanges, or a hold. The second is **a felt sense, not a claim**: the steward clarified (June 3, 2026) that they *felt* the protocol/process between the nodes was the north star — not that it *is* the north star. The riff honors that distinction. It takes the first framing as its scope, and treats the felt north-star direction as a candidate path (§9) and open question (§11) to test — never as a settled adoption. The discipline is reinforced anyway by the one leg that has been tested resolving to *hold* (§3): a north-star promotion built on an untested two-thirds of the frame would be premature regardless.
 
 ### 1.2 What is deliberately out of scope — the privacy firewall
 
@@ -217,19 +219,87 @@ Per the [exploration convention](README.md#what-an-exploration-must-include), th
 | **A — Separate exchanges per leg** | Spawn a Decide exchange and an Act exchange, each restating its leg as falsifiable claims (the [#25](../exchanges/shared-mirror-see-layer-exchange.md) pattern: §4.5 / §5.5 are seeds) | Mirrors the path that worked for see; keeps each leg's evidence base clean and independently falsifiable | Two more open exchanges; risks developing legs in isolation — the very error #25 warned against |
 | **B — Fold the triad into #24 as a functional lens** | Add see/decide/act as a functional cross-cut of #24's layers (§7 matrix), feeding C1/C2 | Consolidates rather than fragments; directly tests the add-vs-duplicate question | #24 is itself unresolved (Round 2, not clean); adding a lens to an open exchange may overload it |
 | **C — One combined "coordination triad" exchange** | A single exchange that states claims for all three legs and the sequencing question (§6) together | Tests the triad *as a unit* — the thing the originating intent actually asked about | Premature until decide/act each have first-pass claims that survive their own scrutiny; large surface area |
-| **D — Hold as the north-star articulation feeding Phase 3** | Treat the triad (the "protocol between the nodes") as a candidate sharpening of the north star, carried into the [Phase 3 Front Door Riff](phase-3-front-door-riff.md) without a new exchange | Matches the steward's second framing (§1.1); low cost | #25's most robust finding is *not ready for doctrine*; promoting the frame to a north star on one tested leg repeats the over-claim the see test just corrected |
+| **D — Hold as the north-star articulation feeding Phase 3** | Treat the triad (the "protocol between the nodes") as the steward's *felt* north-star direction, carried into the [Phase 3 Front Door Riff](phase-3-front-door-riff.md) without a new exchange | Matches the steward's second framing (§1.1, a felt sense); low cost | #25's most robust finding is *not ready for doctrine*; promoting the frame to a north star on one tested leg repeats the over-claim the see test just corrected |
 | **E — Stay in exploration** | Keep this riff open; advance nothing structural yet | Honest given the see-leg hold and the two untested legs | Defers the steward's actual question; the triad's leverage stays unexercised |
 
 A plausible *non-binding* read (offered as analysis, not a choice): paths are not mutually exclusive — **A or C develops the missing legs, B tests distinctness against #24, and D is the downstream payoff that should wait until at least one more leg has been tested.** The §6 sequencing tension is the hinge: if position C (interdependence) is right, path C (one combined exchange) is the only one that can test it; if position A/B (sequence or per-layer) is right, separate development is fine.
 
+**Steward read (June 3, 2026).** Path **C** (one combined "coordination triad" exchange) is the steward's preferred path — *conditional on a solid claim set first.* The riff therefore stays open in claim-development mode; §10 is that working set, and Path C is not spawned until the §10.6 bar is met.
+
 ---
 
-## 10. Open questions (for the next session)
+## 10. Toward a combined claim set (the Path C precondition)
+
+This is the working claim set the riff is now growing toward — what Path C (§9) needs *before* an exchange opens. It is a **first draft for iteration**, not a finished slate: claims below will be sharpened, and some cut or merged, over successive passes.
+
+### 10.1 The design principle — what a combined exchange must test that separate ones cannot
+
+A combined exchange earns its existence **only if it tests claims a single-leg exchange could not.** If the only claims were per-leg, three separate exchanges (Path A) would be cleaner and lower-risk — each leg tested on its own evidence base, without the overhead of holding three at once. So the set has two tiers:
+
+- **Per-leg claims** — the *components*. The see leg already has these (M1–M5, tested in [#25](../exchanges/shared-mirror-see-layer-exchange.md)); decide and act get first-draft sets here.
+- **Triad-level claims** — the *reason to combine* (T-series). These are claims whose truth depends on the *interaction* of the three legs and that are, by construction, untestable leg-by-leg. **The T-series is the load-bearing justification for Path C.** Without it, "combined" is a concatenation and Path A wins.
+
+So the structural answer is **both** — per-leg sets *and* a combined set — but the combined set is **not** a concatenation of the per-leg claims; it is the distinct T-series, with the per-leg claims carried as its components. The see leg's M-claims are **imported at their #25 status, not re-opened** (#25 is at rest); a combined exchange *uses* them — especially M1-weak, the seed of T2 — rather than re-litigating them.
+
+### 10.2 See-leg claims — imported from Exchange #25 (not re-opened)
+
+| Claim (abbrev.) | Status carried from #25 | Role in a combined exchange |
+| --- | --- | --- |
+| M1-weak — see is a real, neglected layer that stalls without parallel decide/act | Working hypothesis | Seeds T2 (interdependence) directly |
+| M2 — reflect structure, don't adjudicate (mirror ≠ fact-checker) | Working hypothesis | Carried; its decide/act analogues are D4 / A-level questions |
+| M3 — values-lens does non-redundant work on Type B cases | Contested | Carried; not re-litigated |
+| M4 — distinct primitive (anti-apophenia) | M4-weak working hypothesis / M4-strong contested | T3 is its triad-level generalization |
+| M5 — Ring-1 testable; divergence-detection well cross-model-replicated | Working hypothesis (provisional) | Its Ring-1 method is a candidate test design for D/A claims too |
+
+### 10.3 Decide-leg claims (D1–D5, first draft)
+
+| # | Claim | What would falsify it | First-pass status |
+| --- | --- | --- | --- |
+| **D1** | Arrow's impossibility is *frame-dependent*: restricting to single-peaked preferences yields a Condorcet winner (a theorem), and intensity voting / sortition / liquid democracy operate outside Arrow's ordinal frame | The named mechanisms reduce to ordinal aggregation, so Arrow re-binds them | **Strong** — theorem core; the mechanism-escape half is the testable, defensible part |
+| **D2** | Structured deliberation measurably increases single-peakedness, converting a configuration the status-quo vote leaves cyclic/unstable into a stable Condorcet winner not driven by facilitation or agenda order | Deliberation doesn't move single-peakedness; the winner flips under agenda re-ordering; or it works only where agreement was pre-selected | Speculative — empirical, untested (candidate refs to tier: List–Luskin–Fishkin–McLean) |
+| **D3** | Intensity-eliciting methods (range / quadratic voting) track collective welfare better than ordinal methods on asymmetric-stakes issues (a committed minority vs. an indifferent majority) without worse manipulation | Intensity methods don't outperform; or wealth / strategic effects make them worse, not better | Speculative — untested (candidate refs: Weyl/Posner; Lalley–Weyl) |
+| **D4** | Sortition mini-publics / liquid delegation produce decisions more legitimate-to-the-coordinated or more competent than captured / low-information status-quo aggregation | Mini-publics no more legitimate/competent; new capture (facilitator/expert); or legitimacy fails to transfer to the non-selected public (vTaiwan's "evaporated at the threshold," in the decide leg) | Speculative — untested (candidate refs: OECD deliberative-wave; Irish Citizens' Assembly; Landemore) |
+| **D5** | *Honest limit:* escaping Arrow does not solve deciding — each mechanism trades Arrow's ordinal impossibility for a different known cost (Gibbard–Satterthwaite manipulability; intensity/wealth effects; selection-legitimacy gaps) | A mechanism shown free of all such costs (a major result); or the costs shown negligible in practice | **Strong as a limiting claim** — keeps the leg honest |
+
+### 10.4 Act-leg claims (A1–A4, first draft)
+
+| # | Claim | What would falsify it | First-pass status |
+| --- | --- | --- | --- |
+| **A1** | "Free-riding is unbeatable without central coercion or privatization" is false: durable institutions solved commons problems without either, and Ostrom-type design features distinguish survivors from comparable failures | Apparent successes rely on hidden state backing / coercion; design features don't distinguish survivors from failures; or all clean cases sit below a scale that matters | Working-ish — existence proofs are real; the design-feature *diagnostic* claim needs T2 (Cox–Arnold–Villamayor-Tomás) |
+| **A2** | Dominant assurance contracts make contributing the individually rational choice for threshold public goods in practice, not only in theory | Real deployments don't beat plain assurance / threshold crowdfunding; the refund bonus is gamed; or it works only for a narrow excludable/threshold class, not the hard commons | Speculative — largely theoretical, thin deployment (candidate ref: Tabarrok) |
+| **A3** | Ostrom-type self-governance scales beyond small/medium CPRs via nesting / polycentricity to large and even global commons | Nesting doesn't preserve the design-principle benefits at scale; global commons (climate) show no durable self-governance; or scaled cases reintroduce central coercion | Speculative — the weakest act claim; Ostrom herself treated global climate as polycentric-and-hard |
+| **A4** | *Scoping:* non-coercive solutions do not make coercion illegitimate or unnecessary in general; the leg expands the non-coercive option space and sharpens *when* coercion is the right instrument ([Principle 17](../../PRINCIPLES.md#17-collective-power-must-be-exercised-within-principled-constraints)), not *whether* | Non-coercive mechanisms shown to dominate coercive ones across the board (coercion never optimal), or to never work (the option space is illusory) | **Strong as a scoping claim** — keeps the leg honest and Principle-17-aligned |
+
+### 10.5 Triad-level claims (T1–T4, first draft) — the reason to combine
+
+| # | Claim | What would falsify it | Why it needs a *combined* exchange |
+| --- | --- | --- | --- |
+| **T1 — Decomposition** | See/decide/act is a complete, non-redundant decomposition: every coordination failure localizes to one leg or their interaction, and no leg reduces to another | A coordination failure fitting none (incomplete); two legs collapsing into one (redundant); or failures with no localizable structure (the decomposition adds nothing) | Can only be tested by checking all three against a corpus of failures at once |
+| **T2 — Interdependence** *(the central one)* | Generalizing #25's M1-weak: repairing any one leg in isolation yields little durable coordination gain without the other two — the legs are co-sequenced, not strictly ordered | A clean case where one-leg repair *alone* produced durable gain (supports a single-lever or strict-sequence model); or evidence that one leg is genuinely upstream of the others | Literally untestable leg-by-leg — it *is* a claim about the interaction |
+| **T3 — Distinctness over #24** | The see/decide/act × [#24](../exchanges/coordination-architecture-reframe-exchange.md)-layers matrix (§7) yields non-trivial per-cell findings — including which function is the binding constraint in a given layer — that neither the layer-lens nor single-leg analysis predicts | The matrix is a relabel (cells restate #24 or single-leg content); or no layer shows a discriminable binding-constraint function | Tests the whole frame against #24; requires all three functions present |
+| **T4 — Unifying object** | The leverage in every leg is the *interface between participants* — not the nodes, not a sovereign above them — and all three share one failure signature (a hidden assumption that makes the function look impossible until the frame shifts); this is the steward's "protocol between the nodes," made falsifiable | In some leg the real leverage is in the nodes (change individuals) or a central authority; or the three failure modes share no structure (so "triad" is a forced grouping) | Tests whether the three are *one object*; requires comparing all three failure signatures |
+
+**T2 is the hinge.** If it holds, Path C is the *only* path that can test it — the strongest case for the steward's preference. If it fails (one leg is genuinely upstream), the frame reverts toward a sequence and separate exchanges (Path A) suffice. Note what is deliberately **absent** from the T-series: any claim that the triad *is* the north star or belongs in the Phase 3 front door. That is the steward's *felt* direction (§1.1), not a claim to test here; it is a downstream decision after these survive, and it stays gated by #25's *hold*.
+
+### 10.6 What "solid enough to spawn Path C" looks like
+
+A non-binding readiness bar for turning the set into an exchange:
+
+1. **Each per-leg claim has a falsification condition** (first cut done) **and at least one [Research-Protocol](../process/research-protocol.md) T2-tierable source** behind its evidence base — *not yet:* D2–D4 and A2–A3 are untested, and a T2 pass is the next research move (open question Q5).
+2. **The triad-level claims are sharp enough to test something emergent** — above all T2, and T3 once the §7 matrix is built out rather than sketched.
+3. **The See-import boundary is agreed** — the combined exchange carries M1–M5 at #25 status and does not re-open them absent new evidence.
+4. **The riskiest claim is named** (open question Q7) — current candidate: **T4**, because if the three legs do *not* share a failure signature, the triad is three problems wearing one name and Path A is correct after all.
+
+Until 1–2 are met, the riff stays open and in claim-development mode; spawning Path C is premature.
+
+---
+
+## 11. Open questions (for the next session)
 
 1. **Sequencing.** Are the three legs sequential, parallel, interdependent, or layer-dependent (§6 positions A–D)? What evidence — beyond #25's vTaiwan/Madrid cases — would actually discriminate among them?
 2. **Distinctness (triad-level M4).** Does the see/decide/act triad yield a transferable prediction that #24's coordination-primitive / diffuse-sovereignty layering does not? Or is the §7 matrix a relabel? (The see-leg version of this question rests *contested* in #25.)
-3. **Artifact form.** Separate Decide and Act exchanges (path A), a fold into #24 (path B), or one combined triad exchange (path C) — and in what order? Does decide or act go first, and on what basis?
+3. **Artifact form (steward preference recorded).** The steward's preferred path is **C** — one combined "coordination triad" exchange — conditional on a solid claim set first (§10). Open: is the §10 set solid enough yet (it is not — D2–D4 and A2–A3 are untested); and does decide or act need a brief own-leg development pass before the combined exchange, or can both mature inside the §10 drafting?
 4. **North-star promotion vs. #25's hold.** Is it premature to carry the triad into the Phase 3 front door as a north-star articulation (path D) while the one tested leg is on *hold*? Or is the *frame* promotable even when the see *mechanism* is not — and how would the project tell the difference?
 5. **Mechanism verification.** Which of the §4 / §5 candidate mechanisms (single-peakedness-via-deliberation, quadratic/range voting, sortition, liquid democracy; Ostrom design principles, dominant assurance contracts) survive a [Research-Protocol](../process/research-protocol.md) T2 source-tiering pass — and which are theory-only?
 6. **The "protocol between the nodes."** Does the [mirror riff §3.4](shared-mirror-collective-self-perception-riff.md) framing — that the real leverage is the interface that does all three functions, not three separate machines — unify the triad (position C), or dissolve it? If the object is the interface, is "see/decide/act" the right decomposition of it at all?
-7. **The riskiest triad-level claim.** What is the single riskiest *transferable* claim the triad-as-a-whole makes that none of its three legs makes alone — the claim whose failure would show the triad adds nothing over developing the legs separately?
+7. **The riskiest triad-level claim.** What is the single riskiest *transferable* claim the triad-as-a-whole makes that none of its three legs makes alone — the claim whose failure would show the triad adds nothing over developing the legs separately? (First-draft candidate: **T4**, the unifying-object / "protocol between the nodes" claim — see §10.5–§10.6.)
