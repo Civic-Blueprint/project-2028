@@ -5,7 +5,7 @@ provenance: collaborative
 exploration_date: 2026-06-02
 exploration_trigger: "Steward–AI dialogue, June 2, 2026, after the shared-mirror 'see' leg was developed (Shared Mirror riff) and tested to a resting point (Exchange #25: Rounds 1–2 + a 6-run Ring-1 cross-model test, routing decision = hold). The steward asked whether to 'zoom back out to include the three assumptions together — Mirror / Decide / Act' and whether to run a new exchange with all three; and, earlier in the same thread, named the protocol/process between the nodes — the discovery and breakthrough of these assumptions — as the new north star that feeds the Phase 3 front door. This riff holds the triad as a unified lens, develops the two undeveloped legs to first-pass, and surfaces the sequencing tension without resolving it."
 exploration_status: open
-exploration_version: v2
+exploration_version: v2.1
 ---
 
 # Coordination Triad — See / Decide / Act Riff
@@ -15,6 +15,8 @@ exploration_version: v2
 > **What this riff is not.** It does **not** re-run, re-litigate, or re-grade the see leg — [Exchange #25](../exchanges/shared-mirror-see-layer-exchange.md) is at rest with a routing decision of *hold* and that result stands here unchanged. It does **not** assert that decide or act are solved: those legs are *first-pass and undeveloped* — candidate mechanisms, not validated findings. It does **not** promote the triad to doctrine or to a Phase 3 brief; per #25's §A.16, the most robust cross-model finding in the whole see-layer test was that *the coordination reframe is not ready for doctrine*, and that discipline binds the triad too.
 >
 > **Update — v2 (June 3, 2026):** Per a steward direction to develop the triad's claims *before* spawning an exchange, v2 adds a first-draft combined claim set (§10): per-leg claims for decide (D1–D5) and act (A1–A4); the see leg's M1–M5 imported from [#25](../exchanges/shared-mirror-see-layer-exchange.md) at status (not re-opened); and four triad-level claims (T1–T4) that are the load-bearing justification for a *combined* exchange — the steward's preferred Path C (§9). v2 also corrects the §1.1 north-star framing per a steward clarification: the "protocol between the nodes" was a *felt* sense of the north star, not a claim that it *is* the north star.
+>
+> **Update — v2.1 (June 3, 2026):** Refines the §10.6 readiness bar after steward review. Corrects gate #1 from "at least one source" to the protocol's actual T2 floor (3–15 digests / 5–20 citations per gap, origin-balanced, verification pass; theorem-grade claims excepted). Adds a *see-evidence-strengthening* requirement (gate #3): [#25 §2.2](../exchanges/shared-mirror-see-layer-exchange.md) records its see-evidence as below the §4.2 verification bar, so import-integrity into Path C requires strengthening it (scoped to verification and breadth, **not** re-grading — the #25 *hold* still governs). Adds §10.7 build-out conventions, including a 9th-grade-to-Associate's reading-level target for evidence summaries, distinct from the [Exchange #8](../exchanges/voice-synthesis-accessibility-engagement-exchange.md) public-front-door level.
 
 ---
 
@@ -224,7 +226,7 @@ Per the [exploration convention](README.md#what-an-exploration-must-include), th
 
 A plausible *non-binding* read (offered as analysis, not a choice): paths are not mutually exclusive — **A or C develops the missing legs, B tests distinctness against #24, and D is the downstream payoff that should wait until at least one more leg has been tested.** The §6 sequencing tension is the hinge: if position C (interdependence) is right, path C (one combined exchange) is the only one that can test it; if position A/B (sequence or per-layer) is right, separate development is fine.
 
-**Steward read (June 3, 2026).** Path **C** (one combined "coordination triad" exchange) is the steward's preferred path — *conditional on a solid claim set first.* The riff therefore stays open in claim-development mode; §10 is that working set, and Path C is not spawned until the §10.6 bar is met.
+**Steward read (June 3, 2026).** Path **C** (one combined "coordination triad" exchange) is the steward's preferred path — *conditional on a solid claim set first.* The riff therefore stays open in claim-development mode; §10 is that working set, and Path C is not spawned until the §10.6 bar is met. The steward is also leaning (June 3) toward making the Path-C-precondition work — completing this §10 set and building out its evidence — the project's next active move, or the series of moves leading up to the exchange.
 
 ---
 
@@ -285,12 +287,19 @@ So the structural answer is **both** — per-leg sets *and* a combined set — b
 
 A non-binding readiness bar for turning the set into an exchange:
 
-1. **Each per-leg claim has a falsification condition** (first cut done) **and at least one [Research-Protocol](../process/research-protocol.md) T2-tierable source** behind its evidence base — *not yet:* D2–D4 and A2–A3 are untested, and a T2 pass is the next research move (open question Q5).
+1. **Each per-leg claim has a falsification condition** (first cut done) **and an evidence base meeting the [Research-Protocol](../process/research-protocol.md) source-count and verification bar for its claim type** — *not* "at least one source." The protocol's T2 floor is **3–15 source digests (or 5–20 inline citations) per gap**, with **≥1 citation from each credible side of any contested claim** ([viewpoint buckets](../../sources/SOURCE_INDEX.md#how-this-index-works)) and a verification pass; that is what makes a claim *established by evidence* rather than asserted (more independent, origin-balanced sources = more robust, not merely more numerous). The one exception is **theorem-grade** content (e.g., D1's single-peakedness / Condorcet core), where a single authoritative source suffices because the discipline is proof, not corroboration. *Not yet met:* D2–D4 and A2–A3 are untested empirical claims needing that multi-source T2 pass (open question Q5).
 2. **The triad-level claims are sharp enough to test something emergent** — above all T2, and T3 once the §7 matrix is built out rather than sketched.
-3. **The See-import boundary is agreed** — the combined exchange carries M1–M5 at #25 status and does not re-open them absent new evidence.
+3. **The See-import boundary is agreed — and the see evidence meets the same bar.** The combined exchange carries M1–M5 at #25 status and does not re-open them absent new evidence. But import-integrity cuts both ways: if decide/act are held to the multi-source T2 bar (item 1), the imported see claims must meet it too — and [#25 §2.2](../exchanges/shared-mirror-see-layer-exchange.md) explicitly records its see-evidence as sitting *below* the §4.2 verification bar (only an authoring-agent self-check ran, one tier down). So a **see-evidence-strengthening pass is owed** before Path C: run the verification #25 deferred and widen its source base. That pass is scoped to *verification and breadth*, not re-grading; if new evidence materially moves a see claim, re-opening the grading is a steward decision — the #25 *hold* still governs — not an automatic change.
 4. **The riskiest claim is named** (open question Q7) — current candidate: **T4**, because if the three legs do *not* share a failure signature, the triad is three problems wearing one name and Path A is correct after all.
 
-Until 1–2 are met, the riff stays open and in claim-development mode; spawning Path C is premature.
+Until gates 1–3 are met, the riff stays open and in claim-development mode; spawning Path C is premature.
+
+### 10.7 Conventions for the evidence build-out
+
+Two conventions govern *how* the evidence under each claim gets written, so the build-out is consistent across legs:
+
+- **Reading level (steward, June 3, 2026).** Evidence summaries in the claim build-out target a **9th-grade-to-Associate's-degree** reading level — accessible, but able to carry the technical load (Arrow, Ostrom, sortition) honestly. This is the *working evidence layer*, deliberately one notch above the **6th-to-8th-grade public-front-door** target that [Exchange #8](../exchanges/voice-synthesis-accessibility-engagement-exchange.md) set for general audiences and the [Phase 3 Front Door Riff](phase-3-front-door-riff.md) carries as "translation, not messaging." The two serve different audiences and should not be conflated; if any of this material later graduates to the public front door, it steps down to the Exchange #8 level.
+- **Source discipline.** Each claim's evidence follows its assigned [Research-Protocol](../process/research-protocol.md) tier (T2 for the gap-close mechanisms, per §10.6 item 1), with the link-and-quote discipline and origin balance the protocol requires.
 
 ---
 
