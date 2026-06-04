@@ -164,6 +164,15 @@ The auditor reads the relevant artifacts side by side. The job is not to evaluat
 > - Check whether translation certainty or canonical-source stability is being overstated.
 > - If a retained external source differs from project language, do **not** recommend rewriting the source. Instead, classify whether the problem is in metadata, analysis, synthesis, or interpretation.
 
+**Mechanical pre-pass (link and anchor integrity).** Before the interpretive read, run the repository's checker to produce the *deterministic* subset of findings — broken file links, broken heading anchors, and (via git history) the **Hallucinated** vs **Stale** distinction from §3:
+
+```
+scripts/coherence-check.py             # human-readable report
+scripts/coherence-check.py --checklist # pre-filled §5 checklist rows
+```
+
+[`scripts/coherence-check.py`](../../scripts/coherence-check.py) is read-only, has no third-party dependencies, and emulates GitHub's heading-anchor slugging. It automates **only** the mechanical detection layer — it does not classify drift, terminology, interpretive overreach, or recommendation tracking, and it does not choose resolutions. Treat its output as candidate rows for the §5 checklist; the auditor still confirms each finding's substance and applies Fix / Defer / Accept per §6. It exits non-zero when any link or anchor is broken, so it also serves as a pre-commit or CI gate. The complementary checks the audit still performs by hand — exchange-index and source-registry set-equality, front-matter and count claims — are candidates for future expansion of the same tool.
+
 ### 5. Output
 
 The audit produces a **coherence checklist**: a flat list of findings, each with:
