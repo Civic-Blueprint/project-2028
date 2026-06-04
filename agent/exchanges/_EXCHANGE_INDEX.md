@@ -300,6 +300,17 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 26. [Coordination Triad (See / Decide / Act) — Combined Exchange (Path C)](coordination-triad-combined-exchange.md)
+
+|  |  |
+| --- | --- |
+| **Question** | Does the See / Decide / Act coordination triad, taken as **one object**, survive structured adversarial pressure as a combined claim set — i.e., do the triad-level claims (above all **T2 interdependence** and **T3 distinctness-over-#24**), carried with the per-leg claims, hold up well enough *together* to justify treating coordination as a single three-function design target rather than three separate problems (Path A)? |
+| **Depends on** | [Coordination Triad — See / Decide / Act Riff (v2.8)](../explorations/coordination-triad-see-decide-act-riff.md) (source; §10 combined claim set, §10.1 design principle, §10.5 T-series, §10.6 readiness bar, §10.8/§10.12/§10.13 evidence + the two rigor tests, §6 sequencing, §7 triad × layers matrix); [Exchange #25 (Shared Mirror — the "see" leg)](#25-shared-mirror-as-the-upstream-see-coordination-layer--exchange) (M1–M5 imported at status; the #25 *hold* governs; M1-weak seeds T2 — **not** re-litigated); [Exchange #24 (Coordination Architecture Reframe)](#24-coordination-architecture-reframe--exchange-path-β) (the diffuse-sovereignty layers; T3 tests distinctness *over* it); [Exchange #20 (Social Slop)](#20-social-slop-and-information-integrity--exchange) (one see-layer failure mechanism, subsumed); [Principles](../../PRINCIPLES.md) §14/§17/§4/§13; [Problem Map](../../PROBLEM_MAP.md) §3/§15; [Adversarial Review Protocol](../process/adversarial-review-protocol.md) (R2, Options A + C), [Research Protocol](../process/research-protocol.md) (evidence tiering), [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md) (model for the §10.12 T2-systematic test); [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md) (R3) |
+| **Produced** | New exchange opened (graduated from the coordination-triad riff once its §10.6 readiness bar was *substantially met / steward-callable*). Round 1 restates the §10 combined claim set as falsifiable claims in **two tiers** — per-leg *components* (see M1–M5 imported from #25 at status; decide D1–D5; act A1–A4) and the triad-level *T-series* (T1–T4b) — each with a falsification condition and its honest status carried from the riff, not upgraded. States the **design principle** (a combined exchange earns its existence only by testing the T-series — claims about the *interaction* of the three legs that separate single-leg exchanges cannot test). The **combine-rationale rests on T2 (interdependence — *supported* by the §10.12 systematic test: single-leg durable gain 0/4 vs multi-leg 10/14, no clean single-leg-alone success; sharpened — coupling is necessary but not sufficient, the act/binding leg must hold) and T3 (distinctness over #24 — *lean-supportive*)**, explicitly **not** on strong T4b (the "single unifying object," *falsified* by the §10.13 corpus test — the failure signature appears about as often in a control set of impossibility theorems → authoring-artifact risk confirmed; weak T4b retained). Honest residuals carried forward (D3b/D4b owe their own evidence; the T2 single-leg cell is thin / ProZorro sits on the coding seam; the T4b control set was under-powered). **No promotion:** respects #25's *hold*, makes no north-star or Phase 3 front-door promotion (the steward's "protocol between the nodes" is a *felt* sense, not a claim). Rounds 2–5 reserved (R2 first-pass adversarial under Options A + C, pressure concentrated on T2/T3 and the "does combining add value over Path A?" question; R3 external human review; R4 response → v2; R5 synthesis + steward routing). |
+| **Status** | Active; Round 1 complete; Rounds 2–5 reserved |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -421,6 +432,19 @@ Core Documents (Principles, Problem Map, Systems Framework)
               ◄── Adversarial Review Protocol (R2) + Research Protocol (tiering)
               (tests whether collective self-perception is a distinct upstream
                coordination layer feeding the Phase 3 front door)
+              │
+              └─► #26 Coordination Triad (See / Decide / Act) — Combined Exchange (Path C)
+                    ◄── Triad riff §10 (combined claim set) + §10.1 (design principle)
+                        + §10.5 T-series + §10.12 (T2-systematic) + §10.13 (T4b-corpus)
+                    ◄── #25 (see leg M1–M5 imported at status; the #25 hold governs)
+                    ◄── #24 (diffuse-sovereignty layers; T3 tests distinctness over it)
+                    ◄── #20 Social Slop (one see-layer failure mechanism, subsumed)
+                    ◄── Principles §14/§17/§4/§13 + PM §3/§15
+                    ◄── Adversarial Review + Research + Historical Parallel Test
+                        + Reviewer-as-a-Round Convention
+                    (tests the See/Decide/Act triad as ONE object — combine vs. Path A;
+                     combine-rationale on T2 supported + T3 lean-supportive, NOT
+                     strong T4b falsified; no doctrine / Phase 3 promotion; #25 hold)
 ```
 
 ---
