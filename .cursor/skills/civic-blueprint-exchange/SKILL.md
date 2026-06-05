@@ -82,6 +82,14 @@ After creating the exchange file, **immediately** update `agent/exchanges/_EXCHA
 
 3. If the exchange references or produces artifacts in civicblueprint.org, add a row to the "Cross-repo artifacts" table.
 
+### 4. Round plan — never auto-run the adversarial round in-lineage
+
+When an exchange decomposes a riff or proposal into a falsifiable claim set (a "Round 1"), **do not assume a Round 2 (adversarial) run in the same session.** Stop after the claim set by default and reserve the adversarial round for a *different model family* (Grok, GPT, Gemini, etc.) or an external human, per the [Adversarial Review Protocol §2](agent/process/adversarial-review-protocol.md) lineage-independence default — an adversary from the same model lineage that wrote the claims cannot genuinely surprise them.
+
+- Set the status to `Active; Round 1 complete; Rounds 2–N reserved` and describe Round 2 as reserved for an independent model or reviewer.
+- Produce a standalone **adversary packet** as the handoff: the claim set (each claim with its falsification condition) presented as assertions to be tested (Option B), with reduced context (Option A) and an optional domain lens (Option C), ready to paste into another model family.
+- Run an in-lineage pass **only** if the steward explicitly asks (e.g., to harden empirics before handoff). If you do, **label it a same-lineage agent self-review / pre-mortem**, not the canonical adversarial round, and state that its confidence numbers are upper bounds pending a cross-lineage or human pass.
+
 ## Updating an existing exchange
 
 When an exchange's status changes (e.g., from active to complete, or when its recommendations are incorporated into core documents):
@@ -114,3 +122,4 @@ Before considering a new exchange complete:
 - [ ] Dependency graph in `_EXCHANGE_INDEX.md` updated
 - [ ] Cross-repo artifacts table updated (if applicable)
 - [ ] File name follows kebab-case convention
+- [ ] Adversarial round not auto-run in the authoring lineage — reserved for an independent model family or human (or, if run in-lineage at steward request, labeled a same-lineage self-review / pre-mortem with upper-bound confidence)
