@@ -1,6 +1,6 @@
 # Discovery Principle and Moral Architecture — Develop-Leg Exchange
 
-> **Status (June 2026):** Active; Round 1 complete; Rounds 2–5 reserved. Round 1 restates the [Discovery Principle and Moral Architecture Riff](../explorations/discovery-principle-moral-architecture-riff.md) (v1.2) as a synthesized set of 24 falsifiable claims (S1–S24), each paired with what would falsify it, its honest status carried from the riff (not upgraded), and the lineages that produced it. The load-bearing tier concentrates on the **cross-scale transfer** (S17), the **dose-response make-or-break** (S6/S7), the **relabel/redundancy gate** (S18), and the **reflexive guardrail** (S21); the §2.5 collapse-dynamics (S13) is carried but **demoted to non-load-bearing** on the cross-lineage read. A post-synthesis **same-lineage coverage scan** added **S22–S24** (defensive/refinement claims) and three open questions (§1.9), flagged **†** as *not* part of the blind tri-lineage decomposition; a June 2026 **T2 gap-close** then grounded the dose-response conditions ([digest](discovery-principle-develop-leg-research-grounding.md) Cluster C). **Round 2 (adversarial) is reserved for an independent model family or a human reviewer** per the [Adversarial Review Protocol §2](../process/adversarial-review-protocol.md) lineage-independence default — it is **not** run here.
+> **Status (June 2026):** Active; **Rounds 1–2 complete; held at Round 2**; Rounds 3–5 reserved. Round 1 restates the [Discovery Principle and Moral Architecture Riff](../explorations/discovery-principle-moral-architecture-riff.md) (v1.2) as a synthesized set of 24 falsifiable claims (S1–S24), each paired with what would falsify it, its honest status carried from the riff (not upgraded), and the lineages that produced it. The load-bearing tier concentrates on the **cross-scale transfer** (S17), the **dose-response make-or-break** (S6/S7), the **relabel/redundancy gate** (S18), and the **reflexive guardrail** (S21); the §2.5 collapse-dynamics (S13) is carried but **demoted to non-load-bearing** on the cross-lineage read. A post-synthesis **same-lineage coverage scan** added **S22–S24** (defensive/refinement claims) and three open questions (§1.9), flagged **†** as *not* part of the blind tri-lineage decomposition; a June 2026 **T2 gap-close** then grounded the dose-response conditions ([digest](discovery-principle-develop-leg-research-grounding.md) Cluster C). **Round 2 (adversarial) has since run cross-lineage** (§2): the S1–S24 set was handed to three independent model families (GPT, Grok, Gemini), blind to each other, under [Adversarial Review Protocol §2](../process/adversarial-review-protocol.md) Options A+C+D — and all three returned a **unanimous HOLD** (no load-bearing claim survives as a supported positive finding; the decisive **S17** cross-scale transfer and **S18** relabel gate fail in all three). Per steward decision the exchange **holds at Round 2**; Rounds 3–5 are reserved, not run, and **nothing is promoted** (the [#25](shared-mirror-see-layer-exchange.md) *hold* governs, now on a hard evidentiary basis).
 >
 > **Why this exchange — and how Round 1 was produced.** The [discovery-principle riff](../explorations/discovery-principle-moral-architecture-riff.md) reached v1.2 carrying claims the riff itself names as its most exposed — a *risky transferable prediction* it needs in order not to be apophenia (§2.4, §9 Q3), an authority-coupling / correlated-collapse claim that "owes a source-tiering pass and a small-scale test" (§9 Q11), and a make-or-break dose-response gate the draft leaves unspecified (§4.2, §8). Per riff §7 path 4, the develop-leg claims graduate into an exchange the same way the see leg graduated from the [shared-mirror riff](../explorations/shared-mirror-collective-self-perception-riff.md) into [Exchange #25](shared-mirror-see-layer-exchange.md). **This Round 1 was built cross-lineage on purpose:** the riff was decomposed independently by three model families — a same-lineage Opus *baseline* (control), **GPT 5.5**, and **Gemini 3.1** — each handed the same neutral packet plus the [develop-leg research-grounding digest](discovery-principle-develop-leg-research-grounding.md), and the claim set below is the steward-approved *synthesis of the union* (medium grain). Building Round 1 this way is the direct fix for the same-lineage convergence problem that an [earlier, rolled-back in-lineage attempt](#standing-items) exhibited; the divergences across the three decompositions are recorded in §1.6 because they are more informative than the agreements.
 >
@@ -113,12 +113,12 @@ Round 1 was produced under the [Comparative Alignment Protocol](../process/compa
 
 ### 1.8 Round plan
 
-Round 1 is complete; Rounds 2–5 are **reserved**. **Round 2 is not run in this session and not in the authoring lineage.**
+Rounds 1–2 are complete (Round 2 cross-lineage, §2); the exchange **holds at Round 2** per steward decision; Rounds 3–5 are **reserved, not run**. Round 2 was run by independent lineages, not the authoring (Opus) lineage.
 
 | Round | Purpose | Inputs | Outputs |
 | --- | --- | --- | --- |
 | 1 (this round) | Restate the riff as falsifiable claims (S1–S24) via cross-lineage synthesis + a same-lineage coverage scan; name where Round 2's pressure belongs | Riff v1.2; the three lineage decompositions; [research-grounding digest](discovery-principle-develop-leg-research-grounding.md); [#25](shared-mirror-see-layer-exchange.md) (the model) | The S-claim set; the load-bearing tier (S17 / S6 / S7 / S18 / S21); the §2.5 demotion; Round 2 setup |
-| 2 (reserved) | First-pass adversarial review under [Adversarial Review Protocol](../process/adversarial-review-protocol.md) **Options A + C + D** (reduced context + a moral-psychology / political-socialization skeptic lens + **independent model lineage or human**), grounded in the [research digest](discovery-principle-develop-leg-research-grounding.md) (re-verified by the running lineage, not inherited) | The claims as standalone assertions; the skeptic lens; the verified evidence base | Adversarial findings per claim (load-bearing tier first); an epistemic-status table per [Protocol §3](../process/adversarial-review-protocol.md). *Run by a lineage that did not author the claims — GPT 5.5, Gemini 3.1, another family, or a human reviewer* |
+| 2 (**complete — see §2**) | First-pass adversarial review under [Adversarial Review Protocol](../process/adversarial-review-protocol.md) **Options A + C + D** (reduced context + a moral-psychology / political-socialization skeptic lens + **independent model lineage**), each lineage re-verifying the [research digest](discovery-principle-develop-leg-research-grounding.md) rather than inheriting it | The claims as standalone assertions; the skeptic lens; the evidence base | **Done cross-lineage (GPT, Grok, Gemini): unanimous HOLD.** Epistemic-status table in §2.3; decisive failures S17/S18 (§2.4); unanticipated attacks (§2.5); reviewer-surfaced sources (§2.7); the narrowed-artifact path (§2.8) |
 | 3 (reserved) | External human review per the [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md) — ideally a moral-development / adult-learning / deconversion-studies reviewer | Reviewer Packet adapted to the S-claims | Reviewer's verbatim contribution |
 | 4 (reserved) | Response round → v2 of the claim set | Rounds 2–3 findings | v2 claims with a changelog; a routing recommendation (principle / doctrine / Phase 3 input / hold) |
 | 5 (reserved) | Synthesis + routing decision (steward) | v2 claims | Steward routing decision. **No promotion absent a separate steward decision — the [#25](shared-mirror-see-layer-exchange.md) *hold* governs** |
@@ -135,6 +135,94 @@ Raised by the same-lineage coverage scan (§1.6) as gaps *not tied to a single c
 
 ---
 
+## Round 2 — Independent cross-lineage adversarial review (June 6, 2026)
+
+### 2.1 How it was run
+
+Per the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) **Options A + C + D** and the lineage-independence default: the S1–S24 claim set was handed out as a standalone adversary packet (reduced context + a moral-psychology / political-socialization / adult-learning skeptic lens) to **three independent model families — GPT, Grok, and Gemini** — each blind to the others and to the project's [same-lineage interpretive read](discovery-principle-develop-leg-research-grounding.md). Each re-derived the literature itself; none inherited the digest's tiers. This is the reserved adversarial round the Round-1 cross-lineage synthesis set up, and it is deliberately **not** run in the authoring (Opus) lineage. The three full outputs live in the steward's working thread; this section is the steward-approved synthesis.
+
+### 2.2 Verdict — unanimous HOLD (3 / 3)
+
+**No load-bearing claim survives as a supported positive finding.** The two decisive claims — **S17 (cross-scale transfer)** and **S18 (relabel gate)** — fail in all three lineages. The only claims marked "supported" are **S7** (and only as a *constraint the project currently fails*) and **S24†** (supported but explicitly *not novel*). The [#25](shared-mirror-see-layer-exchange.md) *hold* is **confirmed and strengthened**; nothing is promoted.
+
+> Per the steward decision accompanying this filing, the Round 2 statuses below are **recorded as findings and are NOT applied back to the Round 1 LB / status columns** (§1.3). Re-weighting the claim set is a v2 / Round 4 act, and **Round 4 is not run** — the exchange holds at Round 2 (§2.10).
+
+### 2.3 Epistemic-status table (per [Adversarial Review Protocol §3](../process/adversarial-review-protocol.md))
+
+Cont. = contested · Uns. = unsupported · Under. = underspecified · Rel. = relabel-of-existing · Sup. = supported.
+
+| # | GPT | Grok | Gemini | Consensus |
+| --- | --- | --- | --- | --- |
+| S1 | Cont. | Cont. | Cont. | **Contested** — supports one mechanism, not "predominantly" |
+| S2 | Cont. | Cont. | Cont. | **Contested** — tension is a catalyst, not the isolated active ingredient |
+| S3 | Cont. | Cont. | Cont. | **Contested** — causal arrow disputed (supply can create demand) |
+| S4 | Cont. (scaffold) | Uns. | Uns. | **Unsupported** — Haidt: reasoning often post-hoc |
+| S5 | Uns. | Uns. | Uns. | **Unsupported (3/3)** — ecological fallacy; no matched comparison |
+| S6 | Cont. | Under. | Under. | **Underspecified** — conditions, not "dose" |
+| S7 | Sup. (guardrail) | Sup. | Sup. | **Supported as constraint (3/3)** — the project currently fails it |
+| S8 | Uns. (exhaustive risk) | Under. | Under. | **Underspecified** — typology may omit hybrid/strategic responses |
+| S9 | Under. | Rel. | Rel. | **Relabel / underspecified** — circular definition |
+| S10 | Cont. | Cont. | Cont. | **Contested** — strong predictor, not master variable; directional |
+| S11 | Uns. | Uns. | Uns. | **Unsupported (3/3)** — smuggled confidence |
+| S12 | Cont. (relabel) | Cont. | Cont. | **Contested** — non-correlation can yield apathy/anomie, not synthesis |
+| S13 | Uns. | Uns. | Cont. | **Unsupported** — no matched single-vs-pluralist comparison |
+| S14 | Cont. | Under. | Under. | **Underspecified** — companionship/tip dynamics unquantified |
+| S15 | Uns./Cont. | Uns. | Cont. | **Unsupported–contested** — "highest-leverage" unshown; status-quo bias |
+| S16 | Cont. | Cont. | Cont. | **Contested** — practice/grievance binary is a false/loaded binary |
+| S17 | Sup. (discipline) / unmet | Uns. | Sup. (falsifies the macro-claim) | **Discipline holds; transfer FAILS (3/3) — decisive** |
+| S18 | Rel. | Rel. | Rel. | **Relabel-of-existing (3/3) — decisive** |
+| S19 | Uns. | Uns. | Under. | **Unsupported** — contingent on S18; placement not mechanism |
+| S20 | Cont. | Cont. | Cont. | **Contested** — collapse/replacement models not ruled out |
+| S21 | Sup. as warning (not evidence) | Sup. (risk) | Under. (truism) | **Not evidentiary** — reflexive warning, not a support claim |
+| S22† | Cont. | Partly | Cont. | **Contested** — scaffolding known; "sunset" teleology culturally loaded |
+| S23† | Rel. | Uns. | Rel. | **Relabel** — Rogers client-centered vs. directive |
+| S24† | Sup. (not novel) | Partly | Sup. | **Supported (not novel)** — the best-supported claim, an add-on |
+
+### 2.4 The decisive failures
+
+- **S17 (cross-scale transfer) — decisive and unmet.** "Conceded and fatal" (Grok); "ecological fallacy" — societies have institutions, power, incentives, legitimacy, coalition formation, not a brain that experiences dissonance (Gemini); the leap introduces mechanisms that "are not just bigger individuals" (GPT). The civic claim rests on a metaphor, not a finding.
+- **S18 (relabel gate) — fails as written.** All three map the load-bearing parts onto Mezirow (disorienting dilemma), Festinger (dissonance), Kahan (identity-protective cognition), pluralism / deliberation, and Edmondson (psychological safety). Survivable *only* if narrowed to an operational civic design hypothesis (§2.8).
+- **S6 / S7 — "dose-response" is the wrong abstraction.** All three: it is *conditions over magnitude* (safety, identity-threat, voluntariness, facilitation) — **confirming the digest [Cluster C](discovery-principle-develop-leg-research-grounding.md) gap-close finding** — and S7's precondition is currently unmet by the project's own admission.
+
+### 2.5 Attacks the Round-1 self-assessment did NOT anticipate (the strong cross-lineage signal)
+
+Convergence on S17/S18 is a *weak* signal (the project flagged them itself). These new, independently-landed attacks are the strong signal that the claim set has problems beyond the known ones:
+
+- **The Haidt post-hoc problem (3/3).** Moral reasoning is largely post-hoc rationalization → "moral exercises" may train better *rationalizers*, not architecture. Gemini: the project *cites* Haidt but **misapplies** him. Threatens the whole acquisition cluster (S1/S2/S4).
+- **"Supply creates demand" (Gemini).** Critical pedagogy / consciousness-raising *reverses* S3's demand-then-supply arrow — instruction can *generate* the break.
+- **The "privilege of readiness" (Gemini).** S15's wait-for-readiness biases toward the status quo; social movements *must* manufacture breaks (civil disobedience).
+- **Grievance communities DO build architecture (3/3; Gemini sharpest).** Unions, civil-rights, liberation movements — the practice-vs-grievance binary (S16, and the §5.3 community framing) is "ideologically loaded / false."
+- **S10 directional flexibility (Gemini).** Fusion dictates the *direction* of repair (partisans revise to *maintain* fusion) rather than foreclosing it.
+- **S12 → anomie/apathy/factional-sorting (GPT + Gemini).** Non-correlated authorities can produce Durkheimian anomie or cynicism, not synthesis.
+
+### 2.6 Where the lineages diverged (their distinct value)
+
+- **GPT** — most structurally generous: names narrowed S1/S3 + S6/S7 + S10/S16 as *potentially* survivable if operationalized; sharpest on the measurement question.
+- **Grok** — most decision-forcing: minimal surviving set = **S7 + S17 + S18, all currently failing**; best pre-registration cross-examination questions; cited effect sizes (Kapur g ≈ 0.36–0.87 under high fidelity).
+- **Gemini** — deepest theory: ecological fallacy, Haidt misapplication, supply-creates-demand, privilege-of-readiness, false grievance binary.
+
+### 2.7 Reviewer-surfaced sources (not in the digest)
+
+Named per the [Research-Protocol §2 W8 discipline](../process/research-protocol.md) (not retrieved/tiered this pass); now catalogued in the [digest §9](discovery-principle-develop-leg-research-grounding.md). To be grounded only if a v2 claim set is opened: Kahan (identity-protective cognition → S10); Bandura (social learning → counter to S2); Piaget (disequilibrium → S1/S2, strengthens the S18 relabel case); Latané (social impact → counter to S12); Durkheim (anomie → counter to S12); Rogers (client-centered therapy → S23 relabel); Kohlberg/Rest DIT intervention literature; the moral-progress literature (institutional/economic drivers → S17).
+
+### 2.8 The one constructive path (convergent across all three)
+
+The *only* survivable artifact is a **narrowed civic design hypothesis**, framed as a research agenda / adversarial risk memo / pre-registration scaffold — explicitly **not** a principle or doctrine. "A synthesis claim, not a discovered principle" (GPT); minimal surviving set S7/S17/S18 (Grok); Gemini's concrete version: *design civic institutions to expose citizens to non-correlated authorities to force individual synthesis* — testable, with the burden being operational definitions and comparative tests.
+
+### 2.9 Cross-examination questions carried forward
+
+The nine questions across the three converge on three themes (carried, not answered, since the exchange holds here):
+
+1. **Measurement** — a behavioral measure of "moral architecture" that distinguishes it from vocabulary / openness / intelligence / ideological moderation / ordinary belief-updating (lands on §1.9 Q1).
+2. **Collective-scale falsification** — a matched collective-scale case (or disconfirming prediction) that would force *abandoning*, not reinterpreting, the transfer.
+3. **Pre-registration / stop-conditions** — published operational definitions of productive-vs-harmful tension and a stop condition, before any exercise is designed; plus Gemini's political challenges (the Haidt problem; the privilege of readiness).
+
+### 2.10 Round status
+
+**Round 2 complete.** Per steward decision the exchange **holds at Round 2** — Rounds 3–5 are reserved, not run. **No promotion** (the [#25](shared-mirror-see-layer-exchange.md) *hold* governs, now on a hard evidentiary basis). If the exchange is ever reopened, **Round 4** (a v2 claim set) is where §2.5's attacks would be answered, §2.7's sources grounded, and §2.8's narrowed reframe attempted; nothing about Round 1's claims is rewritten in the meantime.
+
+---
+
 ## Standing items
 
 - **Cross-lineage provenance.** Round 1 is a synthesis of Opus (baseline), GPT 5.5, and Gemini 3.1 decompositions. The three source outputs and the comparison matrix live in the steward's working thread; the divergences that shaped the synthesis are recorded in §1.6.
@@ -142,5 +230,6 @@ Raised by the same-lineage coverage scan (§1.6) as gaps *not tied to a single c
 - **The biggest evidentiary gap.** No source tests the **comparative correlated-collapse prediction** (single-authority vs. pluralist believers under the same disconfirmation) — S13's actual transferable claim and the highest-value research target if S13 is to be re-elevated.
 - **Dose-response gap-close (done, June 2026).** The three dose-response literatures the digest originally deferred — psychological safety (Edmondson 1999), intergroup-contact theory (Allport 1954 / Pettigrew & Tropp 2006), and the trauma / productive-difficulty boundary (Tedeschi & Calhoun 2004; Frazier et al. 2009; Yerkes–Dodson 1908) — were grounded in a T2 pass and now live as [digest](discovery-principle-develop-leg-research-grounding.md) **Cluster C**. A finding for S6/S7: the literatures converge on *conditions over dose magnitude* (safety, equal footing, shared goals, voluntariness), which is the more buildable form of S7's design gate. Still open: the matched-pluralist comparison (S13) and collective-scale dose-response (S17).
 - **Coverage-scan addendum (S22–S24 + §1.9 questions).** Added post-synthesis by a same-lineage scan, flagged **†**, *not* tri-lineage — a completeness patch (riff prose un-lifted by the blind decompositions), not independent corroboration. See §1.6.
+- **Round 2 outcome (cross-lineage HOLD).** Three independent lineages (GPT, Grok, Gemini), blind to each other, returned a **convergent HOLD** (§2): no load-bearing claim survives as a supported positive finding; **S17** (cross-scale transfer) and **S18** (relabel) are the decisive failures. New attacks the Round-1 self-assessment missed — Haidt post-hoc misapplication, supply-creates-demand, privilege-of-readiness, grievance-builds-architecture — are recorded in §2.5; reviewer-surfaced sources in §2.7 / [digest §9](discovery-principle-develop-leg-research-grounding.md). Per steward decision the exchange **holds here**; no v2 / Round 4 is opened, and the Round 1 claim statuses are left unrewritten.
 - **See-import / triad integrity.** This exchange *uses* the mirror (one moral exercise) and the triad (S19's placement target); it does not re-grade [#25](shared-mirror-see-layer-exchange.md)'s M-claims or [#26](coordination-triad-combined-exchange.md)'s T-series.
 - **Provenance / register.** Idea layer only (riff §1.2 privacy firewall). Working claims, named uncertainty, origin-balanced, no rhetorical flourish.
