@@ -1,6 +1,6 @@
 ---
 title: Discovery Principle / Develop-Leg — Research Grounding Digest
-description: A standalone, independently-verifiable evidence catalog for the develop-leg claims of the Discovery Principle and Moral Architecture Riff. Recovered from a rolled-back exchange's Round 2 Research-Protocol (T2) pass and re-presented as a neutral source catalog — sources, tiers, what each argues, what each establishes, and verification status — with NO adversarial verdicts or confidence numbers carried. Its purpose is to hand whichever independent model family runs the reserved Round 1/2 a pre-organized, re-checkable evidence base rather than asking them to inherit same-lineage citations on trust. Same-lineage provenance; cross-lineage verification pending.
+description: A standalone, independently-verifiable evidence catalog for the develop-leg claims of the Discovery Principle and Moral Architecture Riff. Recovered from a rolled-back exchange's Round 2 Research-Protocol (T2) pass, extended June 2026 with a dose-response gap-close (Cluster C), and re-presented as a neutral source catalog — sources, tiers, what each argues, what each establishes, and verification status — with NO adversarial verdicts or confidence numbers carried. Its purpose is to hand whichever independent model family runs the reserved Round 1/2 a pre-organized, re-checkable evidence base rather than asking them to inherit same-lineage citations on trust. Same-lineage provenance; cross-lineage verification pending.
 provenance: collaborative
 status: same-lineage grounding; cross-lineage verification pending
 created: 2026-06-05
@@ -14,7 +14,7 @@ research_tier: T2 (targeted gap-close), output form (b) — Research grounding, 
 >
 > **What this is NOT.** It is **not** an exchange — it runs no rounds, decomposes nothing into claims, and reaches no verdict. It carries **no confidence numbers** and **no adversarial findings**; those belong to the reserved Round 2, which is for an *independent model family or a human reviewer*, per the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) lineage-independence default. It is not registered in [`_EXCHANGE_INDEX.md`](_EXCHANGE_INDEX.md) for the same reason.
 >
-> **Provenance caveat — read first.** This catalog was assembled by the *same model lineage* (Opus) that wrote the riff. A research sub-agent gathered and tiered the sources; a second sub-agent re-retrieved every load-bearing source to check citation integrity — **but both sub-agents share that lineage.** So the *citation-integrity* layer is double-checked in-lineage, while the *independent* read — does this evidence actually support the claims, and what did a non-shared prior surface that we missed? — is exactly what remains to be done. Treat every entry below as **pre-vetted material to re-verify, not settled grounding.** The verification ledger (§4) tells you what was confirmed verbatim, what was confirmed only via secondary access, and what was corrected.
+> **Provenance caveat — read first.** This catalog was assembled by the *same model lineage* (Opus) that wrote the riff. A research sub-agent gathered and tiered the sources; a second sub-agent re-retrieved every load-bearing source to check citation integrity — **but both sub-agents share that lineage.** So the *citation-integrity* layer is double-checked in-lineage, while the *independent* read — does this evidence actually support the claims, and what did a non-shared prior surface that we missed? — is exactly what remains to be done. Treat every entry below as **pre-vetted material to re-verify, not settled grounding.** The verification ledger (§5) tells you what was confirmed verbatim, what was confirmed only via secondary access, and what was corrected.
 
 ---
 
@@ -23,14 +23,15 @@ research_tier: T2 (targeted gap-close), output form (b) — Research grounding, 
 If you are the independent lineage running Round 1 (or a human reviewer):
 
 1. **Do not inherit the tiers or stances on trust.** Re-retrieve each URL, confirm the source exists at the cited venue/date, and assign your *own* tier under [Research Protocol §2](../process/research-protocol.md). Where we flag "confirmed via secondary," the primary text was not directly opened by us — treat those as unconfirmed until you open them.
-2. **Re-check the corrections in §4.** Three citation errors were caught and fixed in our pass (Mezirow's venue; a "personal vs. social transformation" quote misattributed to Fleming rather than Taylor; Hood et al.'s tier and the location of its *intratextual* quote). Confirm our fixes are right; we may have introduced new ones.
-3. **Form your own read.** The per-cluster "what the sources collectively bear on" notes in §2–§3 are deliberately neutral (what each source *argues*, not whether the claim *survives*). Our same-lineage interpretive read is quarantined in §6 and labeled *do not inherit* — read it last, or not at all, if you want a clean look.
-4. **Mind the named gaps (§5).** Three literatures relevant to the dose-response claim were *not* retrieved this pass. If your Round 1 leans on dose-response conditions, those gaps are where to look first.
+2. **Re-check the corrections in §5.** Three citation errors were caught and fixed in our pass (Mezirow's venue; a "personal vs. social transformation" quote misattributed to Fleming rather than Taylor; Hood et al.'s tier and the location of its *intratextual* quote). Confirm our fixes are right; we may have introduced new ones.
+3. **Form your own read.** The per-cluster "what the sources collectively bear on" notes in §2–§3 are deliberately neutral (what each source *argues*, not whether the claim *survives*). Our same-lineage interpretive read is quarantined in §7 and labeled *do not inherit* — read it last, or not at all, if you want a clean look.
+4. **Mind the gaps (§6).** The three dose-response literatures originally deferred are now grounded in **Cluster C (§4)**; what remains open is the matched-pluralist comparison (Cluster B) and collective-scale dose-response. If your Round leans on dose-response conditions, start at Cluster C, then those two open gaps.
 
-The two clusters map to the riff's two **candidate transferable claims** (the only parts the riff argues are its own contribution, riff §2.4):
+Clusters A and B map to the riff's two **candidate transferable claims** (the only parts the riff argues are its own contribution, riff §2.4); **Cluster C** grounds the *make-or-break* dose-response condition (riff §4.2, §8):
 
 - **Cluster A** → the *demand-driven discovery* claim (riff [§2.1](../explorations/discovery-principle-moral-architecture-riff.md)) and the *dose-response / make-or-break* condition (riff §4.2, §8), plus the *relabel/redundancy* gate (riff §6 position D, §8) and the *cross-scale transfer* fault line (riff §2.4).
 - **Cluster B** → the *authority-coupling / correlated-collapse* claim (riff [§2.5](../explorations/discovery-principle-moral-architecture-riff.md)).
+- **Cluster C** → the *dose-response / productive-vs-harmful* condition (riff §4.2, §8; exchange S6/S7) — the named gaps this digest originally deferred, closed in a June 2026 gap-close pass.
 
 "Bears on" is neutral: a source listed under a claim may cut *for* or *against* it. The "What it argues" column records the source's own stance toward the claim, not our judgment of the claim.
 
@@ -76,7 +77,25 @@ The two clusters map to the riff's two **candidate transferable claims** (the on
 
 ---
 
-## 4. Verification ledger (citation-integrity)
+## 4. Cluster C — The dose-response boundary (productive vs. harmful tension)
+
+*Bears on the riff's make-or-break dose-response condition (§4.2, §8) and the exchange's S6 (dose-response exists) / S7 (the design gate). Added in a June 2026 T2 gap-close pass that closed the three literatures §6 originally named.*
+
+| Source (author, title, venue, year) | URL | Tier | What it argues (re: the claim) | What it establishes |
+| --- | --- | --- | --- | --- |
+| Edmondson, "Psychological Safety and Learning Behavior in Work Teams," *Administrative Science Quarterly* 44(2), 1999 | [link](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf) | W1 | pro (the safety precondition) | Field study of 51 work teams: a shared belief that the group is safe for *interpersonal risk-taking* predicts learning behavior (asking questions, admitting error, raising hard issues), which mediates performance. The condition under which people will *risk* the discomfort that learning-through-tension requires — absent it, tension yields silence/defensiveness, not learning. |
+| Pettigrew & Tropp, "A Meta-Analytic Test of Intergroup Contact Theory," *Journal of Personality and Social Psychology* 90(5), 2006 | [link](https://ideas.wharton.upenn.edu/wp-content/uploads/2018/07/Pettigrew-Tropp.pdf) | W1 | pro-but-conditional | 713 samples / 515 studies: intergroup contact *typically reduces* prejudice (more rigorous studies → larger effects). Allport's optimal conditions (equal status, common goals, cooperation, authority support) *facilitate* greater reduction but are an "interrelated bundle," **not essential** — facilitating, not gating. Designed cross-difference tension more often reduces than entrenches, but the conditions matter. |
+| Tedeschi & Calhoun, "Posttraumatic Growth: Conceptual Foundations and Empirical Evidence," *Psychological Inquiry* 15(1), 2004 | [link](https://doi.org/10.1207/s15327965pli1501_01) | W1 *(confirmed via ResearchGate PDF)* | pro (high-dose growth) **with a harm caveat** | Positive change can follow crises that *threaten or nullify* core cognitive structures (the "shattered assumptive world," after Janoff-Bulman) — the high-dose end of "framework break → repair." But growth *co-occurs with distress*, and the *struggle*, not the event, is the engine. |
+| Frazier, Tennen, Gavian, Park, Tomich & Tashiro, "Does Self-Reported Posttraumatic Growth Reflect Genuine Positive Change?," *Psychological Science* 20(7), 2009 | [link](https://pubmed.ncbi.nlm.nih.gov/19515115/) | W1 | **counter / measurement warning** | Prospective design (*n* = 122): self-reported growth (PTGI) was *generally unrelated* to actual pre→post change; *perceived* growth tracked *increased* distress while *actual* growth tracked *decreased* distress. Reports of "growth through adversity" may be meaning-making narrative, not measured capacity gain. |
+| Yerkes & Dodson, "The relation of strength of stimulus to rapidity of habit-formation," *Journal of Comparative Neurology and Psychology* 18(5), 1908 | [link](https://doi.org/10.1002/cne.920180503) | W1 *(primary; confirmed via secondary)* | the curve's *shape* (origin) | Origin of the inverted-U: performance rises with arousal/stimulus up to an optimum, then falls — the canonical shape behind "some doses build, others harm." *(Weak-origin caveat below.)* |
+
+**Supplementary:** Allport, *The Nature of Prejudice*, Addison-Wesley, 1954 (W1 canonical; origin of the four contact conditions — *content confirmed via Pettigrew & Tropp; primary not opened, named not linked*); Diamond, Campbell, Park, Halonen & Zoladz, "The Temporal Dynamics Model… and the Yerkes–Dodson Law," *Neural Plasticity* 2007:60803 ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1906714/), W2) — the 1908 data are thin (few mice, coarse shock gradient, the inverted-U clean in only one of three experiments); the law's robustness comes from *later* (esp. WWII human-performance) work, not the mice; Janoff-Bulman, *Shattered Assumptions*, Free Press, 1992 (W1; the assumptive-world construct PTG builds on — *named, via Tedeschi & Calhoun; primary not opened*).
+
+**What the sources collectively bear on (neutral).** The dose-response *conditions* the riff leaves unspecified (§4.2, §8 names "psychological safety, scaffolding, voluntariness, scaled dose"; exchange S6/S7) have established literatures, and they converge on a reframe: the productive-vs-harmful boundary looks governed more by *conditions* than by *dose magnitude* alone. Edmondson supplies the safety precondition; Allport / Pettigrew & Tropp supply the contact conditions under which cross-difference tension reduces rather than entrenches — and find them *facilitating, not strictly necessary*; Tedeschi & Calhoun supply the high-dose case (framework-shattering can rebuild) while showing growth co-occurs with distress; Frazier et al. warn that *reported* growth may not equal *measured* growth; Yerkes–Dodson supplies the inverted-U shape, but its weak origin (Diamond et al.) cautions against treating "the curve" as settled. **Standing observations for the reviewer:** (a) every result is individual / small-group scale — none specifies dose-response conditions for *designed civic* exercises at population scale (the cross-scale transfer fault line, exchange S17, recurs here); (b) the convergence on *conditions over magnitude* would recast S6 from "find the right amount of tension" toward "establish the conditions (safety, equal footing, shared goals, voluntariness) under which tension is metabolized" — the more buildable, and more falsifiable, form of S7's design gate; (c) Frazier et al. is a measurement caution for the whole develop leg, landing directly on the exchange's new measurement open question (§1.9).
+
+---
+
+## 5. Verification ledger (citation-integrity)
 
 Per [Research Protocol §4.1](../process/research-protocol.md): a research sub-agent produced the grounding with a self-check, then **a separate sub-agent re-retrieved every load-bearing source rather than trusting the citation.** (Both same-lineage — see the provenance caveat.) Results:
 
@@ -88,21 +107,27 @@ Per [Research Protocol §4.1](../process/research-protocol.md): a research sub-a
   2. The **"personal > social transformation" critique** is **Taylor (1998, p. 25)**, surfaced via AERC proceedings — *not* Fleming (2018), whose venue (IGI Global) is **not** a W1/W2 outlet. The cluster table reflects the fix.
   3. **Hood et al. (2005)** is a commercial-scholarly-press monograph — **W2-equivalent, not W1** — and its *intratextual* verbatim sits in the [review](https://psychiatryonline.org/doi/10.1176/ps.2007.58.4.574), not the book excerpt.
 - **Residual flag (no quote affected):** Sunstein's vivid wording ("predeliberation *tendencies*," "*indeed* fanaticism") is verbatim in Sunstein, *Deliberative Trouble? Why Groups Go to Extremes*, **Yale Law Journal 110 (2000)** and later books — **not** at the linked 1999 working paper (which reads "judgments" / "even fanaticism"). This digest's Cluster A entry **uses only paraphrase** of Sunstein, so no quotation is affected; the linked source is the WP, not the origin of that exact phrasing.
+- **Cluster C additions (June 2026 gap-close) — re-confirm these:** *Confirmed verbatim at the cited work (4):* Edmondson (1999, ASQ — MIT PDF); Pettigrew & Tropp (2006, JPSP — Wharton PDF); Tedeschi & Calhoun (2004, *Psychological Inquiry* — ResearchGate PDF); Frazier et al. (2009, *Psychological Science* — SAGE/PubMed). *Confirmed only via secondary — re-open the primary (3):* Yerkes & Dodson (1908, primary not opened; shape confirmed via Wikipedia / The Learning Scientists); Allport (1954, via Pettigrew & Tropp); Diamond et al. (2007, via reviews). No corrections were required in the Cluster C pass.
 - **Open verification step:** steward (or independent-lineage) spot-check at this version boundary remains outstanding ([§4.2](../process/research-protocol.md)).
 
 ---
 
-## 5. Named gaps — relevant literature NOT retrieved this pass
+## 6. Named gaps — status
 
-Named, not cited, per the [§2 W8 discipline](../process/research-protocol.md) (do not pretend to a source you have not opened). All three bear on the **dose-response / make-or-break** condition (riff §4.2) and should be grounded before any Round relies on dose-response conditions:
+The three dose-response literatures this digest originally named were **closed in a June 2026 T2 gap-close pass — now grounded in Cluster C (§4):**
 
-- **Psychological safety** — Edmondson's team-learning literature (the conditions under which people risk the discomfort that learning-through-tension requires).
-- **Intergroup-contact theory** — Allport / Pettigrew (when contact across difference reduces vs. entrenches prejudice — directly relevant to whether designed tension develops or polarizes).
-- **The trauma literature** — the boundary between *productive* difficulty and *harmful* overwhelm (the "scaled, safe dose" half of the gym analogy).
+- **Psychological safety** — Edmondson (1999): the safety precondition for learning-through-discomfort. ✔ grounded.
+- **Intergroup-contact theory** — Allport (1954) / Pettigrew & Tropp (2006): the conditions under which cross-difference tension reduces vs. entrenches prejudice (facilitating, not gating). ✔ grounded.
+- **The trauma / productive-difficulty boundary** — Tedeschi & Calhoun (2004) with the Frazier et al. (2009) measurement counter and the Yerkes–Dodson (1908) inverted-U (Diamond et al. caveat). ✔ grounded.
+
+**Still open (named, not closed), per the [§2 W8 discipline](../process/research-protocol.md):**
+
+- **The matched-pluralist comparison** for the correlated-collapse claim (Cluster B) — single-authority vs. pluralist believers under the *same* disconfirmation — remains untested in anything retrieved (the highest-value Cluster B target).
+- **Collective-scale dose-response** — every Cluster C result is individual / small-group scale; no retrieved source specifies dose-response conditions for *designed civic* exercises at population scale (the cross-scale transfer fault line, exchange S17).
 
 ---
 
-## 6. Same-lineage interpretive read (DISCLOSED — DO NOT INHERIT)
+## 7. Same-lineage interpretive read (DISCLOSED — DO NOT INHERIT)
 
 > This section records what *our* lineage concluded from the catalog above, disclosed for transparency. It is **not** evidence and **not** a verdict you should adopt. It is included so that an independent reviewer can see — and discount — the prior the source-gatherers were operating under. If you want a clean read, skip it. It carries no confidence numbers (those were Round-2 outputs of a rolled-back same-lineage adversarial pass and are deliberately omitted).
 
@@ -110,6 +135,6 @@ Our same-lineage reading was that the develop-leg frame *survives but does not p
 
 ---
 
-## 7. Provenance and register
+## 8. Provenance and register
 
 Idea layer only ([riff §1.2](../explorations/discovery-principle-moral-architecture-riff.md) privacy firewall): the originating personal/biographical substrate is excluded. Working-claim register; named uncertainty; both sides of each contested claim cited per [Research Protocol §2.3](../process/research-protocol.md). The full pre-rollback Round 2 (the same-lineage adversarial pass these sources were gathered for) is preserved out-of-tree on git branch `wip/round2-rollback-snapshot-20260605` for anyone who wants to see how the lineage used this evidence — but that read is reserved, not authoritative.
