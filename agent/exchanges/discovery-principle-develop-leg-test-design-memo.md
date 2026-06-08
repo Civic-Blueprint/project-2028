@@ -1,6 +1,6 @@
 ---
 title: Discovery Principle / Develop-Leg — S17 Test-Design Memo
-description: A standalone design artifact for the Exchange #27 Round-4 reframe — the test that would either earn or kill S17 (the cross-scale-transfer claim), recast as a testable civic design hypothesis. Specifies the measurement instrument (collective repair capacity, behavioral), the matched-comparison design, its power/sample-size analysis (count bodies, not heads: ~45–120 bodies / ~700–3,600 people for a powered comparison, conditional on an unknown effect size), the pre-registered falsifier set, the ethics and stop conditions, the staged "rungs" from the project's own review process up to multi-site, and an agent-automation architecture (persona × model-lineage roles) for designing/running/verifying/red-teaming the test. It is a design, NOT a run: nothing here is evidence, nothing is promoted, and S17 remains on hold. Same-lineage draft; cross-lineage and human review pending.
+description: A standalone design artifact for the Exchange #27 Round-4 reframe — the test that would either earn or kill S17 (the cross-scale-transfer claim), recast as a testable civic design hypothesis. Specifies the measurement instrument (collective repair capacity, behavioral), the matched-comparison design, its power/sample-size analysis (count bodies, not heads: ~45–120 bodies / ~700–3,600 people for a powered comparison, conditional on an unknown effect size), the pre-registered falsifier set, the ethics and stop conditions, the staged "rungs" from the project's own review process up to multi-site, and an agent-automation architecture (persona × model-lineage roles, plus a buildable orchestration sketch — endpoint mapping, a frozen run manifest, and a six-stage run flow) for designing/running/verifying/red-teaming the test. It is a design, NOT a run: nothing here is evidence, nothing is promoted, and S17 remains on hold. Same-lineage draft; cross-lineage and human review pending.
 provenance: collaborative
 status: design only — test not run; S17 on hold; nothing promoted
 created: 2026-06-08
@@ -192,6 +192,82 @@ The orchestration should embody the §4.2 conditions: **non-correlated inputs** 
 - The **falsifier set (§2) is pre-registered before any runs**; agents cannot revise it mid-stream.
 - The **adversary is blind and independent-lineage** (Option D); the synthesizer records divergence rather than smoothing it.
 - The **human owns go/no-go and the ethics call** (§7.2 firewall, Principles 3/4). Agents propose; the steward disposes.
+
+### 7.5 Buildable orchestration — endpoints, manifest, run staging
+
+This makes §7.2 concrete: which model endpoints fill which roles, and how one run proceeds.
+
+**Endpoint mapping (one run; rotate families across runs).** Assign by *role-class*, not by favorite model. The hard rules: the **adversary ≠ author lineage** and is **blind**; the **verifier ≠ author lineage**; the three judgment roles should be **three different lineages** from each other where budget allows. Pin the exact version per run for reproducibility; **rotate the family↔role assignment across runs** so no one lineage's bias becomes structural.
+
+| Role | Lineage rule | Example this run (rotate next) | Context policy (Opt A/B) |
+| --- | --- | --- | --- |
+| Author / designer | any single | Anthropic (Claude Opus 4.x) | full context |
+| Measurement skeptic | ≠ author | OpenAI (GPT 5.x) | reduced — claims + instrument only |
+| Falsifier-hunter (adversary) | ≠ author, **blind** | xAI (Grok 4.x) | reduced + **claims-as-assertions** (Opt B) |
+| Ethics / guardrail monitor | diversity helps | Google (Gemini 3.x) | reduced — design + ethics lens |
+| Three-target red-team | spread across lineages | sincere→Anthropic · mobilizer→OpenAI · instrumental→xAI | persona-only (§5.4) |
+| Verifier | ≠ author | Google (Gemini 3.x) | sources + claims only (Research Protocol §4) |
+| Synthesizer | rotate / least-involved | the family not dominating the critique | all critiques + divergence log |
+| Steward | **human** | — | everything |
+
+Families are illustrative (the four the project already uses); the manifest pins versions, and exact versions drift — so do not hardcode them in prose.
+
+**Run manifest (frozen config — illustrative, not a real API):**
+
+```yaml
+run_id: s17-instrument-v0.3
+stage0_preregistered:          # frozen BEFORE any generative call; hash-checked
+  falsifiers: [F1, F2, F3, F4, F5, F6]
+  instrument_spec: ref://memo#3
+  rubric_hash: sha256:…
+roles:
+  author:            { lineage: anthropic, model: <pin>, context: full,            persona: neutral }
+  measurement_skeptic:{ lineage: openai,    model: <pin>, context: reduced,         persona: psychometrician }
+  adversary:         { lineage: xai,       model: <pin>, context: reduced_blind,   framing: assertions }
+  ethics_monitor:    { lineage: google,    model: <pin>, context: reduced,         persona: irb_organizer }
+  red_team:
+    sincere_holder:  { lineage: anthropic, model: <pin>, persona: sincere_holder }
+    mobilizer:       { lineage: openai,    model: <pin>, persona: mobilizer }
+    instrumental:    { lineage: xai,       model: <pin>, persona: instrumental_user }
+  verifier:          { lineage: google,    model: <pin>, context: sources_only }   # != author
+  synthesizer:       { lineage: <rotate>,  model: <pin>, context: all_critiques+divergence }
+invariants:
+  falsifiers_immutable_after: stage0
+  adversary_blind: true
+  reviewers_blind_to_each_other_until: stage5
+  divergence_preserved: true
+  persona_sim_outputs_tagged: non_evidence
+gates:
+  human_signoff: [stage0_freeze, stage6_go_nogo]
+```
+
+**Run staging.**
+
+```
+[0 pre-register + freeze] ──human ✔──▶ [1 author draft]
+     (F1–F6 + instrument + rubric_hash locked)
+        │
+        ▼
+[2 blind review ∥]   skeptic(B) · adversary(C, blind) · ethics(D)      ← reduced context, 3 lineages
+        │
+        ▼
+[3 persona-sim red-team]  3 targets across lineages  ── NON-EVIDENCE ──▶ validates the §3 instrument
+        │   (plant positive + negative transcripts; a falsifier MUST trip on a planted negative,
+        │    else the measure can't tell repair from rationalization → stop, fix the measure)
+        ▼
+[4 verify (≠ author)] ──▶ [5 synthesize: keep divergence] ──▶ [6 human go/no-go]
+        ▲________________________ bounded revise-loop ________________________│
+```
+
+- **Stage 0 — pre-register & freeze.** Author drafts the spec; human locks F1–F6, the §3 instrument, and a `rubric_hash`. No judgment calls yet.
+- **Stage 1 — draft.** Author (lineage A) produces the target artifact (instrument operationalization / rubric / sim transcripts).
+- **Stage 2 — blind independent review (parallel).** Skeptic, adversary, ethics monitor each get reduced context, a different lineage, and are blind to each other → structured JSON critiques.
+- **Stage 3 — persona-sim red-team (labeled non-evidence).** The three §5.4 targets generate planted-positive and planted-negative transcripts; the gate is whether the instrument classifies them correctly and a falsifier *trips* on a planted negative. This validates the **instrument**, never S17.
+- **Stage 4 — verify.** Verifier (≠ author) checks citation/integrity, not persuasiveness.
+- **Stage 5 — synthesize.** Synthesizer merges and records convergence vs. divergence per the [Comparative Alignment Protocol](../process/comparative-alignment-protocol.md) — divergence is preserved, not smoothed.
+- **Stage 6 — human gate.** Steward reviews the synthesis + divergence, confirms the falsifiers are unmoved, and decides revise (bounded loop to Stage 1) or freeze. Convergence is *not* the success criterion; surviving the adversary is.
+
+**Build paths.** A thin orchestrator (Python or TS) holds the frozen manifest, dispatches each role's system-prompt to its mapped provider endpoint (Anthropic / OpenAI / Google / xAI), collects schema-validated JSON, and writes an auditable run log (every prompt + output + pinned version). Equivalent on the Cursor SDK (`@cursor/sdk` / `cursor-sdk`) — one agent per role with MCP repo access instead of raw API calls. **Cost discipline:** only the judgment roles spend multi-lineage tokens; mechanical steps (scoring to the frozen rubric, hashing, logging, divergence-diffing) are plain scripts, not model calls.
 
 ---
 
