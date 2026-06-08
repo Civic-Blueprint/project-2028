@@ -1,9 +1,11 @@
 ---
 title: Discovery Principle / Develop-Leg — S17 Test-Design Memo
-description: A standalone design artifact for the Exchange #27 Round-4 reframe — the test that would either earn or kill S17 (the cross-scale-transfer claim), recast as a testable civic design hypothesis. Specifies the measurement instrument (collective repair capacity, behavioral), the matched-comparison design, its power/sample-size analysis (count bodies, not heads: ~45–120 bodies / ~700–3,600 people for a powered comparison, conditional on an unknown effect size), the pre-registered falsifier set, the ethics and stop conditions, the staged "rungs" from the project's own review process up to multi-site, and an agent-automation architecture (persona × model-lineage roles, plus a buildable orchestration sketch — endpoint mapping, a frozen run manifest, and a six-stage run flow) for designing/running/verifying/red-teaming the test. It is a design, NOT a run: nothing here is evidence, nothing is promoted, and S17 remains on hold. Same-lineage draft; cross-lineage and human review pending.
+description: A standalone design artifact for the Exchange #27 Round-4 reframe — the test that would either earn or kill S17 (the cross-scale-transfer claim), recast as a testable civic design hypothesis. Specifies the measurement instrument (collective repair capacity, behavioral), the matched-comparison design, its power/sample-size analysis (count bodies, not heads: ~45–120 bodies / ~700–3,600 people for a powered comparison, conditional on an unknown effect size), the pre-registered falsifier set, the ethics and stop conditions, the staged "rungs" (Rung 0 reclassified off the S17 ladder as pipeline/instrument validation) up to multi-site, and an agent-automation architecture (persona × model-lineage roles, plus a buildable orchestration sketch — endpoint mapping, a frozen run manifest, and a six-stage run flow) for designing/running/verifying/red-teaming the test. **v0.2 (June 2026)** incorporates the cross-lineage Pipeline Run 001 review: the F3↔ethics split into F3a/F3b, a pre-registered §3.6 coding rubric with planted cases, removal of the §3.5 preemptive exit + numeric falsifier cutoffs, a consent model matched to the unit of analysis, and citation-scope fixes. It is a design, NOT a run of the S17 test: nothing here is evidence, nothing is promoted, and S17 remains on hold.
 provenance: collaborative
-status: design only — test not run; S17 on hold; nothing promoted
+status: v0.2 design (Pipeline Run 001 incorporated) — S17 test not run; S17 on hold; nothing promoted
+version: 0.2
 created: 2026-06-08
+updated: 2026-06-08
 governing_protocols:
   - ../process/adversarial-review-protocol.md
   - ../process/comparative-alignment-protocol.md
@@ -15,7 +17,9 @@ parent_exchange: discovery-principle-develop-leg-exchange.md
 
 > **What this is.** The artifact [Exchange #27 §4.6](discovery-principle-develop-leg-exchange.md) names as the develop-leg's next step: a **design for the test that would earn or kill S17** — the cross-scale-transfer claim that Round 2 found decisive *against* and Round 4 recast as a **testable civic design hypothesis** (exchange §4.2). It specifies *how* you would test the transfer, with the discipline Round 4 committed to: **the test must be able to come back NO.**
 >
-> **What this is NOT.** It is **not a test that has been run**, and it is **not evidence.** It carries no results and no confidence numbers. It does not promote anything — not a [principle](../../PRINCIPLES.md), not [doctrine](../doctrine/), not a [Phase 3](../explorations/phase-3-front-door-riff.md) brief. **S17 remains on hold** (the [#25](shared-mirror-see-layer-exchange.md) hold governs); this memo only makes the hold *live* (parked pending a specifiable experiment) rather than parked indefinitely. Same-lineage draft (Opus); independent-lineage and human review pending.
+> **What this is NOT.** It is **not a run of the S17 test**, and it is **not evidence.** It carries no S17 results and no confidence numbers. It does not promote anything — not a [principle](../../PRINCIPLES.md), not [doctrine](../doctrine/), not a [Phase 3](../explorations/phase-3-front-door-riff.md) brief. **S17 remains on hold** (the [#25](shared-mirror-see-layer-exchange.md) hold governs); this memo only makes the hold *live* (parked pending a specifiable experiment) rather than parked indefinitely.
+>
+> **Version.** **v0.2** — incorporates the cross-lineage [Pipeline Run 001](discovery-principle-develop-leg-pipeline-run-001.md) review of the v0.1 draft (steward Stage-6 verdict: **REVISE**, adopted). Per-fix changes are in the [changelog](#changelog-v02-run-001). Originally an Opus same-lineage draft; v0.2 is hardened by OpenAI / xAI / Google / Moonshot review. Human review ongoing; the design still awaits a real (Rung 1+) run.
 >
 > **Provenance / firewall.** Idea layer only ([riff §1.2](../explorations/discovery-principle-moral-architecture-riff.md) privacy firewall). Working-design register; named uncertainty; no rhetorical flourish.
 
@@ -35,16 +39,21 @@ S17 says insights about how an *individual* develops moral architecture transfer
 
 > A civic body (institution, community, or polity) deliberately engineered for (1) routine exposure to **non-correlated** authorities/inputs, (2) **psychological safety** for dissent, and (3) **consolidation** after a shared conclusion breaks — will, when hit by a shock that invalidates a prior shared conclusion, **repair** (revise the broken belief while preserving function) at a higher rate than a matched *answer-transmission* body, **without manufacturing the shock or recentralizing authority.**
 
-**Pre-registered falsifiers — declared before any data, any of which kills or bounds the hypothesis:**
+**Citation scope of the three conditions (Run 001 B5/M3 — honest grounding, not over-claim):** condition (2) psychological safety = **Edmondson (1999)**, established for *work-team learning* — its use here is a **work-team → civic transfer, not yet established**; condition (1) non-correlated inputs is better grounded in **Pettigrew & Tropp (2006)** contact theory ([digest Cluster C](discovery-principle-develop-leg-research-grounding.md)) than in Edmondson; condition (3) consolidation draws on **individual** learning theory (Kapur productive failure; Bjork desirable difficulties), and its *collective* form **is itself the S17 transfer under test** — a borrowed analogy, not an established base. The bundle is a hypothesis, not three settled findings.
+
+**Pre-registered falsifiers — declared before any data, any of which kills or bounds the hypothesis. Each carries a numeric threshold set at Stage 0 from the Rung-1.5 pilot estimate (Run 001 B3 — the table states *direction*; the pre-registration states the *cutoff δ*, blinded to outcome):**
 
 | # | If we observe… | …then |
 | --- | --- | --- |
-| F1 | Reasoning-practice bodies do **not** out-repair matched answer-transmission controls under the same shock | transfer **dead** |
-| F2 | Reasoning-practice bodies **fracture or polarize more** (the group-polarization risk realized — Sunstein, [digest Cluster A](discovery-principle-develop-leg-research-grounding.md)) | transfer **dead / net-harmful** |
-| F3 | The effect appears **only** when crises are *manufactured* | **defeats the purpose** (manipulation; §5) |
-| F4 | The effect requires a **central authority** to direct the repair | **defeats the purpose** (it is the machine) |
+| F1 | Reasoning-practice bodies do **not** out-repair matched answer-transmission controls under the same shock (repair-rate gap ≤ pre-set δ) | transfer **dead** |
+| F2 | Reasoning-practice bodies **fracture or polarize more** (rate higher by ≥ δ; the group-polarization risk realized — Sunstein, [digest Cluster A](discovery-principle-develop-leg-research-grounding.md)) | transfer **dead / net-harmful** |
+| F3a | Among reasoning-practice bodies, repair occurs **only** under **self-initiated** breaks and **never** under **externally-imposed** shocks (provenance *classified*, never researcher-induced — see §5) | the "repair *without* manufacturing" claim is **dead** |
+| F3b | The effect appears under opt-in, low-stakes **disconfirmation exercises** but **vanishes** for real naturally-occurring shocks | effect is an **artifact of the artificial condition** — dead |
+| F4 | The effect requires a **central authority** to *direct* the repair (vs. merely *facilitate* consolidation — pre-defined at Stage 0) | **defeats the purpose** (it is the machine) |
 | F5 | "Repair" turns out to be better **justification**, not better **decisions** (Haidt) | transfer **dead** (measuring the wrong thing) |
-| F6 | The effect **vanishes** once IQ / education / selection are controlled | **S18 relabel realized at collective scale** (no distinct capacity) |
+| F6 | The effect **attenuates to non-significance** once IQ / education / selection are controlled | **S18 relabel realized at collective scale** (no distinct capacity) |
+
+> **F3 was split (Run 001 B1 — the F3↔ethics catch-22).** The original F3 ("the effect appears only when crises are *manufactured*") was structurally un-trippable: observing it would require the researcher to manufacture crises, which §5 forbids. The fix separates *who* manufactures. "**The researcher never manufactures a crisis**" is **not a falsifier** — it is a §5 **precondition/ethics rule**. The empirical worry is relocated into two *observational/consensual* falsifiers that need no unethical act: **F3a** classifies the provenance of shocks that already occurred (self-initiated vs. externally-imposed — re-using the [Round 4 S15](discovery-principle-develop-leg-exchange.md) consent distinction); **F3b** uses only the opt-in exercises §5 already permits. Both inherit the §3.6 shock-classification rubric — they are only as trustworthy as that pre-registered coding.
 
 If none of F1–F6 trips and the predicted difference holds, S17 has earned a *first* warrant — not promotion, just the right to a larger test.
 
@@ -60,28 +69,36 @@ When a body meets a shock that invalidates a prior shared conclusion, classify i
 
 ### 3.2 Behavioral indicators (not self-report)
 
-- **Documented belief revision under evidence** — a recorded position/policy change after the disconfirming shock (minutes, statements, votes), not a survey of feelings.
-- **Dissent tolerated without exit** — on-record minority positions present *and* dissenters retained (not excommunicated); measured by retention and the existence of preserved disagreement.
-- **Decision quality on a *novel* dilemma** — performance on a dilemma the body has not seen, scored by **blinded** raters for process features (multiple values weighed, consequences anticipated) vs. slogan-application.
-- **Function preserved** — the body keeps operating (no schism/collapse) *while* revising.
+- **Documented belief revision under evidence** — a recorded position/policy change after the disconfirming shock (minutes, statements, votes), not a survey of feelings. *Anchor (Run 001):* the change must show **evidence uptake** — the new position cites/responds to the disconfirming information — to distinguish integration from reputational face-saving.
+- **Dissent tolerated without exit** — on-record minority positions present *and* dissenters retained **with voice, role-access, and non-punitive standing** (Run 001 m1: retention ≠ tolerance if exit is merely costly or dissenters are sidelined).
+- **Decision quality on a *novel* dilemma** — performance on a dilemma the body has not seen, scored by **blinded** raters for process features (multiple values weighed, consequences anticipated) vs. slogan-application. *Anchor (Run 001 B2):* score on **decision consequences and evidence-use**, on **style-stripped** transcripts (prose normalized), so the rater rewards reasoning, not eloquence/professional polish.
+- **Function preserved vs. control preserved** — the body keeps operating *while* revising. *Anchor (Run 001):* distinguish genuine repair from **stability bought by suppression or centralization** — coded separately (did function survive *because* dissent was crushed? that is calcify/machine, not repair).
 
-### 3.3 Discriminant validity — what repair must be distinguished from (the Round 2 attacks, operationalized)
+### 3.3 Discriminant validity — what repair must be distinguished from (the Round 2 + Run 001 attacks, operationalized)
 
 | Confounder | Guard |
 | --- | --- |
-| Vocabulary / eloquence (better words, same decisions) | Score **decisions/behavior**, not justifications (Haidt) |
-| IQ / education | Control for it; repair must predict **beyond** cognitive ability |
-| Ideological moderation | Repair ≠ moving to center; measure **revisability**, not direction (answers the §2.5 "S10 directional flexibility" attack) |
-| Ordinary belief-updating | Repair is updating a **coupled / identity-linked** belief while preserving identity/function — not updating a trivial one |
-| Rationalization / narrative (Frazier et al.) | **Prospective** pre→post behavioral change, not retrospective self-reported "growth" |
+| Vocabulary / eloquence (better words, same decisions) | Score **decisions/behavior** on **style-stripped** transcripts, not justifications (Haidt) |
+| IQ / education | Control for it; repair must predict **beyond** cognitive ability (effect survives covariate adjustment) |
+| Ideological moderation | Repair ≠ moving to center; measure **revisability**, not direction. *Run 001 M4 anchor:* a moderate body's routine **incremental drift** is not repair — repair is revision **triggered by and responsive to** the specific fracture, measured against the body's own pre-shock baseline |
+| Ordinary belief-updating | Repair is updating a **coupled / identity-linked** belief while preserving identity/function — not updating a trivial one. *Run 001 anchor:* "identity-linked" is **pre-classified** (the belief is named in the body's identity/charter, or its denial triggers identity-defense), not judged post hoc |
+| Rationalization / **measurement-validity** gap (Frazier et al.) | *Run 001 M1 fix:* Frazier et al. show **self-reported** growth ≠ **actual** change — a **measurement-validity** caution (use behavior, not self-report), **not** a rationalization *mechanism* claim. Prospective pre→post **behavioral** change, scored against the §3.6 rubric, with an **independent calibration criterion** so a re-described continuity cannot pass as repair |
 
 ### 3.4 Beat the ecological fallacy
 
-**Unit of analysis = the body's process** (its deliberation records, dissent channels, decision outputs) — *not* the average member's attitude survey. We are measuring an institution's behavior, not a pile of individuals (the §2.5 ecological-fallacy attack).
+**Unit of analysis = the body's process** (its deliberation records, dissent channels, decision outputs) — *not* the average member's attitude survey. We are measuring an institution's behavior, not a pile of individuals (the §2.5 ecological-fallacy attack). *Run 001 caveat (honest):* the process is still **observed through** individual records and votes, so the unit-claim is a *coding* commitment — the §3.6 rubric must score body-level process features, not aggregate member attitudes.
 
-### 3.5 Construct-validity checks
+### 3.5 Construct-validity checks — pre-registered, not a back door
 
-Convergent (does the measure track independent expert ratings of the body's adaptiveness?), discriminant (uncorrelated with eloquence/IQ per §3.3), predictive (does a body's score predict its response to a *future* shock?). If the instrument cannot pass §3.3 + these checks, the test does not proceed — there is nothing trustworthy to measure.
+Convergent (does the measure track independent expert ratings of the body's adaptiveness?), discriminant (uncorrelated with eloquence/IQ per §3.3), predictive (does a body's score predict its response to a *future* shock?). **Run 001 B3 fix — no preemptive exit:** these checks are run **once, at Rung 1, on the §3.6 pre-registered planted cases, before any field data.** A validity failure there is **recorded as a negative result for the instrument** and halts *progression* — it may **not** be invoked *after* seeing field data to retroactively dismiss a falsifying result. The gate runs before the test, not as an escape hatch during it.
+
+### 3.6 The pre-registered coding rubric (Run 001 B2 — the highest-value fix)
+
+The instrument's credibility rests here. Before any field comparison:
+
+- **A written behavioral codebook** with **objective anchors** for: identity-threat (is the belief identity-coupled?), evidence uptake (does the revision respond to the disconfirming data?), dissent standing (voice/role/non-punitive), decision consequences (style-stripped), and centralization (was stability bought by suppression?).
+- **Planted positive and negative cases.** The rubric must, *blind*, classify **known rationalization / re-described-continuity cases as NON-repair** and known repair cases as repair, **before** it is allowed near field data. A rubric that cannot reject the planted negatives fails §3.5 and the test does not proceed.
+- **Auditable, multi-coder — not frozen by one steward (Run 001 B2/M2).** The `rubric_hash` is set at Stage 0, but classifications require **≥2 independent coders with reported inter-rater reliability** plus an **external audit panel**; and a **community-contest log** (§5) lets a studied body formally record where it judges the rubric's "calcify" to be its own "principled solidarity." The coding power is legible and contestable, not laundered through an "objective" pipeline.
 
 ---
 
@@ -130,11 +147,12 @@ So a real *powered* comparison (Rung 2, §6) is **order ~45–120 bodies / ~700�
 
 ## 5. Ethics and stop conditions
 
-- **No manufactured crises.** Only naturally occurring shocks. Manufacturing the break is the manipulation playbook ([riff §8](../explorations/discovery-principle-moral-architecture-riff.md)) and the dose-response hazard (riff §4.2).
-- **Voluntary and opt-in.** The reasoning-practice conditions and any exercises are entered by consent; no one is a subject without knowing it.
-- **Stop conditions.** Predefined harm thresholds (measurable distress, coercion, exit-punishment of dissenters) halt the study.
-- **Reflexive guardrail (S21).** If the design starts to *require* threat-manufacture or central direction to work, that is not a tuning problem — it is F3/F4 firing, and it means we were building the machine.
-- **Power legibility.** Who designs the exercises and the shock-classification is named and reversible ([Principle 3](../../PRINCIPLES.md#3-ai-must-augment-agency-not-replace-democratic-accountability), [Principle 4](../../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible)).
+- **No researcher-manufactured crises (precondition, not a falsifier — Run 001 B1).** The researcher never induces, funds, or nudges a break. This is a hard design constraint; the *empirical* question about manufacturing lives in F3a/F3b (§2), which only **classify** shocks that already occurred or use **opt-in** exercises. Manufacturing the break is the manipulation playbook ([riff §8](../explorations/discovery-principle-moral-architecture-riff.md)) and the dose-response hazard (riff §4.2 — Yerkes–Dodson's inverted-U has a *weak 1908 origin*, [digest Cluster C](discovery-principle-develop-leg-research-grounding.md); treat the hazard as a caution, not a calibrated curve — Run 001 m3).
+- **Consent that matches the unit of analysis (Run 001 B4).** Because the unit is the *body's process* (deliberation records, votes, dissent), a **leader's opt-in is not member consent.** Observation is restricted to **fully public, open-record deliberation** (where the expectation of privacy is waived by default) **or** runs under a **rigorous individual opt-out** protocol for every observed member. **Control ("answer-transmission") bodies require the same consent as the treatment arm** — they are subjects too, and they are the ones the hypothesis expects to "fail," so they cannot be studied silently.
+- **No weaponizing "repair" (Run 001 M2 — reform-as-displacement guard).** A community's refusal to revise ("calcify") is **not** automatically pathology; defensive solidarity can be legitimate self-protection. The study does **not** treat dismantling a community's cohesion as a success metric, and the **community-contest log** (§3.6) is binding: a body may formally record where it judges the rubric's "calcify" to be its own "principled solidarity."
+- **Stop conditions.** Halt the study if: predefined harm thresholds are crossed (measurable distress, coercion, exit-punishment of dissenters); **researchers would have to introduce/fund/trigger any shock** to maintain sample size; **records would capture anyone who did not opt in** (leadership consent is invalid for this); **a studied community formally contests** its classification; or **control bodies would be analyzed without member consent.**
+- **Reflexive guardrail (S21).** If the design starts to *require* researcher-manufactured shocks or central direction to work, that is not a tuning problem — it is F3b/F4 firing, and it means we were building the machine. Run 001's ethics reviewer named the sharpest version: measuring "repair capacity" can become **extracting from communities at their moment of acute vulnerability** — guard against the harvest incentive explicitly.
+- **Power legibility.** Who designs the exercises and the §3.6 shock-classification rubric is named, multi-coder, auditable, and reversible ([Principle 3](../../PRINCIPLES.md#3-ai-must-augment-agency-not-replace-democratic-accountability), [Principle 4](../../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible)) — not frozen by a single steward (Run 001 B2).
 
 ---
 
@@ -142,15 +160,17 @@ So a real *powered* comparison (Rung 2, §6) is **order ~45–120 bodies / ~700�
 
 Staged; each rung gated by the prior; nothing promoted at any rung.
 
+**Run 001 B3 — Rung 0 is reclassified OFF the S17 evidence ladder.** The adversary correctly flagged the original Rung 0 as **circular**: the pipeline *instantiates* the hypothesis, is the *first subject*, and *adjudicates* its own survival, with a tempting asymmetry (positive = "suggestive," negative = "wrong scale"). The fix: Rung 0 is **not** a test rung for S17. It validates the **§7 pipeline and the §3 instrument only**, under two rules — it is **symmetric** (if it cannot return a negative, it does not count) and the agents that **build/run** the pipeline are **separated from** the beliefs being scored (builder ≠ subject). The S17 evidence ladder begins at **Rung 1**.
+
 | Rung | Unit | What it tests | Bodies | People ≈ (§4.2) | Status of evidence |
 | --- | --- | --- | --- | --- | --- |
-| **0** | The **project's own cross-lineage review** process | Does a non-correlated-authority + safety + consolidation process repair the project's *own* beliefs better than a single-lineage one would? | 1 (this exchange) | — (agents) | **Already running**; n = 1; **agent-scale, not civic** — suggestive only (see §7) |
-| **1** | One bounded human body (a community, school, team, or online group) — observational | Does the §3 instrument even **detect variation** in repair? (instrument validation) | 1 + a few | ~30–150 | Not run |
+| **0** *(off-ladder)* | The **project's own cross-lineage review** process | **Pipeline + instrument validation only — NOT S17.** Does the §7 process surface flaws a single-lineage pass misses? | 1 (this exchange) | — (agents) | [Run 001](discovery-principle-develop-leg-pipeline-run-001.md) done; n = 1; **agent-scale; not on the S17 ladder**; symmetric (it *did* return blocking findings) |
+| **1** | One bounded human body (a community, school, team, or online group) — observational | Does the §3 instrument even **detect variation** in repair? (instrument validation) + run §3.5/§3.6 planted-case checks | 1 + a few | ~30–150 | Not run |
 | **1.5** | A small set of bodies — pilot | Estimate the **effect size + intracluster correlation** to power Rung 2 honestly (no prior exists) | ~6–10 | ~150–300 | Not run |
 | **2** | A **matched** comparison (§4) | The actual transfer prediction at minimum viable scale, against F1–F6 | **~45–120** | **~700–3,600** | Not run |
 | **3** | **Multi-site** replication | Whether the effect generalizes | ×2–3 sites | thousands | Not run |
 
-Counts are from §4.2 and are *conditional on an unknown effect size* — Rung 1.5 exists precisely to replace the guess with an estimate. The honest caveat carried from exchange §4.3 #6: Rung 0 tests the mechanism among *AI agents reasoning about a project's beliefs* — **agent-scale ≠ human-civic-scale**, so S17 *recurs* between "agent collective" and "human collective." Rung 0 is the first rung, never the proof.
+Counts are from §4.2 and are *conditional on an unknown effect size* — Rung 1.5 exists precisely to replace the guess with an estimate. The honest caveat carried from exchange §4.3 #6: even at the agent scale, Rung 0 concerns *AI agents reasoning about a project's beliefs* — **agent-scale ≠ human-civic-scale**, so S17 *recurs* between "agent collective" and "human collective." That is the second reason Rung 0 cannot be S17 evidence; the first is the circularity above.
 
 ---
 
@@ -183,9 +203,9 @@ Built from [Adversarial Review Protocol](../process/adversarial-review-protocol.
 
 **Why lineage diversity is non-negotiable on the judgment roles:** same-lineage agents share priors and blind spots — common-mode failure, the riff's §2.5 correlated-collapse / [digest Cluster B](discovery-principle-develop-leg-research-grounding.md). A single-lineage pipeline is **series-wired by construction** — the exact anti-pattern the develop-leg diagnoses; testing the develop-leg with one lineage would be self-refuting. Mechanical roles (scoring to a fixed rubric, data wrangling, formatting) do not need multiple lineages — reserve the cost for decorrelated judgment.
 
-### 7.3 The pipeline instantiates the hypothesis (and is therefore Rung 0)
+### 7.3 The pipeline embodies the hypothesis's conditions — but is NOT S17 evidence (Run 001 B3)
 
-The orchestration should embody the §4.2 conditions: **non-correlated inputs** (multi-lineage = Option D), **psychological safety** (blind / independent so agents are not anchored; the reward is challenge, not agreement — no convergence pressure), and **consolidation** (the synthesis round). Building it this way is both *consistent with what the hypothesis claims* and *makes the pipeline the §6 Rung-0 instance* — with the §6 caveat (agent-scale ≠ civic-scale) in force.
+The orchestration should embody the §4.2 conditions: **non-correlated inputs** (multi-lineage = Option D), **psychological safety** (blind / independent so agents are not anchored; the reward is challenge, not agreement — no convergence pressure), and **consolidation** (the synthesis round). That makes it a faithful *instrument* and a good **pipeline/instrument-validation** exercise (§6 Rung 0, **off-ladder**). It does **not** make the pipeline a test of S17: a process that instantiates the hypothesis and then scores itself is circular (Run 001's adversary's strongest attack). The guardrails: Rung 0 is **symmetric** (must be able to return a negative — Run 001 did surface 5 blocking findings, which is the symmetry working), and the **builders are separated from the subjects.** Evidence for S17 starts at Rung 1, on humans.
 
 ### 7.4 What keeps the pipeline honest
 
@@ -276,7 +296,7 @@ gates:
 1. **It is a design, not a run.** No results, no evidence, no promotion. S17 stays on hold.
 2. **Automation ≠ evidence.** Agents can produce the design, the red-team, the verification, and the Rung-0 instance. They cannot produce the S17 *evidence*, which requires real human collective data (Rungs 1–3). A slick pipeline must not stand in for that.
 3. **Agent-scale ≠ civic-scale.** Rung 0 is suggestive only; the transfer gap recurs.
-4. **The reflexive trap is live.** A pipeline optimized to *validate* the hypothesis becomes the machine confirming itself; the §2 falsifiers, §7.4 structure, and the human node are the only defenses.
+4. **The reflexive trap is live — and demonstrated.** A pipeline optimized to *validate* the hypothesis becomes the machine confirming itself; the §2 falsifiers, §7.4 structure, and the human node are the only defenses. Run 001 made this concrete: its blind adversary caught the **Rung-0 circularity**, which is why Rung 0 is now **off the S17 ladder** (§6). The trap is not hypothetical; the cross-lineage structure is what surfaced it.
 
 ---
 
@@ -286,10 +306,29 @@ gates:
 2. **Unit selection.** What real bodies are matched-comparison candidates without manufacturing anything (§4)?
 3. **Rung 0 honesty.** What would a *negative* Rung-0 look like — i.e., the project's cross-lineage process failing to out-repair a single-lineage one — and are we prepared to record it? (The HOLD that three lineages forced where one rubber-stamped is the existing data point; it cuts *for* the mechanism, so the discipline is to look hardest for the case that cuts against.)
 4. **Reviewer-surfaced sources to fold in if a real test opens.** [Digest Cluster D](discovery-principle-develop-leg-research-grounding.md) (Kahan, Bandura, Piaget, Latané, Durkheim, Rogers, Kohlberg/Rest, Buchanan & Powell) bears on measurement and on the structural-drivers competitor to the transfer.
-5. **Independent-lineage + human review of *this memo*** before any rung is attempted (it is a same-lineage draft). **Done (June 2026):** [Pipeline Run 001](discovery-principle-develop-leg-pipeline-run-001.md) ran the §7.5 cross-lineage pipeline (OpenAI / xAI / Google / Moonshot, blind) *on this memo*. Verdict **REVISE** — the design **survives** (S17 unharmed) but carries **5 BLOCKING fixes** before any rung: (B1) the F3↔ethics contradiction, (B2) objective-washing / status confound in the §3 instrument, (B3) Rung-0 circularity + the §3.5 preemptive exit + missing numeric F-cutoffs, (B4) the consent illusion (leader opt-in ≠ member consent), (B5) the Edmondson overstretch (add Pettigrew & Tropp). Steward Stage-6 go/no-go pending.
+5. **Independent-lineage + human review of *this memo*** — **done (June 2026):** [Pipeline Run 001](discovery-principle-develop-leg-pipeline-run-001.md) ran the §7.5 cross-lineage pipeline (OpenAI / xAI / Google / Moonshot, blind) *on this memo*; steward verdict **REVISE**, and the 5 BLOCKING fixes are folded into this **v0.2** (see changelog). **Still open for v0.3:** the three Run-001 *divergences* left unresolved — (a) the rubric-rigidity vs. community-veto tension (§3.6 vs. §5), (b) whether the public-record/opt-out consent model leaves a viable comparison, (c) residual researcher degrees of freedom in §3.6 shock-classification. A second cross-lineage pass should run on v0.2 before any Rung-1 attempt.
+
+---
+
+## Changelog v0.2 (Run 001)
+
+Each fix traces to a [Pipeline Run 001](discovery-principle-develop-leg-pipeline-run-001.md) finding. Verdict was **REVISE** — the design survived; S17 was never the thing at risk.
+
+| Run 001 finding | Severity | v0.2 change |
+| --- | --- | --- |
+| **B1** F3↔ethics catch-22 (un-trippable falsifier) | BLOCKING | F3 split: "researcher never manufactures" demoted to a §5 **precondition**; empirical worry relocated to **F3a** (provenance, observational) + **F3b** (consensual exercises) |
+| **B2** objective-washing / status confound | BLOCKING | new **§3.6** pre-registered coding rubric (planted positive/negative cases, objective anchors, ≥2 coders + audit panel, contest log); §3.2/§3.3 anchors for evidence-uptake, style-stripping, function-vs-control |
+| **B3** Rung-0 circularity + §3.5 exit + no cutoffs | BLOCKING | Rung 0 **reclassified off the S17 ladder** (pipeline/instrument validation, symmetric, builder≠subject); §3.5 exit closed (validity checks pre-registered, failure logged not invoked post-hoc); **numeric δ cutoffs** added to F1–F6 |
+| **B4** consent illusion | BLOCKING | §5 consent matched to the unit: **public-record default or individual opt-out**; **control bodies need the same consent**; leader opt-in invalid |
+| **B5** Edmondson overstretch | BLOCKING | §2 **citation-scope** note: Edmondson = work-team safety only; **Pettigrew & Tropp** added for non-correlated inputs; consolidation flagged as borrowed individual-learning analogy |
+| **M1/M3** Frazier, Kapur/Bjork miscited | MAJOR | §3.3 Frazier reframed as **measurement-validity** (not mechanism); Kapur/Bjork flagged individual-scale in §2 |
+| **M2** "repair" weaponization | MAJOR | §5 reform-as-displacement guard + binding community-contest log |
+| **M4** ideological-moderation confound | MAJOR | §3.3 anchor: repair is fracture-triggered revision vs. baseline, not incremental drift |
+| **m1/m2/m3** dissent retention, pilot falsifiers, Yerkes–Dodson origin | MINOR | §3.2 retention = voice/role/standing; §6 pilot records falsifiers; §5 Yerkes–Dodson weak-origin caveat |
+| **Divergences** (3) | open | logged in §9 #5 for a v0.3 cross-lineage pass; **not** resolved by fiat |
 
 ---
 
 ## Provenance and register
 
-Same-lineage (Opus) draft, June 2026, as the [Exchange #27 §4.6](discovery-principle-develop-leg-exchange.md) next artifact. Idea layer only ([riff §1.2](../explorations/discovery-principle-moral-architecture-riff.md) privacy firewall). Like the [research-grounding digest](discovery-principle-develop-leg-research-grounding.md), this is a working companion to Exchange #27 and is **not** itself registered in [`_EXCHANGE_INDEX.md`](_EXCHANGE_INDEX.md). It runs no rounds and reaches no verdict; it is a design awaiting independent-lineage and human review.
+Opus draft (v0.1), June 2026, as the [Exchange #27 §4.6](discovery-principle-develop-leg-exchange.md) next artifact; hardened to **v0.2** by the cross-lineage [Pipeline Run 001](discovery-principle-develop-leg-pipeline-run-001.md) review (steward verdict REVISE, adopted). Idea layer only ([riff §1.2](../explorations/discovery-principle-moral-architecture-riff.md) privacy firewall). Like the [research-grounding digest](discovery-principle-develop-leg-research-grounding.md), this is a working companion to Exchange #27 and is **not** itself registered in [`_EXCHANGE_INDEX.md`](_EXCHANGE_INDEX.md). It still reaches no verdict on **S17**, which remains on hold; v0.2 awaits a v0.3 cross-lineage pass (the §9 #5 divergences) and human review before any Rung-1 run.

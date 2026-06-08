@@ -2,7 +2,7 @@
 title: Develop-Leg Agent Pipeline — Run 001 (target: the S17 test-design memo)
 description: Stage-0 pre-registration for the first concrete run of the test-design memo's §7.5 agent orchestration. The pipeline is run, lightweight, ON the test-design memo itself — which doubles as (a) the memo's overdue independent-lineage review (memo §9 #5), (b) a Rung-0 instance of the develop-leg mechanism operating on the project's own beliefs (memo §6), and (c) a shakeout of the orchestration before any human subject is involved. Cross-lineage via Cursor subagents (no API keys). This file is the artifact the steward FREEZES before any subagent is spawned; results are appended after the run. NON-EVIDENCE for S17.
 provenance: collaborative
-status: Run complete (June 8 2026) — synthesis verdict REVISE (5 BLOCKING, all repairable; S17 unharmed); Stage-6 steward go/no-go PENDING
+status: Complete (June 8 2026) — synthesis REVISE (5 BLOCKING, all repairable; S17 unharmed); steward Stage-6 = REVISE adopted, fixes folded into memo v0.2; 3 divergences open for a v0.3 pass
 created: 2026-06-08
 governing_protocols:
   - ../process/adversarial-review-protocol.md
@@ -81,7 +81,7 @@ Run completed cross-lineage via Cursor subagents. Author = Anthropic/Claude (the
 | Ethics monitor | Google | Reject and revise (hold) | 2 BLOCKING · 2 MAJOR · 1 MINOR · 1 AFFIRMING |
 | Verifier | Moonshot | Mixed citation integrity | 1 BLOCKING · 2 MAJOR · 2 MINOR · 3 AFFIRMING |
 | Synthesis | Google (non-author) | **Survives conditionally → REVISE** | 5 BLOCKING consolidated |
-| **Steward go/no-go** | human | **PENDING (Stage 6)** | — |
+| **Steward go/no-go** | human | **REVISE (adopted June 8 2026)** — all 5 BLOCKING fixes folded into memo [v0.2](discovery-principle-develop-leg-test-design-memo.md#changelog-v02-run-001); F3↔ethics discussed and resolved (demote + F3a/F3b) | — |
 
 ### 5.1 Convergence (2+ lineages independently — strongest signal)
 
