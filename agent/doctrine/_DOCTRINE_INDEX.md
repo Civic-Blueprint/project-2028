@@ -29,7 +29,7 @@ A document belongs in `agent/doctrine/` when **all** of the following are true:
 Documents that do **not** belong here:
 
 - Single-exchange working drafts (those stay in [`agent/exchanges/`](../exchanges/)).
-- Process protocols — adversarial, coherence audit, historical parallel test, comparative alignment, reviewer-as-a-round (those live in [`agent/process/`](../process/) or [`docs/`](../../docs/)).
+- Process protocols — adversarial, coherence audit, historical parallel test, comparative alignment, cross-lineage review harness, reviewer-as-a-round (those live in [`agent/process/`](../process/) or [`docs/`](../../docs/)).
 - Source digests (those live in [`sources/`](../../sources/)).
 - Concrete reform proposals (those live in [`proposals/`](../../proposals/)).
 
@@ -52,6 +52,15 @@ Documents that do **not** belong here:
 | **Prerequisites** | [TR1](../../ROADMAP.md#high-priority) (transferability + perspective-gap research sweep) and [TR2](../../ROADMAP.md#high-priority) (external human reviewer participation under the [Reviewer Packet Template](../../docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md)). |
 | **Will house** | The ten-feature design package; the seven-category ownership taxonomy (or that may move to Systems Framework via F2); the reference-class limit; the authenticity conditions; the *replacement-over-addition* default. |
 | **Cross-references it must carry** | [Foundational Commitment 5](../../FOUNDATIONAL_COMMITMENTS.md), [PRINCIPLES.md Principle 5](../../PRINCIPLES.md), [Roadmap TODO #12](../../ROADMAP.md). |
+
+### Automation-boundary doctrine (candidate)
+
+|  |  |
+|---|---|
+| **Source** | [Agent Automation and the Verifier memo](../../memos/agent-automation-and-the-verifier-memo.md) — the verifiability-tier model and the *automate the doing, never the direction-setting or legitimacy* line. |
+| **What it would house** | A standing framework for *how the project decides what analytical work to hand to agents*: the five-tier verifiability cut, the licensed/forbidden boundary bound to [Principle 3](../../PRINCIPLES.md#3-ai-must-augment-agency-not-replace-democratic-accountability) / [Principle 4](../../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) / [Principle 10](../../PRINCIPLES.md#10-the-future-should-be-built-in-the-open) and the reflexive guardrail, and the pairing rule (harness + Civic-Bench must run together). |
+| **Prerequisites** | The memo must first **survive the [Cross-Lineage Review Harness](../process/cross-lineage-review-harness-protocol.md)** (its own §1 routing) and then meet the four doctrine conditions above. It is **not yet doctrine** — it is a working-claim memo. |
+| **Status** | Candidate only; gated. Do not promote until the harness pass and the four conditions are satisfied. |
 
 Other F-track outputs (F2 ownership taxonomy, F4 frontier-AI governance, F6 distributional-incidence protocol) may produce additional doctrine notes once their adversarial review and reviewer cycles complete. Whether each F-track output lands here, in [Systems Framework](../../SYSTEMS_FRAMEWORK.md), or in [`agent/process/`](../process/) is a per-output judgment captured in the relevant exchange's "What comes next" section.
 

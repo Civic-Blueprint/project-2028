@@ -139,9 +139,39 @@ The test also does not substitute for domain expertise. An AI agent can identify
 
 ---
 
+## Strategic-tier backtest: the project's CORE-bench analog
+
+> **Added June 2026.** This section reframes the protocol's role in light of the [Agent Automation and the Verifier memo](../../memos/agent-automation-and-the-verifier-memo.md). That memo argues the project's review protocols are each a **proxy verifier** for a different tier of civic judgment, and names the historical parallel test as the **only verifier that touches the strategic / normative / outcome tier** — the tier with no cheap ground truth, where a real polity over years is the only fully valid judge. This protocol is therefore the project's closest analog to CORE-bench ("reproduce the result"): a slow, confounded, small-n backtest of the project's most consequential forecasts against the historical record.
+
+### The reframe — from "find parallels" to "backtest a forecast"
+
+The protocol above searches for supporting and challenging cases once a proposal reaches "working hypothesis" confidence. The backtest framing sharpens that into a **predict-then-check** discipline, so the test can genuinely come back NO:
+
+1. **State the claim as a falsifiable forecast.** Not "centralizing authority unblocks captured systems" but "*in cases structurally like X, this mechanism produced [specific outcome] within [horizon]; if the project's leverage claim is right, matched historical cases should show that pattern and the disconfirming search should fail to find clean counter-cases.*"
+2. **Pre-commit to the failure condition before searching.** Write down what pattern of cases would *lower* the project's confidence — and by how much — before any case is pulled. This is the [harness Stage-0 freeze](cross-lineage-review-harness-protocol.md) applied to evidence.
+3. **Draw the case frame from outside the project.** Use a pre-committed external case set (e.g., a database or a published case universe) rather than cases the project already cites, so the search cannot be steered toward confirmation. The [coordination-triad riff §10.12](../explorations/coordination-triad-see-decide-act-riff.md) did exactly this — N=18 cases from Participedia + the OECD deliberative wave, the project's own five cases *excluded* — and it is the model to follow.
+4. **Score the forecast, not the vibe.** Record how many cases fit, how many cut against, and whether the gap survives the most hostile honest recoding (again, the triad-riff move). Update the proposal's confidence in the named direction.
+
+### Why this stays slow, confounded, and uncheap — by nature
+
+The [verifier memo §3](../../memos/agent-automation-and-the-verifier-memo.md) is explicit that this verifier cannot be made cheap the way a test suite is: history is not a controlled experiment, n is small, context dominates, and the [ecological-fallacy](../exchanges/discovery-principle-develop-leg-exchange.md) and transfer problems (Exchange #27 S17) bite hardest here. The backtest **raises the empirical bar; it does not clear it.** A passed backtest earns a *first* warrant for a strategic claim — never a promotion on its own.
+
+### What agents can and cannot do here
+
+- **Agents can** run the structured search, draft the 2–3 case write-ups, and propose the external case frame — fast, at scale.
+- **The [Cross-Lineage Review Harness](cross-lineage-review-harness-protocol.md) can** red-team the parallels for cherry-picking and overstated structural similarity (an independent-lineage adversary is well-suited to "these cases are not actually parallel").
+- **Agents cannot** supply the ground truth. Every case keeps its mandatory verification marking (**AI-generated (unverified)** / **human-expert-confirmed** / **published-source-confirmed**, §4), and a strategic claim should not lean on AI-generated-unverified cases alone. Domain-expert and practitioner review remains the irreducible step — the same human floor the [verifier memo §6.2](../../memos/agent-automation-and-the-verifier-memo.md) draws.
+
+### Recommended first backtest
+
+**Recursive uplift** is the natural first target: it is the project's most consequential strategic claim, the one [Exchange #12](../exchanges/memo-01-housing-parallel-test-exchange.md) already flagged as the most vulnerable, the load-bearing claim under [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md), and the subject of the unstarted [ROADMAP TODO #13](../../ROADMAP.md) (recursive-uplift theory specification). Running the backtest discipline above on the recursive-uplift cascade — pre-registering the disconfirming search before pulling cases — is the highest-value strategic-tier verification the project can attempt next.
+
+---
+
 ## Relationship to other protocols
 
 - **Adversarial Review Protocol:** The adversarial protocol challenges claims. The historical parallel test grounds claims in evidence. An adversarial reviewer who argues "this will fail" should be met with historical evidence, not just structural rebuttal. The two protocols are natural complements.
+- **Cross-Lineage Review Harness:** The harness is the proxy verifier for the *internal* adversarial-robustness tier; this protocol is the proxy verifier for the *strategic* tier. Use the harness to red-team a backtest's case selection for cherry-picking; use the backtest to ground a claim the harness found internally robust but empirically untested.
 - **Coherence Audit Protocol:** Each historical parallel section added to the Systems Framework is new content that could introduce coherence drift. The coherence audit should check that historical grounding sections are consistent with the Principles and Problem Map.
 
 ---
