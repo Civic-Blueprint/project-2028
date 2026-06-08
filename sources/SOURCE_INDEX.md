@@ -5,7 +5,7 @@ provenance: "collaborative"
 
 # Source Index
 
-> **Status (April 2026):** Active. This index tracks curated source digests in `sources/` that feed the [Government Overreach, Ownership as Transition, and the Ratchet Problem exchange](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md), the [AI Commonwealth vs. AI Governance exchange](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md), and adjacent exchanges. Sources are grouped by sub-debate and viewpoint to make it easy to assemble balanced evidence bases for Round 2 and subsequent rounds. As of April 2026, 53 digests are catalogued (the originating Friedberg anchor + 50 curated references across two research sweeps + 2 additional steward-anchor digests from *The Weekly Show*: one with Acemoglu and Autor, and one with U.S. Senate candidate Graham Platner).
+> **Status (April 2026):** Active. This index tracks curated source digests in `sources/` that feed the [Government Overreach, Ownership as Transition, and the Ratchet Problem exchange](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md), the [AI Commonwealth vs. AI Governance exchange](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md), and adjacent exchanges. Sources are grouped by sub-debate and viewpoint to make it easy to assemble balanced evidence bases for Round 2 and subsequent rounds. As of April 2026, 53 digests are catalogued (the originating Friedberg anchor + 50 curated references across two research sweeps + 2 additional steward-anchor digests from *The Weekly Show*: one with Acemoglu and Autor, and one with U.S. Senate candidate Graham Platner). **June 2026:** a 54th digest and a new Sub-debate 9 were added to serve the agent-automation verifier cluster (the [Verifiers for Reality riff](../agent/explorations/verifiers-for-reality-riff.md) reframe), the first index entry not tied to the Government Overreach exchange.
 >
 > **Scope:** This index intentionally favors peer-reviewed work, major investigative journalism, reputable think-tank analysis (across the political spectrum), named-expert essays, and freely available book chapters or summaries. Paywalled or speculative material is excluded unless explicitly noted.
 >
@@ -35,6 +35,7 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 6. **Price discipline in subsidized sectors** — is the "Chart of the Century" divergence caused by government funding, Baumol's cost disease, regulatory complexity, or demand-side effects, and in what proportion?
 7. **Fear-based framing and policy risk** — when do precaution-driven policies (Germany nuclear, AI regulation, financial reform after crises) produce the outcomes they were designed to prevent?
 8. **Bounded-governance design, fiscal rules, and institutional anti-ratchet mechanisms** — what design patterns (sunset clauses, independent review, constitutional fiscal rules, polycentric governance, trust-earned delegation) actually constrain expansion without paralyzing corrective action?
+9. **Reflexivity, performativity, and measurement that changes the measured (civic-verification methodology)** — when an instrument or model perturbs the very thing it reads, can civic claims still be "verified," and what does the cross-disciplinary record say about modeling civics as a control loop rather than a test suite? *(Serves the [agent-automation verifier cluster](../agent/explorations/verifiers-for-reality-riff.md) and the explorations, not the Government Overreach exchange; added June 2026.)*
 
 ---
 
@@ -143,6 +144,14 @@ Digest files live in `sources/` and follow the naming convention `source-[short-
 | Institutional / direct-democracy entrenchment | [Swiss Direct Democracy](source-swiss-direct-democracy-digest.md) | Entrenchment mechanism in the bounded-governance design package; Frey's political-economy findings. (also in Sub-debate 3) |
 | Pro-worker / regulation-is-possible | [Stewart, Acemoglu & Autor — *AI & The Future of Work*](source-weekly-show-stewart-ai-future-of-work-digest.md) | China-as-existence-proof regulatory argument; concrete pro-worker AI policy package (UBC, labor/capital tax rebalance, wage insurance) usable in F4 frontier-AI worked example. (also in Sub-debates 3, 4, 6, 7) |
 | Social-democratic / "good government" framing | [Stewart / Platner — *Politics for ME (and You)*](source-weekly-show-stewart-platner-digest.md) | "The answer to bad government isn't no government, it's good government" (Cluster 11) — a first-person, non-academic articulation of the bounded-governance synthesis direction; FDR/New Deal historical anchor (Clusters 3–4) including 1937 court-packing and the 1944 Economic Bill of Rights as institutional-design references. (also in Sub-debate 3) |
+
+## 9. Reflexivity, performativity, and measurement that changes the measured (civic-verification methodology)
+
+This sub-debate does not split on the pro-market / social-democratic / heterodox axis; the contest it balances is *methodological* — whether the control-system reframe is valid or concedes too much. The single digest below carries both sides internally (counterperformativity and the Mäki critique against the reframe; the convergent multi-field lineage for it), per [Research Protocol §2.3](../agent/process/research-protocol.md#23-balance-requirements).
+
+| Viewpoint | Digest | Source (short) |
+|---|---|---|
+| Methodological / cross-disciplinary | [Reflexivity, Performativity, and the Control-System Reframe](source-reflexivity-performativity-control-systems-digest.md) | Six literatures (Lucas critique, double hermeneutic + Soros reflexivity, MacKenzie performativity, wicked problems, Goodhart/Campbell, Hawthorne/measurement reactivity, Beer cybernetics) converge on "the instrument perturbs the measured"; grounds the [Verifiers for Reality riff §6](../agent/explorations/verifiers-for-reality-riff.md#6-the-reflexivity-ceiling--the-thread-least-resolved) reframe. T2 gap-close. |
 
 ---
 
