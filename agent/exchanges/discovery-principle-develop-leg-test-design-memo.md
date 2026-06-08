@@ -286,7 +286,7 @@ gates:
 2. **Unit selection.** What real bodies are matched-comparison candidates without manufacturing anything (§4)?
 3. **Rung 0 honesty.** What would a *negative* Rung-0 look like — i.e., the project's cross-lineage process failing to out-repair a single-lineage one — and are we prepared to record it? (The HOLD that three lineages forced where one rubber-stamped is the existing data point; it cuts *for* the mechanism, so the discipline is to look hardest for the case that cuts against.)
 4. **Reviewer-surfaced sources to fold in if a real test opens.** [Digest Cluster D](discovery-principle-develop-leg-research-grounding.md) (Kahan, Bandura, Piaget, Latané, Durkheim, Rogers, Kohlberg/Rest, Buchanan & Powell) bears on measurement and on the structural-drivers competitor to the transfer.
-5. **Independent-lineage + human review of *this memo*** before any rung is attempted (it is a same-lineage draft).
+5. **Independent-lineage + human review of *this memo*** before any rung is attempted (it is a same-lineage draft). **Done (June 2026):** [Pipeline Run 001](discovery-principle-develop-leg-pipeline-run-001.md) ran the §7.5 cross-lineage pipeline (OpenAI / xAI / Google / Moonshot, blind) *on this memo*. Verdict **REVISE** — the design **survives** (S17 unharmed) but carries **5 BLOCKING fixes** before any rung: (B1) the F3↔ethics contradiction, (B2) objective-washing / status confound in the §3 instrument, (B3) Rung-0 circularity + the §3.5 preemptive exit + missing numeric F-cutoffs, (B4) the consent illusion (leader opt-in ≠ member consent), (B5) the Edmondson overstretch (add Pettigrew & Tropp). Steward Stage-6 go/no-go pending.
 
 ---
 
