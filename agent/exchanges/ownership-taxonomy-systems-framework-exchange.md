@@ -1,6 +1,6 @@
 # Ownership Taxonomy → Systems Framework — Exchange (F2)
 
-> **Status (June 2026):** Active; Rounds 1–3 complete; Round 4 (confirmatory cross-lineage) reserved. This file opens the F2 follow-up from [Exchange #21](government-overreach-ownership-ratchet-exchange.md): it takes the v2 seven-category ownership taxonomy produced and adversarially tested in #21 and works out where it belongs in [`SYSTEMS_FRAMEWORK.md`](../../SYSTEMS_FRAMEWORK.md) and what it implies for [Problem Map](../../PROBLEM_MAP.md) Domains 2 and 10. **Round 2 (cross-lineage adversarial — GPT-5.5, Gemini 3.1 Pro, Grok 4.3, blind) returned a strong _revise-before-integrate_ verdict; Round 3 responds with a redesigned [taxonomy v3](#round-3--response--taxonomy-v3-june-9-2026-agent-steward-same-lineage) — a three-axis descriptor (control-rights · enforceability/robustness · acknowledged-normative form overlay) replacing the flat seven-box menu. v3 is NOT yet validated: it must survive a confirmatory cross-lineage Round 4 before any `SYSTEMS_FRAMEWORK.md` / Problem Map integration.**
+> **Status (June 2026):** Active; Rounds 1–3 complete; Round 4 (confirmatory cross-lineage) — **hand-off packet built and ready to run**, results reserved. This file opens the F2 follow-up from [Exchange #21](government-overreach-ownership-ratchet-exchange.md): it takes the v2 seven-category ownership taxonomy produced and adversarially tested in #21 and works out where it belongs in [`SYSTEMS_FRAMEWORK.md`](../../SYSTEMS_FRAMEWORK.md) and what it implies for [Problem Map](../../PROBLEM_MAP.md) Domains 2 and 10. **Round 2 (cross-lineage adversarial — GPT-5.5, Gemini 3.1 Pro, Grok 4.3, blind) returned a strong _revise-before-integrate_ verdict; Round 3 responds with a redesigned [taxonomy v3](#round-3--response--taxonomy-v3-june-9-2026-agent-steward-same-lineage) — a three-axis descriptor (control-rights · enforceability/robustness · acknowledged-normative form overlay) replacing the flat seven-box menu. v3 is NOT yet validated: it must survive a confirmatory cross-lineage Round 4 before any `SYSTEMS_FRAMEWORK.md` / Problem Map integration.**
 >
 > **Why this exchange:** [Exchange #21 Round 5](government-overreach-ownership-ratchet-exchange.md#round-5) produced a seven-category ownership taxonomy as Deliverable 2 (v2) and survived adversarial review (the load-bearing Round 4 win was the addition of a seventh category, *communal-stewardship*). Round 5's follow-up menu listed **F2 — Ownership taxonomy → Systems Framework** as a distinct exchange because the taxonomy currently lives only inside the #21 record; until it is formalized in a core document, no proposal or domain analysis can reference it. This exchange starts now because the steward selected F2 to spawn (Roadmap TODO #1, June 9, 2026) as the one #21 follow-up that is **not** gated on external-reviewer recruitment — F1/F3/F4 wait on reviewers; F2 is internal integration work the agents can advance immediately.
 
@@ -309,6 +309,58 @@ v3 **post-dicts the conversion**: because the city kept Alienation + Override (A
 - **v3-C5 — De-skewed completeness.** The expanded overlay + axis design captures the dominant concentrating forms and dissolves the "missing category" complaints (incl. dedication). *Falsified if* a policy-relevant form fits no (A, B, C) descriptor.
 - **v3-C6 — Determinacy.** Two analysts reading the same deed / cap-table converge on the Axis-A profile. *Falsified if* the A-profile is as contestable as the moral primary/secondary labels were.
 
-### Round 4 — reserved (confirmatory cross-lineage adversarial)
+### Round 4 — confirmatory cross-lineage adversarial (packet ready; run reserved)
 
-v3 must be attacked by ≥2 **independent lineages blind to each other** (and to this Round 3), per the protocol's lineage-independence default, before any core-document edit. A v3 hand-off packet (parallel to the Round 2 one above, swapping in the three axes and the v3 claims) will be built when Round 4 is run. **Integration of v3 into `SYSTEMS_FRAMEWORK.md` / `PROBLEM_MAP.md` is gated on Round 4 survival.**
+v3 must be attacked by ≥2 **independent lineages blind to each other** (and to this Round 3), per the protocol's lineage-independence default, before any core-document edit. The copy-paste **[Round 4 hand-off packet](#round-4-hand-off-packet-self-contained--copy-paste-as-the-adversarial-prompt)** below is built and ready to run. **Integration of v3 into `SYSTEMS_FRAMEWORK.md` / `PROBLEM_MAP.md` is gated on Round 4 survival.**
+
+---
+
+## Round 4 hand-off packet (self-contained — copy-paste as the adversarial prompt)
+
+> **Use this block, not the whole exchange.** It is deliberately detachable and presents the v3 framework cold, with **no** mention that it is a *revision* and **no** Round 1–3 conclusions — so an independent model lineage (GPT / Gemini / Grok) attacks v3 on its own merits, per the [Adversarial Review Protocol §2](../process/adversarial-review-protocol.md) lineage-independence default. Do **not** hand the reviewer this file. Run it through two or three lineages blind to each other; attacks that converge across lineages are the strong signal. The neutral test cases are deliberately chosen to cut in **opposite directions** (one favoring conversion, one favoring a blocking community, one a pure concentration play) so the reviewer can test whether the "descriptive" axes stay neutral when sympathies flip.
+
+```text
+You are an adversarial reviewer. ATTACK the framework and assertions below — do not improve them. Be harsh; find where they are wrong, overstated, circular, parochial, or incomplete. Do not be collegial.
+
+CONTEXT (deliberately reduced):
+A civic-systems project uses the framework below to describe how any asset is owned and controlled, in order to (a) decide what belongs in its strategic-design document versus its statement of principles, and (b) sharpen two diagnostic domains: "capital allocation steered in ways most people cannot see or influence" (Domain 2) and "wealth and power concentrating faster than governance can respond" (Domain 10).
+
+THE FRAMEWORK — a three-axis descriptor (an asset is described by all three, not sorted into one box):
+
+AXIS A — CONTROL-RIGHTS BUNDLE (claimed to be the descriptive, value-neutral spine). For any asset, record WHO holds each of seven rights (the state / a corporation / a bounded community / an individual / no one):
+  1. Use / access — who may use or enter
+  2. Withdrawal / income — who takes the yield
+  3. Management — who decides how it is used and by whom
+  4. Exclusion — who decides who is in or out
+  5. Alienation — who may sell, lease, pledge, or convert it
+  6. Residual / loss-bearing — who captures residual value and who bears losses
+  7. Override / conversion authority — who can UNILATERALLY change the asset's purpose or category (e.g., a state, a council, a majority)
+  Claimed reading: Domain-2 "steering" = whoever holds Management + Alienation + Residual; Domain-2/10 "conversion" = whoever holds Override; Domain-10 "concentration" = accumulation of Management + Alienation + Residual across assets with weak or absent public Override.
+
+AXIS B — ENFORCEABILITY / ROBUSTNESS PROFILE (claimed to determine durability under pressure). Scored from: boundary clarity; monitoring; graduated sanctions; conflict-resolution + legal standing; recognition by a higher authority; nested governance; alienation constraints (anti-conversion covenants, supermajority-to-sell, dedicated defense funding, eminent-domain carve-outs); and overall resistance to fiscal / political / development conversion pressure.
+
+AXIS C — FORM / TELEOLOGY OVERLAY (the project CONCEDES this axis is normative and assigns it to its principles, not its analytic layer). Forms include: personal-autonomy; innovation (time-bounded); corporate-fiduciary / shareholder-primacy (perpetual, profit-maximizing); rentier-absentee / financial-speculative; transitional-productive; cooperative / mutual; civic-commons; public-enterprise / sovereign; state-security / sovereign-monopoly; collective-dividend (treated as REDISTRIBUTIVE, not structural); communal-stewardship; operational / use-right (leasehold, usufruct); open-access / failed-exclusion; with ecological-ceiling-indexed treated as a cap on rights rather than a form.
+
+ASSERTIONS TO ATTACK (each with the project's own falsifier — beat the falsifier or find a better attack):
+A1. The seven control-rights are a COMPLETE basis: any policy-relevant ownership/control arrangement can be described by who holds each. (False if you can name a policy-relevant arrangement that needs a right not reducible to these seven.)
+A2. Naming the steering locus (Management + Alienation + Residual) and conversion locus (Override) gives real analytic LEVERAGE on Domains 2 and 10 — beyond relabeling existing mechanisms. (False if it yields no remedy or leverage that plainly naming the mechanism would not.)
+A3. An arrangement's DURABILITY under fiscal/political/development pressure is governed mainly by its Axis-B profile, roughly independent of its Axis-C form. (False if a low-B arrangement is reliably durable, or a high-B one reliably fragile, for reasons unrelated to the profile.)
+A4. Axis A + Axis B are DESCRIPTIVE and value-neutral; only Axis C carries normative commitments. (False if defining or applying Axis A/B still smuggles contested value commitments — e.g., the choice, definition, or salience of "override" or "residual" encodes a politics.)
+A5. With Axis A + Axis B plus the expanded Axis-C form list, every policy-relevant ownership form is describable, and apparent "missing categories" (e.g., a purpose-restricted charitable/parkland dedication) are reconstructed as COMBINATIONS (a commons/stewardship form carrying a strong alienation-constraint), not new primitives. (False if a policy-relevant form fits no (A,B,C) combination.)
+A6. Reading who-holds-which-right off a real instrument (deed, statute, charter, cap-table) is DETERMINATE — two competent analysts converge — unlike assigning a moral category. (False if a real instrument leaves the control-rights profile as contestable as a moral label.)
+
+NEUTRAL TEST CASES (interpret each yourself; do not assume any "right" answer. For each: give the Axis-A holders, an Axis-B robustness read, and the Axis-C form before/after; then say which assertion(s) it bears on and how):
+T1. In 1965 a railroad transferred a disused corridor to a regional authority "in perpetuity for use as a public recreational trail." In 2024, facing a budget shortfall, the authority leased the corridor for 50 years to a private utility to bury a fiber line and access road, ending public trail use.
+T2. A coastal town's tidal flats have been used for shellfishing by local families for generations under customary right (no title). A regional government wants to site an offshore-wind interconnection station there — studies say it would cut regional emissions and lower power bills broadly — displacing the customary use. The community invokes a stewardship claim to block it.
+T3. A private-equity fund buys 15,000 single-family homes across one metro, finances them with securitized debt, and manages them through an opaque servicer. Rents rise, maintenance falls, and no local party can identify or hold the ultimate owner accountable.
+
+DOMAIN LENSES: answer once as an institutional / political economist, once as a scholar of common-property regimes (Ostrom lineage), and once as a property / trust-law realist — the three standpoints most likely to expose a missing right, a parochial ontology, or a false claim of neutrality.
+
+OUTPUT:
+- For each of A1–A6: a verdict (survives / wounded / falsified) with your sharpest attack.
+- META: does splitting one taxonomy into three axes genuinely fix the underlying problems, or just spread them across three axes that are individually harder to falsify? 
+- List any control-right missing from Axis A's seven, and any policy-relevant ownership form that fits no (A,B,C) description.
+- Is the "bundle of rights" ontology ITSELF culturally parochial — i.e., does reducing relational or customary tenure to "who holds which incident" misdescribe it, reproducing the very Western-legalist bias the framework claims to escape?
+```
+
+> **When the responses come back:** record each lineage's verdicts as a Round 4 entry (one sub-section per lineage, blind-to-each-other noted), then synthesize convergent attacks into a verdict on v3. Possible outcomes: (a) **v3 survives** → proceed to the `SYSTEMS_FRAMEWORK.md` / `PROBLEM_MAP.md` integration (A+B spine to the Framework, C overlay to `PRINCIPLES.md §5`) and annotate [Exchange #21](government-overreach-ownership-ratchet-exchange.md) Deliverable 2 as superseded by v3; (b) **v3 wounded** → a targeted Round 5 patch on the specific axis that failed; (c) **v3 falsified** → reconsider whether an ownership *taxonomy* (vs. a pure control-rights + robustness checklist with no form overlay) is the right tool at all.
