@@ -1,6 +1,6 @@
 # Starting Proposal Comparative Review — P-004/P-107 vs. P-053
 
-> **Status (April 2026):** Active discussion. This exchange captures a structured comparative deep dive into the two strongest candidates for the project's first proposal development effort: the Open-Source Permitting Stack (`P-004` / `P-107`) and Federal Skills-First Hiring (`P-053`).
+> **Status (June 2026):** Synthesized. This exchange captures a structured comparative deep dive into the two strongest candidates for the project's first proposal development effort: the Open-Source Permitting Stack (`P-004` / `P-107`) and Federal Skills-First Hiring (`P-053`). **Steward decision (June 9, 2026): develop `P-004` / `P-107` as the primary recursive-uplift target; keep `P-053` available as an optional fast parallel early win. See the [Steward decision](#steward-decision-june-9-2026) section.**
 >
 > **Why this exchange:** [Exchange #14](permitting-stack-recursive-uplift-exchange.md) opened development work on `P-004` / `P-107` based on the recommendation from [Exchange #13](autonomous-proposal-generation-stress-test.md). The steward wants to pressure-test that choice by doing a head-to-head comparative analysis of the top two candidates before committing further development effort. `P-053` was identified as the runner-up with a distinct set of advantages — zero-cost executive order, breaks a coordination equilibrium — and a narrower but potentially faster uplift path. This exchange exists to make the comparison rigorous rather than intuitive.
 
@@ -176,3 +176,17 @@ For each proposal, the next rounds should investigate:
 4. **What are the honest failure modes?** Not strawman failures but the most likely ways each proposal underperforms, and what the project learns from each failure mode.
 
 5. **What does the project contribute that doesn't already exist?** The unique value-add from framing these proposals within the recursive-uplift framework rather than as standalone policy ideas.
+
+---
+
+## Steward decision (June 9, 2026)
+
+The steward resolved the comparison in favor of **`P-004` / `P-107` (Open-Source Permitting Stack) as the primary recursive-uplift development target**, with **`P-053` (Federal Skills-First Hiring) held as an optional, fast, parallel "early win"** — run only if bandwidth allows, not as the flagship.
+
+**Rationale.** Reframed (per Open Question 1) as a *sequencing* question rather than either/or. `P-004` / `P-107` wins on the dimensions that matter most at this stage: distinctiveness (nobody else frames permitting as a recursive-uplift keystone), durability (open-source municipal adoption can't be reversed by a new administration), public visibility (permitting pain is broadly legible), and informative failure (it directly tests the visible-competence → trust hypothesis). `P-053`'s one decisive edge — speed to a result — can be captured separately without making a non-distinctive, politically fragile intervention the project's flagship.
+
+**Consequence.**
+- Development effort routes to `P-004` / `P-107` via [Exchange #14](permitting-stack-recursive-uplift-exchange.md); the next concrete deliverable is a technical concept note / pilot-selection rubric (per Open Question 6).
+- `P-053` is parked as an optional parallel predictive test, not abandoned.
+- The commitment should be pressure-tested against [Exchange #10 (Housing Financialization)](housing-financialization-upstream-capture-exchange.md), whose Round 1 (June 2026) argues a permitting-centric housing frame is incomplete and that the **pilot-selection rubric should site permitting pilots where supply is the binding constraint** rather than asset-side capture. `P-004` / `P-107` is broader than housing (infrastructure, institutional capacity), so #10 informs but does not block this choice.
+- Resolves [Roadmap TODO #2](../../ROADMAP.md).

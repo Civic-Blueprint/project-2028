@@ -1,6 +1,6 @@
 # Proof-of-Usefulness Memo — Housing vs. AI Exchange
 
-> **Status (April 2026):** Active discussion. This file captures an initial exchange on whether the website's first proof-of-usefulness artifact should remain focused on housing permitting, shift toward AI governance, or explicitly bridge the two more clearly.
+> **Status (June 2026):** Superseded by [Exchange #7](proof-of-usefulness-feedback-timescale-review.md). This file captures an initial exchange on whether the website's first proof-of-usefulness artifact should remain focused on housing permitting, shift toward AI governance, or explicitly bridge the two more clearly. Its decision was carried into [Memo 01](../../memos/proof-of-usefulness-memo-01.md); the live thread (the learning-velocity / timescale objection) moved to Exchange #7. Disposed June 9, 2026 per [Roadmap TODO #5a](../../ROADMAP.md).
 
 > **Why this exchange:** The current website brief recommends housing permitting as the first proof-of-usefulness topic because it is concrete, legible, and structurally connected to the Framework's working first-move hypotheses around institutional capacity, infrastructure, democratic process, and recursive uplift. But AI is the dominant live topic in global discourse, with rapid adoption, concentrated power, and real governance gaps. If the project starts with housing, it needs to be clear about why that is not evasive, parochial, or out of step with the scale of the AI problem.
 

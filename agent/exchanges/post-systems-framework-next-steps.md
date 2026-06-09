@@ -1,6 +1,6 @@
 # Post-Systems Framework Revision — Next Steps
 
-> **Status (April 2026):** Active discussion. This file captures the assessment of what the project needs next, following the major Systems Framework revision that added dependency mapping, leverage hypotheses, failure-mode analysis, and a sequencing section synthesizing cross-domain reform chains.
+> **Status (June 2026):** Synthesized. This file captures the assessment of what the project needed next, following the major Systems Framework revision that added dependency mapping, leverage hypotheses, failure-mode analysis, and a sequencing section synthesizing cross-domain reform chains. Its two-track strategy was adopted and is tracked elsewhere: Track 1 (public website) is live in [civicblueprint.org](https://github.com/Civic-Blueprint/civicblueprint.org); Track 2 (computational dependency analysis) is carried as a [Roadmap](../../ROADMAP.md) item rather than a live exchange thread. Disposed June 9, 2026 per [Roadmap TODO #5a](../../ROADMAP.md).
 
 ---
 

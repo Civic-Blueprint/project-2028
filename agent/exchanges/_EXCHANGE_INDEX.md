@@ -54,7 +54,7 @@ If you're new to the project, start with the core documents ([Principles](../../
 | **Question** | The analytical architecture is in place. What does the project need next to start earning its claims empirically? |
 | **Depends on** | [Exchange #1](#1-problem-map-review--priority-follow-up), [Exchange #2](#2-systems-framework-review--in-light-of-the-problem-map), all core documents |
 | **Produced** | Two-track strategy: (1) public website as entry point for outside contributors, (2) computational dependency analysis. Identified the central gap: all claims produced by one human + AI agents from the same context window. Includes adversarial challenge of the two-track strategy itself. |
-| **Status** | Active discussion. Track 1 work is underway in [civicblueprint.org](https://github.com/Civic-Blueprint/civicblueprint.org). Track 2 not yet started. |
+| **Status** | Synthesized. The two-track strategy was adopted: Track 1 (public website) is live in [civicblueprint.org](https://github.com/Civic-Blueprint/civicblueprint.org); Track 2 (computational dependency analysis) is carried as a [Roadmap](../../ROADMAP.md) item rather than a live exchange thread. Disposed June 9, 2026 per Roadmap TODO #5a. |
 
 ---
 
@@ -87,7 +87,7 @@ If you're new to the project, start with the core documents ([Principles](../../
 | **Question** | Should the project's first public artifact focus on housing permitting, AI governance, or bridge the two? |
 | **Depends on** | [Exchange #3](#3-post-systems-framework-revision--next-steps) (established the proof-of-usefulness strategy), [Website Phase 1 Brief](https://github.com/Civic-Blueprint/civicblueprint.org/blob/main/docs/WEBSITE_PHASE_1_BRIEF.md) |
 | **Produced** | Decision to write a comparative memo pairing housing permitting with AI governance, demonstrating the framework's cross-domain method. The housing-only draft was superseded. Canonical memo now maintained in [memos/proof-of-usefulness-memo-01.md](../../memos/proof-of-usefulness-memo-01.md). |
-| **Status** | Active discussion. Comparative memo drafted. The timescale objection raised in [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review) reopens part of this decision. |
+| **Status** | Superseded by [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review). The comparative memo shipped as [Memo 01](../../memos/proof-of-usefulness-memo-01.md); the live thread (timescale objection) moved to Exchange #7. Disposed June 9, 2026 per Roadmap TODO #5a. |
 
 ---
 
@@ -120,7 +120,7 @@ If you're new to the project, start with the core documents ([Principles](../../
 | **Question** | Should the project's analysis explicitly name debt legitimacy and odious-debt doctrine as part of its account of institutional capture, and if so, where does that material belong? |
 | **Depends on** | [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review) (created the website-feedback lane), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md) |
 | **Produced** | Exchange opened. Initial classification questions captured: example vs. mechanism, domain placement, competence vs. repudiation, and scope discipline for sovereign-debt analysis. |
-| **Status** | Active discussion. |
+| **Status** | Synthesized (folded June 9, 2026). Disposition: folded into the capital-allocation / ownership workstream rather than advanced standalone — the odious-debt / illegitimate-obligation mechanism is a [Problem Map Domain 2](../../PROBLEM_MAP.md#2-money-credit-and-capital-allocation-steer-the-economy-in-ways-most-people-cannot-see-or-influence) capture pattern (minimum claim: audit / restructure / prevent over repudiation), already feeding Exchange #21 and to be carried by the F2 Domain 2 work in [Exchange #28](#28-ownership-taxonomy--systems-framework--exchange-f2). No standalone rounds planned. |
 
 ---
 
@@ -130,8 +130,8 @@ If you're new to the project, start with the core documents ([Principles](../../
 | --- | --- |
 | **Question** | Should the framework explicitly treat housing financialization as a distinct upstream-capture mechanism alongside housing permitting and zoning, or widen the existing housing analysis without a separately named frame? |
 | **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md) |
-| **Produced** | Exchange opened. Initial questions captured around mechanism naming, balance between permitting and finance, metro vs. national claims, and whether the current public memo needs revision or a companion artifact. |
-| **Status** | Active discussion. |
+| **Produced** | Exchange opened, then **Round 1 (June 9, 2026 — same-lineage agent synthesis).** Resolves the framing as *widen-and-name*: housing capture has a **supply face** (permitting/zoning, already canonical) and an **asset face** (financialization). Institutional SFR concentration is promoted to a canonical structural mechanism (an ownership-form shift, cross-linked to [Exchange #28](#28-ownership-taxonomy--systems-framework--exchange-f2)); securitization / zero-rate / rate-trap are kept as supporting macro-conditions. Falsifiable claim set E10-C1…C4 with falsification tests; narrowest-revision recommendation (one paragraph + a Memo 01 companion, not a rewrite). Concrete output: permitting-stack pilots ([Exchange #16](#16-starting-proposal-comparative-review--p-004p-107-vs-p-053)) should be sited where supply is the binding constraint. |
+| **Status** | Active; Round 1 complete; Rounds 2–N reserved (adversarial Round 2 reserved for an independent lineage). |
 
 ---
 
@@ -142,7 +142,7 @@ If you're new to the project, start with the core documents ([Principles](../../
 | **Question** | Should the framework explicitly shift from an "AI governance" frame to an "AI commonwealth" frame centered on ownership, access, and public infrastructure, or preserve governance as the primary frame and incorporate these ideas more narrowly? |
 | **Depends on** | [Exchange #6](#6-proof-of-usefulness-memo--housing-vs-ai-exchange), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review), [Roadmap](../../ROADMAP.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md), [Source Digest — Stewart/Acemoglu/Autor (Weekly Show)](../../sources/source-weekly-show-stewart-ai-future-of-work-digest.md), [AI Governance Practice digest](../../sources/source-ai-governance-practice-digest.md) |
 | **Produced** | Exchange opened. Initial questions captured around governance vs. commonwealth framing, timeline urgency, what counts as commonwealth infrastructure in AI, and whether existing public artifacts need reframing. **April 2026:** External evidence base added — the Stewart/Acemoglu/Autor digest provides the pro-worker AI directional frame, the data-extraction-economy critique, and a concrete commonwealth-style policy package (UBC + labor/capital tax rebalance + pro-worker R&D + wage insurance) ready to feed Round 1. |
-| **Status** | Active discussion. External evidence curated; Round 1 not yet conducted. |
+| **Status** | Active; Round 1 complete; Rounds 2–N reserved. Round 1 (June 9, 2026 — same-lineage agent synthesis on the curated Stewart/Acemoglu/Autor base) recommends *commonwealth as a layer on top of governance*, maps the [Exchange #28](#28-ownership-taxonomy--systems-framework--exchange-f2) ownership taxonomy onto AI instruments (public compute = civic-commons; UBC = collective-dividend), and produces claim set E11-C1…C4; a companion note on AI ownership/access is recommended (feeds F4), Memo 01 not rewritten. Adversarial Round 2 reserved for an independent lineage. |
 
 ---
 
@@ -196,8 +196,8 @@ If you're new to the project, start with the core documents ([Principles](../../
 | --- | --- |
 | **Question** | The project needs to commit development effort to a starting proposal. Between the Open-Source Permitting Stack (`P-004` / `P-107`) and Federal Skills-First Hiring (`P-053`), which better serves the project's goals of testing recursive uplift, producing visible results, building credibility, and generating empirical learning? |
 | **Depends on** | [Exchange #3](#3-post-systems-framework-revision--next-steps) (empirical-validation need), [Exchange #7](#7-proof-of-usefulness-memo--feedback-timescale-review) (fast-feedback and recursive-uplift decomposition), [Exchange #13](#13-autonomous-proposal-generation--agent-stress-test) (proposal generation and uplift-chain ranking), [Exchange #14](#14-permitting-stack-recursive-uplift--exchange) (initial P-004/P-107 development), [Proposal Catalog](../../proposals/PROPOSAL_CATALOG.md), [Principles](../../PRINCIPLES.md), [Problem Map](../../PROBLEM_MAP.md), [Systems Framework](../../SYSTEMS_FRAMEWORK.md), [Roadmap](../../ROADMAP.md) |
-| **Produced** | New exchange opened. Structured comparative framework across six dimensions (recursive uplift potential, learning velocity, visibility, political durability, project credibility, informative failure). Identifies open questions including whether the comparison is actually a sequencing question rather than either/or. |
-| **Status** | Active discussion. |
+| **Produced** | New exchange opened. Structured comparative framework across six dimensions (recursive uplift potential, learning velocity, visibility, political durability, project credibility, informative failure). Identifies open questions including whether the comparison is actually a sequencing question rather than either/or. **Steward decision (June 9, 2026):** develop `P-004` / `P-107` as the **primary** recursive-uplift target, `P-053` held as an **optional fast parallel early win**. |
+| **Status** | Synthesized. Steward decision recorded (June 9, 2026): `P-004` / `P-107` primary, `P-053` optional parallel early win — resolving the comparison as a sequencing question. Development routes to [Exchange #14](#14-permitting-stack-recursive-uplift--exchange); pressure-tested by the [Exchange #10](#10-housing-financialization-as-upstream-capture--exchange) Round 1. Resolves Roadmap TODO #2. |
 
 ---
 
@@ -320,6 +320,15 @@ If you're new to the project, start with the core documents ([Principles](../../
 | **Produced** | New exchange opened (graduated from the discovery-principle riff). **Round 1** is a **cross-lineage synthesis** — the riff was decomposed independently by three model families (an Opus same-lineage *baseline*/control, **GPT 5.5**, and **Gemini 3.1**), each given the same packet + research-grounding digest, and the steward-approved union (medium grain) is a 24-claim set (S1–S24) with falsification conditions and per-claim lineage provenance — a 21-claim tri-lineage synthesis (S1–S21) plus a same-lineage coverage-scan addendum (S22–S24, flagged †, defensive/refining; *not* tri-lineage). Load-bearing tier: **S17 cross-scale transfer** (the decisive claim), **S6/S7 dose-response make-or-break**, **S18 relabel gate**, **S21 reflexive guardrail**. Two cross-lineage findings shaped the synthesis: (a) all three independents named **cross-scale transfer + the dose-response gap** as the first adversary targets (strong non-same-lineage signal); (b) the §2.5 **collapse-dynamics (S13) was demoted to non-load-bearing** (2 of 3 lineages treated it as peripheral) while **pluralism-as-non-correlation (S12) was kept** load-bearing. The same-lineage research from a [rolled-back in-lineage attempt](discovery-principle-develop-leg-exchange.md#standing-items) was preserved and cleaned into the research-grounding digest; a June 2026 T2 **gap-close** then grounded the dose-response conditions as digest **Cluster C** (Edmondson, Pettigrew & Tropp, Tedeschi & Calhoun, Frazier et al., Yerkes–Dodson). **No promotion** (the #25 *hold* governs). **Round 2 (adversarial) has since run cross-lineage** — GPT, Grok, and Gemini, blind to each other, returned a **unanimous HOLD**: no load-bearing claim survives as a supported positive finding, with **S17** (cross-scale transfer) and **S18** (relabel) the decisive failures, plus unanticipated attacks (Haidt post-hoc misapplication, supply-creates-demand, privilege-of-readiness, grievance-builds-architecture). The Round 1 claim statuses are left unrewritten; the response is carried in **Round 4 (§4)**. **Round 4 (response/v2) then converted the HOLD into a live test rather than a dead end** — at steward direction, prompted by a "three-utilities" reframe (*"no evidence yet" ≠ proof of impossibility*): conceding the theory is a relabel, it relocates novelty to a **testable civic design hypothesis** (institutions engineered for non-correlated inputs + psychological safety + post-break consolidation repair better than answer-transmission bodies, without manufacturing crises or recentralizing authority) and recasts **S17 as a test design with a pre-registered falsifier** (behavioral measurement to defuse the Haidt post-hoc attack; process-level unit of analysis to beat the ecological fallacy; the project's own cross-lineage review named as the smallest, already-running test rung, n=1 caveat). Attack-driven refinements: S3 (drop strict demand→supply ordering), S15 (consent/agency over one's own tension), S16 (grievance/practice → **revisable/fused**). The develop-leg is now a **live hold** — a research program whose §4.6 **[test-design memo](discovery-principle-develop-leg-test-design-memo.md) is drafted (June 2026)**: the measurement instrument (collective repair capacity, behavioral, ecological-fallacy-guarded), matched comparison, an **F1–F6 pre-registered falsifier set**, ethics/stop conditions, the staged rungs (project as Rung 0 → multi-site), and an **agent-automation architecture** (persona × model-lineage roles with an instrument↔subject firewall — a persona-sim is red-team/instrument-validation only, never evidence). It is **design only — not run, no results, no promotion, S17 still on hold**. The eight reviewer-surfaced sources (Kahan, Bandura, Piaget, Latané, Durkheim, Rogers, Kohlberg/Rest, Buchanan & Powell) have since been **T2-grounded** as [digest Cluster D](discovery-principle-develop-leg-research-grounding.md) (June 2026) — most cut against or bound the claims, supplying named relabel antecedents for S18 and a competing structural account of collective moral change for S17; the external-human Round 3 remains deferred. **No promotion** (the #25 *hold* governs). |
 | **Status** | Active; **Rounds 1, 2, and 4 complete** (Round 2 = cross-lineage HOLD; Round 4 = response/v2 reframe to a testable civic design hypothesis, run ahead of the deferred external-human Round 3); **live hold** — the §4.6 [test-design memo](discovery-principle-develop-leg-test-design-memo.md) is at **v0.2 (design only, not run)**, hardened by cross-lineage [Pipeline Run 001](discovery-principle-develop-leg-pipeline-run-001.md) (verdict REVISE, 5 BLOCKING fixes folded in, 3 divergences open for v0.3); Round 5 reserved |
 
+### 28. [Ownership Taxonomy → Systems Framework — Exchange (F2)](ownership-taxonomy-systems-framework-exchange.md)
+
+|  |  |
+| --- | --- |
+| **Question** | How should the v2 seven-category ownership taxonomy from [Exchange #21](#21-government-overreach-ownership-as-transition-and-the-ratchet-problem--exchange) be formalized in the [Systems Framework](../../SYSTEMS_FRAMEWORK.md), and what does it imply for [Problem Map](../../PROBLEM_MAP.md) Domain 2 (capital allocation) and Domain 10 (wealth/power concentration)? |
+| **Depends on** | [Exchange #21](#21-government-overreach-ownership-as-transition-and-the-ratchet-problem--exchange) (source — Deliverable 2 v2 seven-category taxonomy; Round 4 communal-stewardship win), [Exchange #23](#23-principle-5-revision--exchange-f1) (revised §5 must stay consistent with the ownership-form vocabulary), [Systems Framework](../../SYSTEMS_FRAMEWORK.md) (integration target), [Problem Map](../../PROBLEM_MAP.md) Domains 2 and 10, [Principles §5](../../PRINCIPLES.md#5-critical-systems-require-public-interest-governance), [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Research Protocol](../process/research-protocol.md) |
+| **Produced** | New exchange opened — the F2 follow-up from Exchange #21, spawned per [Roadmap TODO #1](../../ROADMAP.md) (June 9, 2026) as the one #21 follow-up not gated on external-reviewer recruitment. **Round 1** frames the integration: carries the seven-category taxonomy, proposes placement in `SYSTEMS_FRAMEWORK.md` as an *analytical tool* (not in Principles), and states five falsifiable claims — F2-C1 (tool placement), F2-C2 (Domain 2 ownership-type leverage), F2-C3 (Domain 10 counter-forms: collective-dividend + communal-stewardship), F2-C4 (disjointness discipline travels), F2-C5 (completeness on the policy-relevant range) — each with a falsification condition. Carries #21's residual debt (cultural parochialism; empirical thinness on hybrid forms). An adversary packet is produced for an independent-lineage Round 2; Round 3 reserved for the response plus the actual SF / PM edits under a coherence-audit pass. **Anchor case (June 9, 2026):** the Taylor, TX park-deed → data-center conversion ([404 Media](https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead)) is added to Round 1 as a real-world test — it evidences the communal-stewardship category and surfaces a carried refinement (the enforceability fragility of category 7) plus a sixth adversary probe for Round 2. |
+| **Status** | Active; Round 1 complete; Rounds 2–N reserved |
+
 ---
 
 ## Dependency graph (visual summary)
@@ -390,13 +399,19 @@ Core Documents (Principles, Problem Map, Systems Framework)
               ◄── ARP + HPTP
               (adversarial challenge to Principle 5 + ownership question)
               │
-              └─► #23 Principle 5 Revision (F1)
-                    ◄── #21 Round 5 v2 deliverable + Coherence Audit P2-2
-                    ◄── ARP + Reviewer Packet + Reviewer-as-a-Round Convention
-                    ◄── ROADMAP TODOs #1, #10, #11
-                    (adversarial pass + first live external-review round
-                     → v3 text → integration into PRINCIPLES.md §5
-                       and FOUNDATIONAL_COMMITMENTS.md §5)
+              ├─► #23 Principle 5 Revision (F1)
+              │     ◄── #21 Round 5 v2 deliverable + Coherence Audit P2-2
+              │     ◄── ARP + Reviewer Packet + Reviewer-as-a-Round Convention
+              │     ◄── ROADMAP TODOs #1, #10, #11
+              │     (adversarial pass + first live external-review round
+              │      → v3 text → integration into PRINCIPLES.md §5
+              │        and FOUNDATIONAL_COMMITMENTS.md §5)
+              │
+              └─► #28 Ownership Taxonomy → Systems Framework (F2)
+                    ◄── #21 Round 5 Deliverable 2 (v2 seven-category taxonomy)
+                    ◄── ARP + Research Protocol + ROADMAP TODO #1 (F2)
+                    (Round 1 framing + claims F2-C1…C5; adversarial Round 2
+                     reserved for independent lineage → SF / PM edits)
 
   Source Digest: The Weekly Show (Stewart / Acemoglu / Autor)
         │

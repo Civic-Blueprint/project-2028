@@ -1,6 +1,6 @@
 # AI Commonwealth vs. AI Governance — Exchange
 
-> **Status (April 2026):** Active discussion. This exchange captures the steward discussion opened by organic website submission [#10](https://github.com/Civic-Blueprint/project-2028/issues/10) on whether the framework's AI work should be reframed around commonwealth, ownership, and access rather than governance alone.
+> **Status (June 2026):** Active; Round 1 complete; Rounds 2–N reserved. This exchange captures the steward discussion opened by organic website submission [#10](https://github.com/Civic-Blueprint/project-2028/issues/10) on whether the framework's AI work should be reframed around commonwealth, ownership, and access rather than governance alone. **Round 1 (June 9, 2026 — same-lineage agent synthesis) recommends commonwealth as a layer on top of governance and produces a falsifiable claim set (E11-C1…C4); the adversarial Round 2 is reserved for an independent lineage.**
 >
 > **Why this exchange:** The project already treats AI governance as an urgent domain, and [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md) uses that urgency as part of its comparative logic. Issue `#10` argues that this is still incomplete because "governance" can regulate an oligopoly without challenging who owns the infrastructure, compute, training substrate, and productivity gains. This exchange starts now because the [Roadmap](../../ROADMAP.md) records the issue as needing steward discussion, and because the submission directly reopens part of [Exchange #6](proof-of-usefulness-housing-vs-ai.md) by asking whether the framework's own commonwealth doctrine has been under-applied to its most time-compressed domain.
 
@@ -66,3 +66,60 @@ Two source digests have been curated to feed the first structured round of this 
 **Secondary: [AI Governance Practice digest](../../sources/source-ai-governance-practice-digest.md)** — the empirical record of EU AI Act, California SB 53, U.S. EO sequence, and NIST AI RMF — provides the regulatory-record evidence base for testing what works.
 
 These should be the principal external inputs for Round 1's adversarial framing and constructive analysis. The digests are designed to be self-contained — no need to re-research the same material.
+
+---
+
+# Round 1
+
+> **Round 1 — Agent synthesis (Claude / Opus, same-lineage).** First structured pass, built on the curated Stewart / Acemoglu / Autor evidence base above. Per the [exchange skill §4](../../.cursor/skills/civic-blueprint-exchange/SKILL.md) and the [Adversarial Review Protocol §2](../process/adversarial-review-protocol.md), the adversarial round is **not** run in this lineage; Round 2 is reserved for an independent model family or human reviewer. Confidence is an upper bound pending that pass.
+
+## Resolving the framing question
+
+Not a replacement, and not a narrow add-on: **adopt "commonwealth" as a sharper layer on top of governance.** The two answer different questions. *Governance* asks "how is concentrated AI power constrained?" (rules, safety, antitrust, transparency). *Commonwealth* asks "who owns the substrate, and who captures the gains?" (compute, training data, productivity surplus). Issue #10's load-bearing claim — that strong regulation can leave a **"well-regulated oligopoly"** intact — is correct: governance and ownership are distinct axes. The project already has a commonwealth doctrine ([Principle 5](../../PRINCIPLES.md#5-critical-systems-require-public-interest-governance) plus the ownership taxonomy) that it has **under-applied** to its most time-compressed domain. So keep governance as the regulatory layer and add an explicit *AI commonwealth* layer addressing ownership, access, public compute, and collective claims on AI-derived value.
+
+## The decisive cross-link: AI commonwealth is where the ownership taxonomy meets AI
+
+The [Exchange #28](ownership-taxonomy-systems-framework-exchange.md) seven-category ownership taxonomy maps cleanly onto the commonwealth instruments issue #10 and the Acemoglu/Autor program propose:
+
+| Commonwealth instrument | Ownership-taxonomy category |
+|---|---|
+| Public / shared compute infrastructure | Civic-commons ownership |
+| Universal Basic Capital (Acemoglu's UBC, distinguished from UBI) | Collective-dividend ownership |
+| Shared training-data rights | Civic-commons / communal-stewardship |
+| Open weights as a public good | Civic-commons (with innovation-ownership tension) |
+
+This is the cleanest available application of the taxonomy and a strong argument for treating commonwealth as a doctrinal layer rather than an AI-policy footnote. It also feeds **F4** (frontier-AI governance framework).
+
+## Essential levers vs. contingent examples (answering starter Q2)
+
+- **Essential to the commonwealth *claim*:** (a) public/shared **compute** (civic-commons); (b) **collective claims on AI-derived value** — UBC as collective-dividend ownership (Acemoglu's principled UBC-over-UBI distinction is load-bearing, not cosmetic); (c) **labor/capital tax rebalance**, which structurally addresses the data-extraction asymmetry (Kasy's *Means of Prediction* framing).
+- **Contingent examples (instrument-level, swappable):** open weights, specific antitrust actions, wage insurance, workplace-surveillance regulation. Real and useful, but not what the *claim* stands or falls on.
+
+## Defining success / failure falsifiably (answering starter Q3)
+
+- **Success:** a measurable shift in *who owns and captures AI-derived value* — labor share of AI-driven productivity gains, public-compute access, UBC-type distributions — **not** merely "AI is regulated."
+- **Failure:** the **"well-regulated oligopoly"** — strong rules, unchanged ownership and value capture. Naming this failure mode is itself a deliverable.
+
+## Round 1 claim set (each with a falsification condition)
+
+- **E11-C1 — Two axes.** Governance and ownership are independent: effective AI regulation can coexist with undiminished ownership concentration. *Falsified if* effective governance regimes empirically also de-concentrate ownership (regulation reliably diffuses ownership).
+- **E11-C2 — Taxonomy maps onto AI.** The ownership taxonomy maps cleanly onto AI commonwealth instruments (public compute = civic-commons; UBC = collective-dividend; data rights = communal-stewardship/civic-commons) and adds analytical leverage. *Falsified if* a core commonwealth instrument fits no category, or the mapping produces no instrument-selection leverage.
+- **E11-C3 — UBC ≠ UBI.** Universal Basic Capital (collective-dividend ownership) is distinct from and, for this domain, preferable to UBI (a transfer) on ownership grounds. *Falsified if* the distinction collapses in practice — UBC vehicles behave as transfers with no durable governance or ownership claim.
+- **E11-C4 — Compressed window.** The decision window is genuinely compressed: infrastructure, antitrust, and open-weights choices made now are hard to reverse. *Falsified if* these choices prove reversible on a multi-year horizon (low lock-in).
+
+## Artifact implication
+
+[Memo 01](../../memos/proof-of-usefulness-memo-01.md) does **not** need rewriting. The right vehicle is a **companion note / future memo on AI ownership and access**, built on the ownership taxonomy ([Exchange #28](ownership-taxonomy-systems-framework-exchange.md)) and feeding **F4**. This keeps the governance work intact and adds the commonwealth layer where it has analytical purchase.
+
+---
+
+## Round 2 — reserved (adversarial, independent lineage)
+
+**Adversary packet (reduced context).** A civic-systems project argues that AI "governance" and AI "ownership/commonwealth" are independent axes, that strong regulation can leave a "well-regulated oligopoly" intact, and that an ownership taxonomy (public compute = commons; UBC = collective dividend; data = stewardship) should define an AI-commonwealth layer on top of governance. Treat as assertions to attack:
+
+1. Governance and ownership are genuinely independent axes for AI.
+2. The ownership taxonomy maps cleanly and usefully onto AI instruments.
+3. UBC is meaningfully distinct from and preferable to UBI on ownership grounds.
+4. The decision window has high, near-irreversible lock-in.
+
+**Optional domain lens (Option C):** read as an AI-industry economist skeptical of public-compute feasibility, and as an open-source / d-acc technologist skeptical of state-ownership framings — the two standpoints most likely to puncture the commonwealth optimism. **Falsification conditions:** as stated per claim in E11-C1…C4.

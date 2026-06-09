@@ -1,6 +1,6 @@
 # Debt Legitimacy and Odious Debt — Exchange
 
-> **Status (April 2026):** Active discussion. This exchange captures the steward discussion opened by organic website submission [#8](https://github.com/Civic-Blueprint/project-2028/issues/8) on odious debt, sovereign legitimacy, and fiscal capture.
+> **Status (June 2026):** Synthesized (folded). This exchange captures the steward discussion opened by organic website submission [#8](https://github.com/Civic-Blueprint/project-2028/issues/8) on odious debt, sovereign legitimacy, and fiscal capture. **Steward disposition (June 9, 2026): folded into the capital-allocation / ownership workstream rather than advanced as a standalone exchange — see the [disposition note](#steward-disposition-june-9-2026).**
 >
 > **Why this exchange:** The public website has now generated an organic historical-case submission arguing that odious debt doctrine may be a legal ancestor to the project's claims about captured institutions and illegitimate obligations. That does not fit cleanly into the current documents as a mere example: it may point to a missing synthesis around debt legitimacy, institutional competence, commonwealth, and upstream fiscal capture. This exchange starts now because the [Roadmap](../../ROADMAP.md) records issue `#8` as requiring steward discussion rather than passive holding, and because the website-feedback lane created by [Exchange #7](proof-of-usefulness-feedback-timescale-review.md) now needs a place to resolve substantial framing questions.
 
@@ -47,3 +47,15 @@ That combination makes the issue larger than "add one historical example." It ra
 1. What is the minimum claim the project could adopt here without overstating either the legal status or the practical tractability of odious-debt doctrine?
 2. Which current document would most naturally absorb this material if the answer is "yes, include it"?
 3. What would count as a meaningful falsification or boundary condition for a debt-legitimacy addition to the framework?
+
+---
+
+## Steward disposition (June 9, 2026)
+
+**Folded, not advanced as a standalone exchange.** The core insight — that institutions can generate obligations lacking democratic legitimacy, and that the constructive remedy is *audit / restructure / prevent* rather than blanket repudiation — is a **capital-allocation capture mechanism** that belongs in the project's analysis of [Problem Map Domain 2 (money, credit, and capital allocation)](../../PROBLEM_MAP.md#2-money-credit-and-capital-allocation-steer-the-economy-in-ways-most-people-cannot-see-or-influence). It has already informed [Exchange #21 (ownership / ratchet)](government-overreach-ownership-ratchet-exchange.md), which lists debt legitimacy among its inputs.
+
+**What this means.**
+- No standalone rounds are planned for this exchange.
+- A future Domain 2 revision — and the F2 work now live in [Exchange #28 (ownership taxonomy → Systems Framework)](ownership-taxonomy-systems-framework-exchange.md), which is already evaluating Domain 2 — should name fiscal / debt-legitimacy capture as a recognized upstream mechanism and adopt the **minimum claim** this exchange scoped: competence-and-prevention (audit, restructure, prevent illegitimate debt generation) over repudiation.
+- The odious-debt material remains available as a historical case.
+- Tracked under [Roadmap TODO #5](../../ROADMAP.md).

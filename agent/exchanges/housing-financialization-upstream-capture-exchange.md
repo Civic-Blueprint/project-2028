@@ -1,6 +1,6 @@
 # Housing Financialization as Upstream Capture — Exchange
 
-> **Status (April 2026):** Active discussion. This exchange captures the steward discussion opened by organic website submission [#9](https://github.com/Civic-Blueprint/project-2028/issues/9) on housing financialization as a named upstream-capture mechanism.
+> **Status (June 2026):** Active; Round 1 complete; Rounds 2–N reserved. This exchange captures the steward discussion opened by organic website submission [#9](https://github.com/Civic-Blueprint/project-2028/issues/9) on housing financialization as a named upstream-capture mechanism. **Round 1 (June 9, 2026 — same-lineage agent synthesis) resolves the framing question and produces a falsifiable claim set (E10-C1…C4); the adversarial Round 2 is reserved for an independent lineage.**
 >
 > **Why this exchange:** The project's public-facing housing work has so far centered housing permitting and institutional capacity, especially in [Proof-of-Usefulness Memo 01](../../memos/proof-of-usefulness-memo-01.md). Issue `#9` argues that this framing is incomplete unless the framework also treats housing finance, securitization, institutional single-family-rental concentration, and the rate trap as interlocking capture mechanisms rather than downstream symptoms. This exchange starts now because the [Roadmap](../../ROADMAP.md) records the issue as needing steward discussion, and because the submission directly reopens part of [Exchange #6](proof-of-usefulness-housing-vs-ai.md) rather than merely adding another housing example.
 
@@ -47,3 +47,63 @@ That combination makes this a structural framing challenge to the project's curr
 1. What is the narrowest revision that would let the framework acknowledge housing financialization without losing the clarity of the current housing-permitting case?
 2. Which of the five mechanisms belong in the canonical framework, and which belong in supporting analysis or examples?
 3. If the project adopts this framing, what new falsification tests or historical comparisons should it commit to using?
+
+---
+
+# Round 1
+
+> **Round 1 — Agent synthesis (Claude / Opus, same-lineage).** This is a first structured pass that resolves the opening framing question and produces a falsifiable claim set. Per the [exchange skill §4](../../.cursor/skills/civic-blueprint-exchange/SKILL.md) and the [Adversarial Review Protocol §2](../process/adversarial-review-protocol.md), the adversarial round is **not** run in this lineage; Round 2 is reserved for an independent model family or human reviewer. Confidence below is an upper bound pending that pass.
+
+## Resolving the framing question
+
+The opening question — distinct named mechanism, or widen the existing housing section? — is a false binary. The right move is **widen *and* name, but subordinate the new frame to a unified capture logic.** The project's current housing analysis names **supply-side capture** (permitting/zoning chokepoints that restrict the production of shelter). Issue #9's mechanisms describe a second, structurally distinct **asset-side capture** (turning the existing housing stock into a financial asset class, so that price is set by capital flows rather than by shelter demand). Both are *upstream*; naming only one produces exactly the permitting-centric blind spot the submission criticizes.
+
+Proposed structure: **"Housing capture has two faces — a supply face and an asset face — that interact and require different instruments."** This preserves the legibility of the permitting case (the supply face stays the lead proof-of-usefulness story) while closing the gap the submission identifies.
+
+## Which of the five mechanisms are canonical vs. supporting
+
+| Mechanism | Disposition | Why |
+|---|---|---|
+| Zoning / permitting capture | **Canonical (already in framework)** | The supply face; the project's existing lead case. |
+| Institutional single-family-rental concentration | **Canonical (add)** | A genuine, durable *ownership-form shift* (shelter → managed financial asset), not a cyclical artifact. Connects directly to the [Exchange #28](ownership-taxonomy-systems-framework-exchange.md) ownership taxonomy. |
+| "Housing as financial asset vs. shelter" (the general logic) | **Canonical (add as the asset-face frame)** | The unifying mechanism behind the asset face. |
+| Mortgage securitization | **Supporting analysis** | Real, but a macro-financial *condition* / transmission channel, not a standalone structural mechanism. |
+| Zero-rate asset inflation | **Supporting analysis** | Cyclical / monetary-regime-dependent; strongest in the 2009–2021 window. |
+| Post-2022 rate trap | **Supporting analysis** | A current-conditions phenomenon, not a permanent structural feature. |
+
+Keeping securitization / zero-rate / rate-trap as *supporting* (not canonical) is the discipline that answers the exchange's metro-vs-national caution: these are time- and place-conditioned, so promoting them to canonical mechanisms would overstate the claim.
+
+## Connection to live project work (why this matters now)
+
+This Round 1 directly bears on the [Exchange #16](starting-proposal-comparative-review.md) decision (June 9, 2026) to develop `P-004` / `P-107` (the permitting stack) as the primary recursive-uplift target. Permitting reform addresses the **supply face only.** Where the **asset face binds** — high institutional-SFR-concentration metros — faster permitting can be partially neutralized (the submission's "reforms addressing only one mechanism will be neutralized by the others"). **Concrete output:** the permitting-stack pilot-selection rubric should screen *for* metros where supply constraint is the binding affordability driver and *against* metros where asset-side capture dominates, so the pilot is not set up to fail for reasons orthogonal to permitting.
+
+## Round 1 claim set (each with a falsification condition)
+
+- **E10-C1 — Two faces.** Housing capture has two structurally distinct upstream faces (supply/permitting; asset/financialization) requiring different instruments. *Falsified if* asset-side dynamics reduce to downstream symptoms of supply constraint (i.e., fixing supply alone abates financialization).
+- **E10-C2 — SFR concentration is structural.** Institutional single-family-rental concentration is a durable ownership-form shift, not a cyclical artifact, in specific metros. *Falsified if* SFR share reverts to negligible as rates normalize, without durably shifting tenure.
+- **E10-C3 — Permitting is neutralized where the asset face binds.** Permitting reform alone fails to improve affordability where asset-side capture is the binding constraint. *Falsified if* permitting reforms produce affordability gains even in high-financialization metros.
+- **E10-C4 — Macro conditions are not canonical mechanisms.** Securitization, zero-rate inflation, and the rate trap are macro-cyclical *conditions* belonging in supporting analysis, not canonical structural mechanisms. *Falsified if* any one persists as a structural driver independent of the monetary-rate cycle.
+
+## Falsification tests / historical comparisons to commit to (answering starter Q3)
+
+- Post-2008 SFR roll-ups (Invitation Homes, Blackstone) in Atlanta / Phoenix / Tampa — test E10-C2 and E10-C3.
+- Metros with permitting/zoning reform *and* high SFR concentration — test E10-C3 (does supply reform move affordability where the asset face binds?).
+- Land-value-tax natural experiments (Pennsylvania split-rate municipalities) — test the asset-face leverage claim.
+- Price-anchor existence proofs from non-financialized systems (Vienna social housing; Singapore HDB) — bound the "public housing as price anchor" leverage point without importing the whole policy menu.
+
+## Narrowest revision (answering starter Q1)
+
+Add **one paragraph** to the housing analysis (and a short companion note to [Memo 01](../../memos/proof-of-usefulness-memo-01.md), not a rewrite) naming the asset face and the supply/asset distinction, plus the SFR-concentration ownership-form shift. **Do not** import all five mechanisms or the full leverage menu (LVT, SFR taxes, MID reform, public-housing anchor, federal preemption) into the canonical framework — those are supporting/contingent. This preserves the permitting case's legibility while closing the blind spot.
+
+---
+
+## Round 2 — reserved (adversarial, independent lineage)
+
+**Adversary packet (reduced context).** A civic-systems project argues housing capture has two upstream faces — supply (permitting/zoning) and asset (financialization) — and that institutional SFR concentration is a structural ownership shift while securitization/zero-rate/rate-trap are merely cyclical conditions. Treat the following as assertions to attack, not proposals to improve:
+
+1. The supply face and asset face are structurally distinct, not one reducible to the other.
+2. Institutional SFR concentration is durable and structural, not a rate-cycle artifact.
+3. Permitting reform is neutralized where the asset face binds.
+4. Securitization / zero-rate / rate-trap are conditions, not canonical mechanisms.
+
+**Optional domain lens (Option C):** read as a housing economist and as a tenant-organizer / housing-justice practitioner — the two standpoints most likely to find the framing either macro-naïve or supply-biased. **Falsification conditions:** as stated per claim in E10-C1…C4.
