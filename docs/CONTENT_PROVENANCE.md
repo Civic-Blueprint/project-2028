@@ -12,7 +12,7 @@ This document defines how Project 2028 labels content provenance across all publ
 This standard is part of the project's trust posture and directly relates to:
 
 - [Principles](../PRINCIPLES.md), especially Principle 4 (accountable, legible power) and Principle 14 (truth and evidence as public goods)
-- [Roadmap Recommendation 5](../ROADMAP.md#recommendation-5-commit-to-transparent-evidence-integration-in-advance)
+- [Roadmap Recommendation 5](../ROADMAP_ARCHIVE.md#pre-evidence-integration-note-recommendation-5) and its interpretation half, the [Pre-Evidence Integration Note](EVIDENCE_INTEGRATION_NOTE.md) — content provenance is the *transparency* half of the same recommendation
 - [Proposal `P-020` in the Proposal Catalog](../proposals/PROPOSAL_CATALOG.md#p-020-ai-content-provenance-mandate)
 
 The project is intentionally dog-fooding its own provenance policy position.

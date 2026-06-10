@@ -74,7 +74,7 @@ These findings continue to inform all downstream work and should not be forgotte
 
 ## Resolved thinking threads — April 2026 cleanup
 
-The Notes & open thinking threads section of the live roadmap originally carried six threads (A–F) surfaced during the post-Round 5 read-through. Four of them were resolved in the April 2026 cleanup and are recorded here for traceability. Threads A and C remain in the live roadmap as items in the Decision parking lot; Thread F-tail (the reviewer commitment ladder follow-on) also remains live.
+The Notes & open thinking threads section of the live roadmap originally carried six threads (A–F) surfaced during the post-Round 5 read-through. Four of them were resolved in the April 2026 cleanup and are recorded here for traceability. Threads A and C were later resolved (June 2026) and moved here in the [June 2026 sweep](#completed-items-june-2026-sweep); only Thread F-tail (the reviewer commitment ladder follow-on) remains live.
 
 ### Thread B — Poetic principles + companion document (resolved as FOUNDATIONAL_COMMITMENTS.md)
 
@@ -113,6 +113,97 @@ The Notes & open thinking threads section of the live roadmap originally carried
 - [REVIEWER_AS_A_ROUND_CONVENTION.md](docs/REVIEWER_AS_A_ROUND_CONVENTION.md) — the integration convention for the reviewer's contribution. Specifies round structure, immutability after publication, the agent response round that follows, downstream citation format, pre-publication reviewer review rights, and the post-publication note from steward back to reviewer. Counters voice collapse, asymmetric response, attribution drift, and extractive review.
 
 **What this leaves live.** TODO #11 (use the packet to recruit the first live reviewer). The packet and convention are provisional until they have survived a live cycle; lessons from first use fold back into both documents' changelogs. Thread F-tail (reviewer commitment ladder) remains live for post-first-cycle work.
+
+---
+
+## Completed items (June 2026 sweep)
+
+> Moved here from the live [ROADMAP.md](ROADMAP.md) on June 10, 2026 once complete, per the archive-don't-delete convention. The live roadmap keeps survivor TODO numbers stable (no renumbering), so the numbers below (#2, #3, #5, #5a, #12, #14) now appear only here.
+
+### TODO #2 — Exchange #16 (P-004/P-107 vs. P-053) — DECIDED June 9, 2026
+
+Develop `P-004` / `P-107` (open-source permitting stack) as the **primary** recursive-uplift target; hold `P-053` (federal skills-first hiring) as an **optional fast parallel early win**. Development routes to [Exchange #14](agent/exchanges/permitting-stack-recursive-uplift-exchange.md) (next deliverable: technical concept note / pilot-selection rubric); the choice will be pressure-tested by the [Exchange #10](agent/exchanges/housing-financialization-upstream-capture-exchange.md) Round 1, which recommends siting pilots where supply is the binding constraint. See the [Exchange #16 steward-decision section](agent/exchanges/starting-proposal-comparative-review.md#steward-decision-june-9-2026). **What moves forward (tracked live):** permitting-stack development under the Proposal Catalog & development active track, plus catalog triage (TODO #4).
+
+### TODO #3 — Exchange #17 Priorities 6–7 — ACCEPTED June 9, 2026 (both P6 and P7)
+
+Round 6 added two priorities to the practitioner-critique workstream: (P6) design the post-critique practitioner pathway before feedback arrives; (P7) connect the critique pipeline to the proposal-development pipeline. See [Exchange #17 Round 6](agent/exchanges/first-practitioner-critique-ai-provenance-exchange.md). The steward accepted both: Recommendation 2 (practitioner critique) now folds into the proposal workstream from Recommendation 4. **Consequence carried forward:** the proposal-development pipeline (Exchanges #14/#15/#16) and the practitioner-critique lane (Exchanges #17/#22) are now one workstream — practitioners who critique get routed toward proposal exchanges, and proposals carry a designated post-critique pathway. Remaining build work is tracked under the proposal workstream, not as a steward decision.
+
+### TODO #5 — Website-submission exchanges (#9 / #10 / #11) — DISPOSED June 9, 2026
+
+[#9 Debt Legitimacy](agent/exchanges/debt-legitimacy-odious-debt-exchange.md) → **folded** into the capital-allocation / ownership workstream (Problem Map Domain 2, carried by F2 / [Exchange #28](agent/exchanges/ownership-taxonomy-systems-framework-exchange.md)); no standalone rounds. [#10 Housing Financialization](agent/exchanges/housing-financialization-upstream-capture-exchange.md) → **advanced** (Round 1 complete — two-face supply/asset framing, claim set E10-C1…C4; adversarial Round 2 reserved for an independent lineage). [#11 AI Commonwealth](agent/exchanges/ai-commonwealth-vs-governance-exchange.md) → **advanced** (Round 1 complete — commonwealth-as-a-layer, claim set E11-C1…C4; adversarial Round 2 reserved). **What moves forward (tracked live):** the cross-lineage adversarial Round 2 for #10/#11, queued alongside the other independent-lineage / reviewer passes under the Website-submission active track.
+
+### TODO #5a — Dispose two dormant early exchanges (#3, #6) — RESOLVED June 9, 2026
+
+#3 marked *Synthesized* and #6 marked *Superseded by [Exchange #7](agent/exchanges/proof-of-usefulness-feedback-timescale-review.md)*, in both the [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md) and their file status blocks. [Exchange #3 (Post-Systems-Framework Next Steps)](agent/exchanges/post-systems-framework-next-steps.md) — its two-track strategy is underway and tracked elsewhere; [Exchange #6 (Proof-of-Usefulness — Housing vs. AI)](agent/exchanges/proof-of-usefulness-housing-vs-ai.md) — its comparative memo shipped as [Memo 01](memos/proof-of-usefulness-memo-01.md) and its live thread moved to [Exchange #7](agent/exchanges/proof-of-usefulness-feedback-timescale-review.md).
+
+### TODO #12 — "Replacement over addition" default for bounded-governance proposals — DONE June 10, 2026
+
+Round 5 of [Exchange #21](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#implications-for-the-roadmap) promoted Round 4's challenge 4a (the AI package is a regulatory ratchet) from local finding to project-level default: any bounded-governance proposal that is net-additive rather than replacement-and-sunset must carry an explicit justification (asymmetric-risk, irreducible coordination, explicit exception). Written into [Systems Framework §4 Analytical notes](SYSTEMS_FRAMEWORK.md#4-public-institutions-and-state-capacity) as a project-wide design default, with the frontier-AI package named as the one defended asymmetric-risk exception.
+
+### Pre-evidence integration note (Recommendation 5)
+
+**DONE June 10, 2026 (TODO #14).** Both halves of Recommendation 5 are now live: content provenance ([Content Provenance Standard](docs/CONTENT_PROVENANCE.md)) is the transparency half, and the evidence-interpretation commitments are published as the [Pre-Evidence Integration Note](docs/EVIDENCE_INTEGRATION_NOTE.md) — fixing per-track evidence scope and the recursive-uplift layer caveat (Layer 3 / sequence is not short-cycle testable) in advance so ambiguous results cannot be retroactively re-cast as validation. Origin: [Exchange #7 Recommendation 5](agent/exchanges/proof-of-usefulness-feedback-timescale-review.md#recommendation-5-commit-to-transparent-evidence-integration-in-advance). **What moves forward (tracked live):** as new tracks open, add their evidence scope to the note's table before they produce results.
+
+### Thread A — Rapid constituent feedback / XRP-style amendment voting
+
+> **Resolved (June 10, 2026), moved from the live roadmap.** The recommended next move was executed: the mechanism is now [Proposal P-150 — Rapid Constituent Feedback-to-Remediation Pathway for Bounded-Governance Institutions](proposals/PROPOSAL_CATALOG.md#p-150-rapid-constituent-feedback-to-remediation-pathway-for-bounded-governance-institutions), cross-referenced into [FOUNDATIONAL_COMMITMENTS.md §5](FOUNDATIONAL_COMMITMENTS.md#5-critical-systems-require-inclusive-institutions-with-bounded-rules)'s mechanism-form table as a concrete instance of the participatory-mechanism form. Both mechanisms (complaint triage + amendment signaling) and the honest constraints below are carried into the entry. Principle 5 was not modified. Decision **A1** in the parking lot is therefore closed; the entry is flagged as a candidate mechanism for F3 (doctrine public artifact). The thread text is preserved here as the record of the original analysis.
+
+**Question.** The Round 5 v2 Principle 5 commits to institutions "accountable to those it affects." What _mechanism_ makes that commitment real? Could something like XRP ledger amendment voting, or a phone-based rapid complaint pathway with automated triage and public escalation, operationalize it for bounded-governance institutions? Triggered by [Round 5 Principle 5 text](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#deliverable-1--revised-principle-5-text-v2).
+
+**What the idea actually is (two mechanisms, not one).**
+
+- _Complaint triage_ — rapid, one-way, individual grievance → institution → response. Like civic 311 or a digital ombudsman.
+- _Amendment voting_ — slow, two-way, collective decision → system change. Like XRP's 80%-validator-over-2-weeks or Swiss referendums.
+
+These are related but distinct. Combining them is a design choice, not a necessity.
+
+**Real-world prior art.**
+
+| Instance | Mechanism | Failure mode |
+| --- | --- | --- |
+| Taiwan vTaiwan / Polis (Audrey Tang) | Consensus-finding on policy via structured online deliberation | Low participation; elite-skewed users |
+| Estonia rahvakogu / e-petitions | Digital petition threshold → parliamentary consideration | Vexatious / astroturf petitions |
+| UK petitions.parliament.uk | 10k signatures → response; 100k → debate | Symbolic rather than binding |
+| XRP ledger amendments | Validator (UNL) supermajority over 2 weeks | Curated validator list is a trust assumption democracies cannot make |
+| iNaturalist / SeeClickFix | Citizen reporting → automated triage → municipal routing | Skews to wealthy neighborhoods |
+
+**The hard part.** Automated triage is tractable for well-bounded complaint types (potholes, permit delays, specific benefit denials). It is _not_ tractable for general-purpose governance complaints — NLP classifiers drift under adversarial input, escalation thresholds become gaming targets, and the human-review queue is the actual constraint. Every system in the table above hits the same wall: bottleneck is human reviewer capacity, not the frontend.
+
+**Where it belongs.**
+
+- _Not_ in Principle 5. Principle-level language should not prescribe a particular mechanism.
+- _Yes_ in the bounded-governance doctrine as a worked mechanism under Element 7 (transparency + reporting) and Element 10 (guarded technocratic layer).
+- _Yes_ as a Proposal Catalog entry in its own right (cross-cuts PM Domains §3 information, §13 democratic process, §15 institutional capacity).
+- _Possibly_ an exchange topic if the goal is to stress-test the "automated triage as capture target" question.
+
+**Connection to Round 4.** This mechanism likely has to exist (in some form) for the doctrine's authenticity conditions to be meetable. A bounded-governance architecture without constituent-feedback plumbing is the architecture most vulnerable to Hungary-style adopt-and-hollow.
+
+**Recommended next move (executed).** Added a P-### Proposal Catalog entry — [P-150 "Rapid Constituent Feedback-to-Remediation Pathway for Bounded-Governance Institutions"](proposals/PROPOSAL_CATALOG.md#p-150-rapid-constituent-feedback-to-remediation-pathway-for-bounded-governance-institutions) — flagged as a candidate mechanism in F3 (doctrine public artifact). Principle 5 was not modified.
+
+### Thread C — Adversarial protocol outside steward-anchored context ("Red Team Run")
+
+> **Resolved (June 8, 2026), moved from the live roadmap.** The "Red Team Run" is now a written protocol: the [Cross-Lineage Review Harness Protocol](agent/process/cross-lineage-review-harness-protocol.md), a fifth sibling to Adversarial Review / Coherence Audit / Historical Parallel Test / Comparative Alignment. It generalizes the candidate 6-step design below and the already-run [Pipeline Run 001](agent/exchanges/discovery-principle-develop-leg-pipeline-run-001.md). The thread's "honest limit" (mitigation, not cure; shared training corpus) is carried into the protocol's §7. Decision **C1** in the parking lot is therefore closed. The thread text is preserved here as the record of the original analysis.
+
+**Question.** Is there a protocol extension that breaks out of steward-context convergence bias within the AI pipeline? Triggered by [Round 4 bias disclosure](agent/exchanges/government-overreach-ownership-ratchet-exchange.md#adversarial-review--round-4-agent).
+
+**Yes, tractable.** The current [Adversarial Review Protocol §6](agent/process/adversarial-review-protocol.md) gestures at "re-run exchanges with different starting conditions" but doesn't operationalize it. A proper extension would.
+
+**Candidate: "Red Team Run" protocol.**
+
+| Step | Mechanism | Why it helps |
+| --- | --- | --- |
+| 1 | Run on a different model family (Claude/GPT ↔ Gemini/Llama) | Different training-data profile; different safety-tuning biases |
+| 2 | Reduced source corpus — strip steward-selected digests; replace with agent-selected digests from neighboring domains | Breaks source-selection bias |
+| 3 | Deliberately different prompt frame — "these are assertions; propose the strongest alternative framing that leads to different conclusions" | Inverts extend-and-refine default |
+| 4 | Forbid cross-reading of the original exchange | Prevents convergence toward steward framing |
+| 5 | Apply synthetic stakeholder panels — 8–12 personas drawn from distributions that do not match the steward's | Stand-in for missing perspectives (with epistemic caveat: still LLM-generated) |
+| 6 | Output: divergence report — same conclusions / different conclusions / unreplicable claims | Makes convergence legible rather than assumed |
+
+**Honest limit.** This is mitigation, not cure. All frontier LLMs share training data and RLHF profiles. Claude-Red-Team vs. Claude-Main is closer to each other than either is to a practitioner in Mumbai. Synthetic personas remain steward-imaginable. The protocol reduces bias; it does not eliminate it.
+
+**What it adds.** Structurally raises the cost of steward-context convergence, which the existing Protocol §6 asks for but does not operationalize. Round 4 of Exchange #21 was adversarial-within-context; a Red Team Run would be adversarial-across-context. Qualitatively different.
+
+**Recommended next move (executed).** Drafted directly as the [Cross-Lineage Review Harness Protocol](agent/process/cross-lineage-review-harness-protocol.md), a fifth sibling to Adversarial / Coherence / Historical-Parallel / Comparative Alignment.
 
 ---
 

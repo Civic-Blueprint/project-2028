@@ -13,7 +13,7 @@ provenance: "ai-generated, steward-curated"
 >
 > **Purpose:** This catalog lists every proposal individually so that a project steward can review, provide feedback, flag ideas worth developing further, and use them as starting points for additional brainstorming.
 >
-> **How to use this document:** Proposals are numbered P-001 through P-135 in the order they were generated. Proposals suffixed with `-R` are revised versions produced during adversarial review. Proposals P-136 through P-149 were generated during adversarial response and alternative-framing rounds. The **Priority** and **Steward notes** fields are blank — fill them in as you review.
+> **How to use this document:** Proposals are numbered P-001 through P-135 in the order they were generated. Proposals suffixed with `-R` are revised versions produced during adversarial review. Proposals P-136 through P-149 were generated during adversarial response and alternative-framing rounds. P-150 was added later from a steward thinking thread ([Roadmap Thread A](../ROADMAP_ARCHIVE.md#thread-a--rapid-constituent-feedback--xrp-style-amendment-voting)), outside the autonomous rounds. The **Priority** and **Steward notes** fields are blank — fill them in as you review.
 
 ---
 
@@ -2314,14 +2314,32 @@ Mandate that all software developed with public funds — at any level of govern
 
 ---
 
+# Steward-Originated Proposals (June 2026)
+
+> Added outside the autonomous generation rounds, from a steward thinking thread ([Thread A / decision A1](../ROADMAP_ARCHIVE.md#thread-a--rapid-constituent-feedback--xrp-style-amendment-voting), resolved June 2026 and archived). Numbering continues the sequence.
+
+### P-150. Rapid Constituent Feedback-to-Remediation Pathway for Bounded-Governance Institutions
+
+|  |  |
+|---|---|
+| **Domains** | §4, §15 (cross-cuts §3, §13) |
+| **Classification** | Ambitious |
+| **Source** | [Roadmap Thread A / decision A1](../ROADMAP_ARCHIVE.md#thread-a--rapid-constituent-feedback--xrp-style-amendment-voting); concretizes the participatory-mechanism form named in [FOUNDATIONAL_COMMITMENTS.md §5](../FOUNDATIONAL_COMMITMENTS.md#5-critical-systems-require-inclusive-institutions-with-bounded-rules) |
+| **Priority** |  |
+| **Steward notes** |  |
+
+A standing constituent-feedback channel for bounded-governance institutions, combining two related-but-distinct mechanisms. **(a) Complaint triage** — a rapid, one-way pathway (digital plus phone) where an individual grievance is classified, routed, and answered within a published service-level window, with automatic escalation when the window is missed. **(b) Amendment signaling** — a slower, two-way pathway by which a threshold of affected constituents can force a rule onto a review agenda (petition-to-consideration, in the vein of UK petitions and Estonia e-petitions). Combining the two is a design choice, not a necessity. The purpose is to make [Principle 5](../PRINCIPLES.md#5-critical-systems-require-public-interest-governance)'s "accountable to those it affects" operationally real: a bounded-governance architecture without constituent-feedback plumbing is the architecture most vulnerable to adopt-and-hollow capture, and the mechanism instances two of [Commitment 5](../FOUNDATIONAL_COMMITMENTS.md#5-critical-systems-require-inclusive-institutions-with-bounded-rules)'s minimum requirements (genuine participatory mechanism; scheduled review). **Honest constraints (carried from the roadmap analysis):** automated triage is tractable only for well-bounded complaint types (permit delays, specific benefit denials), not general-purpose governance complaints — NLP classifiers drift under adversarial input; the binding constraint is human-reviewer capacity, not the frontend; escalation thresholds become gaming targets; and every comparable system (vTaiwan/Polis, SeeClickFix, national e-petitions) skews toward higher-capacity users, so equity of access must be a design requirement rather than an afterthought. Belongs as a worked mechanism under any bounded-governance doctrine and as a candidate mechanism in F3 (doctrine public artifact); it should not be written into Principle 5 itself, which must stay mechanism-agnostic.
+
+---
+
 # Summary Statistics
 
 |  | Count |
 |---|---|
-| **Total entries** | **152** (135 original + 3 revised + 1 adversarial response + 13 alternative-framing) |
-| **Unique proposals (after de-duplication)** | **112** (per Round 26 coherence audit) |
+| **Total entries** | **153** (135 original + 3 revised + 1 adversarial response + 13 alternative-framing + 1 steward-originated) |
+| **Unique proposals (after de-duplication)** | **113** (112 per Round 26 coherence audit + 1 steward-originated) |
 | Pragmatic | 52 |
-| Ambitious | 73 |
+| Ambitious | 74 |
 | Outlandish | 27 |
 
 ---
