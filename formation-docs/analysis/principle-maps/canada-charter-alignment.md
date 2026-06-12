@@ -37,7 +37,7 @@ The Canadian Charter is a strong civil-liberties and equality document with a di
 | 11. Civilization depends on a functioning biosphere | absent | high | none | No environmental commitment in the Charter itself. |
 | 12. The present generation holds obligations to the future | absent | high | none | No explicit future-generations framing. |
 | 13. Pluralism and self-determination are strengths, not obstacles | explicit-alignment | medium | Section 27, federal-democratic context | Multicultural heritage and federal pluralism are important Charter features. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Section 2 expression and press freedom | Supports open discourse, but not the stronger civic-epistemic framing Civic Blueprint uses. |
+| 14. Truth and evidence must be protected as public goods | different-resolution | medium | Section 2 expression and press freedom | Section 2 expression/press is a negative-liberty resolution, not the positive civic-epistemic duty Civic Blueprint frames (reclassified per Exchange #19 R3-4). |
 | 15. The circle of moral consideration must remain open | absent | high | none | The rights-bearing subject remains human and legally bounded. |
 | 16. Justice mediates between competing claims | explicit-alignment | medium | Section 1, Section 7, Section 24 | The reasonable-limits clause is an important constitutional mechanism for handling competing claims. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | Sections 1, 24, democratic-rights structure | Public power is legitimate only under rights constraints and judicially reviewable limits. |

@@ -37,7 +37,7 @@ Germany's Basic Law is one of the clearest dignity-first constitutional texts in
 | 11. Civilization depends on a functioning biosphere | absent | high | none in retained excerpts | No ecological clause in this selected set. |
 | 12. The present generation holds obligations to the future | absent | high | none | No explicit intergenerational framing in the selected set. |
 | 13. Pluralism and self-determination are strengths, not obstacles | explicit-alignment | medium | Articles 5 and 20 | Democratic federal structure and expression protections support pluralism. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Article 5 | Access to generally accessible sources and free press support this indirectly. |
+| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Article 5 | Access to generally accessible sources and free press support this indirectly. Retained as implicit: Article 5's right to inform oneself from generally accessible sources is a paired information-access element — the Exchange #19 R3-4 exception. |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | explicit-alignment | medium | Article 1, Article 20 | Justice and law are integral to the order described. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | Articles 1 and 20 | Strong overlap on constrained public authority. |

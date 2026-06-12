@@ -37,7 +37,7 @@ The ICA Statement is a compact organizational constitution for cooperative gover
 | 11. Civilization depends on a functioning biosphere | absent | high | none in retained summary | Community concern is present, but ecology is not explicit here. |
 | 12. The present generation holds obligations to the future | implicit-alignment | low | concern for community | Future orientation is indirect. |
 | 13. Pluralism and self-determination are strengths, not obstacles | explicit-alignment | medium | autonomy and independence; open membership | Strong overlap. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | low | education, training and information; honesty and openness | Some overlap, but not a full epistemic principle. |
+| 14. Truth and evidence must be protected as public goods | implicit-alignment | low | education, training and information; honesty and openness | Some overlap, but not a full epistemic principle. Education, training, and information duties qualify it as implicit — the Exchange #19 R3-4 exception. |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | explicit-alignment | medium | equality, equity, solidarity | Justice logic is embedded strongly in the values set. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | democratic control, autonomy, community concern | Strong overlap. |

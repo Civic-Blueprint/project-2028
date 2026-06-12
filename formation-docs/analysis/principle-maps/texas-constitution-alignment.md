@@ -39,7 +39,7 @@ This makes it a good comparator for liberty-first constitutional traditions.
 | 11. Civilization depends on a functioning biosphere | absent | high | none | No ecological language. |
 | 12. The present generation holds obligations to the future | absent | high | none | No intergenerational framing. |
 | 13. Pluralism and self-determination are strengths, not obstacles | implicit-alignment | low | speech and assembly clauses | Supports political expression more than deep pluralism theory. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | low | speech and press protections | Open expression is protected, but not a truth-infrastructure principle. |
+| 14. Truth and evidence must be protected as public goods | different-resolution | low | speech and press protections | Speech/press protection is a negative-liberty resolution, not a truth-infrastructure duty (reclassified per Exchange #19 R3-4). |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | implicit-alignment | low | due-course clause | Justice is mostly procedural in the retained set. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | Sections 2 and 29 | This is one of the text's strongest overlaps with Civic Blueprint. |

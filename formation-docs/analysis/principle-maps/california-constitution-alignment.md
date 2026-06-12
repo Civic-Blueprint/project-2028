@@ -37,7 +37,7 @@ California's constitution is useful less as a full governing theory than as a hi
 | 11. Civilization depends on a functioning biosphere | absent | high | none in retained excerpt | Not covered in this selected set. |
 | 12. The present generation holds obligations to the future | absent | high | none | No explicit intergenerational framing. |
 | 13. Pluralism and self-determination are strengths, not obstacles | implicit-alignment | low | expressive and petition rights | Supports plural civic participation, but not a broad pluralism theory. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Article I, Sections 2 and 3; Article IX, Section 1 | Speech, access to information, and education together point toward an epistemic public-good logic. |
+| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Article I, Sections 2 and 3; Article IX, Section 1 | Speech, access to information, and education together point toward an epistemic public-good logic. Paired access-to-information and education duties qualify it under the Exchange #19 R3-4 exception. |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | implicit-alignment | low | due-process and equal-protection language | Justice is present procedurally rather than as a broad constitutional aim. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | medium | due-process and open-government provisions | Public power is constrained by process and transparency. |

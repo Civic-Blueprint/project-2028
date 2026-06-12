@@ -37,7 +37,7 @@ Japan's Constitution is a distinctive peace-oriented democratic rights document 
 | 11. Civilization depends on a functioning biosphere | absent | high | none in retained excerpts | No ecological clause in the selected set. |
 | 12. The present generation holds obligations to the future | explicit-alignment | high | Preamble, Articles 11 and 97 | Future-generations language is notably direct. |
 | 13. Pluralism and self-determination are strengths, not obstacles | implicit-alignment | medium | democratic and expressive rights | Supports democratic pluralism, though not as a named theory. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Article 21 | Speech and anti-censorship language support this indirectly. |
+| 14. Truth and evidence must be protected as public goods | different-resolution | medium | Article 21 | Bare speech/anti-censorship protection is a negative-liberty resolution of the information problem, not a positive truth-infrastructure duty (reclassified per Exchange #19 R3-4). |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | implicit-alignment | medium | rights, equality, and public-welfare framing | Justice is present in structure more than by name. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | Preamble, rights clauses | Public authority is held in trust and constrained by rights. |

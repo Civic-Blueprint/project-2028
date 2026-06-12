@@ -39,7 +39,7 @@ Its idiom is older than Civic Blueprint's, but several of its commitments still 
 | 11. Civilization depends on a functioning biosphere | absent | high | none | No ecological language. |
 | 12. The present generation holds obligations to the future | implicit-alignment | low | education clause | Education is framed as an enduring intergenerational civic duty. |
 | 13. Pluralism and self-determination are strengths, not obstacles | implicit-alignment | low | popular-sovereignty language | Self-government is present, but pluralism is not strongly theorized. |
-| 14. Truth and evidence must be protected as public goods | explicit-alignment | medium | education clause | Wisdom, knowledge, and education are explicitly tied to the preservation of liberty. |
+| 14. Truth and evidence must be protected as public goods | explicit-alignment | medium | education clause | Wisdom, knowledge, and education are explicitly tied to the preservation of liberty. Retained as explicit: an institutionalized education duty, not a bare expression clause — the Exchange #19 R3-4 exception. |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | implicit-alignment | medium | Article XVIII, Article XXX | Justice is named as a constitutional virtue and structural aim. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | Articles V and XXX | Public power is derived from the people and constrained by constitutional department boundaries. |

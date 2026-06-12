@@ -37,7 +37,7 @@ The Bill of Rights is a concentrated shield against state overreach. It is much 
 | 11. Civilization depends on a functioning biosphere | absent | high | none | No ecological language. |
 | 12. The present generation holds obligations to the future | absent | high | none | No explicit intergenerational framework. |
 | 13. Pluralism and self-determination are strengths, not obstacles | implicit-alignment | medium | Amendment I, Amendment X | Religious and expressive liberty plus reserved powers support pluralism indirectly. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Amendment I | Free press and speech are strong supports, but not a fuller truth-infrastructure principle. |
+| 14. Truth and evidence must be protected as public goods | different-resolution | medium | Amendment I | Amendment I press/speech is a negative-liberty resolution, not a positive truth-infrastructure duty (reclassified per Exchange #19 R3-4). |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | explicit-alignment | medium | Amendments V-VIII | Procedural justice is a core theme. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | Amendments I-X | This is the Bill of Rights' central contribution. |

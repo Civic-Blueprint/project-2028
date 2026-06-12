@@ -38,7 +38,7 @@ Mondragon is one of the strongest non-state comparators in the corpus. It articu
 | 11. Civilization depends on a functioning biosphere | implicit-alignment | low | social transformation | Sustainability is present but not central in the retained summary. |
 | 12. The present generation holds obligations to the future | implicit-alignment | low | education and social transformation | Future orientation is present indirectly. |
 | 13. Pluralism and self-determination are strengths, not obstacles | explicit-alignment | medium | universality, inter-cooperation, open membership | Strong fit in organizational form. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | low | education | No dedicated epistemic principle. |
+| 14. Truth and evidence must be protected as public goods | implicit-alignment | low | education | No dedicated epistemic principle. Education is a paired knowledge duty — qualifies as implicit under the Exchange #19 R3-4 exception. |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | explicit-alignment | medium | wage solidarity, subordinated capital | Organizational justice is central. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | democratic organisation, subordinated capital | Strong overlap. |

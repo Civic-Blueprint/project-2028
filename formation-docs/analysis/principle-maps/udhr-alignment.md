@@ -39,7 +39,7 @@ It still does not reach Civic Blueprint's newer concerns around AI, ecology, tru
 | 11. Civilization depends on a functioning biosphere | absent | high | none | No ecological language. |
 | 12. The present generation holds obligations to the future | absent | high | none | No explicit future-generations framework. |
 | 13. Pluralism and self-determination are strengths, not obstacles | implicit-alignment | medium | Articles 18, 19, 20, 21, 27 | Religious, expressive, associative, and cultural rights imply pluralism. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Article 19, Article 26 | Supports expression and education, but not an explicit truth-infrastructure principle. |
+| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Article 19, Article 26 | Supports expression and education, but not an explicit truth-infrastructure principle. Article 26 education is a paired knowledge duty — the Exchange #19 R3-4 exception. |
 | 15. The circle of moral consideration must remain open | absent | high | none | The moral subject is universal within humanity, but not open-ended beyond it. |
 | 16. Justice mediates between competing claims | explicit-alignment | medium | Preamble, Articles 8-11, 29 | Justice is both procedural and limitation-aware. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | medium | Articles 21 and 29 | Power is grounded in the will of the people and limited by rights and democratic welfare requirements. |

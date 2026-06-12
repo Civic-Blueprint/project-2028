@@ -37,7 +37,7 @@ The French Declaration is a concentrated liberty, equality, sovereignty, and pub
 | 11. Civilization depends on a functioning biosphere | absent | high | none | No ecological language. |
 | 12. The present generation holds obligations to the future | absent | high | none | No intergenerational framing. |
 | 13. Pluralism and self-determination are strengths, not obstacles | implicit-alignment | medium | Articles 3, 10, 11 | National sovereignty and opinion liberty support pluralism indirectly. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Article 11 | Strong communication-of-ideas language, but no fuller epistemic infrastructure principle. |
+| 14. Truth and evidence must be protected as public goods | different-resolution | medium | Article 11 | Article 11's free communication of ideas is a negative-liberty resolution, not a positive epistemic-infrastructure duty (reclassified per Exchange #19 R3-4). |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | explicit-alignment | medium | Articles 7-9, 13, 17 | The text is strongly concerned with legal fairness and proportionality. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | Articles 3, 12, 15, 16, 17 | One of the source's core strengths. |

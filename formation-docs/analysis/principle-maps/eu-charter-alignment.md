@@ -37,7 +37,7 @@ The EU Charter is one of the strongest transnational comparators in the corpus f
 | 11. Civilization depends on a functioning biosphere | explicit-alignment | high | Article 37 | Environmental protection is direct. |
 | 12. The present generation holds obligations to the future | implicit-alignment | medium | Article 37 | Sustainable-development logic points toward intergenerational obligation. |
 | 13. Pluralism and self-determination are strengths, not obstacles | implicit-alignment | medium | non-discrimination and rights pluralism | Pluralism is strongly supported, though self-determination is not the main framing. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Article 11 | Information rights support this indirectly. |
+| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | Article 11 | Information rights support this indirectly. Article 11's right to receive and impart information is a paired information-access element — the Exchange #19 R3-4 exception. |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | explicit-alignment | medium | balancing across dignity, equality, solidarity, and administration | Justice is embedded in the overall rights architecture. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | data protection, good administration, rights structure | Strong overlap. |

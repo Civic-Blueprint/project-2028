@@ -39,7 +39,7 @@ Among U.S. state texts, it is one of the closest matches to several Civic Bluepr
 | 11. Civilization depends on a functioning biosphere | explicit-alignment | high | Section 3 | Clean and healthful environment is explicitly constitutionalized. |
 | 12. The present generation holds obligations to the future | implicit-alignment | medium | environment right | Future-generations language is not explicit in this excerpt, but the environmental-rights logic points that way. |
 | 13. Pluralism and self-determination are strengths, not obstacles | implicit-alignment | low | popular-sovereignty and participation provisions | Supports democratic self-government more than broad pluralism theory. |
-| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | right to know | Strong public-information access logic supports this principle indirectly. |
+| 14. Truth and evidence must be protected as public goods | implicit-alignment | medium | right to know | Strong public-information access logic supports this principle indirectly. Right-to-know is a paired disclosure duty — qualifies under the Exchange #19 R3-4 exception. |
 | 15. The circle of moral consideration must remain open | absent | high | none | No comparable principle. |
 | 16. Justice mediates between competing claims | implicit-alignment | medium | equal protection and balancing of privacy against disclosure | Balancing logic is present in public-disclosure and rights provisions. |
 | 17. Collective power must be exercised within principled constraints | explicit-alignment | high | Sections 1, 9, 10 | Public power exists for the common good and may be limited by privacy and disclosure constraints. |
