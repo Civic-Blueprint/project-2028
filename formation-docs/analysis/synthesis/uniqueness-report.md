@@ -8,6 +8,8 @@ This file tracks where Civic Blueprint is not merely overlapping with existing f
 
 That kind of difference is not automatically a flaw. Some of the project's most valuable principles may be precisely the ones the historical corpus has not named clearly enough.
 
+> **Adversarial-response note (June 2026, [Exchange #19](../../../agent/exchanges/formation-document-initial-findings-adversarial-review.md) Round 2).** The response round leaned on this report's findings as confirmed: the technology-, ecology-, and moral-expansion cluster (Principle 3 AI, Principle 11 biosphere, Principle 15 moral circle, Principle 9 competence-not-theater) is the genuinely unusual part of the principles set and survives the adversarial challenge. The round also used the **watch list** below — specifically that Principle 14 (truth/evidence) is thinly represented — as the basis for downgrading free-expression→truth-infrastructure overlaps elsewhere in the corpus from `explicit` to `implicit`/`different-resolution`. The thinness is a property of the historical corpus (which predates platformized information systems), not a weakness of the principle.
+
 ---
 
 ## Principles that appear unusually explicit

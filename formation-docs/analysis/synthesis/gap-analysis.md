@@ -8,6 +8,8 @@ This file tracks commitments that recur in the source corpus but are weakly repr
 
 These are not automatic revision instructions. They are candidates for discussion, exchange work, and possible later integration.
 
+> **Adversarial-response note (June 2026, [Exchange #19](../../../agent/exchanges/formation-document-initial-findings-adversarial-review.md) Round 2).** The response round ranked the four candidate gaps below by whether they have earned a *principles-level discussion*: only **peace / anti-war** (recurring independently across the UN Charter, Japan, and the African Union) cleared that bar — and it earns the debate even if it ultimately lands as a Principle 17 tension note rather than a new principle. The other three — **social rights as textual entitlements** (articulation gap inside Principles 2 and 7), **education / civic formation** (candidate subprinciple under 9/10/14), and **international cooperation / sovereign equality** (Systems Framework note or Principle 13 subprinciple) — are recommended as articulation/subprinciple work, *not* new principles. No principle is edited on the strength of that round; the peace decision is the steward's.
+
 ---
 
 ## Recurrent candidate gaps
