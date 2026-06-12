@@ -118,7 +118,7 @@ The Notes & open thinking threads section of the live roadmap originally carried
 
 ## Completed items (June 2026 sweep)
 
-> Moved here from the live [ROADMAP.md](ROADMAP.md) on June 10, 2026 once complete, per the archive-don't-delete convention. The live roadmap keeps survivor TODO numbers stable (no renumbering), so the numbers below (#2, #3, #5, #5a, #12, #14) now appear only here.
+> Moved here from the live [ROADMAP.md](ROADMAP.md) once complete, per the archive-don't-delete convention. The live roadmap keeps survivor TODO numbers stable (no renumbering), so the numbers below (#2, #3, #5, #5a, #6, #12, #14) now appear only here. (#6 added June 12, 2026.)
 
 ### TODO #2 — Exchange #16 (P-004/P-107 vs. P-053) — DECIDED June 9, 2026
 
@@ -135,6 +135,10 @@ Round 6 added two priorities to the practitioner-critique workstream: (P6) desig
 ### TODO #5a — Dispose two dormant early exchanges (#3, #6) — RESOLVED June 9, 2026
 
 #3 marked *Synthesized* and #6 marked *Superseded by [Exchange #7](agent/exchanges/proof-of-usefulness-feedback-timescale-review.md)*, in both the [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md) and their file status blocks. [Exchange #3 (Post-Systems-Framework Next Steps)](agent/exchanges/post-systems-framework-next-steps.md) — its two-track strategy is underway and tracked elsewhere; [Exchange #6 (Proof-of-Usefulness — Housing vs. AI)](agent/exchanges/proof-of-usefulness-housing-vs-ai.md) — its comparative memo shipped as [Memo 01](memos/proof-of-usefulness-memo-01.md) and its live thread moved to [Exchange #7](agent/exchanges/proof-of-usefulness-feedback-timescale-review.md).
+
+### TODO #6 — Exchange #20 (Social Slop) project-level commitment — DISPOSED June 12, 2026
+
+[Exchange #20 Round 1](agent/exchanges/social-slop-information-integrity-exchange.md#round-1--analytical-synthesis-june-2026) (analytical synthesis, June 10, 2026) worked the six open questions and the steward **ratified** its recommended disposition on June 12, 2026. The three project-level decisions resolved to **no on all three**: (a) do *not* adopt "Social Slop" as project terminology — retained as internal shorthand only (the "slop" label reads as dismissive of an audience the theory of change needs, and the anchor case is one-directional); (b) do *not* edit Principle 14 or Problem Map §3 — both already name the structural mechanism, the two genuinely-additive insights (method-as-values substitution; context-restoration-not-fact-checking) are already carried and held by [Exchange #25](agent/exchanges/shared-mirror-see-layer-exchange.md) M2, and replacement-over-addition is not cleared; (c) **no** public-facing artifact for now. **Disposition: subsume into [Exchange #25](agent/exchanges/shared-mirror-see-layer-exchange.md)** (which already generalized Social Slop as "one instance of mirror failure" and is itself on hold). The durable contributions — the five-step mechanism, the method-as-values-substitution insight, the context-restoration countermeasure, and the cross-partisan-symmetry requirement — are harvested into #25's M-claim set. Exchange #20 is marked *Synthesized* in the [Exchange Index](agent/exchanges/_EXCHANGE_INDEX.md) and its file status block. **What moves forward (a watch, not a live TODO):** a **re-promotion trigger** recorded in the exchange — revisit only if #25 or [#26](agent/exchanges/coordination-triad-combined-exchange.md) comes off hold and promotes the shared-mirror / see-layer frame to doctrine or a Phase 3 surface *and* a symmetric cross-partisan evidence base exists.
 
 ### TODO #12 — "Replacement over addition" default for bounded-governance proposals — DONE June 10, 2026
 

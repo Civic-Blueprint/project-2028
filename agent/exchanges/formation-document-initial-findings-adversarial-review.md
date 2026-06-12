@@ -1,6 +1,6 @@
 # Formation Document Initial Findings - Adversarial Review
 
-> **Status (June 2026):** Active; Round 1 (adversarial challenge) complete; Round 2 (constructive response) complete; Round 3 (cross-lineage adversarial pass on the reclassified synthesis) reserved. Round 1 (April 2026) opened the first adversarial challenge to the corpus synthesis; Round 2 (June 2026) answers it against the now-20-source corpus, reclassifies the four early synthesis claims, and routes the gap candidates. Both rounds were produced in the authoring lineage, so Round 2's confidence numbers are upper bounds pending an independent-lineage or comparative-politics human pass.
+> **Status (June 2026):** Active; Rounds 1–3 complete; Round 4 (response/v2, after corpus expansion) reserved. Round 1 (April 2026) opened the adversarial challenge; Round 2 (June 2026) answered it against the now-20-source corpus and reclassified the synthesis to *modern rights-constitutionalism convergence, not cross-tradition convergence*; **Round 3 (June 2026) ran the cross-lineage adversarial pass** — two clean independent lineages (Grok 4.3, GPT-5.5) plus a third (Gemini 3.1 Pro) **discarded as contaminated** (it was an agent that wrote into the exchange, defeating the reduced-context discipline). **Round 3 did not falsify the synthesis but wounded it:** R3-2 (concentration) and R3-3 (modern-not-cross-tradition) → **contested**; R3-5 ("peace is the *only* gap") → **contested / weakened** (education-civic-formation is a co-candidate); R3-1 and R3-6 narrowed; **R3-4 (expression→truth-infrastructure over-read) confirmed** and now safe to enact. The decisive finding: the still-absent non-liberal / pre-modern / Indigenous families (Iran, PRC, Saudi, a Confucian order, rights-of-nature texts) are **load-bearing**, so corpus expansion is now the gating move. **Steward decision (June 12, 2026):** the peace discussion is **held** until corpus expansion — reinforced by Round 3, and widened to re-evaluate peace *and* education/civic-formation together.
 >
 > **Why this exchange:** The project now has enough source coverage to start making stronger claims about overlap, divergence, and possible gaps in Civic Blueprint's principles. That is exactly the stage where false confidence becomes most dangerous. Before the corpus is treated as evidence that the project's principles are broadly aligned with global formation traditions, the early synthesis needs structured adversarial challenge.
 
@@ -191,5 +191,100 @@ This is the material fact Round 2 turns on: **the corpus is no longer all of one
 ### What Round 2 hands forward
 
 - **To the corpus synthesis artifacts:** apply the challenge-3 reclassification (expression/sovereignty mappings → `implicit`/`different-resolution`) and record the "modern rights-constitutionalism convergence, not cross-tradition convergence" framing. Cross-reference notes added to the [Alignment Matrix](../../formation-docs/analysis/synthesis/alignment-matrix.md), [Gap Analysis](../../formation-docs/analysis/synthesis/gap-analysis.md), and [Uniqueness Report](../../formation-docs/analysis/synthesis/uniqueness-report.md).
-- **To Round 3 (reserved):** a cross-lineage adversarial pass whose sharpest targets are the "concentrated, not broad" reframe and the absent non-liberal families.
-- **To the steward:** one decision is genuinely yours — whether to open the **peace** discussion now (the only gap that cleared the bar) or to hold it until the corpus adds non-liberal and pre-modern sources. The other three gaps are recommended as articulation/subprinciple work, not new principles.
+- **To Round 3 (queued June 12, 2026):** a cross-lineage adversarial pass whose sharpest targets are the "concentrated, not broad" reframe and the absent non-liberal families. The self-contained, copy-paste hand-off packet is below ([Round 3 — Adversary hand-off packet](#round-3--adversary-hand-off-packet-self-contained--copy-paste)).
+- **To the steward:** one decision was genuinely theirs — whether to open the **peace** discussion now or hold it. **Steward decision (June 12, 2026): HOLD.** The peace discussion is deferred until the corpus adds non-liberal and pre-modern sources, so it is grounded in a less skewed corpus rather than the current modern-rights-forward one (which is exactly the bias Round 2 surfaced). The other three gaps remain articulation/subprinciple work, not new principles. The hold is logged as a standing item, not a closed question — peace re-enters the queue when corpus expansion delivers the missing families.
+
+---
+
+## Round 3 — Adversary hand-off packet (self-contained — copy-paste)
+
+> **How to run this (run June 12, 2026 — results in the [Round 3 results](#round-3-results--cross-lineage-adversarial-pass-june-2026) section below).** Round 1 (challenge) and Round 2 (response) were both produced in the **same authoring lineage**, so the convergence problem the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) exists to fix is only *caveated*, not removed. Round 3 is the cross-lineage pass. Run the packet below on a **different model family** (Grok, GPT, or Gemini — Protocol §2 Option D) and/or give it to a human comparative-politics / constitutional-law / global-intellectual-history reviewer. The packet is **self-contained** — it carries the corpus list, the reclassified claims as assertions to test (Option B), reduced context (Option A — the reviewer gets the claims and corpus, not this whole thread), and a domain lens (Option C). Paste everything inside the rule below as the prompt, in a context that does **not** include this exchange. Record each lineage's verdict, blind to the others. (This packet is retained as the reusable artifact; the June 2026 run is synthesized below.)
+
+---
+
+You are reviewing a synthesis claim set from **Civic Blueprint**, a project that maintains a 17-principle civic document and compares it against the world's formation documents (constitutions, rights charters, international declarations, and organizational founding texts) to test, sharpen, and challenge its own principles.
+
+**Your role is adversarial.** Do not extend or refine these claims. Find what is wrong, overstated, or artifact. Attack the *strongest* version of each claim (steelman first, then break). Agreement is not the goal.
+
+**Your lens:** a comparative-politics / constitutional-law scholar who studies cross-tradition constitutional borrowing and is skeptical of "values convergence" narratives — alert to selection effects, Whig history, and the difference between textual overlap and functional equivalence.
+
+### The corpus under analysis (20 sources)
+
+- **Rights-forward modern:** South Africa, UDHR, Canada Charter, India, Montana, Brazil, Germany Basic Law, EU Charter, California, Japan.
+- **Structural / liberty / power-skeptical / pre-modern:** US Constitution (1787), US Bill of Rights (1791), Declaration of Independence (1776), France Declaration of the Rights of Man (1789), Massachusetts (1780), Texas.
+- **Regional / sovereignty / collective-security:** UN Charter, African Union Constitutive Act.
+- **Organizational (member-governed, non-state):** Mondragón, ICA cooperative identity, B Corp Declaration.
+
+The corpus contains **no** theocratic, monarchical, explicitly hierarchical, or single-party founding text, and **no** Confucian- or Islamic-constitutional order in its original form.
+
+### Method note
+
+Each source has its own alignment memo recording where it overlaps the 17 principles, where it diverges, and what it adds. No single cross-genre "alignment score" is computed. Civic Blueprint's principles most relevant below: P1 dignity, P2 essential needs, P3 AI augments (not replaces) democratic accountability, P9 institutions designed for competence not theater, P10 the future built in the open, P11 functioning biosphere, P14 truth/evidence as public goods, P15 the moral circle stays open, P17 principled constraints on public power.
+
+### Claims to test (evaluate each: supported / weak / contested / falsified, with reasoning)
+
+- **R3-1.** Adding the structural / pre-modern / power-skeptical texts (US 1787, Bill of Rights, Declaration, France 1789, Massachusetts, Texas) and the regional texts (UN Charter, African Union) produced systematic **asymmetry** — strong on constrained/reversible power and procedure, weak-or-absent on dignity-as-universal, essential needs, biosphere, and truth infrastructure — rather than raising overall alignment. *Falsified if those texts in fact carry strong dignity / positive-rights / ecological / epistemic content that the "absences" reading missed.*
+- **R3-2.** The dignity-and-rights overlap is **concentrated in the rights-forward modern subset**, not a property of the corpus as a whole. *Falsified if overlap is roughly uniform across eras and genres, or if a defensible aggregate measure shows broad overlap.*
+- **R3-3.** A meaningful part of the apparent "alignment" is the convergence of **late-20th-century rights constitutionalism**, not trans-historical cross-tradition convergence. *Falsified if pre-modern or non-Western-in-original texts show the same dignity / positive-rights commitments — i.e., the convergence predates and transcends postwar constitutionalism.*
+- **R3-4.** Free-expression→truth-infrastructure (P14) and popular-sovereignty→open-design (P10) mappings are **over-read** and should be downgraded to `implicit` / `different-resolution` unless a source pairs expression with institutionalized knowledge duties (public education, disclosure / right-to-know, public media). *Falsified if sources routinely pair expression with such duties, making the explicit mapping earned.*
+- **R3-5.** **Peace / anti-war** is the only candidate gap that has earned a principles-level discussion (recurring independently across UN Charter, Japan, African Union); the other three candidates — social-rights articulation, education / civic formation, international cooperation — are articulation/subprinciple work, not new principles. *Falsified if one of the other three recurs as strongly and independently, or if peace is already adequately carried by P17.*
+- **R3-6.** The technology / ecology / moral-expansion cluster (P3 AI, P11 biosphere, P15 open moral circle, P9 competence-not-theater) is **genuinely unusual** and survives challenge. *Falsified if the broader constitutional tradition carries these commitments in substance under other names.*
+
+### Required adversarial probes
+
+1. **Absent families.** For each of R3-1…R3-6, state whether the omission of theocratic / monarchical / hierarchical / single-party / Confucian / Islamic founding texts makes the claim an **artifact of who was left out**. Name the specific source(s) whose addition would most change each verdict.
+2. **Steelman the rival.** Construct the strongest version of "Civic Blueprint's core *does* reflect a broad cross-tradition human convergence" and assess whether it survives. If it does, R3-2 and R3-3 are in trouble.
+3. **Falsifiability under revision (Protocol §5, Q6).** Round 2 revised the synthesis from "broad alignment" to "concentrated alignment + asymmetry." Did that revision expose *new* falsifiers, or did it dissolve the old ones into an unfalsifiable hedge? Be specific.
+4. **Functional vs. textual.** Where Round 2 read overlap or asymmetry off the text, identify cases where functional/constitutional practice would flip the reading.
+
+### Output format
+
+For each claim R3-1…R3-6: a one-paragraph verdict + confidence (established / working hypothesis / speculative / contested / **falsified**). Then a short epistemic-status table, a ranked list of the absent sources most likely to change the conclusions, and any analytical tradition or perspective absent from the synthesis whose inclusion would change it.
+
+---
+
+## Round 3 results — Cross-lineage adversarial pass (June 2026)
+
+> Run on independent model families per [Adversarial Review Protocol §2](../process/adversarial-review-protocol.md) Option D, against the [hand-off packet](#round-3--adversary-hand-off-packet-self-contained--copy-paste) above. **Two clean passes are recorded** (Grok 4.3 and GPT-5.5). **A third (Gemini 3.1 Pro) was discarded as contaminated** — see the process note. Statuses below take the *more demanding* defensible reading wherever the two clean passes diverge, per the protocol's purpose.
+
+### Process note — the discarded Gemini pass (a reusable lesson)
+
+The Gemini pass was run as a **file-writing agent** and wrote its review directly into this exchange. That defeats the packet's core discipline: Option A (reduced context) only works if the adversary sees *the claims and corpus, not the thread*. An agent with read/write access to the exchange has the Round 1 framing, the Round 2 reasoning, and the steward's decisions in context — exactly the bias the packet was built to withhold — so its output cannot count as a clean blind pass. It was removed from the file and excluded from the count. Reassuringly, **no signal was lost**: every substantive point it raised (functional-vs-textual; the unfalsifiable-hedge worry; education as a rival to peace; Indigenous/religious texts for the ecology/moral-circle cluster) was independently raised by Grok and/or GPT below. **Lesson:** run packet adversaries in a context that does *not* include the exchange (a fresh session, or a model without repo access), and have the steward paste the result back — never hand the packet to an agent pointed at the exchange file. (Candidate for promotion into [Protocol §2](../process/adversarial-review-protocol.md); steward's call.)
+
+### Per-claim synthesis (Grok 4.3 + GPT-5.5)
+
+The two clean passes **diverge sharply in temperature** — Grok found all six claims survive as working hypotheses or stronger (zero falsified); GPT pressed harder and contested three. Taking the more demanding reading:
+
+- **R3-1 (asymmetry from the structural/pre-modern additions) — Supported but narrowed.** Both agree the asymmetry is real (strong on constrained power/procedure, weak on the rest). GPT's correction stands: "weak-or-absent on dignity-as-universal" is too broad — France 1789, the Declaration, the UN Charter, and Massachusetts carry equality / worth / education language. **Refinement:** the asymmetry is against Civic Blueprint's *full* dignity-plus-material-stability-plus-biosphere-plus-truth package, not against dignity per se. Live vulnerability (both flag): functional vs. textual reading.
+- **R3-2 (overlap concentrated in the rights-forward modern subset) — Contested (downgraded).** Clean split: Grok supported, GPT contested. The claim holds only if "dignity-and-rights" means postwar liberal/social rights; under a broader definition (natural rights, equality-before-law, anti-domination, divine dignity, socialist social rights, subject-rights), the overlap is *not* concentrated. The still-absent Iran ("the exalted dignity and value of man") and PRC (equality, work, welfare, education, ecology — inside a party-state frame) texts are named falsifiers. **This is the round's sharpest hit.**
+- **R3-3 (modern rights-constitutionalism convergence, not cross-tradition) — Contested.** Both passes flag a denominator/Whig problem: the claim risks making cross-tradition convergence disappear *by definition*. Many traditions plausibly converge at a higher abstraction (human worth, anti-arbitrariness, public welfare, education, constrained rule); what is distinctively modern is Civic Blueprint's *particular resolution* (liberal-democratic, pluralist, ecologically constrained, accountability-heavy). The constitutional-borrowing literature adds that the modern convergence may itself be an artifact of postwar US/European influence and decolonization-era borrowing, not organic discovery. **Defensible residue:** the *explicit textual* convergence on CB's package is modern.
+- **R3-4 (expression→truth-infrastructure and sovereignty→open-design over-read) — Supported (the strongest claim).** Both passes endorse it; the clean reasoning is the negative-liberty/positive-duty distinction (a right to speak is not a state duty to maintain an epistemic commons). **Established** for the free-expression→truth-infrastructure downgrade on the current corpus; **working hypothesis** for the popular-sovereignty→open-design downgrade. This is the one reclassification safe to act on now.
+- **R3-5 ("peace is the *only* earned gap") — Contested / weakened.** GPT (and the discarded Gemini pass) reject the "only": education / civic formation recurs independently across Massachusetts, UDHR, ICA, and Mondragón, and social-rights articulation recurs strongly across South Africa, Brazil, UDHR, and India — both at strength comparable to peace, and both would recur *more* once Iran/PRC/Saudi are added. P17's existing nonviolent-theory-of-change also keeps the peace falsifier live. **Net:** peace has earned a discussion but is *not* uniquely earned — **education/civic formation is a co-candidate.** This **reinforces** the steward's hold and retires the "only."
+- **R3-6 (tech/ecology/moral-expansion cluster is genuinely unusual) — Supported but split within the cluster.** P3 (AI) and P15 (open moral circle) remain genuinely unusual across both passes — robust. P9 (competence-not-theater) and especially P11 (biosphere) have functional analogues — modern environmental constitutions, PRC-style ecological provisions, and Latin-American rights-of-nature / Indigenous stewardship (Ecuador, Bolivia, the Haudenosaunee Great Law of Peace) — so "unusual" for those two narrows to "more *central* in CB than in the corpus," not "absent elsewhere."
+
+### Cross-cutting findings (robust across both clean passes)
+
+1. **The absent non-liberal / pre-modern / Indigenous families are load-bearing, not a residual caveat.** Both passes independently rank them as the top falsifiers and name specific content (Iran's dignity language; the PRC's welfare/ecology; Ecuador/Bolivia rights-of-nature). This converts "corpus expansion" from a background task into **the gating move** for hardening the synthesis — and strongly vindicates the steward's June 12 peace-hold.
+2. **Functional-vs-textual is the deepest unexamined seam.** The synthesis reads overlap and asymmetry off *text*; reading off constitutional *function/practice* could flip R3-1, R3-2, and R3-5. The asymmetric danger (GPT): authoritarian constitutions may *textually* promise rights, welfare, ecology, and competence while *functionally* violating accountability; liberal constitutions may *textually* protect rights while *functionally* failing material stability. **New required discipline:** tag every mapping textual vs. functional, and never compare one source functionally against another textually.
+3. **The convergence framing needs a borrowing/influence lens** (constitutional-migration critique — Frankenberg, Hirschl). "Concentration in modern rights texts" may be a predictable outcome of postwar hegemony and decolonization borrowing incentives, not an organic cross-tradition discovery. This must be settled before any convergence claim goes public.
+
+### Updated epistemic status after Round 3
+
+| Claim | Status after Round 3 | Movement | Primary residual falsifier |
+|---|---|---|---|
+| R3-1 asymmetry | Working hypothesis (narrowed) | Narrowed — absence is the *full package*, not dignity per se | Functional readings of US / France / Massachusetts / AU |
+| R3-2 concentration | **Contested** | Downgraded (Grok supported / GPT contested) | Iran, PRC, Saudi carrying dignity + welfare in non-liberal form |
+| R3-3 modern-not-cross-tradition | **Contested** | Downgraded — denominator/Whig problem | Higher-abstraction convergence; borrowing-as-cause |
+| R3-4 expression/sovereignty over-read | **Supported** (established for expression) | Held — strongest claim | Later sources pairing expression with knowledge duties |
+| R3-5 peace is the *only* gap | **Contested** | Weakened — "only" retired; education/civic-formation co-candidate | Whether education/social-rights recur as strongly once families added; P17 already carrying peace |
+| R3-6 tech/ecology/moral cluster unusual | Working hypothesis (split) | P3/P15 robust; P9/P11 narrowed to "more central, not unique" | Rights-of-nature + Indigenous/religious universalist texts |
+
+**Net verdict:** Round 3 **does not falsify** the synthesis, but it **wounds R3-2, R3-3, and R3-5, narrows R3-1 and R3-6, and confirms R3-4.** The synthesis is directionally sound but over-claimed in two places (concentration; "peace only"), and its biggest exposure is now precise and named: the absent families and the textual-vs-functional seam.
+
+### What Round 3 hands forward
+
+- **Corpus expansion is now the gating move** (not background): prioritize the named non-liberal / pre-modern / Indigenous families — Iran, PRC, Saudi Basic Law, a Confucian-influenced order (Meiji operation / Singapore), and rights-of-nature / Indigenous texts (Ecuador, Bolivia, Haudenosaunee). These are where R3-2, R3-3, R3-5, and R3-6 will be decided.
+- **Adopt the functional-vs-textual discipline** in the [Comparative Alignment Protocol](../process/comparative-alignment-protocol.md) and the per-source memos before the next synthesis pass.
+- **Act on R3-4 now:** apply the expression→truth-infrastructure downgrade to the per-source alignment memos (the only reclassification the round leaves safe to enact).
+- **Peace-hold reinforced, and widened:** when corpus expansion delivers the missing families, re-evaluate **peace and education/civic-formation together** (the "peace only" framing is retired), not peace alone.
+- **Round 4 (response/v2) reserved:** integrate these wins into a v2 synthesis once the corpus is expanded; an external human comparative-constitutional reviewer remains the largest unmet input.
