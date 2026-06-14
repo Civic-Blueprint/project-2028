@@ -8,7 +8,9 @@ exploration_status: open
 
 # Anthropic Framework Contribution-Surface Riff
 
-> **Status:** Open exploration as of June 14, 2026. Anchored on the [Anthropic Advanced AI Framework digest](../../sources/source-anthropic-advanced-ai-framework-digest.md) created the same day. This is a riff, not a brief and not an exchange — it surfaces the option space for *whether and how* the project engages the framework's open doors, and is not registered in [`_EXCHANGE_INDEX.md`](../exchanges/_EXCHANGE_INDEX.md).
+> **Status:** Open exploration as of June 14, 2026 (v1.1, same-session update). Anchored on the [Anthropic Advanced AI Framework digest](../../sources/source-anthropic-advanced-ai-framework-digest.md) created the same day. This is a riff, not a brief and not an exchange — it surfaces the option space for *whether and how* the project engages the framework's open doors, and is not registered in [`_EXCHANGE_INDEX.md`](../exchanges/_EXCHANGE_INDEX.md).
+>
+> **v1.1 (June 14, 2026):** steward dispositions on all six §7 open questions recorded in **§9**, with three threads expanded — the project's tool-building track record as OQ1/OQ2 credibility evidence (§9.1), the **decorrelation-as-governance-primitive** generalization (§9.2, a candidate spin-out riff), and a **metrics brainstorm** for measuring decorrelation (§9.3).
 
 ---
 
@@ -97,6 +99,8 @@ An early-stage, open-source project offering methodology to a frontier lab is ei
 
 If the project positions itself as a candidate "nascent evaluator organization" chasing the framework's funding hook, it risks optimizing toward what a lab wants rather than its civic mission — the precise Goodhart failure the verifier memo warns against (*"automate the perspiration; protect … the legitimacy"*). The verifier memo's hard line — **never automate direction-setting or legitimacy** — applies to the project's own incentives here, not only to its analysis.
 
+**Steward refinement (June 14, 2026):** capture is low-risk *conditional on staying un-incentivized* — "the only way we are in threat of being captured is if we were incentivised to do so." Agreed, with one sharpening: the incentivizing reward need not be money. Access, status, and *relevance* are also capture vectors — the wish to stay in the room with a frontier lab can bend judgment as surely as a grant. So the operational guard is not just "don't take evaluation funding" but "don't let the relationship itself become the reward." At a feedback-only posture (Path A/B) the risk is genuinely low; it rises sharply only at Path D.
+
 ### 4.4 Reflexivity / performativity self-implication
 
 The digest already flagged the framework as a **performative document** (it helps shape the regime it describes; cf. the [Reflexivity / Performativity digest](../../sources/source-reflexivity-performativity-control-systems-digest.md)). Engaging it risks adopting its frame — accepting the Covered-Developer threshold logic, the four-risk enumeration, the agency model — as the terms of debate. A contribution that improves the framework's evaluator design also, at the margin, *legitimates* the framework. That is not disqualifying, but it must be a chosen move, not an accident.
@@ -165,3 +169,65 @@ This riff is downstream of two prior decisions in the same dialogue lineage:
 ### 8.4 Provenance
 
 `collaborative` — human-directed AI drafting; steward synthesis and approval pending. Working-claim register: named uncertainty, no rhetorical flourish, no promotion. This riff names candidate paths without choosing among them; if it collapses to a single path, it should be promoted into a brief, exchange, or position memo per the [explorations convention](README.md#when-an-exploration-ends).
+
+---
+
+## 9. Steward dispositions and new threads (June 14, 2026)
+
+The steward answered all six §7 open questions in the same session. Dispositions are recorded as *leanings*, not decisions (per the exploration convention). Three answers opened new material and are expanded below.
+
+| OQ | Steward disposition | Effect on the riff |
+| --- | --- | --- |
+| **1 — Does the framework already require epistemic/lineage independence?** | Guess: **no**. The [Adversarial Review Protocol](../process/adversarial-review-protocol.md) "was the first thing made for this very reason." | Strengthens the §3.1 gap hypothesis. See §9.1 — the project's tool-building track record is itself the evidence. (Agent's preliminary full-PDF read concurs: independence is framed as financial/COI + anti-shopping, with no decorrelation requirement.) |
+| **2 — Is methodology-level contribution actually wanted?** | A shot in the dark is **acceptable** because Path A/B cost is low. | Path A/B moves from "named but unweighted" to **acceptable-to-pursue**; still not a committed decision. |
+| **3 — Can decorrelation be operationalized for institutions, not just model lineages?** | The generative one — is this project a "between the nodes" protocol, and can the technical tools extrapolate to **governance itself**, not only models? | Expanded in **§9.2**; flagged as a candidate **spin-out riff**. |
+| **4 — Does engaging the frame compromise independence / risk capture?** | **Low risk** unless incentivized. | Folded into §4.3 with the "incentive ≠ only money" sharpening. |
+| **5 — Is Door 2 (loss-of-control governance) its own riff?** | **Yes.** | Path C / Door 2 is hereby reserved as a **future standalone exploration**, not developed here. |
+| **6 — What clears the project's own bar; what metrics?** | Wants to **brainstorm metrics** together. | Expanded in **§9.3**. |
+
+### 9.1 The tool-building track record (OQ1 / OQ2 credibility evidence)
+
+The steward's prompt — *"How many more tools have we made since starting in early April?"* — is itself the answer to the credibility worry in §4.2. The project did not stumble onto decorrelation; it built the ARP **first, for this exact reason**, and has built a methodology stack on that foundation continuously since. Inventory as of June 14, 2026:
+
+- **Six review/process protocols:** [Adversarial Review](../process/adversarial-review-protocol.md) (first), [Coherence Audit](../process/coherence-audit-protocol.md), [Historical Parallel Test](../process/historical-parallel-test-protocol.md), [Comparative Alignment](../process/comparative-alignment-protocol.md), [Research](../process/research-protocol.md), [Cross-Lineage Review Harness](../process/cross-lineage-review-harness-protocol.md).
+- **The verifier cluster (4 methodology artifacts):** the [Agent Automation and the Verifier memo](../../memos/agent-automation-and-the-verifier-memo.md), the [Civic-Bench Design Memo](../../memos/civic-bench-design-memo.md), the harness protocol (above), and the historical-parallel backtest extension — plus the first memo, [Proof-of-Usefulness](../../memos/proof-of-usefulness-memo-01.md).
+- **Three operational agent skills:** feedback-record-capture, website-submission-triage, civic-blueprint-exchange.
+- **Supporting systems:** the [Content Provenance Standard](../../docs/CONTENT_PROVENANCE.md), three indexes (exchange / source / doctrine), the feedback-record system, the explorations convention, and two executed coherence audits ([April](../process/audits/coherence-audit-2026-04.md), [June](../process/audits/coherence-audit-2026-06.md)).
+- **Proposed-but-unbuilt instruments** named in riffs: the ecological-fallacy linter, calibration-scored forecasting, the governance sandbox.
+
+Honest caveat: "tools" is generous — most are documents, protocols, and conventions, not running software; and several overlap (the harness is both a protocol and a cluster member). The point survives the caveat: **deliberate, sustained method-building since April, with decorrelation as the founding motive.** That is the credible base from which a Path B memo speaks — not a borrowed analogy.
+
+### 9.2 Decorrelation as a governance primitive (the OQ3 generalization)
+
+The steward's two questions fuse into one claim worth its own development: decorrelated evaluation is **domain-general** — a method for extracting a *trustworthy signal from a set of fallible, possibly-correlated evaluators*. That problem recurs across at least three domains:
+
+1. **Evaluating AI models** — Anthropic's Door 1.
+2. **Evaluating civic claims** — the project's current internal use of the harness.
+3. **Governance bodies that aggregate judgment** — juries, oversight boards, review panels, mini-publics, expert commissions.
+
+If the method transfers, the contribution reframes entirely: decorrelation is not a favor lent to a lab but a **civic-governance primitive** — a requirement one would place on *any* judgment-aggregating body to resist capture and groupthink — and the Anthropic evaluator-ecosystem becomes the **first high-stakes external proving ground** for it (Rung-1 instrument validation, never S17 society-evidence). This is the steward's **"between the nodes"** intuition stated precisely: the protocol lives not inside any node but as the decorrelation discipline *on the interface between nodes*. It connects directly to threads already open:
+
+- the [Coordination Triad](coordination-triad-see-decide-act-riff.md)'s **"decide" leg** (aggregation beyond ordinal voting) and **T4** ("the interface between participants");
+- the [Shared Mirror](shared-mirror-collective-self-perception-riff.md) **"see" layer** (decorrelated perception);
+- the [Governance Sandbox](governance-sandbox-mechanism-testbed-riff.md)'s "cheap verifiers by construction";
+- the [Constitutional Ecology riff](constitutional-ecology-and-coordination-architecture-riff.md)'s **membrane between guilds** (and the [Process as Flourishing riff](process-as-flourishing-riff.md)'s "coordination membrane between many small develop-guilds").
+
+**Discipline on the idea.** The generalization is seductive, and *convergence ≠ proof* applies to it. The load-bearing risk is exactly OQ3 / the [Exchange #27 S17](../exchanges/discovery-principle-develop-leg-exchange.md) cross-scale-transfer problem: a method validated on **model lineages** may not transfer to **human institutions**, where measuring the correlation between two evaluator *organizations* is far harder than between two model families. **Candidate path:** spin this into its own riff — "Decorrelation as a Civic-Governance Primitive" — rather than letting it overload this Anthropic-scoped riff. Reserved alongside the Door-2 riff (OQ5).
+
+### 9.3 Metrics brainstorm (the OQ6 thread)
+
+Candidate metrics for *measuring* decorrelation and the project's own method-quality, in three families. Surfaced for the steward to react to; none chosen.
+
+**Family 1 — decorrelation metrics (is the evaluator pool actually independent?).**
+- **Joint-miss rate** — across a benchmark of artifacts with known flaws, the fraction of flaws missed by *every* evaluator at once. Low joint-miss = real decorrelation. This is what [Pipeline Run 001](../exchanges/discovery-principle-develop-leg-pipeline-run-001.md) implicitly measured (four lineages caught five issues the same-lineage draft missed). The cleanest single metric, measurable now on the project's own artifacts.
+- **Marginal-catch curve** — how many *new* issues the Nth evaluator surfaces. Fast plateau = correlated pool; sustained new catches = decorrelated. A plottable diminishing-returns curve.
+- **Lineage / provenance diversity index** — a structural, pre-hoc metric: spread of training corpora, model families, institutional affiliations, methodological priors across the evaluator pool (a correlation matrix over evaluators).
+- **Challenge rate** — fraction of reviews producing a genuine challenge vs. agreement (the ARP rewards challenge; a pool that mostly converges is suspect).
+
+**Family 2 — validity-vs-reliability separation (the deeper worry).**
+- **False-pass rate** — fraction of harness-passed artifacts that later fail human/practitioner review or the historical backtest. The honest proxy for *validity* (reliability is cheap to measure; validity needs ground truth one mostly lacks, so downstream failures are tracked instead). Already the [Civic-Bench](../../memos/civic-bench-design-memo.md) idea.
+
+**Family 3 — capture / Goodhart detection (for OQ4 / §4.3).**
+- **Harness-pass vs. external-review-pass divergence over time** — if work increasingly passes the harness but not external review, the project is optimizing to beat its own test. An early-warning gauge.
+
+**Agent's lean (to be challenged):** anchor on Family 1's **joint-miss rate + marginal-catch curve** (measurable now, on existing artifacts), with Family 2's **false-pass rate** as the validity backstop and Family 3 as a cheap alarm. Open sub-question: do these metrics survive the move from model-lineage evaluation to institutional evaluation (the §9.2 / OQ3 transfer problem)? If not, the metrics are valid for the AI-eval contribution but not yet for the governance-primitive generalization.
