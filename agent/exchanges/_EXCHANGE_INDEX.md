@@ -353,6 +353,17 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 31. [Abundance vs. "Discipline Capital" — Which Bottleneck Binds?](abundance-vs-discipline-capital-bottleneck-exchange.md)
+
+|  |  |
+| --- | --- |
+| **Question** | Are the *Abundance* (Klein & Thompson) "proceduralism / veto points" diagnosis and the Slobodian (*Muskism*) "discipline capital, don't clear veto points" diagnosis **rival** explanations of one bottleneck, **complementary** constraints that bind at different points in the value chain (build-side vs. allocation-side), or **nested** — and does the project's bounded-governance doctrine over-weight the proceduralist lever and under-weight the capital-allocation lever? |
+| **Depends on** | [Muskism digest](../../sources/source-weekly-show-stewart-slobodian-muskism-digest.md) (Cluster 8 discipline-capital; the tension flag) + [*Abundance* digest](../../sources/source-klein-thompson-abundance-digest.md) (proceduralist diagnosis + its own "silence on power" note), [Exchange #21](#21-government-overreach-ownership-as-transition-and-the-ratchet-problem--exchange) (the bounded-governance doctrine under pressure), [Exchange #28](#28-ownership-taxonomy--systems-framework--exchange-f2) (the Domain 2/10 capital-side survivors that C3 turns on), [Exchange #11](#11-ai-commonwealth-vs-ai-governance--exchange) (downstream consumer), [Suits digest constitutionalism thread](../../sources/source-suits-grasshopper-digest.md#the-lusory-attitude-constitutionalism-and-the-better-game-interpretive--added-june-14-2026) (who-holds-the-pen discipline for C4), [Acemoglu & Autor digest](../../sources/source-weekly-show-stewart-ai-future-of-work-digest.md), [Problem Map](../../PROBLEM_MAP.md) Domains 2/10/15/5/1/4 + [Principles](../../PRINCIPLES.md) §2/§4/§5/§13/§17, [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Research Protocol](../process/research-protocol.md). |
+| **Produced** | New exchange opened (graduated from the [Muskism digest](../../sources/source-weekly-show-stewart-slobodian-muskism-digest.md) interpretive notes). Round 1 states claim set **E31-C1…C5** with falsification conditions (C1 two distinct constraints not rivals — build-side proceduralism vs. allocation-side capital-indiscipline; C2 which binds is sector-dependent — housing→proceduralism, frontier-financialized sectors→capital discipline; C3 the #21 doctrine is lopsided toward the proceduralist lever; C4 the two are mutually corrective and "discipline capital" is inert/dangerous without bounded-governance — the Suits who-holds-the-pen trapdoor; C5 disposition = a synthesis note, not a new principle or rewrite) + four reserved adopt-targets, and produces an Option A/B/C adversary packet (abundance-liberal + public-choice + structural-left/financialization lenses) for an independent-lineage Round 2. Nothing adopted; same-lineage, not adversarially tested. |
+| **Status** | Active; Round 1 complete; Rounds 2–N reserved. |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -532,6 +543,18 @@ Core Documents (Principles, Problem Map, Systems Framework)
               ◄── #20 Social Slop (supply-side; subsumed) + #25 Shared Mirror (M2; hold governs)
               ◄── Adversarial Review + Research Protocol (T2 balanced sourcing)
               (Round 1 claims E30-C1…C5; adversarial Round 2 reserved)
+
+  Source Digest: The Weekly Show (Stewart × Slobodian — Muskism)
+        │
+        └─► #31 Abundance vs. "Discipline Capital" — Which Bottleneck Binds?
+              ◄── Muskism digest (Cluster 8 discipline-capital) + Abundance digest (proceduralism + "silence on power")
+              ◄── #21 (bounded-governance doctrine — lopsidedness test) + #28 (Domain 2/10 capital-side survivors)
+              ◄── #11 (downstream: discipline capital + SWF caveat)
+              ◄── Suits digest (who-holds-the-pen discipline for C4) + Acemoglu/Autor (China-as-existence-proof)
+              ◄── Problem Map §2/§10/§15/§5/§1/§4 + Principles §2/§4/§5/§13/§17
+              ◄── Adversarial Review (R2 Options A+C) + Research Protocol
+              (Round 1 claims E31-C1…C5: rival vs. complementary vs. nested bottlenecks;
+               adversarial Round 2 reserved — abundance-liberal + public-choice + structural-left lenses)
 ```
 
 ---
