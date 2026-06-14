@@ -1,5 +1,5 @@
 ---
-title: Develop-Leg Agent Pipeline — Run 001 (target: the S17 test-design memo)
+title: "Develop-Leg Agent Pipeline — Run 001 (target: the S17 test-design memo)"
 description: Stage-0 pre-registration for the first concrete run of the test-design memo's §7.5 agent orchestration. The pipeline is run, lightweight, ON the test-design memo itself — which doubles as (a) the memo's overdue independent-lineage review (memo §9 #5), (b) a Rung-0 instance of the develop-leg mechanism operating on the project's own beliefs (memo §6), and (c) a shakeout of the orchestration before any human subject is involved. Cross-lineage via Cursor subagents (no API keys). This file is the artifact the steward FREEZES before any subagent is spawned; results are appended after the run. NON-EVIDENCE for S17.
 provenance: collaborative
 status: Complete (June 8 2026) — synthesis REVISE (5 BLOCKING, all repairable; S17 unharmed); steward Stage-6 = REVISE adopted, fixes folded into memo v0.2; 3 divergences open for a v0.3 pass

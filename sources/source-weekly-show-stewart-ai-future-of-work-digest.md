@@ -107,7 +107,7 @@ Each cluster's research context uses one of four labels to indicate how much ind
 
 - **Problem Map:** Domain 7 (Education and opportunity pathways — the labor-transition channel), Domain 4 (Institutional capacity to support transitions)
 - **Principles:** Principle 6 (Gains from automation should strengthen society) — Engel's Pause is the canonical case where they did *not*
-- **Protocols:** Strong candidate for the [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md). The China shock is already a published-source-confirmed case relevant to Principle 6.
+- **Protocols:** Strong candidate for the [Historical Parallel Test Protocol](../agent/process/historical-parallel-test-protocol.md). The China shock is already a published-source-confirmed case relevant to Principle 6.
 - **Existing source overlap:** This cluster reinforces material in the [Acemoglu & Robinson digest](source-acemoglu-robinson-why-nations-fail-digest.md) and [Bartels digest](source-bartels-unequal-democracy-digest.md), and gives the project a sharper handle on how transitions fail.
 
 ---
@@ -390,7 +390,7 @@ The exchange's six-category ownership taxonomy (Round 5 v2: personal-autonomy / 
 | **1** | 4, 6, 7 | Feed Round 2 of [Exchange #11 (AI Commonwealth)](../agent/exchanges/ai-commonwealth-vs-governance-exchange.md). Pro-worker AI + data extraction economy + UBC/labor-capital-tax-rebalance is a concrete, sourced policy package the exchange's open questions can directly engage. | This digest, Exchange #11 Round 1, Hamilton Project paper, Acemoglu/Manera/Restrepo NBER tax paper |
 | **2** | 5, 6, 9 | Feed Round 6+ of [Exchange #21](../agent/exchanges/government-overreach-ownership-ratchet-exchange.md) on the F4 (frontier-AI worked example) follow-up. Cluster 6 (enclosure) and Cluster 9 (regulation is possible) directly support the v2 doctrine's frontier-AI application. | This digest, Exchange #21 Round 5 v2 deliverables, AI Governance Practice digest |
 | **3** | 8 | Consider opening a focused exchange on the productivity-pay gap and meritocracy as design problems. Connects the labor analysis to the democratic-process analysis. Could be a sub-question of Exchange #21 F2 (ownership taxonomy → Systems Framework integration) rather than a new exchange. | This digest, Sandel digest, EPI productivity-pay data, Friedberg Cluster 11 (negative partisanship) |
-| **4** | 1, 2, 3 | Possible Historical Parallel Test on Engel's Pause and the China shock applied to AI displacement scenarios. Strong-evidence base for HPTP if/when steward chooses to spend cycles on it. | This digest, [Historical Parallel Test Protocol](../process/historical-parallel-test-protocol.md), Allen Engel's Pause analysis, Autor-Dorn-Hanson China Shock papers |
+| **4** | 1, 2, 3 | Possible Historical Parallel Test on Engel's Pause and the China shock applied to AI displacement scenarios. Strong-evidence base for HPTP if/when steward chooses to spend cycles on it. | This digest, [Historical Parallel Test Protocol](../agent/process/historical-parallel-test-protocol.md), Allen Engel's Pause analysis, Autor-Dorn-Hanson China Shock papers |
 
 ---
 
