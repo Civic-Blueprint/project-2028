@@ -151,7 +151,7 @@ The conversation is parsed into six thematic clusters. Each cluster summarizes t
 
 | Claim | Evidence | Context |
 | --- | --- | --- |
-| "Both UBI experiments failed... massively" | **Overstated; partly contradicted on specifics** | The largest recent U.S. RCT (OpenResearch / Sam Altman-funded, $1,000/month, 3 years) found recipients worked slightly less (~1.3–3.9 hr/week) and earned less in labor income, but also reported **increased budgeting, increased self-reported agency, and an *increased* intrinsic valuation of work** — and money went mainly to basics (food, rent, transport, helping others). "Failed massively" is not how the investigators or the NBER write-up characterize a mixed result with real positive findings. ([OpenResearch — Unconditional Cash Study](https://www.openresearchlab.org/studies/unconditional-cash-study/study), [NBER w32711](https://www.nber.org/papers/w32711)) |
+| "Both UBI experiments failed... massively" | **Overstated; partly contradicted on specifics** | The largest recent U.S. RCT (OpenResearch / Sam Altman-funded, $1,000/month, 3 years) found recipients worked slightly less (~1.3–3.9 hr/week) and earned less in labor income, but also reported **increased budgeting, increased self-reported agency, and an *increased* intrinsic valuation of work** — and money went mainly to basics (food, rent, transport, helping others). "Failed massively" is not how the investigators or the NBER write-up characterize a mixed result with real positive findings — though the employment paper's finding that the work reduction is *not* offset by added productive activity is the strongest honest critical reading. ([OpenResearch — Unconditional Cash Study](https://www.openresearchlab.org/projects/unconditional-cash-study) · [spending findings](https://www.openresearchlab.org/findings/key-findings-spending), [NBER w32719 — employment](https://www.nber.org/papers/w32719), [NBER w32711 — health](https://www.nber.org/papers/w32711)) |
 | Welfare "wires in pathologies" past a point | **Debated** | The dependency/disincentive thesis is a real and serious strand of welfare economics, but it is *contested*, not settled; effect sizes and the location of the "point" are exactly what the literature argues about. Asserting it as established is the scientism move Brooks otherwise critiques. (Engage via the corpus: [Lindert, *Growing Public*](source-lindert-growing-public-digest.md), [Argentina under Milei](source-argentina-milei-reforms-digest.md), and the wealth/ownership digests.) |
 | "Swim with the current" / fixed evolved human nature | **Debated (philosophical)** | A coherent evolutionary-realist position, but it does heavy normative work disguised as fact: "what humans are wired for" is itself contested, and many durable reforms *did* reshape behavior (seatbelts, smoking, sanitation). |
 
@@ -226,7 +226,8 @@ Per [Research Protocol §4.3](../agent/process/research-protocol.md#43-t3-inline
 
 - **Citation integrity:** Every URL in the research-context tables was returned by a live search in this pass and is quoted/paraphrased faithfully; no citation was invented. Claims not checked are explicitly labeled **"No independent source located (this pass)"** rather than given a fabricated source.
 - **Balance ([§2.3](../agent/process/research-protocol.md#23-balance-requirements)):** The three load-bearing empirical claims (UBI, phones/2008, hemispheres) each carry at least one source on each side, and the welfare-dependency thesis is routed to existing balanced corpus digests rather than adjudicated here.
-- **Scope honesty:** Verification covers *what Brooks claims* and *the standing of the evidence*, **not** whether his normative conclusions are correct. Status is **provisional** pending a future targeted sweep on the unverified figures (Cluster 5).
+- **Independent-lineage pass (June 13, 2026): complete.** A verification sub-agent on a *different model lineage* (GPT-5.5, blind to the riff's reasoning) ran its own web research and **concurred with all three standing judgments** (UBI *overstated*; phones/2008 *live dispute, not settled*; hemispheres *contested over-literalization*). Two refinements were folded in: the anti-UBI labor-supply reading is stronger than first stated (the [NBER w32719](https://www.nber.org/papers/w32719) employment paper now anchors Cluster 4), and the phones/2008 pro-causation side has *sharpened* since 2024 (newer RCT/meta-analytic and longitudinal arguments) without becoming settled. One flagged non-issue: a California State Library page returned a 403 and was not used.
+- **Scope honesty:** Verification covers *what Brooks claims* and *the standing of the evidence*, **not** whether his normative conclusions are correct. Status is **provisional** pending (a) a **steward spot-check** of at least one citation cluster and (b) a future targeted sweep on the unverified figures (Cluster 5).
 
 ---
 
@@ -240,12 +241,14 @@ The steward's directional decision (June 13, 2026): **engage both the politics a
 
 ## Future exchange candidates
 
-| Priority | Cluster(s) | Candidate exchange title | Dependencies |
+Priorities 1 and 2 were **opened June 13, 2026** (steward direction); priorities 3 and 4 remain candidates.
+
+| Priority | Cluster(s) | Candidate exchange title | Status / Dependencies |
 | --- | --- | --- | --- |
-| **1** | 4 (+ riff §3 / §3.bis) | Principle 2 and the Solvable-vs-Perennial Boundary — the Communitarian Challenge to the Structural Frame | This digest, Principle 2, Foundational Commitment 2, Problem Map, [Sandel digest](source-sandel-market-morality-digest.md), [Lindert digest](source-lindert-growing-public-digest.md) |
-| **2** | 2 | Demand-Side Misinformation: Meaning Deficit as a Driver of Conspiracy Belief | This digest, [Social Slop exchange](../agent/exchanges/social-slop-information-integrity-exchange.md), Problem Map §3, Principle 14 |
-| **3** | 1, 4, 5 | Scientism, Reflexivity, and the Limits of Civic Verification | This digest, [Verifiers for Reality riff](../agent/explorations/verifiers-for-reality-riff.md), [Reflexivity/performativity digest](source-reflexivity-performativity-control-systems-digest.md) |
-| **4** | 3, 6 | Meaning, Belonging, and Embodiment as First-Order Civic Goods (develop-leg) | This digest, develop-leg / shared-mirror explorations, Principles 1 & 13 |
+| **1** | 4 (+ riff §3 / §3.bis) | Principle 2 and the Solvable-vs-Perennial Boundary — the Communitarian Challenge to the Structural Frame | **Opened as [Exchange #29](../agent/exchanges/principle-2-solvable-vs-perennial-boundary-exchange.md)** (Round 1; claim set E29-C1…C5). Deps: this digest, Principle 2, Foundational Commitment 2, Problem Map, [Sandel digest](source-sandel-market-morality-digest.md), [Lindert digest](source-lindert-growing-public-digest.md) |
+| **2** | 2 | Demand-Side Misinformation: Meaning Deficit as a Driver of Conspiracy Belief | **Opened as [Exchange #30](../agent/exchanges/demand-side-misinformation-meaning-deficit-exchange.md)** (Round 1; claim set E30-C1…C5). Deps: this digest, [Social Slop exchange](../agent/exchanges/social-slop-information-integrity-exchange.md), Problem Map §3, Principle 14 |
+| **3** | 1, 4, 5 | Scientism, Reflexivity, and the Limits of Civic Verification | *Candidate.* Deps: this digest, [Verifiers for Reality riff](../agent/explorations/verifiers-for-reality-riff.md), [Reflexivity/performativity digest](source-reflexivity-performativity-control-systems-digest.md) |
+| **4** | 3, 6 | Meaning, Belonging, and Embodiment as First-Order Civic Goods (develop-leg) | *Candidate.* Deps: this digest, develop-leg / shared-mirror explorations, Principles 1 & 13 |
 
 ---
 
@@ -257,7 +260,8 @@ The steward's directional decision (June 13, 2026): **engage both the politics a
 | [Principles](../PRINCIPLES.md) | Touches/challenges Principles 1, 2, 3, 13, 14, 15. |
 | [Problem Map](../PROBLEM_MAP.md) | Clusters touch §3 (information ecosystems); Cluster 4 collides with the Map's structural premise. |
 | [Foundational Commitments](../FOUNDATIONAL_COMMITMENTS.md) | Foundational Commitment 2 ("'Avoidable' is an empirical claim") is the hinge of the Principle 2 collision. |
-| [Social Slop and Information Integrity exchange](../agent/exchanges/social-slop-information-integrity-exchange.md) | Cluster 2 supplies a demand-side complement to the supply-side mechanism. |
+| [Social Slop and Information Integrity exchange](../agent/exchanges/social-slop-information-integrity-exchange.md) | Cluster 2 supplies a demand-side complement to the supply-side mechanism — now under test in [Exchange #30](../agent/exchanges/demand-side-misinformation-meaning-deficit-exchange.md). |
+| [Exchange #29 — Principle 2 and the Solvable-vs-Perennial Boundary](../agent/exchanges/principle-2-solvable-vs-perennial-boundary-exchange.md) | Cluster 4 / riff §3.bis graduated here; this digest is its primary source input. |
 | [Verifiers for Reality riff](../agent/explorations/verifiers-for-reality-riff.md) | Clusters 1 & 6 connect to the "three flavors of no-verifier" and the reflexivity ceiling. |
 | [Modern Wisdom #1084: Friedberg digest](source-modern-wisdom-1084-friedberg-digest.md) | Sibling steward-anchor; Friedberg locates the obstacle in government overreach, Brooks in a meaning crisis — two different anti-structural routes to the same quiescence. |
 | [SOURCE_INDEX.md](SOURCE_INDEX.md) | This digest is registered as the fourth steward-anchor digest. |

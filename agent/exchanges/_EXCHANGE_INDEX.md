@@ -331,6 +331,28 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 29. [Principle 2 and the Solvable-vs-Perennial Boundary — Exchange](principle-2-solvable-vs-perennial-boundary-exchange.md)
+
+|  |  |
+| --- | --- |
+| **Question** | Does hammering the Brooks / communitarian challenge to Principle 2 yield *competing principles* or *sharpen the existing ones* — specifically: should P2 name both the incumbent's fatalism error and the reformer's overreach error; can "avoidable" ([Foundational Commitment 2](../../FOUNDATIONAL_COMMITMENTS.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity)) be operationalized with the three-flavor sort; should dignity (P1) be split from flourishing with an agency-preservation clause; is meaning/belonging an under-weighted first-order civic good; and is the "navigated vs. solved" fork irreducible? |
+| **Depends on** | [Meaning Crisis, Scientism, and Structural Accountability riff §3 / §3.bis](../explorations/meaning-crisis-scientism-and-structural-accountability-riff.md#3bis-the-anti-structural-view-as-a-competing-principle-set-steelman-and-what-it-sharpens), [Modern Wisdom #1109: Brooks digest](../../sources/source-modern-wisdom-1109-brooks-digest.md), [Principle 2](../../PRINCIPLES.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity) + [Principle 1](../../PRINCIPLES.md#1-dignity-is-inherent-and-unconditional) + [Foundational Commitment 2](../../FOUNDATIONAL_COMMITMENTS.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity) + [Problem Map](../../PROBLEM_MAP.md), [Verifiers for Reality riff (three-flavor sort)](../explorations/verifiers-for-reality-riff.md#7-three-flavors-of-no-verifier), [Sandel](../../sources/source-sandel-market-morality-digest.md) / [Lindert](../../sources/source-lindert-growing-public-digest.md) / [Argentina-Milei](../../sources/source-argentina-milei-reforms-digest.md) digests, [Exchange #21](government-overreach-ownership-ratchet-exchange.md) + [#23](principle-5-revision-exchange.md) (bounded-governance consistency), [Exchange #27](discovery-principle-develop-leg-exchange.md) (belonging frontier), [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Research Protocol](../process/research-protocol.md) |
+| **Produced** | New exchange opened (graduated from the Meaning Crisis riff §3.bis). Round 1 states the falsifiable claim set **E29-C1…C5** with falsification conditions and five reserved candidate adopt-targets (P2 two-sided boundary clause; FC2 three-flavor avoidability note; P1 dignity-vs-flourishing + agency-preservation clause; a Problem-Map belonging articulation; a named standing tension), and produces an Option A/B/C adversary packet (communitarian + welfare-economist + structural-left lenses) for an independent-lineage Round 2. Nothing adopted; same-lineage, not adversarially tested. |
+| **Status** | Active; Round 1 complete; Rounds 2–N reserved. |
+
+---
+
+### 30. [Demand-Side Misinformation: Meaning Deficit as a Driver of Conspiracy Belief — Exchange](demand-side-misinformation-meaning-deficit-exchange.md)
+
+|  |  |
+| --- | --- |
+| **Question** | Does the **demand-side** theory of misinformation (people reach for conspiracy to answer an unmet *coherence/meaning* need, so "throwing data" fails) survive contact with the project's **supply-side** account ([Principle 14](../../PRINCIPLES.md#14-truth-and-evidence-must-be-protected-as-public-goods), [Problem Map §3](../../PROBLEM_MAP.md#3-information-ecosystems-are-fragmented-and-easily-manipulated), [Social Slop #20](social-slop-information-integrity-exchange.md)), is it distinct from generic motivated reasoning, and does it earn any corpus change beyond a note? |
+| **Depends on** | [Meaning Crisis riff §6.1](../explorations/meaning-crisis-scientism-and-structural-accountability-riff.md#6-what-survives-the-adversary) (the portable idea) + [§3 guardrail](../explorations/meaning-crisis-scientism-and-structural-accountability-riff.md#3-the-structural-collision-anti-structural-individualism-vs-principle-2), [Modern Wisdom #1109: Brooks digest, Cluster 2](../../sources/source-modern-wisdom-1109-brooks-digest.md), [Principle 14](../../PRINCIPLES.md#14-truth-and-evidence-must-be-protected-as-public-goods) + [Problem Map §3](../../PROBLEM_MAP.md#3-information-ecosystems-are-fragmented-and-easily-manipulated), [Exchange #20 (Social Slop)](social-slop-information-integrity-exchange.md) (supply-side; subsumed into #25), [Exchange #25 (Shared Mirror)](shared-mirror-see-layer-exchange.md) (M2 mirror ≠ fact-checker; its hold governs), [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Research Protocol](../process/research-protocol.md) |
+| **Produced** | New exchange opened (graduated from the Meaning Crisis riff §6.1). Round 1 states claim set **E30-C1…C5** with falsification conditions (demand side real and non-negligible; complement-not-substitute and distinct from motivated reasoning; laundering guardrail required; intervention changes — context-restoration over fact-checking; modest "note, not doctrine" placement mirroring #20), with reserved adopt-targets (a P14 / PM §3 demand-side note; harvest into #25's M-claim set) and an Option A/B/C adversary packet. Nothing adopted; same-lineage, not adversarially tested. |
+| **Status** | Active; Round 1 complete; Rounds 2–N reserved. |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -492,6 +514,24 @@ Core Documents (Principles, Problem Map, Systems Framework)
                no promotion; #25 hold; LIVE hold; §4.6 test-design memo DRAFTED (design only, not run)
                       — F1–F6 pre-registered falsifiers + agent-automation architecture (persona × lineage);
                external-human Round 3 deferred)
+
+  Exploration: Meaning Crisis, Scientism, and Structural Accountability Riff
+        │  (Source Digest: Modern Wisdom #1109 — Arthur Brooks)
+        │
+        ├─► #29 Principle 2 and the Solvable-vs-Perennial Boundary — Exchange
+        │     ◄── Meaning Crisis riff §3 + §3.bis (steelman → rival principle-set R1–R5)
+        │     ◄── Principle 2 + Principle 1 + Foundational Commitment 2 + Problem Map
+        │     ◄── Verifiers riff (three-flavor sort) + Sandel/Lindert/Argentina digests
+        │     ◄── #21 / #23 (bounded-governance consistency) + #27 (belonging frontier)
+        │     ◄── Adversarial Review Protocol (R2 reserved for independent lineage)
+        │     (Round 1 claims E29-C1…C5 + adopt-targets; adversarial Round 2 reserved)
+        │
+        └─► #30 Demand-Side Misinformation (Meaning Deficit) — Exchange
+              ◄── Meaning Crisis riff §6.1 (the portable idea) + §3 guardrail
+              ◄── Principle 14 + Problem Map §3
+              ◄── #20 Social Slop (supply-side; subsumed) + #25 Shared Mirror (M2; hold governs)
+              ◄── Adversarial Review + Research Protocol (T2 balanced sourcing)
+              (Round 1 claims E30-C1…C5; adversarial Round 2 reserved)
 ```
 
 ---
