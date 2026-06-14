@@ -11,6 +11,8 @@ exploration_status: open
 > **Status:** Open exploration as of June 14, 2026 (v1.1, same-session update). Anchored on the [Anthropic Advanced AI Framework digest](../../sources/source-anthropic-advanced-ai-framework-digest.md) created the same day. This is a riff, not a brief and not an exchange — it surfaces the option space for *whether and how* the project engages the framework's open doors, and is not registered in [`_EXCHANGE_INDEX.md`](../exchanges/_EXCHANGE_INDEX.md).
 >
 > **v1.1 (June 14, 2026):** steward dispositions on all six §7 open questions recorded in **§9**, with three threads expanded — the project's tool-building track record as OQ1/OQ2 credibility evidence (§9.1), the **decorrelation-as-governance-primitive** generalization (§9.2, a candidate spin-out riff), and a **metrics brainstorm** for measuring decorrelation (§9.3).
+>
+> **Spawned artifacts (June 14, 2026, steward direction "all three of those next"):** the [Decorrelation as a Civic-Governance Primitive riff](decorrelation-civic-governance-primitive-riff.md) (from §9.2), the [Decorrelation Metrics memo](../../memos/decorrelation-metrics-memo.md) (from §9.3, with Pipeline Run 001 scored: 60% single-lineage-catch fraction, 3/4 lineages non-redundant), and the [Decorrelation as a First-Class Requirement for Independent AI Evaluation memo](../../memos/decorrelation-independent-ai-evaluation-memo.md) (Path B). All three are working claims; the position memo routes itself to the harness before any external use.
 
 ---
 
@@ -212,7 +214,7 @@ If the method transfers, the contribution reframes entirely: decorrelation is no
 - the [Governance Sandbox](governance-sandbox-mechanism-testbed-riff.md)'s "cheap verifiers by construction";
 - the [Constitutional Ecology riff](constitutional-ecology-and-coordination-architecture-riff.md)'s **membrane between guilds** (and the [Process as Flourishing riff](process-as-flourishing-riff.md)'s "coordination membrane between many small develop-guilds").
 
-**Discipline on the idea.** The generalization is seductive, and *convergence ≠ proof* applies to it. The load-bearing risk is exactly OQ3 / the [Exchange #27 S17](../exchanges/discovery-principle-develop-leg-exchange.md) cross-scale-transfer problem: a method validated on **model lineages** may not transfer to **human institutions**, where measuring the correlation between two evaluator *organizations* is far harder than between two model families. **Candidate path:** spin this into its own riff — "Decorrelation as a Civic-Governance Primitive" — rather than letting it overload this Anthropic-scoped riff. Reserved alongside the Door-2 riff (OQ5).
+**Discipline on the idea.** The generalization is seductive, and *convergence ≠ proof* applies to it. The load-bearing risk is exactly OQ3 / the [Exchange #27 S17](../exchanges/discovery-principle-develop-leg-exchange.md) cross-scale-transfer problem: a method validated on **model lineages** may not transfer to **human institutions**, where measuring the correlation between two evaluator *organizations* is far harder than between two model families. **Candidate path → done:** spun into its own riff — [Decorrelation as a Civic-Governance Primitive](decorrelation-civic-governance-primitive-riff.md) (June 14, 2026) — rather than letting it overload this Anthropic-scoped riff. The Door-2 riff (OQ5) remains reserved.
 
 ### 9.3 Metrics brainstorm (the OQ6 thread)
 
