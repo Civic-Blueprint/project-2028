@@ -78,6 +78,44 @@ Per [ARP §2](../process/adversarial-review-protocol.md), an adversary from the 
 
 ---
 
+## Round 2 — Stage-0 cross-lineage freeze *(prepared June 14, 2026; awaiting steward GO)*
+
+> Prepared per the [Cross-Lineage Review Harness Protocol](../process/cross-lineage-review-harness-protocol.md). Operationalizes the three-lens adversary packet above into a role→lineage assignment + codebook the steward **freezes before any subagent is spawned**. **Never auto-run** ([ARP §2](../process/adversarial-review-protocol.md)) — explicit steward **GO** only, cross-lineage. This exchange carries an unusually balanced three-lens design (pro-state-capacity, pro-market, structural-left) precisely because the C5 "modest note" disposition is contested from both flanks.
+
+### Role → lineage assignment
+
+Author = Anthropic/Claude. Adversary rotated to a fourth family ([harness §3](../process/cross-lineage-review-harness-protocol.md)). One parallel blind batch; reduced context.
+
+| Role | Lineage (subagent) | Context (Opt A) | Source |
+| --- | --- | --- | --- |
+| Abundance-liberal / state-capacity skeptic | **Google — `gemini-3.1-pro`** | 5 assertions + 1-paragraph each diagnosis + verbatim P4, P5 | Option C(i) |
+| Public-choice / pro-market (Hayekian) skeptic | **OpenAI — `gpt-5.5-medium`** | as above | Option C(ii) |
+| Structural-left / financialization skeptic **+ empirics verifier** | **xAI — `grok-4.3`** | as above + the C-evidence ([Gilens-Page](../../sources/source-gilens-page-testing-theories-digest.md), [Hacker-Pierson](../../sources/source-hacker-pierson-winner-take-all-digest.md), [Piketty](../../sources/source-piketty-capital-21c-digest.md), [Acemoglu & Autor](../../sources/source-weekly-show-stewart-ai-future-of-work-digest.md)) | Option C(iii) + verifier |
+| Adversary / falsifier-hunter **[blind]** | **Moonshot — `kimi-k2.5`** | 5 assertions as claims to break (Opt B) only | Option B |
+| Synthesizer | **Google — `gemini-3.1-pro`** (non-author; doubles the C(i) lens — treat at arm's length per [Run 001 §6.1](discovery-principle-develop-leg-pipeline-run-001.md)) | all four critiques + divergence | n/a |
+
+### Codebook
+
+- **Severity:** `BLOCKING` (a claim is unfalsifiable, or the C5 disposition is wrong in a way that would mis-shape the [#21 doctrine](government-overreach-ownership-ratchet-exchange.md)) · `MAJOR` · `MINOR` · `AFFIRMING`.
+- **"Survives" ≠ "true";** no BLOCKING stands after synthesis. **Convergence is not the metric** — and note the *expected* split: lens (i) will defend proceduralism, lens (iii) will attack the "modest note" as burying the lede. **Preserve that divergence; do not resolve by majority.** Log the per-issue × per-lineage detection matrix ([Decorrelation Metrics §5](../../memos/decorrelation-metrics-memo.md)).
+- The crux to watch is **C3** (is the #21 doctrine lopsided toward the proceduralist lever?) — the finding most likely to license a real corpus change.
+
+### What this run is NOT
+
+Non-evidence for any [#21 doctrine](government-overreach-ownership-ratchet-exchange.md) / [Problem Map](../../PROBLEM_MAP.md) edit or [#11](ai-commonwealth-vs-governance-exchange.md) feed. Tests only whether E31-C1…C5 survive decorrelated, multi-lens scrutiny.
+
+### Stage-0 freeze checklist *(steward)*
+
+- [ ] Claim set E31-C1…C5 frozen
+- [ ] Role → lineage accepted; C-evidence set assembled for the structural-left/verifier role
+- [ ] Codebook + Option A/B/C(i–iii) prompts locked
+- [ ] Confirmed: non-evidence for core-document edits
+- [ ] **GO** (steward)
+
+*Results appended here after the run.*
+
+---
+
 ## Cross-references
 
 | Document | Relationship |

@@ -123,3 +123,41 @@ This is the cleanest available application of the taxonomy and a strong argument
 4. The decision window has high, near-irreversible lock-in.
 
 **Optional domain lens (Option C):** read as an AI-industry economist skeptical of public-compute feasibility, and as an open-source / d-acc technologist skeptical of state-ownership framings — the two standpoints most likely to puncture the commonwealth optimism. **Falsification conditions:** as stated per claim in E11-C1…C4.
+
+---
+
+## Round 2 — Stage-0 cross-lineage freeze *(prepared June 14, 2026; awaiting steward GO)*
+
+> Prepared per the [Cross-Lineage Review Harness Protocol](../process/cross-lineage-review-harness-protocol.md). Operationalizes the reserved Round 2 packet above into a role→lineage assignment + codebook the steward **freezes before any subagent is spawned**. **Never auto-run** ([ARP §2](../process/adversarial-review-protocol.md)) — explicit steward **GO** only, cross-lineage.
+
+> **Required pre-GO correction (carried into the freeze):** E11-C2 ("the ownership taxonomy maps cleanly onto AI commonwealth instruments") was written June 9, 2026 **before** [Exchange #28](ownership-taxonomy-systems-framework-exchange.md) **falsified and retired that taxonomy** later the same day (3/3 cross-lineage; the seven-box taxonomy is dead, survivors landed in [PM Domain 2](../../PROBLEM_MAP.md#2-money-credit-and-capital-allocation-steer-the-economy-in-ways-most-people-cannot-see-or-influence)/[10](../../PROBLEM_MAP.md#10-wealth-and-power-are-concentrating-faster-than-governance-can-respond)). The Round 2 adversary **must** test E11-C2 against that falsification — the "clean mapping" may inherit the parochialism #28 was killed for. This is the single highest-value thing this run can surface.
+
+### Role → lineage assignment
+
+Author = Anthropic/Claude (Round 1). Adversary rotated to a different family than [#10](housing-financialization-upstream-capture-exchange.md). One parallel blind batch; reduced context (Opt A).
+
+| Role | Lineage (subagent) | Context (Opt A) | Source |
+| --- | --- | --- | --- |
+| AI-industry economist skeptic (public-compute feasibility) | **Google — `gemini-3.1-pro`** | the 4 assertions + the governance-vs-commonwealth framing | Option C(i) |
+| Open-source / d-acc technologist skeptic (anti state-ownership) | **xAI — `grok-4.3`** | as above | Option C(ii) |
+| Adversary / falsifier-hunter **[blind]** | **OpenAI — `gpt-5.5-medium`** | the 4 assertions as claims to break only | reserved packet |
+| Verifier — source fidelity + the #28 check | **Moonshot — `kimi-k2.5`** | the [Acemoglu/Autor program](../../sources/source-weekly-show-stewart-ai-future-of-work-digest.md), the [AI Governance record](../../sources/source-ai-governance-practice-digest.md), and the [#28 falsification](ownership-taxonomy-systems-framework-exchange.md) + the claims | Research Protocol §4 |
+| Synthesizer | **Google — `gemini-3.1-pro`** (non-author; doubles C(i) — arm's length per [Run 001 §6.1](discovery-principle-develop-leg-pipeline-run-001.md)) | all four critiques + divergence | n/a |
+
+### Codebook
+
+- **Severity:** `BLOCKING` (a claim is unfalsifiable; **or E11-C2's taxonomy mapping is dead-on-arrival post-#28**; or the commonwealth/governance split collapses) · `MAJOR` · `MINOR` · `AFFIRMING`. **"Survives" ≠ "true";** no BLOCKING stands after synthesis. **Convergence is not the metric;** preserve divergence. Log the per-issue × per-lineage detection matrix ([Decorrelation Metrics §5](../../memos/decorrelation-metrics-memo.md)).
+
+### What this run is NOT
+
+Non-evidence for any framework / [Memo 01](../../memos/proof-of-usefulness-memo-01.md) edit or **F4** spawn. Tests only whether E11-C1…C4 survive decorrelated scrutiny — with E11-C2 explicitly re-opened by the #28 falsification.
+
+### Stage-0 freeze checklist *(steward)*
+
+- [ ] Claim set E11-C1…C4 frozen, **with the E11-C2 / #28 correction noted above**
+- [ ] Role → lineage accepted; the #28 falsification handed to the verifier
+- [ ] Codebook + reduced-context packet + Option C prompts locked
+- [ ] Confirmed: non-evidence for framework/Memo-01/F4 edits
+- [ ] **GO** (steward)
+
+*Results appended here after the run.*

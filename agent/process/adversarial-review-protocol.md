@@ -142,19 +142,23 @@ What it does is raise the cost of false consensus. It makes it structurally hard
 
 ## Relationship to sibling protocols
 
-This protocol is one of three structured review protocols the project uses. Each addresses a different failure mode:
+This protocol is one of five structured review protocols the project uses. Each addresses a different failure mode:
 
 - **Adversarial Review Protocol (this document):** Challenges claims. Counteracts convergence bias in multi-agent exchanges. Surfaces what the project has gotten wrong or overstated.
 - **[Coherence Audit Protocol](coherence-audit-protocol.md):** Checks internal consistency. Catches drift between documents, broken cross-references, and unincorporated exchange recommendations. Applied after major revisions and on a regular schedule.
 - **[Historical Parallel Test Protocol](historical-parallel-test-protocol.md):** Grounds proposals in evidence. Tests reform sequences and leverage hypotheses against historical cases where structurally similar reforms were attempted. Applied when proposals reach "working hypothesis" confidence.
+- **[Comparative Alignment Protocol](comparative-alignment-protocol.md):** Compares external formation documents to the project's principles — surfacing overlap, divergence, silence, and missing values.
+- **[Distributional-Incidence Protocol](distributional-incidence-protocol.md):** Asks who bears the costs of a proposed rule, and makes that finding binding (its anti-theater step *is* an invocation of this protocol on the incidence analysis itself).
 
-The three protocols are complementary:
+The five protocols are complementary:
 
 - The adversarial protocol asks: **"Is this claim defensible?"**
 - The coherence audit asks: **"Do the documents agree with each other?"**
 - The historical parallel test asks: **"When something like this was tried, what actually happened?"**
+- The comparative alignment protocol asks: **"What values and design commitments are encoded in this external text?"**
+- The distributional-incidence protocol asks: **"Who pays, and is that acceptable and acted upon?"**
 
-No single protocol covers all three questions. Used together, they provide challenge (adversarial), maintenance (coherence), and empirical grounding (historical).
+No single protocol covers all five questions. Used together, they provide challenge (adversarial), maintenance (coherence), empirical grounding (historical), external comparison (alignment), and distributional accountability (incidence).
 
 ---
 

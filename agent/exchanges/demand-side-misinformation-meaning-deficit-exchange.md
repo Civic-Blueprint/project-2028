@@ -67,6 +67,44 @@ Per [ARP §2](../process/adversarial-review-protocol.md), the adversarial round 
 
 ---
 
+## Round 2 — Stage-0 cross-lineage freeze *(prepared June 14, 2026; awaiting steward GO)*
+
+> Prepared per the [Cross-Lineage Review Harness Protocol](../process/cross-lineage-review-harness-protocol.md). Operationalizes the adversary packet above into a role→lineage assignment + codebook the steward **freezes before any subagent is spawned**. **Never auto-run** ([ARP §2](../process/adversarial-review-protocol.md)) — explicit steward **GO** only, cross-lineage. This run pairs the adversarial pass with the [Research Protocol §2.3](../process/research-protocol.md#23-balance-requirements) balanced-sourcing pass the contested demand-side psychology owes.
+
+### Role → lineage assignment
+
+Author = Anthropic/Claude. Adversary rotated to a different family than [#29](principle-2-solvable-vs-perennial-boundary-exchange.md) (per [harness §3](../process/cross-lineage-review-harness-protocol.md) "rotate family↔role"). One parallel blind batch; reduced context.
+
+| Role | Lineage (subagent) | Context (Opt A) | Source |
+| --- | --- | --- | --- |
+| Misinformation/disinfo skeptic (anti "meaning-crisis" framing) | **OpenAI — `gpt-5.5-medium`** | 5 assertions + verbatim P14 + PM §3 | Option C(i) |
+| Conspiracy political-psychologist (epistemic-need / compensatory-control) | **Moonshot — `kimi-k2.5`** | as above | Option C(ii) |
+| Adversary / falsifier-hunter **[blind]** | **xAI — `grok-4.3`** | 5 assertions as claims to break (Opt B) only | Option B |
+| Verifier — balanced sourcing (demand-side vs. supply-and-exposure) | **Google — `gemini-3.1-pro`** | the [§2.3](../process/research-protocol.md#23-balance-requirements) two-sided source set + the claims | Research Protocol §4 |
+| Synthesizer | **OpenAI — `gpt-5.5-medium`** (non-author; doubles the C(i) critique — treat at arm's length per [Run 001 §6.1](discovery-principle-develop-leg-pipeline-run-001.md)) | all four critiques + divergence | n/a |
+
+### Codebook
+
+- **Severity:** `BLOCKING` (claim unfalsifiable / the demand-side adds no incremental power / a note would launder away supply-side responsibility) · `MAJOR` · `MINOR` · `AFFIRMING`.
+- **"Survives" ≠ "true";** no BLOCKING stands after synthesis. **Convergence is not the metric;** preserve divergence. **Log the per-issue × per-lineage detection matrix** ([Decorrelation Metrics §5](../../memos/decorrelation-metrics-memo.md)).
+- Special check: C2's *distinct-from-motivated-reasoning* claim and C4's *fact-checking-is-counterproductive* claim are the two most likely to over-reach — the verifier carries the balanced-sourcing burden.
+
+### What this run is NOT
+
+Non-evidence for any P14 / PM §3 edit, and **the [#25 hold governs](shared-mirror-see-layer-exchange.md)** any promotion regardless of the verdict. Tests only whether E30-C1…C5 survive decorrelated scrutiny + balanced sourcing.
+
+### Stage-0 freeze checklist *(steward)*
+
+- [ ] Claim set E30-C1…C5 frozen
+- [ ] Role → lineage accepted; balanced source set assembled for the verifier
+- [ ] Codebook + Option A/B/C prompts locked
+- [ ] Confirmed: non-evidence; the #25 hold still governs
+- [ ] **GO** (steward)
+
+*Results appended here after the run.*
+
+---
+
 ## Cross-references
 
 | Document | Relationship |

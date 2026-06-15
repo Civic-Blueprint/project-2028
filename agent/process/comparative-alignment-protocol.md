@@ -1,6 +1,6 @@
 # Comparative Alignment Protocol
 
-> **Status:** Proposed (April 2026). Originated from the constitutional and formation-document analysis initiative, which needs a disciplined way to compare external founding texts against Civic Blueprint's principles without collapsing difference into superficial overlap.
+> **Status:** Proposed (April 2026). Originated from the constitutional and formation-document analysis initiative, which needs a disciplined way to compare external founding texts against Civic Blueprint's principles without collapsing difference into superficial overlap. **Updated June 2026:** §4 gained the functional-vs-textual tagging discipline from [Exchange #19 Round 3](../exchanges/formation-document-initial-findings-adversarial-review.md#round-3-results--cross-lineage-adversarial-pass-june-2026).
 
 ---
 
@@ -75,6 +75,11 @@ This protocol analyzes formation documents, not the real-world success of the in
 If a constitution promises dignity, equality, or participation, the alignment memo should record that textual commitment even if the country routinely violates it in practice.
 
 Practice notes are welcome, but they should be clearly marked as secondary context rather than smuggled into the textual judgment.
+
+**Functional-vs-textual tagging discipline (added June 2026, from [Exchange #19 Round 3](../exchanges/formation-document-initial-findings-adversarial-review.md#round-3-results--cross-lineage-adversarial-pass-june-2026)).** The text-vs-practice distinction above is necessary but not sufficient. A cross-lineage adversarial pass found that reading alignment off *text* versus off *constitutional function/practice* can flip the judgment, and that the danger is **asymmetric**: an authoritarian constitution may *textually* promise rights, welfare, ecology, and competence while *functionally* violating accountability; a liberal constitution may *textually* protect rights while *functionally* failing material stability. Two rules follow:
+
+- **Tag every mapping as `textual` or `functional`.** Default to `textual` for formation-document analysis (per the rule above); a `functional` reading is permitted but must be labeled and its evidence cited, not asserted.
+- **Never compare one source functionally against another textually.** Cross-mode comparison (source A's text vs. source B's practice) is the specific error this discipline exists to prevent; it manufactures false overlap or false asymmetry. Hold the comparison mode constant across the sources being compared.
 
 ### 5. Track source-to-principle alignment and source-specific additions separately
 
@@ -167,19 +172,21 @@ What it does is make comparison more disciplined. It helps the project say, with
 
 ## Relationship to sibling protocols
 
-This protocol is one of four structured review protocols the project now uses. Each addresses a different failure mode:
+This protocol is one of five structured review protocols the project now uses. Each addresses a different failure mode:
 
 - **Comparative Alignment Protocol (this document):** Compares external formation documents to Civic Blueprint's principles. Surfaces overlap, divergence, silence, and missing values.
 - **[Adversarial Review Protocol](adversarial-review-protocol.md):** Challenges claims. Tests whether strong conclusions drawn from the comparative corpus are actually defensible.
 - **[Coherence Audit Protocol](coherence-audit-protocol.md):** Checks internal consistency. Ensures synthesis findings, roadmap entries, and principles updates remain aligned.
 - **[Historical Parallel Test Protocol](historical-parallel-test-protocol.md):** Grounds reform or institutional claims in historical evidence rather than textual aspiration alone.
+- **[Distributional-Incidence Protocol](distributional-incidence-protocol.md):** Asks who bears the costs of a proposed rule, and makes that finding binding rather than decorative.
 
-The four protocols are complementary:
+The five protocols are complementary:
 
 - Comparative alignment asks: **"What values and design commitments are encoded here?"**
 - Adversarial review asks: **"Are our conclusions from that comparison too confident?"**
 - Coherence audit asks: **"Have we integrated the findings consistently?"**
 - Historical parallel test asks: **"What happened when these commitments were operationalized?"**
+- Distributional-incidence asks: **"Who pays, and is that acceptable and acted upon?"**
 
 ---
 

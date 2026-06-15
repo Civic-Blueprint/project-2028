@@ -78,6 +78,43 @@ Per [ARP §2](../process/adversarial-review-protocol.md), an adversary from the 
 
 ---
 
+## Round 2 — Stage-0 cross-lineage freeze *(prepared June 14, 2026; awaiting steward GO)*
+
+> Prepared per the [Cross-Lineage Review Harness Protocol](../process/cross-lineage-review-harness-protocol.md). This operationalizes the adversary packet above into a role→lineage assignment + codebook the steward **freezes before any subagent is spawned**. **The adversarial pass is never auto-run** ([ARP §2](../process/adversarial-review-protocol.md) default) — it runs only on an explicit steward **GO**, cross-lineage, never in the authoring lineage. Results are appended after the run.
+
+### Role → lineage assignment
+
+Author lineage = Anthropic/Claude (it wrote this exchange). Every judgment role is a different lineage; the adversary is blind. Spawned as one parallel batch of Cursor subagents (no API keys), each given only its named documents and role prompt.
+
+| Role | Lineage (subagent) | Context (reduced — Opt A) | Source |
+| --- | --- | --- | --- |
+| Communitarian / virtue-ethics skeptic | **xAI — `grok-4.3`** | the 5 assertions + verbatim P1, P2, FC2 + 1 paragraph of Brooks | Option C(i) |
+| Welfare-economist skeptic + empirics verifier | **OpenAI — `gpt-5.5-medium`** | as above + the C3 UBI/dependency evidence ([Lindert](../../sources/source-lindert-growing-public-digest.md), [Argentina-Milei](../../sources/source-argentina-milei-reforms-digest.md), [Sandel](../../sources/source-sandel-market-morality-digest.md)) | Option C(ii) + verifier |
+| Adversary / falsifier-hunter **[blind]** | **Google — `gemini-3.1-pro`** | the 5 assertions framed as claims to break (Opt B) only | Option B |
+| Synthesizer | **Moonshot — `kimi-k2.5`** (non-author) | all three critiques + divergence | n/a |
+
+### Codebook
+
+- **Severity:** `BLOCKING` (a claim is unfalsifiable, or an adopt-target would damage the corpus) · `MAJOR` · `MINOR` · `AFFIRMING`.
+- **"Survives" ≠ "true."** Survives = no BLOCKING stands after synthesis; a BLOCKING sends the claim back, not P2 to the grave. **Convergence is not the metric — surviving the adversary is;** divergence is preserved, not majority-voted ([Comparative Alignment Protocol](../process/comparative-alignment-protocol.md)).
+- **Log a per-issue × per-lineage detection matrix** (which lineage independently raised each finding) per the [Decorrelation Metrics memo §5](../../memos/decorrelation-metrics-memo.md) instrument, so single-lineage-catch / marginal-catch are exact.
+
+### What this run is NOT
+
+Non-evidence for any P1/P2/FC2 edit. It tests whether the **claims** E29-C1…C5 survive decorrelated scrutiny — not whether the boundary they describe sits where Brooks or the project says. No core-document edit follows without the full round sequence + external human (Round 3) + steward (Round 5).
+
+### Stage-0 freeze checklist *(steward)*
+
+- [ ] Claim set E29-C1…C5 frozen (no edits after GO)
+- [ ] Role → lineage assignment accepted (synthesizer ≠ author confirmed)
+- [ ] Codebook + the Option A/B/C prompts locked
+- [ ] Confirmed: **non-evidence** for core-document edits
+- [ ] **GO** (steward) — author may spawn the blind cross-lineage batch
+
+*Results (per-role verdict + severity tally, convergence, open divergence, consolidated revise-list, steward go/no-go) appended here after the run.*
+
+---
+
 ## Cross-references
 
 | Document | Relationship |

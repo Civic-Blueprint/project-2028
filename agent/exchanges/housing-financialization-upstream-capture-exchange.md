@@ -107,3 +107,40 @@ Add **one paragraph** to the housing analysis (and a short companion note to [Me
 4. Securitization / zero-rate / rate-trap are conditions, not canonical mechanisms.
 
 **Optional domain lens (Option C):** read as a housing economist and as a tenant-organizer / housing-justice practitioner — the two standpoints most likely to find the framing either macro-naïve or supply-biased. **Falsification conditions:** as stated per claim in E10-C1…C4.
+
+---
+
+## Round 2 — Stage-0 cross-lineage freeze *(prepared June 14, 2026; awaiting steward GO)*
+
+> Prepared per the [Cross-Lineage Review Harness Protocol](../process/cross-lineage-review-harness-protocol.md). Operationalizes the reserved Round 2 packet above into a role→lineage assignment + codebook the steward **freezes before any subagent is spawned**. **Never auto-run** ([ARP §2](../process/adversarial-review-protocol.md)) — explicit steward **GO** only, cross-lineage.
+
+### Role → lineage assignment
+
+Author = Anthropic/Claude (Round 1). One parallel blind batch; reduced context (Opt A); each subagent sees only its named documents and role prompt.
+
+| Role | Lineage (subagent) | Context (Opt A) | Source |
+| --- | --- | --- | --- |
+| Housing economist skeptic | **OpenAI — `gpt-5.5-medium`** | the 4 assertions + the supply/asset framing paragraph | Option C(i) |
+| Tenant-organizer / housing-justice skeptic | **xAI — `grok-4.3`** | as above | Option C(ii) |
+| Adversary / falsifier-hunter **[blind]** | **Google — `gemini-3.1-pro`** | the 4 assertions as claims to break only | reserved packet |
+| Verifier — empirics | **Moonshot — `kimi-k2.5`** | the SFR-concentration data, post-2008 roll-up cases, LVT/Vienna/HDB comparators + the claims | Research Protocol §4 |
+| Synthesizer | **OpenAI — `gpt-5.5-medium`** (non-author; doubles C(i) — arm's length per [Run 001 §6.1](discovery-principle-develop-leg-pipeline-run-001.md)) | all four critiques + divergence | n/a |
+
+### Codebook
+
+- **Severity:** `BLOCKING` (a claim is unfalsifiable, or the canonical/supporting split is empirically wrong) · `MAJOR` · `MINOR` · `AFFIRMING`. **"Survives" ≠ "true";** no BLOCKING stands after synthesis. **Convergence is not the metric;** preserve divergence. Log the per-issue × per-lineage detection matrix ([Decorrelation Metrics §5](../../memos/decorrelation-metrics-memo.md)).
+- The crux is **E10-C1** (are supply and asset faces genuinely distinct, or does one reduce to the other?) and **E10-C3** (is permitting really neutralized where the asset face binds?) — the two findings that would reshape the permitting-stack pilot rubric.
+
+### What this run is NOT
+
+Non-evidence for any framework / [Memo 01](../../memos/proof-of-usefulness-memo-01.md) edit. Tests only whether E10-C1…C4 survive decorrelated, two-standpoint scrutiny.
+
+### Stage-0 freeze checklist *(steward)*
+
+- [ ] Claim set E10-C1…C4 frozen
+- [ ] Role → lineage accepted; empirics set assembled for the verifier
+- [ ] Codebook + reduced-context packet + Option C prompts locked
+- [ ] Confirmed: non-evidence for framework/Memo-01 edits
+- [ ] **GO** (steward)
+
+*Results appended here after the run.*
