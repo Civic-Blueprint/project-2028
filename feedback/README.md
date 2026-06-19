@@ -116,10 +116,11 @@ The records remain visible to anyone reading the GitHub repo directly, which is 
 
 ---
 
-## Status (May 2026)
+## Status (June 2026)
 
-One record present:
+Two records present:
 
 - [`feedback-childcare-licensing-practitioner-2026-04.md`](feedback-childcare-licensing-practitioner-2026-04.md) — anchors [Exchange #22 (Entry-Trust Failure with a Domain-Expert Practitioner)](../agent/exchanges/entry-trust-domain-expert-practitioner-exchange.md). **Updated 2026-05-07** with an unsolicited substantive follow-up from the practitioner (Katelynn): a five-issue enumeration of the original childcare-center licensing failure plus a documented sign-permitting episode. `consent_state` transitioned `not_obtained → attributed` (first name only; steward elected to keep location and specific officials redacted, more privacy-protective than the practitioner offered). See the record's Consent log for details.
+- [`feedback-grassroots-movement-contact-2026-06.md`](feedback-grassroots-movement-contact-2026-06.md) — a warm-network contact who independently articulated the project's bounded-governance / capture diagnosis and offered to produce shareable media and route traffic to the project's website. The project's **first inbound-traffic-partner signal** (someone offering to send an audience *to* the front door, as distinct from the practitioner-review records). A same-day follow-up adds the referenced image (a "IF WE BURN YOU BURN WITH US!" dystopian poster, described but **not** committed for provenance reasons) and a Gandhian nonviolence framing — surfacing an aesthetic-vs-intent / legitimacy-of-mobilization tension ([Principle 17](../PRINCIPLES.md#17-collective-power-must-be-exercised-within-principled-constraints)). Feeds the [Phase 3 Front Door Riff §4.7](../agent/explorations/phase-3-front-door-riff.md#47-live-signal--a-warm-network-content-ally-offering-to-feed-the-front-door-added-june-19-2026), where the analysis lives. `consent_state = not_obtained` (private channel; anonymized fully).
 
 The Exchange #17 anchor case (federal-context practitioner) is not yet retroactively captured here; the original conversation is preserved inline in the exchange itself. If the project later adopts the convention of duplicating those transcripts into `feedback/` for symmetry, that should be a deliberate steward decision rather than an automatic backfill.
