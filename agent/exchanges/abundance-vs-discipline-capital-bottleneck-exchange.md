@@ -1,6 +1,6 @@
 # Abundance vs. "Discipline Capital" — Which Bottleneck Binds? — Exchange
 
-> **Status (June 2026):** Active; Round 1 complete; Rounds 2–N reserved. This file opens the exchange and states the falsifiable claim set; the adversarial round is **reserved for an independent model lineage or human reviewer** and is **not** run in-lineage here (per the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) lineage-independence default).
+> **Status (June 2026):** Active; Round 1 complete; Round 2 complete (June 24, 2026 — cross-lineage; NO-GO / does not survive; steward disposition pending); Rounds 3–5 reserved. This file opens the exchange, states the falsifiable claim set, and (in [Round 2 — Results](#round-2--results-june-24-2026)) records the independent cross-lineage adversarial review — run on four non-author model families per the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) lineage-independence default.
 >
 > **Why this exchange:** The new [Stewart × Slobodian *Muskism* digest](../../sources/source-weekly-show-stewart-slobodian-muskism-digest.md) carries a sourced inversion of the project's leading synthesis text on Sub-debate 4. Klein & Thompson's [*Abundance*](../../sources/source-klein-thompson-abundance-digest.md) locates the binding constraint on delivering essential goods in **proceduralism / veto points** (the reform target is *state capacity*); Slobodian inverts it — *"China doesn't work because they clear democratic veto points; China works because they discipline capital"* — locating the binding constraint in **undisciplined capital allocation** (buybacks, dividend-chasing, short-termism, financialization), with NIMBYism / the spotted owl an explicit decoy. The *Abundance* digest already flags its own blind spot ("relative silence on power and capture; less attention to capital-ownership concentration"), and the [Muskism digest's interpretive notes](../../sources/source-weekly-show-stewart-slobodian-muskism-digest.md#interpretive-notes) flag the tension as **"strengthens + complicates."** The project's [Exchange #21](government-overreach-ownership-ratchet-exchange.md) bounded-governance doctrine leans heavily on the proceduralist lever (permitting reform, sunset clauses, fiscal rules); if Slobodian is right, the doctrine may be solving only half the problem. This exchange tests whether the two diagnoses are **rival, complementary, or nested** before any change to the [bounded-governance doctrine](government-overreach-ownership-ratchet-exchange.md), [Problem Map Domain 2](../../PROBLEM_MAP.md#2-money-credit-and-capital-allocation-steer-the-economy-in-ways-most-people-cannot-see-or-influence), or the [AI Commonwealth exchange (#11)](ai-commonwealth-vs-governance-exchange.md).
 
@@ -53,7 +53,7 @@ None is enacted now. Per project convention, edits to core documents follow the 
 ## Round plan
 
 - **Round 1 (this file, June 2026 — same-lineage, NOT adversarially tested):** claim set E31-C1…C5 + adversary packet. Status carried as opened.
-- **Round 2 (reserved — independent lineage):** adversarial review under [ARP](../process/adversarial-review-protocol.md) Options A (reduced context) + C (domain lens). Run on a *different* model family (Grok / GPT / Gemini) or a human. The packet below is the hand-off.
+- **Round 2 (✅ complete — June 24, 2026, independent cross-lineage):** adversarial review under [ARP](../process/adversarial-review-protocol.md) Options A (reduced context) + B + C (domain lens) — four families blind and in parallel, plus a non-author synthesizer. **Outcome: the claim set does not survive — firm BLOCKING on A1/A2/A5, A3 (the crux) contested to BLOCKING; synthesizer NO-GO.** See [Round 2 — Results](#round-2--results-june-24-2026); the packet below was the hand-off.
 - **Round 3 (reserved — external human):** an abundance-liberal / state-capacity reviewer (and, separately, a political-economy / financialization scholar) per the [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md).
 - **Round 4 (reserved):** response / v2 — proposed corpus edits with a clause-by-clause changelog.
 - **Round 5 (reserved):** steward synthesis + integration (if any) into the [#21 doctrine](government-overreach-ownership-ratchet-exchange.md) / [Problem Map](../../PROBLEM_MAP.md) / a feed to [#11](ai-commonwealth-vs-governance-exchange.md) at one commit.
@@ -78,7 +78,7 @@ Per [ARP §2](../process/adversarial-review-protocol.md), an adversary from the 
 
 ---
 
-## Round 2 — Stage-0 cross-lineage freeze *(prepared June 14, 2026; awaiting steward GO)*
+## Round 2 — Stage-0 cross-lineage freeze *(prepared June 14, 2026; **GO** given June 24, 2026 — run complete, see [Results](#round-2--results-june-24-2026))*
 
 > Prepared per the [Cross-Lineage Review Harness Protocol](../process/cross-lineage-review-harness-protocol.md). Operationalizes the three-lens adversary packet above into a role→lineage assignment + codebook the steward **freezes before any subagent is spawned**. **Never auto-run** ([ARP §2](../process/adversarial-review-protocol.md)) — explicit steward **GO** only, cross-lineage. This exchange carries an unusually balanced three-lens design (pro-state-capacity, pro-market, structural-left) precisely because the C5 "modest note" disposition is contested from both flanks.
 
@@ -106,13 +106,71 @@ Non-evidence for any [#21 doctrine](government-overreach-ownership-ratchet-excha
 
 ### Stage-0 freeze checklist *(steward)*
 
-- [ ] Claim set E31-C1…C5 frozen
-- [ ] Role → lineage accepted; C-evidence set assembled for the structural-left/verifier role
-- [ ] Codebook + Option A/B/C(i–iii) prompts locked
-- [ ] Confirmed: non-evidence for core-document edits
-- [ ] **GO** (steward)
+- [x] Claim set E31-C1…C5 frozen
+- [x] Role → lineage accepted; C-evidence set assembled for the structural-left/verifier role
+- [x] Codebook + Option A/B/C(i–iii) prompts locked
+- [x] Confirmed: non-evidence for core-document edits
+- [x] **GO** (steward) — given June 24, 2026
 
-*Results appended here after the run.*
+---
+
+## Round 2 — Results (June 24, 2026)
+
+> Run per the [Cross-Lineage Review Harness Protocol](../process/cross-lineage-review-harness-protocol.md): four judgment lineages blind and in parallel under reduced context (Option A), with Option B/C role prompts; non-author synthesizer. **Per the [codebook](#codebook), "survives" = no BLOCKING finding stands after synthesis. It does not.** This run is **non-evidence** for any [#21 doctrine](government-overreach-ownership-ratchet-exchange.md) / [Problem Map](../../PROBLEM_MAP.md) edit or [#11](ai-commonwealth-vs-governance-exchange.md) feed; it tests only whether E31-C1…C5 survive decorrelated scrutiny. (Assertions A1…A5 in the results map 1:1 onto claims E31-C1…C5.)
+
+### Run log (per-role verdict + severity tally)
+
+| Role / lens | Lineage | Verdict | Severity tally (A1…A5) |
+| --- | --- | --- | --- |
+| Abundance-liberal / state-capacity — C(i) | Google `gemini-3.1-pro` | Reject — proceduralism is the true binding constraint; "discipline capital" is downstream | 3 BLOCKING (A1,A2,A4) · 1 MAJOR (A3) · A5 AFFIRMING-outcome / MAJOR-reasoning |
+| Public-choice / Hayekian — C(ii) | OpenAI `gpt-5.5-medium` | Reject — "synthesis is capture with better branding" | 2 BLOCKING (A1,A3) · 2 MAJOR (A2,A5) · 1 AFFIRMING (A4) |
+| Structural-left / financialization + verifier — C(iii) | xAI `grok-4.3` | Reject — the "modest note" buries the lede; capital discipline needs principle-level status | 2 BLOCKING (A1,A5) · 2 MAJOR (A2,A4) · 1 AFFIRMING (A3) |
+| Adversary / falsifier-hunter **[blind]** — Opt B | Moonshot `kimi-k2.5` | Escape hatches on every claim; A2 weakest, A3 "harvest" hatch most consequential | 1 BLOCKING (A2) · 3 MAJOR (A1,A3,A5) · 1 MINOR (A4) |
+| Synthesizer (non-author) | Google `gemini-3.1-pro` | **NO-GO (hard reject)** — every assertion drew ≥1 BLOCKING; A5 fatal | consolidated: 3 firm BLOCKING (A1,A2,A5) · A3 MAJOR→BLOCKING · A4 MAJOR |
+
+### Convergence (2+ lineages independently — the strong signal)
+
+- **A2 (sector-mapping) collapses across all four lineages** — the strongest convergence, *reached from opposite premises*: C(i) says AI is itself physically/procedurally constrained (grid-interconnection queues, NRC/SMR vetoes, data-center siting); C(iii) says housing is itself financialized (REITs, PE, land-as-asset-class); C(ii) says buybacks are mere shareholder reallocation, not "indiscipline"; the blind adversary says it fails the cross-sector dominance test and housing was already conceded to proceduralism in [#21 Round 2](government-overreach-ownership-ratchet-exchange.md).
+- **A1 (not in conflict) rejected as rival, not complementary** — C(i)/C(ii)/C(iii) all read the two diagnoses as incompatible theories of failure with different loci of authority; the blind adversary adds that the "nestedness" retreat makes A1 unfalsifiable (it survives any causal-arrow direction).
+- **A5 (modest note) rejected as evasion** by all four — it buries a divergent political-economy choice in documentation architecture; C(ii) and C(iii) both say it silently changes the project's political economy; the adversary notes the mechanism it would lean on was already destroyed when [#28](ownership-taxonomy-systems-framework-exchange.md) falsified the ownership taxonomy 3/3.
+- **A3 (lopsidedness) — the *descriptive* observation is convergent:** all four agree the bounded-governance doctrine *is* tilted toward the proceduralist toolkit and carries essentially zero explicit capital-steering levers. (The *valence* is where they split — see divergence.)
+
+### Divergence — left OPEN (not majority-voted)
+
+The codebook predicted lens (i) would defend proceduralism and lens (iii) would attack the modest note; both happened, and the conflict is **preserved, not resolved**:
+
+- **Arrow of causality.** C(i): state proceduralism makes building slow/illegal → forces capital into buybacks/rent (*proceduralism → capital indiscipline*). C(iii): undisciplined/concentrated capital captures the state and erects CEQA/NEPA moats (*capital → proceduralism*). A direct inversion; both cannot be the upstream driver.
+- **Definition of "power."** C(ii): power is concentrated coercive authority and veto points (litigation leverage, agency discretion); markets are anti-power (exit, competition, failure). C(iii): power is ownership and the allocation of society's investable surplus; proceduralism is a secondary symptom.
+- **The pluralism paradox.** C(i): "pluralism / accountability" *are* the mechanisms of state incapacity (input sessions, impact statements) — so A4's proposed cure is mutually destructive. C(iii): the existing P4/P5/P13 constraints are *inadequate* to bound capital power and are used to shield markets from democratic discipline.
+- **A3 valence — flaw or feature?** C(iii) AFFIRMS lopsidedness as a real defect to fix; C(ii) calls naming it "ideological smuggling" — veto points *are* power, so the doctrine correctly targets them and a "capital toolkit" just manufactures new veto points. This is the crux the codebook flagged.
+
+### Per-issue × per-lineage detection matrix
+
+| Assertion | C(i) Abundance | C(ii) Public-choice | C(iii) Structural-left | (blind) Adversary | Synthesis |
+| --- | --- | --- | --- | --- | --- |
+| **A1** not rivals / bind in different places | BLOCKING — causality reversed | BLOCKING — rival defaults | BLOCKING — capital upstream of capture | MAJOR — unfalsifiable nestedness | **BLOCKING** |
+| **A2** sector-specific mapping | BLOCKING — AI procedurally constrained | MAJOR — buybacks = reallocation | MAJOR — split quarantines the capital question | BLOCKING — fails cross-sector test | **BLOCKING** |
+| **A3** doctrine is lopsided | MAJOR — "capital toolkit" = new vetoes | BLOCKING — smuggles capital = power | AFFIRMING — real, understated | MAJOR — harvest is diagnostic, not mechanism | **MAJOR→BLOCKING (crux)** |
+| **A4** mutually corrective | BLOCKING — pluralism IS the veto point | AFFIRMING — danger real, understated | MAJOR — liberal containment | MINOR — circular "bounded" | **MAJOR** |
+| **A5** synthesis note only | MAJOR — P5 already weaponizable | MAJOR — buries a live contradiction | BLOCKING — the central evasion | MAJOR — anti-theater; mechanism destroyed | **BLOCKING** |
+
+### Consolidated severity-ranked revise-list
+
+- **BLOCKING — A2 (sector mapping):** indefensible as written; falsified from all four lenses. Survival requires exempting the hardest cases (financialized housing; physically/procedurally constrained AI), which the adversary flags as an ad-hoc rescue.
+- **BLOCKING — A1 (not rivals):** "complementary" is either false (rival theories of failure) or unfalsifiable (the nestedness retreat). Must be re-stated as a testable causal claim or abandoned.
+- **BLOCKING — A5 (modest note):** the disposition is the central evasion; a divergent political-economy commitment cannot ride in a footnote, and the [#28](ownership-taxonomy-systems-framework-exchange.md) taxonomy falsification removed the mechanism it would rely on.
+- **MAJOR→BLOCKING — A3 (lopsidedness, the crux):** *descriptively confirmed by all four* (the doctrine is tilted and carries no capital-steering levers), but its valence is contested and the "already carried in Domain 2/10" defense is thin — the [#28](ownership-taxonomy-systems-framework-exchange.md) survivors are diagnostic observations, not mechanisms. **Per run scope this is non-evidence for a #21 edit**, but it is the highest-value finding.
+- **MAJOR — A4 (mutual correction):** the most defensible claim, but hedged and asymmetric; capture risk persists *even with* constraints, and "bounded governance" risks a circular definition.
+
+### Synthesizer recommendation (agent — proposes only)
+
+**NO-GO (hard reject).** The claim set does not survive: BLOCKING findings stand on A1, A2, and A5 (A3 contested to BLOCKING). The synthesizer frames a steward fork: **(1)** accept the structural-left critique → draft a principle-level capital-allocation commitment + state-steering mechanisms (alienates the abundance lens); or **(2)** maintain the abundance/proceduralist core → explicitly reject the Slobodian "discipline capital" thesis as incompatible with the state-capacity diagnosis.
+
+*Synthesizer-independence caveat ([Run 001 §6.1](discovery-principle-develop-leg-pipeline-run-001.md)): the synthesizer shares the Gemini lineage with the C(i) lens, yet adopted the structural-left's BLOCKING on A5 over C(i)'s AFFIRMING-on-outcome — it did not simply ratify its own family. Even so, treat its NO-GO at arm's length; agents propose, the steward disposes.*
+
+### Steward disposition
+
+- [ ] **Decision pending (human).** Options on the table: **(1)** a principle-level capital-allocation commitment; **(2)** explicit rejection of "discipline capital" as incompatible with the state-capacity core; or **(3)** a [codebook](#codebook) bounded **revise-loop** — re-scope the claim set (split the *descriptive* A3 lopsidedness finding from the *prescriptive* A5 disposition; replace the failed A2 sector-mapping with a testable causal claim drawn from the open causality divergence) and re-run a Round 2b. *A BLOCKING result sends the target to a bounded revise-loop, not to the grave ([harness §5](../process/cross-lineage-review-harness-protocol.md)).*
 
 ---
 
