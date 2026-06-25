@@ -1,6 +1,6 @@
 # Abundance vs. "Discipline Capital" — Which Bottleneck Binds? — Exchange
 
-> **Status (June 2026):** Active; Rounds 1–4 complete (June 24, 2026 — original claim set E31-C1…C5 did not survive Round 2; rebuilt and hardened in-lineage to E31-C6…C10 v2); next cross-lineage adversarial round is Round 5 (reserved); Rounds 6–8 reserved. This file opens the exchange, records the failed first claim set and its review ([Round 2](#round-2--results-june-24-2026)), and carries the rebuilt claim set ([Round 3](#round-3--reframed-claim-set-june-24-2026)) hardened in-lineage ([Round 4](#round-4--in-lineage-pre-mortem--hardened-v2-june-24-2026)) per the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) lineage-independence default.
+> **Status (June 2026):** Active; Rounds 1–5 complete (June 24, 2026 — two cross-lineage adversarial rounds, two NO-GOs: original E31-C1…C5 failed Round 2, rebuilt E31-C6…C10 v2 failed Round 5); steward disposition pending; **not yet human-reviewed (all rounds are AI-generated)**; Rounds 6–8 reserved. This file opens the exchange and records both failed claim sets and their cross-lineage reviews ([Round 2](#round-2--results-june-24-2026), [Round 5](#round-5--results-june-24-2026)), with the rebuild in between ([Round 3](#round-3--reframed-claim-set-june-24-2026)/[Round 4](#round-4--in-lineage-pre-mortem--hardened-v2-june-24-2026)) per the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) lineage-independence default.
 >
 > **Why this exchange:** The new [Stewart × Slobodian *Muskism* digest](../../sources/source-weekly-show-stewart-slobodian-muskism-digest.md) carries a sourced inversion of the project's leading synthesis text on Sub-debate 4. Klein & Thompson's [*Abundance*](../../sources/source-klein-thompson-abundance-digest.md) locates the binding constraint on delivering essential goods in **proceduralism / veto points** (the reform target is *state capacity*); Slobodian inverts it — *"China doesn't work because they clear democratic veto points; China works because they discipline capital"* — locating the binding constraint in **undisciplined capital allocation** (buybacks, dividend-chasing, short-termism, financialization), with NIMBYism / the spotted owl an explicit decoy. The *Abundance* digest already flags its own blind spot ("relative silence on power and capture; less attention to capital-ownership concentration"), and the [Muskism digest's interpretive notes](../../sources/source-weekly-show-stewart-slobodian-muskism-digest.md#interpretive-notes) flag the tension as **"strengthens + complicates."** The project's [Exchange #21](government-overreach-ownership-ratchet-exchange.md) bounded-governance doctrine leans heavily on the proceduralist lever (permitting reform, sunset clauses, fiscal rules); if Slobodian is right, the doctrine may be solving only half the problem. This exchange tests whether the two diagnoses are **rival, complementary, or nested** before any change to the [bounded-governance doctrine](government-overreach-ownership-ratchet-exchange.md), [Problem Map Domain 2](../../PROBLEM_MAP.md#2-money-credit-and-capital-allocation-steer-the-economy-in-ways-most-people-cannot-see-or-influence), or the [AI Commonwealth exchange (#11)](ai-commonwealth-vs-governance-exchange.md).
 
@@ -56,7 +56,7 @@ None is enacted now. Per project convention, edits to core documents follow the 
 - **Round 2 (✅ complete — June 24, 2026, independent cross-lineage):** adversarial review under [ARP](../process/adversarial-review-protocol.md) Options A (reduced context) + B + C (domain lens) — four families blind and in parallel, plus a non-author synthesizer. **Outcome: the claim set does not survive — firm BLOCKING on A1/A2/A5, A3 (the crux) contested to BLOCKING; synthesizer NO-GO.** See [Round 2 — Results](#round-2--results-june-24-2026); the packet below was the hand-off.
 - **Round 3 (✅ complete — June 24, 2026, same-lineage authoring, NOT adversarially tested):** **reframed claim set E31-C6…C10** — a from-scratch rebuild that keeps the one Round 2 survivor (the lopsidedness *fact*), discards the three killed moves (complementary-not-rival, sector labels, cosmetic note), and opens new ground (a power-agnostic P4 test; structural-vs-allocative discipline; a per-blockage binding-constraint diagnostic). See [Round 3](#round-3--reframed-claim-set-june-24-2026).
 - **Round 4 (✅ complete — June 24, 2026, same-lineage pre-mortem; confidence = upper bound only per [ARP §2](../process/adversarial-review-protocol.md)):** in-lineage pre-mortem running the four Round 2 lenses against the Round 3 set, then **hardening to E31-C6…C10 v2** with a clause-by-clause changelog. NOT a substitute for the cross-lineage round. See [Round 4](#round-4--in-lineage-pre-mortem--hardened-v2-june-24-2026).
-- **Round 5 (reserved — the next cross-lineage adversarial round):** independent-lineage adversarial review of the **v2** set under [ARP](../process/adversarial-review-protocol.md) Options A+B+C and the [Cross-Lineage Review Harness](../process/cross-lineage-review-harness-protocol.md), rotated to fresh families. Stage-0 freeze + steward **GO** required. The [Round 5 hand-off packet](#round-5-hand-off-packet-reserved) below restates the v2 claims as Option-B assertions.
+- **Round 5 (✅ complete — June 24, 2026, independent cross-lineage):** adversarial review of the **v2** set under [ARP](../process/adversarial-review-protocol.md) Options A+B+C, rotated to fresh families + non-author synthesizer. **Outcome: the v2 set does not survive either — consolidated BLOCKING on all five (A1…A5); synthesizer NO-GO; second consecutive cross-lineage failure.** See [Round 5 — Results](#round-5--results-june-24-2026). The [hand-off packet](#round-5-hand-off-packet-executed-june-24-2026--see-round-5--results-june-24-2026) restated the v2 claims as Option-B assertions.
 - **Round 6 (reserved — external human):** an abundance-liberal / state-capacity reviewer (and, separately, a political-economy / financialization scholar) per the [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md).
 - **Round 7 (reserved):** response / v3 — proposed corpus edits with a clause-by-clause changelog.
 - **Round 8 (reserved):** steward synthesis + integration (if any) into the [#21 doctrine](government-overreach-ownership-ratchet-exchange.md) / [Problem Map](../../PROBLEM_MAP.md) / a feed to [#11](ai-commonwealth-vs-governance-exchange.md) at one commit.
@@ -251,9 +251,7 @@ Against the four lenses *as simulated in-lineage*, the **v2** set has **no stand
 
 ---
 
-### Round 5 hand-off packet *(reserved)*
-
-*Awaiting Stage-0 freeze + steward GO.*
+### Round 5 hand-off packet *(executed June 24, 2026 — see [Round 5 — Results](#round-5--results-june-24-2026))*
 
 > Per [ARP §2](../process/adversarial-review-protocol.md) + the [Cross-Lineage Review Harness](../process/cross-lineage-review-harness-protocol.md), Round 5 runs **cross-lineage**, rotated to fresh families, blind, reduced-context. The Stage-0 role→lineage freeze and codebook are prepared when the steward says GO. **Option B — restate the v2 claims as assertions to break:**
 
@@ -264,6 +262,59 @@ Against the four lenses *as simulated in-lineage*, the **v2** set has **no stand
 5. "The lever gap mandates a doctrine-level capital-power-legibility commitment now; whether it also requires a *new principle* is decided by one test — does any required lever fail to derive from existing Principles 4 + 5?"
 
 **Reduced context (Option A):** the five assertions above + the one-paragraph statement of each diagnosis + verbatim [P4](../../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible) and [P5](../../PRINCIPLES.md#5-critical-systems-require-public-interest-governance). Withhold Rounds 1–4 reasoning so reviewers reach independent verdicts. **Lenses (Option C):** rotate the same three flanks (abundance-liberal / public-choice / structural-left) onto **fresh families** (the author is no longer the only Anthropic touch-point — see [harness §3](../process/cross-lineage-review-harness-protocol.md) rotation rule), plus a blind falsifier-hunter. **Cruxes flagged by the Round 4 pre-mortem:** C8 (does structural discipline bind, or collapse into steering?) and C7-v2 (are capture-resistant levers buildable?).
+
+---
+
+## Round 5 — Results (June 24, 2026)
+
+> **⚠️ Not yet human-reviewed.** Every word of Rounds 1–5 — claims, critiques, and this synthesis — is AI-generated; **no steward has read or validated it.** Recorded here as a working artifact only. Cross-lineage run per the [harness](../process/cross-lineage-review-harness-protocol.md): four blind lenses (rotated to fresh families per [§3](../process/cross-lineage-review-harness-protocol.md)) + a non-author synthesizer (**OpenAI `gpt-5.5-medium`**, doubling the abundance lens, treated at arm's length). Only the synthesizer's merge was returned and is recorded; the four individual critiques were consumed by it, not separately pasted. Assertions A1…A5 = claims **E31-C6…C10 v2**. **Per the [codebook](#codebook), "survives" = no BLOCKING stands after synthesis. It does not — again.** Non-evidence for any corpus edit.
+
+### Outcome: NO-GO (second consecutive cross-lineage failure)
+
+The hardened v2 set fared **no better** than the original. The synthesizer recorded a **consolidated BLOCKING on all five assertions**. The Round 4 in-lineage pre-mortem (which found "no standing BLOCKING") was, as labeled, an upper bound — the cross-lineage pass cut straight through it, exactly the failure mode [ARP §2](../process/adversarial-review-protocol.md) predicts for same-lineage self-review.
+
+### Detection matrix (as reported by the synthesizer)
+
+| Assertion (v2 claim) | Abundance C(i) | Public-choice C(ii) | Structural-left + verifier C(iii) | Blind falsifier | Consolidated |
+| --- | --- | --- | --- | --- | --- |
+| **A1 / C6-v2** one accountability test | MAJOR | BLOCKING | BLOCKING | BLOCKING | **BLOCKING** — one-test framing collapses across mechanisms |
+| **A2 / C7-v2** one-sided capital-lever gap | BLOCKING | BLOCKING | MAJOR | MAJOR | **BLOCKING** — gap/capture premise unresolved and load-bearing |
+| **A3 / C8-v2** structural ≠ allocative discipline | BLOCKING | BLOCKING | BLOCKING | MAJOR | **BLOCKING** — central crux; the distinction fails from all sides |
+| **A4 / C9-v2** counterfactual diagnostic | MINOR/AFFIRMING | MAJOR | MINOR | BLOCKING | **BLOCKING** — the "indeterminate → both binding → procedural-first" default is operationally rigged |
+| **A5 / C10-v2** doctrine-now / principle-later | MAJOR | MAJOR | BLOCKING | MINOR | **BLOCKING** — rests on the unresolved A2/A3; derivability test too elastic |
+
+### Why each hardening move failed
+
+- **C6-v2 (one test):** the scope-bound + scale clause did not save it — reviewers converge that state-veto power and capital-allocation power are *different mechanisms*, so "accountable / legible / reversible" cannot apply *identically* without category collapse or semantic stretching.
+- **C7-v2 (capture-resistant design):** absorbing the capture attack as a "design constraint" backfired — "capture-resistant" now reads as an **unfalsifiable shield** (blind falsifier) and "empty without organized countervailing power" (structural-left). The gap premise itself is still contested, not settled.
+- **C8-v2 (bright line):** the bright line did not hold. Public-choice: uniform rules still encode allocative judgments (who sets the rate/threshold?). Structural-left: demoting allocative steering surrenders the only tools that bind capital. Blind: the line is **gerrymanderable post hoc**. This is the crux, attacked from every side.
+- **C9-v2 (pre-registered counterfactual):** the procedural-first default meant to *prevent* unfalsifiability was itself flagged as **the biggest escape hatch** ("default-rigged").
+- **C10-v2 (triggered decision rule):** still judged to depend on the unresolved A2/A3, and the derivability test "can always be stretched."
+
+### Divergence — left OPEN (not majority-voted)
+
+Two NO-GO runs have *not* produced agreement on what is true — only agreement that the synthesis does not survive. The live, unresolved axes (the synthesizer's own warning: *"no synthesis should collapse these arrows into 'both maybe'"*):
+
+- **State coercion vs. capital allocation** — all three lenses reject treating a zoning veto and an investor's refusal as the same kind of power, but for opposite reasons (liberal: not symmetric; structural-left: capital is *deeper* and *less* reachable by liberal tools).
+- **Arrow of causality** — state-created scarcity drives capital behavior (abundance) vs. capital capture drives proceduralism (structural-left) vs. both are reasons *not* to add political levers (public-choice).
+- **Does market discipline count as accountability?** — exit/prices/bankruptcy/competition (public-choice: yes) vs. "that disciplines firms for owners, not capital for public purposes" (structural-left).
+- **Principle vs. doctrine** — a principle-level claim over investable surplus (structural-left) vs. prove the gap first (abundance/public-choice).
+
+### What survived (the small, real residue)
+
+- **Procedural-first as a *position*, not an auto-default:** the abundance lens affirms procedural sequencing is the strongest part of the set — but as a live argued position, not a tie-breaker that wins under ambiguity.
+- **Sector-label skepticism:** A4's rejection of crude sector labels survives; its counterfactual apparatus does not.
+
+### Synthesizer recommendation (agent — proposes only)
+
+**NO-GO.** Do not treat the v2 set as surviving; do not use this run as evidence for a corpus edit. The synthesizer's constructive note: the claim set *"may still be useful as a map of live disputes, but not as a settled synthesis,"* and the next revision should **force the two cruxes into explicit tests**:
+
+1. Can **structural discipline actually bind concentrated capital without becoming allocative steering**? (C8)
+2. Are **capture-resistant capital levers buildable rather than aspirational**? (C7)
+
+### Steward disposition
+
+- [ ] **Decision pending (human) — and note: nothing in this exchange has been human-reviewed yet.** Two independent cross-lineage runs, two NO-GOs, on two different claim architectures. The cruxes have narrowed from framing to two **substantive open questions** (C8 bind-vs-collapse; C7 buildability) that a third in-lineage rewrite probably cannot settle by drafting alone. Options on the table — **(a)** harvest the exchange as a *preserved standing tension* (the mapped, irreducible disagreement is itself the finding — a legitimate corpus contribution, no synthesis claimed); **(b)** route the two narrowed cruxes to **external human review** (Round 6) and/or to **evidence-gathering** under the [Research Protocol](../process/research-protocol.md) (do capture-resistant structural levers exist empirically?), rather than rewrite; **(c)** one more narrowed rewrite that drops the over-reaching A1 "one test" and the rigged A4 default and states only the two cruxes as explicitly empirical claims. *A BLOCKING result sends the target to a bounded revise-loop, not to the grave ([harness §5](../process/cross-lineage-review-harness-protocol.md)) — but two failures argue against a blind third attempt without a human or evidence in the loop.*
 
 ---
 
