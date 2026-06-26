@@ -115,10 +115,21 @@ Non-evidence for any P1/P2/FC2 edit. It tests whether the **claims** E29-C1…C5
 
 ---
 
+## Inbound evidence note — Klein digest, routed from the Collapse riff (June 26, 2026)
+
+> **Non-evidence; changes no claim or status.** Routed from [The Collapse of American Politics riff §6 (Thread E)](../explorations/the-collapse-of-american-politics-attention-abundance-and-ai-goods-riff.md) per its [§10 disposition](../explorations/the-collapse-of-american-politics-attention-abundance-and-ai-goods-riff.md#10-steward-dispositions-and-routing-june-26-2026). This is source context for the reserved cross-lineage **Round 2** (and external **Round 3**); it does not run a round or upgrade [E29-C3](#round-1--the-falsifiable-claim-set-e29-c1--c5).
+
+- **Klein is the in-corpus, same-tradition (liberal) rebuttal to the Brooks collision — direct material for E29-C3.** The [Modern Wisdom #1114 digest, Cluster 7](../../sources/source-modern-wisdom-1114-klein-digest.md#cluster-7-the-abandonment-of-self-cultivation-the-politics-of-men-and-the-human-vs-machine-reframe) has Klein insisting on **both at once** — *"you need the vision of the just society **and** the vision of the flourishing, self-cultivating person."* Where [Brooks](../../sources/source-modern-wisdom-1109-brooks-digest.md) uses self-cultivation to *displace* structural accountability (the [§3 collision](#the-collision-in-one-paragraph) with [Principle 2](../../PRINCIPLES.md#2-essential-needs-should-not-be-held-hostage-to-avoidable-scarcity)), Klein holds the structural-and-individual line from inside the liberal tradition. This strengthens the **C3 split itself** (dignity unconditional; flourishing the activity layer) — it does **not** settle whether P1/P2 already carry the distinction (C3's falsification condition), which the reserved rounds still test.
+- **Thread E states the C3 split in economic register: efficiency is a *means*, flourishing the *end*.** "Let machines do efficiency; let humans do flourishing" maps onto the [E29-C3](#round-1--the-falsifiable-claim-set-e29-c1--c5) dignity-vs-flourishing distinction ([P1](../../PRINCIPLES.md#1-dignity-is-inherent-and-unconditional) unconditional vs. the activity layer efficiency is meant to free time for). Per the Collapse riff's [§10 OQ4 disposition](../explorations/the-collapse-of-american-politics-attention-abundance-and-ai-goods-riff.md#102-open-question-triage-and-answers), the "money as medium for plural abundance" half is already carried by P6/P7/P13 + the ownership taxonomy and is routed to [#31](abundance-vs-discipline-capital-bottleneck-exchange.md#inbound-evidence-note--klein-digest-routed-from-the-collapse-riff-june-26-2026); only the dignity/flourishing half lands here.
+
+---
+
 ## Cross-references
 
 | Document | Relationship |
 | --- | --- |
+| [The Collapse of American Politics riff](../explorations/the-collapse-of-american-politics-attention-abundance-and-ai-goods-riff.md) | Routes the Klein digest (Thread E dignity-vs-flourishing half) here as the inbound evidence note above. |
+| [Modern Wisdom #1114: Klein digest](../../sources/source-modern-wisdom-1114-klein-digest.md) | Klein Cluster 7 — the same-tradition liberal rebuttal to Brooks; direct C3 material. |
 | [Meaning Crisis riff](../explorations/meaning-crisis-scientism-and-structural-accountability-riff.md) | Source; §3.bis is the claim set's origin. |
 | [Modern Wisdom #1109 digest](../../sources/source-modern-wisdom-1109-brooks-digest.md) | Source material + the welfare/UBI verification this exchange relies on. |
 | [Exchange #21](government-overreach-ownership-ratchet-exchange.md) / [#23](principle-5-revision-exchange.md) | The bounded-governance / Principle 5 work C1 and C3 must remain consistent with. |

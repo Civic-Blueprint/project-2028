@@ -318,10 +318,21 @@ Two NO-GO runs have *not* produced agreement on what is true — only agreement 
 
 ---
 
+## Inbound evidence note — Klein digest, routed from the Collapse riff (June 26, 2026)
+
+> **Non-evidence; changes no claim, round, or status.** Routed from [The Collapse of American Politics riff §3 (Thread B) and §6 (Thread E)](../explorations/the-collapse-of-american-politics-attention-abundance-and-ai-goods-riff.md) per its [§10 disposition](../explorations/the-collapse-of-american-politics-attention-abundance-and-ai-goods-riff.md#10-steward-dispositions-and-routing-june-26-2026). This records source context for the reserved **external** Round 6; it does **not** re-open Rounds 1–5 or alter the two NO-GO results.
+
+- **Klein is a partisan on the abundance/liberal side of this exact tension — not a neutral narrator.** The [Modern Wisdom #1114 digest, Cluster 3](../../sources/source-modern-wisdom-1114-klein-digest.md#cluster-3-the-abundance-fight-the-democratic-civil-war-and-deregulation-as-tool-not-tribe) is a current-voice (June 2026) articulation of the **proceduralist / state-capacity** diagnosis under test here — the *Abundance* side of the build-vs-allocate seam. Klein calls "most of this fight fake" and reads both Democratic wings as converging on building; that *is* the liberal-wing position, the one the structural-left (Slobodian, "discipline capital, don't clear veto points") contests. So when Round 6 runs the **abundance-liberal lens (C(i))**, this digest is a vivid dated primary articulation of that lens — **not** a tie-breaker, and it leaves the Round 2/Round 5 arrow-of-causality divergence (rules→money vs. money→rules) exactly where it stood.
+- **Thread E's "money as a medium for plural abundance / aim capital at flourishing" framing bears on the C8 structural-vs-allocative question, not as a new claim.** Per the Collapse riff's [§10 OQ4 disposition](../explorations/the-collapse-of-american-politics-attention-abundance-and-ai-goods-riff.md#102-open-question-triage-and-answers), that framing is already carried by [P6](../../PRINCIPLES.md#6-the-gains-from-automation-should-strengthen-society-not-destabilize-it) + [P7](../../PRINCIPLES.md#7-freedom-requires-both-liberty-and-material-stability) + [P13](../../PRINCIPLES.md#13-pluralism-and-self-determination-are-strengths-not-obstacles) + the ownership taxonomy, and the [Sandel moral-limits-of-markets constraint](../../sources/source-sandel-market-morality-digest.md) blocks promoting it to a clean "aim capitalism at flourishing" principle without specifying which goods stay outside the price mechanism. It reads as support for the [C8-v2](#round-4--in-lineage-pre-mortem--hardened-v2-june-24-2026) **structural-discipline-as-a-rule-of-the-game** default, not a sixth claim.
+
+---
+
 ## Cross-references
 
 | Document | Relationship |
 | --- | --- |
+| [The Collapse of American Politics riff](../explorations/the-collapse-of-american-politics-attention-abundance-and-ai-goods-riff.md) | Routes the Klein digest (Thread B + Thread E) here as the inbound evidence note above. |
+| [Modern Wisdom #1114: Klein digest](../../sources/source-modern-wisdom-1114-klein-digest.md) | Klein's current-voice articulation of the proceduralist / abundance-liberal diagnosis (Cluster 3); the partisan source for the C(i) lens. |
 | [Muskism digest](../../sources/source-weekly-show-stewart-slobodian-muskism-digest.md) | Source of the "discipline capital, don't clear veto points" diagnosis (Cluster 8) and the tension flag. |
 | [*Abundance* digest](../../sources/source-klein-thompson-abundance-digest.md) | The proceduralist / state-capacity diagnosis under complication; its own "silence on power" note seeds C3. |
 | [Exchange #21](government-overreach-ownership-ratchet-exchange.md) | The bounded-governance doctrine the lopsidedness claim targets (orig. C3 → reframed **C7**); the legitimacy constraint the P4 test and structural-discipline default import (orig. C4 → reframed **C6/C8**). |

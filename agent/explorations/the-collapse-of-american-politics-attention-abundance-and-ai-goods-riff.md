@@ -15,6 +15,8 @@ exploration_status: open
 > **v1.1 (June 23, 2026)** adds a steward worked example to [Thread E (§6.1)](#61-worked-example-steward-june-23--the-firm-as-money-coupled-nested-goals-the-project-as-cross-subsidized-chosen-contribution): the multi-level firm as money-coupled nested goals (the Thread F homology in economic register); the **performance review as a *fused* develop/pay/disposal instrument** and the candidate *decorrelate-feedback-from-disposal* mechanism; the unit of decoupling as both individual (a personal floor) and collective (co-op ownership); and the project itself as **cross-subsidized chosen contribution** — flourishing-through-contribution as a currently-*luxury* good, with the public-floor democratizing move. Adds [Open Question 8](#9-open-questions). Retained at the structural/idea level per the privacy firewall.
 >
 > **v1.2 (June 24, 2026)** — source-accuracy correction to the Magic 2.0 archetype in [§6.1](#61-worked-example-steward-june-23--the-firm-as-money-coupled-nested-goals-the-project-as-cross-subsidized-chosen-contribution): "Phillip's special project" is the steward's shorthand for the **chosen-contribution mode**, not a verifiable plot point (in the books Phillip is Martin's mentor/guild-trainer and the domination archetype is Jimmy). The mode is named accurately as the general Suitsian "re-impose chosen obstacles" move and synced to [Process as Flourishing §4](process-as-flourishing-riff.md#4-the-magic-20-thought-experiment-illustrative--not-evidence).
+>
+> **v1.3 (June 26, 2026)** adds [§10 — steward dispositions and routing](#10-steward-dispositions-and-routing-june-26-2026): the candidate paths are sequenced (**P2** routed as inbound evidence notes into [#31](../exchanges/abundance-vs-discipline-capital-bottleneck-exchange.md) and [#29](../exchanges/principle-2-solvable-vs-perennial-boundary-exchange.md); **P1** flourishing-census drafted see-layer-only into [Phase 3 §4.9](phase-3-front-door-riff.md#49-the-flourishing-definition-census-as-a-see-layer-first-action-added-june-26-2026); **P4/P5** deferred), the eight open questions triaged and — where corpus-answerable — answered, and both **Phase 3 movement-building** and the **external-contribution (Anthropic Path B) track** named near-term priorities (so Thread D is active, not deferred). Single-lineage disposition; nothing promoted.
 
 ---
 
@@ -198,6 +200,53 @@ The riff does **not** recommend among these; sequencing and whether any spawn is
 6. **What is the test for "walking by example" without "becoming a better machine"?** (Thread D) The reflexive firewall needs an operational check, not just a warning.
 7. **How does the project use a near-ally / famous-liberal convergence (Klein) without it reading as partisan capture?** (Cross-cutting) The [digest's interpretive note](../../sources/source-modern-wisdom-1114-klein-digest.md#interpretive-notes) flags this; it is an unresolved Phase-3 messaging question — pair Klein with the [Friedberg](../../sources/source-modern-wisdom-1084-friedberg-digest.md) / [Brooks](../../sources/source-modern-wisdom-1109-brooks-digest.md) counter-anchors whenever cited.
 8. **Does "decorrelate the feedback function from the disposal function" generalize?** (Thread E, [§6.1](#61-worked-example-steward-june-23--the-firm-as-money-coupled-nested-goals-the-project-as-cross-subsidized-chosen-contribution)) The performance review fuses develop + pay + disposal; the candidate fix is the project's [decorrelation](../../memos/decorrelation-independent-ai-evaluation-memo.md) discipline applied to *human* evaluation (the body that judges your growth must not be the body that decides your survival). Is this a real extension of the [decorrelation-as-civic-governance-primitive riff](decorrelation-civic-governance-primitive-riff.md) into the workplace/institutional-evaluation domain, or does the [cross-scale S17 caution](../exchanges/discovery-principle-develop-leg-exchange.md) (a mechanism validated on model lineages is not thereby valid for human institutions) block it?
+
+---
+
+## 10. Steward dispositions and routing (June 26, 2026)
+
+On steward direction (June 26, 2026), the riff's candidate paths were sequenced and its open questions triaged and — where corpus-answerable — answered. Both **Phase 3 movement-building** and the **external-contribution (Anthropic) track** are named near-term priorities, so [Thread D](#5-thread-d--walk-by-example-fight-unregulated-algorithms-with-whats-already-built-tangible-ai-safety) is treated as *active* (feeding the [Anthropic Path B memo](anthropic-framework-contribution-surface-riff.md#5-candidate-paths-option-space-not-a-decision)), not deferred. Dispositions are *leanings*, not promotions (per the [exploration convention](README.md#what-an-exploration-must-include)); nothing here amends a principle or upgrades any exchange claim.
+
+### 10.1 Paths taken
+
+| Path | Disposition | Action |
+| --- | --- | --- |
+| **P2** (route B & E into open exchanges) | **Done.** | Inbound evidence notes added to [Exchange #31](../exchanges/abundance-vs-discipline-capital-bottleneck-exchange.md#inbound-evidence-note--klein-digest-routed-from-the-collapse-riff-june-26-2026) (Thread B + the economic-mechanism half of Thread E) and [Exchange #29](../exchanges/principle-2-solvable-vs-perennial-boundary-exchange.md#inbound-evidence-note--klein-digest-routed-from-the-collapse-riff-june-26-2026) (the dignity-vs-flourishing half of Thread E + Klein Cluster 7 as the in-corpus liberal rebuttal to Brooks). Non-evidence; changes no claim or round status. |
+| **P1** (develop Thread C census) | **Done — scoped see-layer-only.** | Drafted as [Phase 3 Front Door riff §4.9](phase-3-front-door-riff.md#49-the-flourishing-definition-census-as-a-see-layer-first-action-added-june-26-2026): a candidate first-action inside Model B (also expressible as a [Shared Mirror](shared-mirror-collective-self-perception-riff.md) see-instrument), carrying the [§4](#4-thread-c--phase-3-as-a-flourishing-definition-census-in-honor-of-principle-13) hard parts + the [Feeling riff](feeling-as-a-first-order-civic-good-riff.md) "capture affect, not just propositions" constraint. Not promoted to a build. |
+| **P3 / Thread D** ("theory of AI goods" / "walk by example") | **Active — folds into the [Anthropic Path B memo](anthropic-framework-contribution-surface-riff.md#5-candidate-paths-option-space-not-a-decision) track.** | Not a new exchange. The OQ6 operational test (§10.3) is its concrete deliverable. |
+| **P0** (hold as cross-riff lens) | **Default for Threads A & F.** | Held; the new exchanges **P4/P5 are deferred** (corpus over-accretion; the [#32 cross-lineage failure, June 26](../exchanges/decorrelate-to-see-correlate-to-belong-exchange.md); no forcing function). The digest's [Future exchange candidates](../../sources/source-modern-wisdom-1114-klein-digest.md#future-exchange-candidates) preserve them. |
+
+### 10.2 Open-question triage and answers
+
+| # | Owner | Disposition |
+| --- | --- | --- |
+| 1 | Steward (agent rec) | Census = **first-action inside Model B**, also a standalone see-instrument. Drafted at [Phase 3 §4.9](phase-3-front-door-riff.md#49-the-flourishing-definition-census-as-a-see-layer-first-action-added-june-26-2026); final framing reserved. |
+| 2 | **Agent (corpus-consistency)** | **Stops at legible plurality.** Aggregating definitions into "humanity's goals to work toward" is the ecological-fallacy / scale trap ([§4](#4-thread-c--phase-3-as-a-flourishing-definition-census-in-honor-of-principle-13)) and a [P13](../../PRINCIPLES.md#13-pluralism-and-self-determination-are-strengths-not-obstacles) violation; "see" ≠ "decide." |
+| 3 | Steward (agent rec) | **Fold into the Anthropic Path B track / defer**; do not open a standalone P5 exchange now. |
+| 4 | **Agent (corpus-consistency)** | "Money as a medium for plural abundance" is **already carried** by [P6](../../PRINCIPLES.md#6-the-gains-from-automation-should-strengthen-society-not-destabilize-it) + [P7](../../PRINCIPLES.md#7-freedom-requires-both-liberty-and-material-stability) + [P13](../../PRINCIPLES.md#13-pluralism-and-self-determination-are-strengths-not-obstacles) + the ownership taxonomy — a framing, not a new principle; the [Sandel](../../sources/source-sandel-market-morality-digest.md) moral-limits-of-markets constraint blocks a clean "aim capitalism at flourishing" doctrine. Routed to #31 as framing. |
+| 5 | Mixed | Real **naming** gap (P14 protects content; attention is the substrate) but **does not warrant a new exchange now** — annotate [P14](../../PRINCIPLES.md#14-truth-and-evidence-must-be-protected-as-public-goods) / [Shared Mirror](shared-mirror-collective-self-perception-riff.md); P4-the-path held. Venue call reserved. |
+| 6 | **Agent (drafted)** | Operational test drafted — see §10.3. |
+| 7 | **Agent (consolidated)** | Near-ally rule — see §10.4. |
+| 8 | **Sits — blocked** | Inherits the [#27 S17](../exchanges/discovery-principle-develop-leg-exchange.md) cross-scale gap; the [#32 June 26 result](../exchanges/decorrelate-to-see-correlate-to-belong-exchange.md) found the "correlation" framing collapses into conflict-of-interest + Goodhart. Hold as candidate; needs an institutional-correlation *measurement* the project lacks. |
+
+### 10.3 OQ6 — the "walk by example" without "becoming a better machine" test
+
+A candidate four-question check any tangible artifact must pass before the project ships it as "walking by example" ([Thread D](#5-thread-d--walk-by-example-fight-unregulated-algorithms-with-whats-already-built-tangible-ai-safety)). Drafted, untested:
+
+1. **Augment-or-replace** — does it return a *better-reasoned human decision* or a *faster output that bypasses human reasoning*? (Fails if the human's role shrinks to rubber-stamping — [P3](../../PRINCIPLES.md#3-ai-must-augment-agency-not-replace-democratic-accountability).)
+2. **Gym-or-sermon** — does it make the user *do the reasoning*, or *deliver a conclusion* more efficiently? (A more-efficient sermon fails — [Thread A](#2-thread-a--shutting-off-your-thought-is-the-gym-metaphor-at-the-scale-of-a-politys-critical-thinking).)
+3. **Legible-not-controlling** — is the output *appealable and inspectable* by the person it affects, or an unappealable "data point"? (The [§6.1](#61-worked-example-steward-june-23--the-firm-as-money-coupled-nested-goals-the-project-as-cross-subsidized-chosen-contribution) performance-review failure — [P4](../../PRINCIPLES.md#4-power-must-remain-accountable-legible-and-reversible).)
+4. **Decorrelation-preserving** — does it *widen* independent judgment or *narrow* it toward one objective function? (Fails if it becomes one more correlated feed.)
+
+This is the operational form the Thread D firewall lacked; it is the candidate spec for the [Anthropic Path B memo](anthropic-framework-contribution-surface-riff.md#5-candidate-paths-option-space-not-a-decision)'s "existence-proof" claim.
+
+### 10.4 OQ7 — using a near-ally without partisan capture
+
+Operational rule (consolidates the [digest's interpretive note](../../sources/source-modern-wisdom-1114-klein-digest.md#interpretive-notes)): **never cite Klein as sole warrant; pair every Klein citation with a cross-tribe counter-anchor** ([Friedberg](../../sources/source-modern-wisdom-1084-friedberg-digest.md) market-side / [Brooks](../../sources/source-modern-wisdom-1109-brooks-digest.md) individual-side), and present convergence as *"a prominent liberal independently lands on the [bounded-governance synthesis](../exchanges/government-overreach-ownership-ratchet-exchange.md),"* explicitly noting that liberal convergence is **not** the cross-tribal convergence the project most needs.
+
+### 10.5 Epistemic note
+
+This disposition set is **single-lineage** (the same Claude lineage that authored the riff) and therefore maximally correlated with its framing — the failure mode the method arc exists to catch, freshly demonstrated by the [June 26 #32 cross-lineage failure](../exchanges/decorrelate-to-see-correlate-to-belong-exchange.md). The low-risk moves taken here — P2 routing (which nets *down* open loops), the see-layer-only census, recording dispositions — carry no promotion load. The heavier moves left open (P4/P5 exchanges, any doctrine or principle change, OQ8's workplace-decorrelation generalization) **must get a cross-lineage pass before promotion**. `[single-lineage — uncross-checked]` Nothing here is promoted.
 
 ---
 
