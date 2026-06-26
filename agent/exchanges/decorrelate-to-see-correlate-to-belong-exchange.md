@@ -1,6 +1,6 @@
 # Decorrelate-to-See vs. Correlate-to-Belong — Exchange
 
-> **Status (June 2026):** Active; Round 1 complete; Rounds 2–N reserved. This file opens the exchange and states the falsifiable claim set; the adversarial round is **reserved for an independent model lineage or human reviewer** and is **not** run in-lineage here (per the [Adversarial Review Protocol](../process/adversarial-review-protocol.md) lineage-independence default). **⚠️ Nothing here is human-reviewed; the claim set is AI-drafted and non-evidence for any core-document edit.**
+> **Status (June 2026):** Active; Round 2 complete; Rounds 3–N reserved. Round 1 states the falsifiable claim set; **Round 2 ran the cross-lineage adversarial pass (June 26, 2026)** under the [Cross-Lineage Review Harness](../process/cross-lineage-review-harness-protocol.md) — four independent-lineage reviewers (blind, parallel, reduced context) plus a labeled same-lineage control. **Outcome: the claim set does NOT survive as written** — multiple BLOCKING findings stand on the two pre-registered fragile claims (C2 separability, C4 unification) plus C1 and C3; recommended disposition is **HOLD / REVISE** (steward disposes — see [Round 2 results](#round-2--results-cross-lineage-adversarial-run-june-26-2026)). **⚠️ Nothing here is human-reviewed; the claim set is AI-drafted and non-evidence for any core-document edit.**
 >
 > **Why this exchange:** The [synthesis riff §4](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#4-the-keystone--decorrelate-to-see-vs-correlate-to-belong) surfaced one genuinely new claim from reading the June 2026 corpus as a whole: **correlation is a defect in the see/judge layer and a constituent good in the belong/feel layer**, so the *boundary* between those layers is the thing to engineer. The riff flagged this as both its most novel and its most suspect claim — "precisely the elegant convergence [§1.3](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#13-the-guard-this-riff-most-needs--convergence-is-not-truth) warns about" — and named developing it toward an exchange as [candidate path (C)](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#6-candidate-paths-without-choosing-one). This exchange acts on (C): it decomposes the claim into a falsifiable set so an independent lineage can try to break it. Because a single AI lineage reading the whole corpus is a *maximally correlated* reader, running this cross-lineage is **also the partial answer to the riff's [Q6](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#7-open-questions)** — whether the two-arcs structure is a real division of the work or a reading artifact.
 
@@ -49,7 +49,7 @@ Two arcs of June 2026 work pulled in opposite directions on the *same variable*.
 ## Round plan
 
 - **Round 1 (this file, June 2026 — same-lineage, NOT adversarially tested):** claim set E32-C1…C5 + adversary packet.
-- **Round 2 (reserved — independent lineage):** adversarial review under [ARP](../process/adversarial-review-protocol.md) Options A + C, paired with a [Research Protocol](../process/research-protocol.md) T2 balanced-sourcing pass ([§2.3](../process/research-protocol.md#23-balance-requirements)) on the two contested literatures: the **see-side** collective-intelligence / diversity-of-prediction work (e.g., Condorcet jury theorem; Hong & Page diversity results and their critics; Surowiecki) on whether decorrelation improves judgment, and the **belong-side** solidarity / ritual work (Durkheim; Turner's communitas; Collins's interaction-ritual chains) on whether shared affect is constitutive of belonging — plus the **cross-scale** question (C5).
+- **Round 2 (✅ run June 26, 2026 — independent lineage):** adversarial review under [ARP](../process/adversarial-review-protocol.md) Options A + C, paired with a [Research Protocol](../process/research-protocol.md) T2 balanced-sourcing pass ([§2.3](../process/research-protocol.md#23-balance-requirements)) on the two contested literatures: the **see-side** collective-intelligence / diversity-of-prediction work (e.g., Condorcet jury theorem; Hong & Page diversity results and their critics; Surowiecki) on whether decorrelation improves judgment, and the **belong-side** solidarity / ritual work (Durkheim; Turner's communitas; Collins's interaction-ritual chains) on whether shared affect is constitutive of belonging — plus the **cross-scale** question (C5). **Results in [Round 2 — results](#round-2--results-cross-lineage-adversarial-run-june-26-2026): claim set does not survive as written.**
 - **Round 3 (reserved — external human):** a social epistemologist / collective-intelligence researcher **and** a sociologist of solidarity (the two halves want different experts).
 - **Round 4 / 5 (reserved):** response / v2 + steward routing (lens vs. note vs. hold), gated on the §1.3 guard.
 
@@ -74,7 +74,7 @@ Per [ARP §2](../process/adversarial-review-protocol.md), the adversarial round 
 
 ---
 
-## Round 2 — Stage-0 cross-lineage freeze *(prepared June 25, 2026; awaiting steward GO)*
+## Round 2 — Stage-0 cross-lineage freeze *(prepared June 25, 2026; frozen + GO June 26, 2026 — see [results](#round-2--results-cross-lineage-adversarial-run-june-26-2026))*
 
 > Prepared per the [Cross-Lineage Review Harness Protocol](../process/cross-lineage-review-harness-protocol.md). Operationalizes the adversary packet into a role→lineage assignment + codebook the steward **freezes before any subagent is spawned**. **Never auto-run** ([ARP §2](../process/adversarial-review-protocol.md)) — explicit steward **GO** only, cross-lineage. This run pairs the adversarial pass with the [Research Protocol §2.3](../process/research-protocol.md#23-balance-requirements) balanced-sourcing pass the two contested literatures owe.
 
@@ -102,13 +102,86 @@ Non-evidence for any P3/P4/P13/P14 or Problem Map edit; every disposition is **g
 
 ### Stage-0 freeze checklist *(steward)*
 
-- [ ] Claim set E32-C1…C5 frozen
-- [ ] Role → lineage accepted; balanced source set assembled for the verifier (see-side + belong-side + cross-scale)
-- [ ] Codebook + Option A/B/C prompts locked
-- [ ] Confirmed: non-evidence; gated on C5 and the §1.3 guard; #29 not re-opened
-- [ ] **GO** (steward)
+- [x] Claim set E32-C1…C5 frozen
+- [x] Role → lineage accepted; balanced source set assembled for the verifier (see-side + belong-side + cross-scale)
+- [x] Codebook + Option A/B/C prompts locked
+- [x] Confirmed: non-evidence; gated on C5 and the §1.3 guard; #29 not re-opened
+- [x] **GO** (steward, June 26, 2026) — author may spawn the cross-lineage subagents
 
-*Results appended here after the run.*
+*Frozen June 26, 2026. Reviewers spawned cross-lineage, blind, in parallel; results below.*
+
+---
+
+## Round 2 — results (cross-lineage adversarial run, June 26, 2026)
+
+> Run completed per the frozen Stage-0 assignment. Author = Anthropic/Claude. Four judgment roles spawned **blind, in parallel, reduced context**; plus a labeled **same-lineage Claude control** that is **NOT** an independent lineage — its severities are **upper bounds** per the [ARP §2](../process/adversarial-review-protocol.md) same-lineage discipline and do **not** count toward survival. **Non-evidence** for any P3/P4/P13/P14 or Problem Map edit; every disposition is gated on **C5 (cross-scale)** and the [§1.3 convergence guard](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#13-the-guard-this-riff-most-needs--convergence-is-not-truth). The consolidation below is **author-side bookkeeping of the reviewers' own verdicts** (matrix, convergence/divergence, revise-list); the findings are the reviewers', not the author's, and an independent-lineage synthesizer pass may still be run over the same critiques. Lineages are as frozen in the [role→lineage table](#role--lineage-assignment).
+
+### Run log
+
+| Role | Lineage | Verdict | Severity tally (own) |
+| --- | --- | --- | --- |
+| Domain skeptic — see-side (Opt A+C(i)) | Google — `gemini-3.1-pro` | Framework overclaims; replace the binary rule with a conditions table | 3 BLOCKING · 2 MAJOR · 1 AFFIRMING |
+| Domain skeptic — belong-side (Opt A+C(ii)) | Moonshot — `kimi-k2.5` | Strong form fails; the surviving form is the weak/family-resemblance one; replace "firewall" with "ritual topology" | 2 BLOCKING · 1 MAJOR · 1 MINOR · 2 AFFIRMING |
+| Adversary / falsifier-hunter **[blind]** (Opt B+C(iv)) | xAI — `grok-4.3` | **Discard** — unfalsifiable redescription; no metric separates a sealed from an unsealed boundary | 4 BLOCKING · 1 MAJOR · 1 AFFIRMING |
+| Verifier — balanced two-sided sourcing + cross-scale | OpenAI — `gpt-5.5-medium` | Every load-bearing claim **overclaims** relative to the balanced literature; all four contested claims + C5 = **CONTESTED / under-determined** | 4 overclaim flags (C1 see · C1 belong / separability · C4 · C5) |
+| **Same-lineage control [non-independent]** | Anthropic — `claude` | Mostly MAJOR; self-diagnosed "hugging the mean"; surfaced 3 findings the independent panel missed | ~1 BLOCKING · 4 MAJOR · 1 AFFIRMING (upper bound) |
+| Synthesizer | non-author lineage | *bookkeeping recorded by author from the five critiques; clean independent synthesis optional* | — |
+| **Steward go/no-go** | **human** | *pending — agents propose, steward disposes* | — |
+
+### Detection matrix (per-issue × per-lineage)
+
+Cell = severity that lineage **independently** assigned. Columns: G = Gemini (see), K = Kimi (belong), Gr = Grok (adversary, blind), V = GPT-5.5 (verifier), **C = Claude control [non-independent]**.
+
+| Finding (→ claim) | G | K | Gr | V | C |
+| --- | --- | --- | --- | --- | --- |
+| **F1** — "decorrelation improves judgment" is a *conditional* theorem (competence > chance, conditional error-independence), not a law; the target is shared *error*, not correlation as such (→ **C1 see**) | BLOCKING | MINOR | BLOCKING | overclaim | MAJOR |
+| **F2** — "shared creed *is* belonging" conflates membership / solidarity / identity / conformity; unfalsifiable as stated; surrenders any criterion for *bad* belonging (→ **C1 belong**) | BLOCKING | AFFIRMING* | BLOCKING | overclaim | MAJOR |
+| **F3** — **separability collapses into a gradient**; the boundary runs *through each person*, and trust/identity/affect co-produce seeing & deciding — "seal the boundary" is inert or contradictory (→ **C2, the crux**) | BLOCKING | BLOCKING | BLOCKING | overclaim | MAJOR→BLOCKING |
+| **F4** — "capture = layer-leak" is a **redescription** of conflict-of-interest + Goodhart/Campbell + motivated reasoning, with no shown predictive/design gain (→ **C4**) | MAJOR | MAJOR | BLOCKING | overclaim | BLOCKING† |
+| **F5** — "belong as a fourth coordination function with opposite valence" not established; category mismatch (standing relation / substrate, not a pipeline step) (→ **C3**) | MAJOR | BLOCKING | MAJOR | — | MAJOR‡ |
+| **F6** — the C5 scale caveat is correct but **inoculating**: it converts a possible *refutation* into a humble *limitation*; the real scale risk is *inversion into harm*, not mere unmeasurability (→ **C5**) | AFFIRMING | AFFIRMING | AFFIRMING | CONTESTED | AFFIRMING+rider |
+| **F7** — the whole reads as **one correlated author's elegant convergence**; "correlation" may be a *homonym* across the two layers (statistical error-dependence vs. shared feeling), making "opposite valence on correlation" a pun (→ **meta / riff [Q6](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#7-open-questions)**) | implied | implied | explicit | — | **explicit (unique)** |
+
+\* Kimi *affirms* C1's belong-half on Durkheimian grounds but flags the "creed" sub-clause as the weak point (creed claims transcendence; cannot be quarantined from truth-claims). † Claude's BLOCKING on F4 is via a **cross-assertion inconsistency** (the "development metric → disposal lever" example implicates the **act** layer, which C3's two-layer firewall does not cover — so C3 and C4 cannot both be precisely true as written). ‡ Claude adds a generative alternative: a **2×2** — {see, decide} want decorrelation; {act, belong} want correlation — which dissolves the "fourth function" framing.
+
+### Convergence (2+ **independent** lineages — strongest signal)
+
+- **C2 (separability) collapses into a gradient — F3.** All four independent reviewers flagged it; three (Gemini, Kimi, Grok) rated it **BLOCKING**, with two concrete worked examples (a deliberating jury; a citizens' assembly) where the same persons must decorrelate *and* cohere. **This is the pre-registered crux, and it failed.**
+- **C4 (unification) is a redescription — F4.** All four flagged it; Grok rated BLOCKING, the verifier flagged co-production / category-error, Gemini & Kimi MAJOR. **Also pre-registered as most-fragile, and it failed to add content over conflict-of-interest + Goodhart.**
+- **C1 see-side overclaims — F1.** Gemini + Grok BLOCKING + verifier overclaim (Lorenz et al. 2011 vs. Thompson 2014).
+- **C1 belong-side "creed = belonging" is the weak clause — F2.** Gemini + Grok BLOCKING + verifier overclaim (Mann 1970: cohesion via *lack* of shared values).
+- **C3 (fourth function) not established — F5.** Gemini + Grok MAJOR, Kimi BLOCKING.
+- **C5 caveat is inoculating — F6.** All converge AFFIRMING-with-a-warning; verifier adds that "not shown above small scale" itself overclaims (the scale transfer is actively modeled — Landemore *Democratic Reason* vs. Lafont *Democracy without Shortcuts*).
+
+### Divergence — left OPEN (not majority-voted)
+
+- **D1 — *why* C1 fails.** Epistemology/adversary/verifier: it overclaims a conditional theorem. Sociology (Kimi, MINOR): the deeper error is treating judgment as ever *un*-embedded — decorrelation doesn't escape interaction-ritual structure, it just hides it.
+- **D2 — is C1's belong-half true?** Sociologist (Kimi): **AFFIRMING** (Durkheim — shared feeling *is* the social fact). Epistemologist + adversary: **BLOCKING** (unfalsifiable / conflated). A genuine cross-disciplinary split, not an error to resolve.
+- **D3 — what replaces the framework?** Conditions table (Gemini) vs. ritual-topology (Kimi) vs. operationalize "correlation" per layer / the 2×2 (Claude). Three different reconstructions.
+- **D4 — what *is* "belong"?** Substrate / condition-of-possibility for see/decide/act (Kimi) vs. a co-equal cell in a 2×2 with act (Claude). Different ontologies.
+
+### Consolidated revise-list (severity-ranked)
+
+**BLOCKING (stand after synthesis → claim set does not survive as written):**
+- **B1 (C2, crux):** separability collapses to a gradient; the boundary is intra-personal and unsealable. Needs a role-switching ("which hat") account, not a firewall — or the claim is withdrawn.
+- **B2 (C1 see):** restate as "decorrelate *shared error*, under competence and conditional independence," not "decorrelate evaluators." The current slogan is maximized by making judges worse.
+- **B3 (C1 belong):** drop or heavily qualify "shared creed *is* belonging"; supply an internal criterion that distinguishes belonging from manufactured/cultic belonging.
+- **B4 (C4):** show a case the layer-leak frame catches that conflict-of-interest + Goodhart do not, or concede it is a redescription; resolve the C3/C4 act-layer inconsistency.
+- **B5 (C3):** "belong as a fourth function with opposite valence" is not established; address the substrate reading and the 2×2 alternative before any "fourth function" language.
+
+**MAJOR:** the "same firewall / single design rule" does aesthetic work (three rules in one coat); the **2×2** may be the stronger hidden frame; the **"correlation" equivocation** (homonym across layers) is potentially load-bearing for the whole edifice.
+
+**MINOR / AFFIRMING:** C5 (cross-scale) holds as a caveat but should be promoted from afterthought to central threat, with *inversion-into-harm* named (decorrelating the epistemic commons; protected belonging-correlation = the operating logic of nationalism/propaganda). Reviewers independently judged **P3 / P4 / P14 more durable than the assertions** — they specify outcomes, the assertions over-prescribe an architecture.
+
+### Verdict + recommended disposition (steward disposes)
+
+**Codebook rule: "survives" = no BLOCKING stands.** Multiple BLOCKING findings from independent lineages stand on **C1, C2, C3, and C4** — including both pre-registered fragile claims. **The claim set does not survive as written.** The C5 disposition ceiling ("cross-cutting lens, not a principle") was explicitly *contingent on clearing cross-lineage review*; it did not clear. Recommended disposition: **HOLD** — do not promote the keystone to a principle note *or* to a standing "lens" as written. Live options for the steward: (a) **HOLD / shelve**; (b) **REVISE** to a much weaker, conditions-based reconstruction (Gemini's per-function conditions table; the 2×2) and re-run a Round 3; (c) act on the synthesis riff's own **folding clause** (below).
+
+### Reflexive result — synthesis-riff [Q6](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#7-open-questions) ("whose convergence is this?")
+
+This run *was* the test of whether the two-arcs / one-boundary structure is a real division or one correlated reader's artifact. Two signals point to **substantially an artifact**: (1) independent lineages produced **9 BLOCKING** across C1–C4 where the same-lineage control produced ~1 self-initiated BLOCKING and otherwise hedged to MAJOR — the control *explicitly self-diagnosed "hugging the mean,"* a measured same-lineage severity gap; and (2) the control's unique catch — that **"correlation" is a homonym** across the two layers — suggests the keystone's elegance rests on an equivocation its own lineage is least willing to treat as fatal. Per the riff's **"what would retire or fold this riff"** clause, this is the condition under which the two-arcs structure "should be retracted, not patched." That call is the steward's; it is flagged, not taken.
+
+*Steward go/no-go and any Round 3 appended below after disposition.*
 
 ---
 
