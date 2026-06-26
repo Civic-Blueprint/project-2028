@@ -95,6 +95,16 @@ Each subagent receives **only** its named documents and its role prompt — **no
 - **"Survives" ≠ "true."** Survives = **no BLOCKING finding stands** after synthesis. A BLOCKING finding sends the target back to a **bounded revise-loop**, not to the grave.
 - **Convergence is not the success metric — surviving the adversary is.** Reviewer disagreement is *recorded and preserved*, not resolved by majority vote ([Comparative Alignment Protocol](comparative-alignment-protocol.md)). Where independent lineages converge on an attack, that is the strong signal; where the author *anticipated* an attack, convergence on it is a *weak* signal.
 
+### 5.1 Survival-quality label — the anti-Goodhart classifier (added June 2026)
+
+Severity counts *findings*; it does **not** catch the failure where a claim survives by **becoming empty**. The [Recursive Civic Uplift pipeline run](../exchanges/recursive-civic-uplift-pipeline-run.md) added a second mandatory verdict the **blind adversary** must return on the *whole set*, independent of (and reported beside) the severity tally:
+
+- **`(S)` survives because well-founded** — no BLOCKING stands **and** the claim still asserts something that could have come out false and that substantively matters.
+- **`(V)` survives because vacuous** — BLOCKING was cleared by sanding the claim into unfalsifiability: elastic qualifiers, an inert "net of X" escape clause, or a verifier smuggled back in through a scorer. Survival here is a **Goodhart artifact**, not a result.
+- **`(S-trivial)` falsifiable but emptied by narrowing** — the claim is now testable, but only because its scope was cut until it no longer addresses the question that motivated it (the run's two live examples: "civics" → "committees"; "mass transmission" → "captive exposure"). Rigor up, relevance down.
+
+Rules: **(a)** the label is set by a **non-author, blind** lineage — never the author or the synthesizer; **(b)** a `V` or `S-trivial` verdict **blocks "survives" even when the BLOCKING count is zero**; **(c)** the adversary must name the *specific* escape clause or scope cut, not merely assert the label; **(d)** log it next to the severity tally. This discriminator is what lets a run be informative *either way*: a falling BLOCKING count is only uplift if the verdict is `S`; a falling BLOCKING count with the verdict drifting to `V`/`S-trivial` is a **positive detection of the manufacturing-defensibility failure mode** — a finding, not a pass.
+
 ### 6. Run staging
 
 ```
@@ -116,6 +126,16 @@ Each subagent receives **only** its named documents and its role prompt — **no
 - **Stage 3** — a non-author synthesizer merges and **preserves divergence**.
 - **Stage 4** — the steward reviews the synthesis + divergence, confirms any pre-registered falsifiers are unmoved, and decides revise (bounded loop) or freeze/route. **Agents propose; the steward disposes.**
 
+### 6.1 Iterated revise-loops — the "converge until it passes" guard (added June 2026)
+
+The bounded revise-loop above can be run more than once (revise → re-attack → revise …). Iteration is legitimate, but an **open-ended "loop until it survives"** is the textbook Goodhart engine — it manufactures a defensible-*looking* artifact rather than a correct one. When a target will pass through **more than one** revise→re-attack cycle, three rules are mandatory. (They were demonstrated by the [Recursive Civic Uplift run](../exchanges/recursive-civic-uplift-pipeline-run.md), which is itself **non-evidence** for the *value* of iterated review — §7.4 — but did establish these as instruments.)
+
+1. **Rotate the adversary lineage every cycle.** The blind adversary must be a *different* family each iteration (e.g., Grok → Kimi → GPT → Gemini), so no single lineage's blind spot becomes the loop's structural blind spot. The author lineage never holds a judgment role in any cycle.
+2. **Pre-set the termination before round 1.** Fix the cycle count (or an explicit non-survival stopping rule) at Stage 0 and freeze it. **Never terminate *because* the artifact finally survived** — "it survived on the round we happened to stop on" is the false-convergence tell. Stopping at a steward-set count, *even mid-improvement*, is the honest default.
+3. **Judge the trajectory, not the last-round snapshot.** Track independent-`BLOCKING` count and the [§5.1 survival-quality label](#51-survival-quality-label--the-anti-goodhart-classifier-added-june-2026) across cycles. The loop shows genuine improvement **only if `BLOCKING` falls across cycles AND the verdict reaches/stays `S`**. `BLOCKING ↓` with verdict `V` = manufactured convergence; `BLOCKING ↓` with verdict `S-trivial` = rigor bought by scope collapse. Both are reportable findings, not passes. Severity counts are **ordinal across families** (§7) — read the *shape of the trajectory*, not the absolute numbers.
+
+> **Caution (from the source run):** an iterated loop tends to improve a claim's *hygiene* (stripping overclaiming) while creating the *illusion* of substantive progress. A single well-aimed cross-lineage round often catches the same core defects the loop reaches by cycle 2. Prefer **one or two sharp cycles + human judgment** over many automated ones; reserve long loops for when the steward wants the *failure mode itself* documented.
+
 ### Output
 
 A **pre-registration file**, frozen at Stage 0 and appended with results after the run — the form [Pipeline Run 001](../exchanges/discovery-principle-develop-leg-pipeline-run-001.md) demonstrates. It contains: role→lineage table, role prompts, codebook, the run log (per-role verdict + severity tally), a convergence section (2+ lineages independently), a **divergence section left open** (not majority-voted), the consolidated severity-ranked revise-list, and the steward go/no-go with reasoning. Like the develop-leg companions, harness run files are **not** registered in [`_EXCHANGE_INDEX.md`](../exchanges/_EXCHANGE_INDEX.md); they are working companions to the artifact under review and live beside it.
@@ -126,7 +146,7 @@ A **pre-registration file**, frozen at Stage 0 and appended with results after t
 
 1. **Mitigation, not cure.** All frontier lineages share training data and RLHF profiles; cross-lineage decorrelation is partial. Claude-vs-GPT-vs-Gemini-vs-Grok is closer to itself than any of them is to a practitioner in Mumbai. **Reliability is not validity.**
 2. **Survival ≠ truth.** The harness verifies *defensibility under decorrelated scrutiny*, a proxy for the [tier-3 "adversarial robustness"](../../memos/agent-automation-and-the-verifier-memo.md) signal — not the ground-truth, polity-over-years verifier the strategic tier needs.
-3. **Goodhart.** Optimizing artifacts to pass the harness can train the project to produce *defensible-looking* work over *correct* work. The adversary-survival (not convergence) metric and the preserved-divergence rule are partial guards; pairing with the [Civic-Bench](../../memos/civic-bench-design-memo.md) and human review is the offset.
+3. **Goodhart.** Optimizing artifacts to pass the harness can train the project to produce *defensible-looking* work over *correct* work. The adversary-survival (not convergence) metric and the preserved-divergence rule are partial guards; the [§5.1 survival-quality classifier](#51-survival-quality-label--the-anti-goodhart-classifier-added-june-2026) (which forces a blind lineage to label survival as `S` / `V` / `S-trivial`) and the [§6.1 iterated-loop discipline](#61-iterated-revise-loops--the-converge-until-it-passes-guard-added-june-2026) (rotation + pre-set termination + trajectory gate) are stronger but still partial guards; pairing with the [Civic-Bench](../../memos/civic-bench-design-memo.md) and human review is the offset. **None of these is itself validated** — the run that produced them is non-evidence for their value (§4 self-scoring).
 4. **Self-scoring circularity.** When the target *instantiates* the mechanism being tested (e.g., the harness reviewing a memo *about* cross-lineage review), the run is **non-evidence** for that mechanism and must be labeled so at Stage 0 — the [Rung-0 firewall](../exchanges/discovery-principle-develop-leg-test-design-memo.md#71-the-instrument--subject-firewall). Run 001's own adversary flagged this; the discipline is to look hardest for the result that cuts *against*.
 5. **Subagent environment.** Cursor subagents are genuinely different model families but share one orchestration environment, not separate vendor stacks end-to-end.
 
