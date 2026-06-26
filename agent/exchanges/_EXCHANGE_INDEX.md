@@ -364,6 +364,17 @@ If you're new to the project, start with the core documents ([Principles](../../
 
 ---
 
+### 32. [Decorrelate-to-See vs. Correlate-to-Belong — Exchange](decorrelate-to-see-correlate-to-belong-exchange.md)
+
+|  |  |
+| --- | --- |
+| **Question** | Does the [synthesis riff's](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#4-the-keystone--decorrelate-to-see-vs-correlate-to-belong) keystone claim — **correlation is a defect in the see/judge layer and a constituent good in the belong/feel layer**, so the *boundary* between them is the thing to engineer — hold up: are the two layers genuinely separable (or a gradient), is "belong" a fourth coordination function alongside see/decide/act, does "capture = correlation leaking belong→judge" unify the harvest cases (or merely redescribe conflict-of-interest + Goodhart), and does any of it survive the [S17 cross-scale](discovery-principle-develop-leg-exchange.md) objection? |
+| **Depends on** | [synthesis riff §4 / §3.4 / §1.3](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#4-the-keystone--decorrelate-to-see-vs-correlate-to-belong) (source of the claim + the convergence guard), [decorrelation primitive riff](../explorations/decorrelation-civic-governance-primitive-riff.md) + [verifier memo](../../memos/agent-automation-and-the-verifier-memo.md) + [decorrelation memos](../../memos/decorrelation-independent-ai-evaluation-memo.md) (the see-side), [Feeling riff §2.1 / §4](../explorations/feeling-as-a-first-order-civic-good-riff.md#21-the-load-bearing-distinction-feeling-as-evidence-vs-feeling-as-constituent-good) + [Creeds riff](../explorations/the-creeds-riff.md) + [World Cup](../../sources/source-weekly-show-stewart-world-cup-digest.md) / [Ted Lasso](../../sources/source-ted-lasso-digest.md) digests (the belong-side), [Coordination Triad riff](../explorations/coordination-triad-see-decide-act-riff.md) (the fourth-function pivot), [Meaning Crisis §2](../explorations/meaning-crisis-scientism-and-structural-accountability-riff.md#2-the-central-finding-the-synthesis-is-a-w7-laundering-of-a-contested-source) + [Collapse Thread F / §6.1](../explorations/the-collapse-of-american-politics-attention-abundance-and-ai-goods-riff.md#7-thread-f--the-individual--mass-collective-homology-in-the-attention-economy) (boundary-violation cases), [Exchange #27 / S17](discovery-principle-develop-leg-exchange.md) (cross-scale gate), [Exchange #29](principle-2-solvable-vs-perennial-boundary-exchange.md) (the *is-belonging-a-first-order-good* half — not duplicated), [Principles 3/4/13/14](../../PRINCIPLES.md#3-ai-must-augment-agency-not-replace-democratic-accountability) + [Problem Map §3](../../PROBLEM_MAP.md#3-information-ecosystems-are-fragmented-and-easily-manipulated), [Adversarial Review Protocol](../process/adversarial-review-protocol.md), [Cross-Lineage Review Harness](../process/cross-lineage-review-harness-protocol.md), [Research Protocol](../process/research-protocol.md). |
+| **Produced** | New exchange opened (acts on the synthesis riff's [candidate path (C)](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#6-candidate-paths-without-choosing-one)). Round 1 states the falsifiable claim set **E32-C1…C5** with falsification conditions (C1 two-valence defect/good; C2 the layers are separable — the crux; C3 "belong" is a fourth coordination function; C4 capture = correlation leaking belong→judge, unifying the harvest cases + scientism/emotivism; C5 cross-scale gate + modest "lens, not principle" disposition) plus five reserved adopt-targets and an Option A/B/C/(iv) adversary packet (social-epistemology + sociology-of-solidarity + mechanism-design + synthesis-skeptic lenses) with a Stage-0 cross-lineage freeze prepared for an independent-lineage Round 2. Reflexively, the cross-lineage run **doubles as the partial answer to synthesis-riff [Q6](../explorations/the-two-arcs-and-the-correlation-boundary-riff.md#7-open-questions)** (is the two-arcs structure real or a single-reader artifact?). Nothing adopted; same-lineage, not adversarially tested; not human-reviewed. |
+| **Status** | Active; Round 1 complete; Rounds 2–N reserved. |
+
+---
+
 ## Dependency graph (visual summary)
 
 ```
@@ -555,6 +566,21 @@ Core Documents (Principles, Problem Map, Systems Framework)
               ◄── Adversarial Review (R2 Options A+C) + Research Protocol
               (Round 1 claims E31-C1…C5: rival vs. complementary vs. nested bottlenecks;
                adversarial Round 2 reserved — abundance-liberal + public-choice + structural-left lenses)
+
+  Exploration: The Two Arcs and the Correlation Boundary Riff (synthesis/meta)
+        │
+        └─► #32 Decorrelate-to-See vs. Correlate-to-Belong — Exchange
+              ◄── Synthesis riff §4 (the keystone) + §3.4 (capture-twin) + §1.3 (convergence guard)
+              ◄── Decorrelation primitive + verifier/decorrelation memos (see-side)
+              ◄── Feeling riff §2.1/§4 + Creeds riff + World Cup / Ted Lasso digests (belong-side)
+              ◄── Coordination Triad (fourth-function pivot) + Meaning Crisis §2 + Collapse Thread F/§6.1
+              ◄── #27 / S17 (cross-scale gate, inherited) + #29 (is-belonging-a-good half, not duplicated)
+              ◄── Principles §3/§4/§13/§14 + PM §3
+              ◄── Adversarial Review + Cross-Lineage Harness + Research Protocol (T2 two-sided)
+              (Round 1 claims E32-C1…C5: two-valence defect/good; layers separable [crux];
+               "belong" a fourth function; capture = belong→judge leak; cross-scale gate + lens-only
+               disposition. Adversarial Round 2 reserved — social-epistemology + solidarity-sociology
+               + mechanism-design + synthesis-skeptic lenses; run doubles as the test of riff Q6)
 ```
 
 ---

@@ -25,6 +25,16 @@ Source digests serve three functions:
 
 Exchanges in `agent/exchanges/` reference source digests the same way they reference core documents or formation-document analysis. A source digest may spawn multiple exchanges, each focused on a different thematic cluster.
 
+## Non-evidence and cultural-artifact digests
+
+Most digests capture material offered as *evidence*, graded by the [Research Protocol's W1–W8 source-tier weighting](../agent/process/research-protocol.md#21-source-tier-weighting-table). Some material is **not evidence but still earns capture** — fiction, film, cultural texts, and contested or laundered syntheses. The [Research Protocol §2.4 *non-evidence ladder*](../agent/process/research-protocol.md#24-the-non-evidence-ladder--illustrative-cultural-artifact-and-contested-source-handling-added-june-2026) is the canonical discipline; in brief:
+
+- **Illustrative intuition-pumps** (e.g., *Off to Be the Wizard* in the [Process as Flourishing riff](../agent/explorations/process-as-flourishing-riff.md)) do **not** earn a digest — they are labeled "illustrative, not evidence" inline in the riff that uses them.
+- **Cultural-artifact worked-examples** (e.g., the [Ted Lasso digest](source-ted-lasso-digest.md)) **do** earn a digest, but are **cited-not-as-evidence**: plot/text facts grounded against the primary record and quote-checked; interpretive themes held as value-contested; popularity treated as a confounded datum, not proof; and the skeptical counter-reading carried in the digest.
+- **Contested or laundered sources** must be **de-laundered** before use — a W7 synthesis read against its underlying source, contestation markers restored, balanced per [§2.3](../agent/process/research-protocol.md#23-balance-requirements).
+
+The rule across all three rungs: each carries a firewall that keeps a non-evidence input from doing evidence's work.
+
 ## File naming convention
 
 Source digest files use lowercase kebab-case with the format: `source-[short-identifier]-digest.md`
