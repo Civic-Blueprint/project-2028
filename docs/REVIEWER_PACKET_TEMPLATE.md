@@ -283,7 +283,7 @@ Thank you for reading this far.
 
 ## First use
 
-First planned use: recruiting *one* live reviewer for one of the Exchange #21 follow-ups (F1–F6). The packet's target review type for that first use is one of: (a) legitimacy review of the ownership taxonomy or bounded-governance doctrine from a tradition outside the Nordic/Swiss/Anglo reference class, or (b) practitioner feasibility review of the frontier-AI package from someone working inside an AI governance body. See [Roadmap TODO #10 (TR2)](../ROADMAP.md#medium-priority).
+First planned use: recruiting *one* live reviewer for one of the Exchange #21 follow-ups (F1–F6). The packet's target review type for that first use is one of: (a) legitimacy review of the ownership taxonomy or bounded-governance doctrine from a tradition outside the Nordic/Swiss/Anglo reference class, or (b) practitioner feasibility review of the frontier-AI package from someone working inside an AI governance body. See [Roadmap TODO #10 (TR2)](../ROADMAP.md#medium-priority-advance-when-bandwidth-allows).
 
 ## Changelog
 

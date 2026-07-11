@@ -68,7 +68,7 @@ Why it matters for this exchange:
 
 ### Round plan
 
-Per the [exchange skill §4](../../.cursor/skills/civic-blueprint-exchange/SKILL.md) and [Adversarial Review Protocol §2](../process/adversarial-review-protocol.md), **the adversarial round is not run in this (same) lineage.** Round 2 is reserved for an independent model family or a human reviewer, framed against the adversary packet below. Round 3 reserved for response + the actual `SYSTEMS_FRAMEWORK.md` / `PROBLEM_MAP.md` edits (with a coherence-audit pass, since this touches two core documents). Practitioner input on hybrid forms is welcome where feasible but is not a gate. *(Updated after Round 2: the integration is now deferred behind a taxonomy revision and a confirmatory pass — Round 3 is a revision round, not an integration round. See [Round 3](#round-3--reserved-response--taxonomy-v3).)*
+Per the [exchange skill §4](../../.cursor/skills/civic-blueprint-exchange/SKILL.md) and [Adversarial Review Protocol §2](../process/adversarial-review-protocol.md), **the adversarial round is not run in this (same) lineage.** Round 2 is reserved for an independent model family or a human reviewer, framed against the adversary packet below. Round 3 reserved for response + the actual `SYSTEMS_FRAMEWORK.md` / `PROBLEM_MAP.md` edits (with a coherence-audit pass, since this touches two core documents). Practitioner input on hybrid forms is welcome where feasible but is not a gate. *(Updated after Round 2: the integration is now deferred behind a taxonomy revision and a confirmatory pass — Round 3 is a revision round, not an integration round. See [Round 3](#round-3--response--taxonomy-v3-june-9-2026-agent-steward-same-lineage).)*
 
 ---
 

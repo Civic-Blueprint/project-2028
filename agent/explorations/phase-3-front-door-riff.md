@@ -401,7 +401,7 @@ These are the decisions the riff is *not* making. The list is the queue for the 
 
 ### 9.4 Practitioner-outreach surfaces already operating in Phase-3-shaped register
 
-- [docs/REVIEWER_PACKAGE_PRINCIPLE_5_F1_2026_04.md](../../docs/REVIEWER_PACKAGE_PRINCIPLE_5_F1_2026_04.md) — first live F1 reviewer package; paired with the phone-script pattern captured in §4.5 as a candidate Phase 3 invitation workstream.
+- The first live F1 reviewer package (prepared as a copy-paste artifact, not committed to the repo; see [Reviewer Packet Template](../../docs/REVIEWER_PACKET_TEMPLATE.md)) — paired with the phone-script pattern captured in §4.5 as a candidate Phase 3 invitation workstream.
 - [docs/RE_ENGAGEMENT_TEMPLATE_CHILDCARE_2026_04.md](../../docs/RE_ENGAGEMENT_TEMPLATE_CHILDCARE_2026_04.md)
 - [feedback/feedback-childcare-licensing-practitioner-2026-04.md](../../feedback/feedback-childcare-licensing-practitioner-2026-04.md)
 - [feedback/feedback-grassroots-movement-contact-2026-06.md](../../feedback/feedback-grassroots-movement-contact-2026-06.md) — first inbound-traffic-partner signal; anchors [§4.7](#47-live-signal--a-warm-network-content-ally-offering-to-feed-the-front-door-added-june-19-2026).

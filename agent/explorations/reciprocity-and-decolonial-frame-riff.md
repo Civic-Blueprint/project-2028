@@ -412,7 +412,7 @@ These are sketched at the same resolution as the [Phase 3 Front Door Riff §4](p
 **What it does badly.**
 - High risk of producing a document that *looks like* it has been re-grounded but is actually a translation of the existing frame into new vocabulary.
 - The honest version requires the steward and the agent to actually read the source material, not paraphrase it. This riff is candid about being a beginner's first pass; the exchange would have to do better.
-- Requires recruiting reviewers from inside the traditions being engaged. The [Principle 5 reviewer recruitment](../../docs/REVIEWER_PACKAGE_PRINCIPLE_5_F1_2026_04.md) is the project's first attempt at this. Scaling it is not solved.
+- Requires recruiting reviewers from inside the traditions being engaged. The Principle 5 reviewer recruitment (the first F1 reviewer package, prepared as a copy-paste artifact and not committed to the repo; see the [Reviewer Packet Template](../../docs/REVIEWER_PACKET_TEMPLATE.md)) is the project's first attempt at this. Scaling it is not solved.
 - Risks *appropriation* — a non-Indigenous-led project rewriting itself in Indigenous-influenced vocabulary without Indigenous authorship is a known failure mode. A real re-grounding would have to navigate that explicitly.
 
 ### 4.3 Path C — *Standpoint partition — the project narrows its scope to what it can speak to honestly*

@@ -53,6 +53,8 @@ That process has strengths and weaknesses. It produces breadth, rapid iteration,
 
 The documents in this repository should therefore be read as steward-curated working syntheses: real commitments, real hypotheses, and real design directions, but not claims of neutral authorship or finished consensus.
 
+For a candid inventory of what the project claims (at explicit confidence), what its own adversarial review has broken or wounded, and what remains unreviewed, see the [State of the Project](docs/STATE_OF_THE_PROJECT.md) honesty register (draft, pending steward review).
+
 ---
 
 ## Core documents

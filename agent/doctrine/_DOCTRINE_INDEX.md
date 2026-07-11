@@ -4,7 +4,7 @@ description: Index of adopted operational frameworks (project doctrine) — the 
 
 # Doctrine Index
 
-> **Status (April 2026):** Directory created; no doctrine notes adopted yet. The first planned entry is the **bounded-governance doctrine** from [Exchange #21 Round 5](../exchanges/government-overreach-ownership-ratchet-exchange.md#round-5), via [Roadmap follow-up F3](../../ROADMAP.md). F3 is gated on TR1 (transferability + perspective-gap research sweep) and TR2 (external human reviewer participation); see [Roadmap TODOs #9–#11](../../ROADMAP.md#high-priority).
+> **Status (April 2026):** Directory created; no doctrine notes adopted yet. The first planned entry is the **bounded-governance doctrine** from [Exchange #21 Round 5](../exchanges/government-overreach-ownership-ratchet-exchange.md#round-5), via [Roadmap follow-up F3](../../ROADMAP.md). F3 is gated on TR1 (transferability + perspective-gap research sweep) and TR2 (external human reviewer participation); see [Roadmap TODOs #9–#11](../../ROADMAP.md#high-priority-unblocks-multiple-workstreams).
 
 ---
 
@@ -49,7 +49,7 @@ Documents that do **not** belong here:
 |---|---|
 | **Source** | [Exchange #21 Round 5 Deliverable 3 (v2)](../exchanges/government-overreach-ownership-ratchet-exchange.md#round-5) — the ten-feature doctrine under specific conditions. |
 | **Roadmap track** | [F3 — Bounded-governance doctrine → public artifact](../../ROADMAP.md). |
-| **Prerequisites** | [TR1](../../ROADMAP.md#high-priority) (transferability + perspective-gap research sweep) and [TR2](../../ROADMAP.md#high-priority) (external human reviewer participation under the [Reviewer Packet Template](../../docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md)). |
+| **Prerequisites** | [TR1](../../ROADMAP.md#high-priority-unblocks-multiple-workstreams) (transferability + perspective-gap research sweep) and [TR2](../../ROADMAP.md#high-priority-unblocks-multiple-workstreams) (external human reviewer participation under the [Reviewer Packet Template](../../docs/REVIEWER_PACKET_TEMPLATE.md) and [Reviewer-as-a-Round Convention](../../docs/REVIEWER_AS_A_ROUND_CONVENTION.md)). |
 | **Will house** | The ten-feature design package; the seven-category ownership taxonomy (or that may move to Systems Framework via F2); the reference-class limit; the authenticity conditions; the *replacement-over-addition* default. |
 | **Cross-references it must carry** | [Foundational Commitment 5](../../FOUNDATIONAL_COMMITMENTS.md), [PRINCIPLES.md Principle 5](../../PRINCIPLES.md), [Roadmap TODO #12](../../ROADMAP.md). |
 
